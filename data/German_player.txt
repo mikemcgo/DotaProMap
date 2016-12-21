@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=german player
+|name2=Results
+|link2=german player/Results
+|This=1
+}}
+{{Infobox player
+|id=german player
+|image=PlayerImagePlaceholder.png
+|name=Matthias Deutschmann
+|team=Valkyrie eSports
+|role=support
+|role2=captain
+|status=Active
+|hero=Earth Spirit
+|hero2=Beastmaster
+|hero3=Elder Titan
+|mmr=7141
+|mmrdate=2016-08-25
+|ids=
+|country=Germany
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=168785654
+|birth_date=
+|history=
+{{TH|2016-08-01 — '''Present'''|Valkyrie eSports}}
+}}
+
+Matthias  '''"german player"''' Deutschmann is a German professional Dota 2 player who currently plays for [[Valkyrie eSports]].
+</textarea>]

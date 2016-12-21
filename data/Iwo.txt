@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Iwo
+|name2=Results
+|link2=Iwo/Results
+|This=1
+}}
+{{Infobox player
+|id=i w o
+|image=PlayerImagePlaceholder.png
+|name=Iwo Bejar
+|team=Elite Wolves
+|role=carry
+|status=Banned
+|hero=Gyrocopter
+|hero2=Morphling
+|hero3=Phantom assassin
+|mmr=7855
+|mmrdate=2016-10-25
+|ids=Iwo, iwobeka
+|country=Peru
+|birth_date=
+|facebook=IwoDotA
+|datdota=428
+|dotabuff=86724433
+|history=
+{{TH|2012-12-15 — 2013-02-01|Gamer University}}
+{{TH|2013-02-01 — 2013-06-25|Artyk Gaming}}
+{{TH|2013-06-25 — 2013-08-14|Denial eSports}}
+{{TH|2013-08-14 — 2014-02-17|Revenge eSports}}
+{{TH|2014-04-09 — 2014-04-30|Union Gaming}} 
+{{TH|2014-06-17 — 2015-01-28|Not Today}}
+{{TH|2015-02-?? — 2015-??-??|Battle Zone}}
+{{TH|2015-09-02 — 2015-11-26|Not Today}}
+{{TH|2015-11-26 — '''Present'''|Elite Wolves}}
+}}
+
+Iwo '''"i w o'"''' Bejar is a Peruvian professional Dota 2 player who is currently playing for [[Elite Wolves]].
+</textarea>]

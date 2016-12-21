@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ripuck
+|name2=Results
+|link2=ripuck/Results
+|This=1
+}}
+{{Infobox player
+|id=ripuck
+|image=PlayerImagePlaceholder.png
+|name=周晟超
+|romanized_name=Zhou Shengchao
+|team=FTD club A
+|role=offlane
+|status=Active
+|hero=Dark Seer
+|hero2=Slardar
+|hero3=Tusk
+|ids=shaker, ukulele
+|weibo=
+|datdota=
+|dotabuff=173812218
+|mmr=6551
+|mmrdate=2016-10-18
+|country=China
+|history=
+{{TH|2014-12-16 — 2015-07-18|Terror blade !!}}
+{{TH|2015-09-04 — 2015-??-??|FTD club B}}
+{{TH|2015-10-?? — 2015-11-18|FTD club C}}
+{{TH|2016-04-?? — 2016-05-23|boomloomdoom}}
+{{TH|2016-06-19 — '''Present'''|FTD club A}}
+}}
+
+Zhou '''"ripuck"''' Shengchao is a professional Dota 2 player who is currently playing for [[FTD club A]].
+</textarea>]

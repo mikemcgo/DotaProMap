@@ -1,0 +1,45 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Zyf
+|name2=Results
+|link2=Zyf/Results
+|This=1
+}}
+{{Infobox player
+|id=END
+|image=PlayerImagePlaceholder.png
+|name=杨璞
+|romanized_name=Yang Pu
+|team=Vici Gaming
+|role=carry
+|status=Active
+|hero=Gyrocopter
+|hero2=Sven
+|hero3=Weaver
+|mmr=8122
+|mmrdate=2016-12-17
+|ids=YJ, Zyf, 妖精, Yang
+|country=China
+|weibo=5335972127
+|dotabuff=139280377
+|datdota=3728
+|birth_date=
+|site=
+|stream=http://www.huomaotv.com/live/633
+|twitter=
+|youtube=
+|fanpage=
+|history=
+{{TH|2013-08-31 — 2013-10-03|WPC Team A}}
+{{TH|2013-10-03 — 2013-10-11|TongFu.WanZhou}}
+{{TH|2014-03-24 — 2014-09-12|Orenda}}
+{{TH|2014-09-12 — 2015-01-07|LV Gaming}}
+{{TH|2015-01-07 — 2015-09-01|EHOME}}
+{{TH|2015-09-01 — 2015-12-04|Vici Gaming|sub}}
+{{TH|2015-12-04 — 2016-03-19|Vici Gaming Potential}}
+{{TH|2016-03-19 — 2016-08-30|Vici Gaming Reborn}}
+{{TH|2016-09-15 — '''Present'''|Vici Gaming}}
+}}
+Yang '''"END"''' Pu is a professional Dota 2 player who currently plays for [[Vici Gaming]].
+</textarea>]

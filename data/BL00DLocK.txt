@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Infobox player
+|id=BL00DLocK
+|image=Bl00dlock_profile_picture_new.jpg
+|name=Jake McNamara
+|team= InVidious
+|birth_date=August 2nd, 1994 (Age 21)
+|country=Australia
+|hero=Vengeful Spirit
+|hero2=Rubick
+|hero3=Dazzle
+|role=support
+|status=Inactive
+|site=
+|twitter=BL00DLocK
+|facebook=followbl00dlock
+|twitch=bl00dlock
+|history=
+{{TH|2012—2013|InVidious}}
+{{TH|2014—2014|SYF Gaming}}
+{{TH|2014—2014|Risk eSports}}
+{{TH|2014—2015|Team 4Not}}
+{{TH|2015—2015|Team 4Not Academy}}
+{{TH|2015—2015|The Fire Ferrets}}
+{{TH|2014—2015|Trident eSports}}
+{{TH|2015—'''Present'''|InVidious}}
+|videoarchive=
+|youtube=
+}}
+
+Jake '''"BL00DLocK"''' McNamara is an Australian based DotA 2 player who is currently the admin for the [http://www.esportsdaily.com.au/ Australian eSports League] DotA 2 division and Captain for [[InVidious]].
+</textarea>]

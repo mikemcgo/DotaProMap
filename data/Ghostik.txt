@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ghostik
+|name2=
+|link2=Gedrox/Results
+|This=1
+}}
+{{Infobox player
+|id=Ghostik
+|image=PlayerImagePlaceholder.png
+|name=Андрій Кадик
+|romanized_name=Andrey Kadyk
+|team=Team Empire
+|role=offlane
+|status=Active
+|hero=Broodmother
+|hero2=Legion Commander
+|hero3=Batrider
+|mmr=7900
+|mmrdate=2016-11-06
+|other_ids=
+|datdota=
+|twitter=Ghostikdota
+|twitch=ghostikdota
+|vk=ghostikdota
+|dotabuff=92847434
+|country=Ukraine
+|birth_date=
+|history=
+{{TH|2015-08-20 — 2015-09-05|aSpera}}
+{{TH|2015-10-19 — 2016-01-06|Fantastic Five 2015}}
+{{TH|2016-01-06 — 2016-03-05|RoX}}
+{{TH|2016-03-27 — 2016-05-11|Fantastic Five}}
+{{TH|2016-05-11 — 2016-09-05|Team Spirit}}
+{{TH|2016-09-05 — '''Present'''|Team Empire}}
+}}
+
+Andrey "'''Ghostik'''" Kadyk is a professional Dota 2 player who is currently playing for [[Team Empire]].
+</textarea>]

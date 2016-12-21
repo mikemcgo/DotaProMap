@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Miracle-
+|name2=Results
+|link2=Miracle-/Results
+|This=1
+}}
+{{Infobox player
+|id=Miracle-
+|image=Miracle_frankfurt_major_2015.jpg
+|name=عامر البرقاوي
+|romanized_name=Amer Al-Barkawi
+|team=Team Liquid
+|ids=Miracle_jr, 123, M...
+|country=Jordan
+|country2=Poland
+|birth_date= {{birth date and age|1997|6|20}}
+|role=mid
+|role2=carry
+|status=Active
+|hero=Shadow Fiend
+|hero2=Anti-Mage
+|hero3=Slark
+|mmr=9006
+|mmrdate=2016-12-12
+|datdota=5431
+|vk=miracledotaofficial
+|dotabuff=105248644
+|facebook=amer.barqawi.1
+|twitch=miracle_doto
+|twitter=Liquid_Miracle
+|history=
+{{TH|2015-01-01 — 2015-04-02|Balkan Bears}}
+{{TH|2015-08-29 — 2015-10-31|(monkey) Business}}
+{{TH|2015-10-31 — 2016-08-23|OG}}
+{{TH|2016-09-16 — '''Present'''|Team Liquid}}
+}}
+
+Amer '''"Miracle-"''' Al-Barkawi is a professional Dota 2 player who is currently playing for [[Team Liquid]].
+</textarea>]

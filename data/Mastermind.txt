@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Mastermind
+|name2=Results
+|link2=Mastermind/Results
+|This=1
+}}
+{{Infobox player
+|id=Mastermind
+|image=PlayerImagePlaceholder.png
+|name=Ivaylo Petkov
+|team=
+|role=mid
+|status=Active
+|hero=invoker
+|hero2=qop
+|hero3=puck
+|mmr=7263
+|mmrdate=2016-09-05
+|ids=
+|country=Bulgaria
+|datdota=
+|twitter=
+|facebook=
+|twitch=
+|dotabuff=92477990
+|birth_date=
+|history=
+{{TH|2015-06-22 — 2015-07-22|Ancient Warriors}}
+{{TH|2016-01-27 — 2016-02-25|PRIES Gaming}}
+{{TH|2016-02-25 — 2016-02-29|Team Bad English}}
+{{TH|2016-02-29 — 2016-06-05|PRIES Gaming}}
+{{TH|2016-06-05 — 2016-08-20|Prodota Gaming}}
+}}
+
+Ivaylo '''"Mastermind"''' Petkov is an Bulgarian professional Dota 2 player who last played for [[Prodota Gaming]].
+</textarea>]

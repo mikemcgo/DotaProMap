@@ -1,0 +1,27 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ayesee
+|name2=Broadcasts
+|link2=Ayesee/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Ayesee
+|name=Aaron Chambers
+|image=Ayesee.jpeg
+|team=
+|role=caster
+|country=United States
+|birth_date={{Birth date and age|1984|12|05}}
+|reddit=Ayesee
+|site=http://www.facebook.com/AyeseeTV
+|twitter=ayesee
+|twitch=AyeseeTV
+|history=
+|youtube=AyeseeTV
+|fanpage=
+}}
+
+Aaron '''"Ayesee"''' Chambers is a Dota 2 caster who has been working in eSports since early 2011.
+</textarea>]

@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">
+
+{{Tabs static
+|name1=Overview
+|link1=MJW
+|name2=Results
+|link2=MJW/Results
+|This=1
+}}
+{{Infobox player
+|id=MJW
+|image=MJW.jpg
+|name=Michael Nguyen
+|team=FDL
+|ids=
+|role=offlane
+|status=Active
+|hero=Natures Prophet
+|hero2=Batrider
+|hero3=Doom
+|mmr=7327
+|mmrdate=2016-10-09
+|country=United States
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|twitch=mjwdota
+|twitter=MJWDOTA
+|dotabuff=102823997
+|datdota=4770
+|youtube=
+|fanpage=
+|history={{TH|2014-11-07 — 2015-09-02|Team eHug}}{{TH|2015-09-02 — 2015-10-21|compLexity}}{{TH|2015-12-01 — 2016-04-29 |Power of Friendship}}{{TH|2016-04-29 — '''Present'''|FDL}}
+}}
+Michael '''"MJW"''' Nguyen is an American professional Dota 2 player who is currently playing for [[FDL]].
+</textarea>]

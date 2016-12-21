@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Player-stub}}
+{{tabs static
+|name1=Overview
+|link1=XBOCT
+|name2=Results
+|link2=XBOCT/Results
+|This=1
+}}
+
+{{Infobox player
+|id=XBOCT
+|image=XBOCT frankfurt major 2015.jpg
+|name=Александр Дашкевич
+|romanized_name=Alexander Dashkevich
+|team=
+|birth_date={{Birth date and age|1990|12|29}}
+|country=Ukraine
+|hero=Lifestealer
+|hero2=gyrocopter
+|hero3=anti-mage
+|mmr=7110
+|mmrdate=2016-10-14
+|role=carry
+|status=Active
+|twitch=xboct
+|tlstream=xboct
+|tlprofile=xboct
+|vk=yaiestura
+|datdota=65&amp;player=XBOCT
+|ids=Hvost, Sasha Grey, Xbox, 4, XBOCTloveslakshmi
+|sponsor=
+|site=
+|twitter=JustXBOCT
+|dotabuff=89625472
+|history=
+{{TH|2009-??-?? — 2010-??-??|Planet-X}}
+{{TH|2010-10-22 — 2015-10-16|Natus Vincere}}
+{{TH|2015-12-07 — 2016-03-01|Team Empire}}
+{{TH|2016-03-27 — 2016-05-11|Fantastic Five}}
+{{TH|2016-05-11 — 2016-08-01|Team Spirit}}
+}}
+
+Alexander '''"XBOCT"''' Dashkevich is a professional DotA player who is currently teamless.
+</textarea>]

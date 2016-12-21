@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Xll
+|name2=Results
+|link2=Xll/Results
+|This=1
+}}
+{{Infobox player
+|id=sss
+|image=PlayerImagePlaceholder.png
+|name=霍晓磊
+|romanized_name=Huo Xiaole
+|team=FTD club C
+|role=carry
+|status=Active
+|hero=Gyrocopter
+|hero2=Queen of Pain
+|hero3=Juggernaut
+|mmr=8259
+|mmrdate=2016-11-30
+|ids=Xll
+|country=China
+|birth_date=
+|dotabuff=182325064
+|history=
+{{TH|2015-03-14 — 2015-09-01 |Vici Gaming Potential}}
+{{TH|2015-09-01 — 2015-09-04|EHOME.L}}
+{{TH|2015-09-04 — 2016-08-28|FTD club B}}
+{{TH|2016-09-17 — '''Present'''|FTD club C}}
+}}
+
+Huo '''"sss"''' Xiaole is a professional Dota 2 player who is currently playing for [[FTD club C]].
+</textarea>]

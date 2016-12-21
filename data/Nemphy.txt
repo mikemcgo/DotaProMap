@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:nemphy}}
+{{Tabs static
+|name1=Overview
+|link1=Nemphy
+|name2=Results
+|link2=Nemphy/Results
+|This=1
+}}
+{{Infobox player
+|id=nemphy
+|image=PlayerImagePlaceholder.png
+|name=Sampsa Kutvonen
+|team=
+|role=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Storm Spirit
+|hero3=Magnus
+|ids=
+|country=Finland
+|birth_date=
+|datdota=5371
+|dotabuff=104744109
+|twitter=nemphyDotA
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2014-06-24 — 2014-07-18|Veni,Vidi,Vici}}
+{{TH|2015-01-12 — 2015-09-28|4 Anchors + Sea Captain}}
+{{TH|2015-09-28 — 2016-03-02|STARK eSports}}
+}}
+
+Sampsa '''"nemphy"''' Kutvonen is a professional Dota player who last played for [[STARK eSports]].
+</textarea>]

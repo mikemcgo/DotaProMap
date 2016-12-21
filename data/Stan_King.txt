@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Stan King
+|name2=Results
+|link2=Stan King/Results
+|This=1
+}}
+{{Infobox player
+|id=Stan King
+|image=Stan King.jpg
+|name=Stanley Yang
+|team=FDL
+|role=support
+|role2=captain
+|status=Active
+|hero=Sand King
+|hero2=Io
+|hero3=Lion
+|mmr=7533
+|mmrdate=2016-11-26
+|ids=
+|country=United States
+|datdota=
+|twitter=StanKingDota
+|facebook=
+|twitch=stan_king
+|dotabuff=86974263
+|birth_date=
+|history=
+{{TH|2015-10-15 — 2015-11-??|ROOT Gaming}}
+{{TH|2016-04-29 — '''Present'''|FDL}}
+}}
+
+Stanley '''"Stan King"''' Yang is an American professional Dota 2 player who is currently playing for [[FDL]].
+</textarea>]

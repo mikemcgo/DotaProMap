@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=Chshrct
+|name2=Results
+|link2=Chshrct/Results
+|This=1
+}}
+{{Infobox player
+|id=chshrct
+|image=PlayerImagePlaceholder.png
+|name=Яўген Кастрама
+|romanized_name=Eugene Kastrama
+|team=
+|role=offlane
+|status=Active
+|hero=Batrider
+|hero2=Furion
+|hero3=Dark Seer
+|mmr=7384
+|mmrdate=2016-11-07
+|country=Belarus
+|birth_date=
+|datdota=652
+|twitter=PR_chshrct
+|vk=chshrctfp
+|dotabuff=86870856
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-08-01 — 2015-07-31|Power Rangers}}
+{{TH|2015-12-07 — 2015-12-28|Arcade.PowerRangers}}
+{{TH|2015-12-28 — 2016-11-14|Power Rangers}}
+}}
+Eugene '''"chshrct"''' Kastrama is a professional Belarusian Dota 2 player, who last played for [[Power Rangers]].
+</textarea>]

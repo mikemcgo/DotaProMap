@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=eLeVeN
+|name2=Results
+|link2=eLeVeN/Results
+|This=1
+}}
+{{Infobox player
+|id=eLeVeN
+|image=eLeVeN-EHOME.jpg
+|name=任杨伟
+|romanized_name=Ren Yangwei
+|team=EHOME.cn
+|role=offlane
+|status=Active
+|hero=Tusk
+|hero2=Tidehunter
+|hero3=Clockwerk
+|mmr=
+|mmrdate=
+|ids=old eleven, 节奏魔王
+|country=China
+|birth_date={{Birth date and age|1995|12|7}}
+|datdota=
+|dotabuff=134276083
+|tencent=
+|history=
+{{TH|2013-10-21 — 2013-??-??|Subvert}}
+{{TH|2014-06-04 — 2014-08-20|U5}}
+{{TH|2014-11-10 — 2015-03-15|Immortal Magneto Gaming}}
+{{TH|2015-03-30 — 2015-07-31|EHOME.K}}
+{{TH|2015-09-02 — '''Present'''|EHOME}}
+}}
+
+Ren '''"eLeVeN"''' Yangwei is a professional Dota 2 who currently plays for [[EHOME]].
+</textarea>]

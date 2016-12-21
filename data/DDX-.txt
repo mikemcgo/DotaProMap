@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=DDX-
+|name2=Results
+|link2=DDX-/Results
+|This=1
+}}
+{{Infobox player
+|id=DDX-
+|image=ddx.png
+|name=Alan Salvati
+|team=
+|role=mid
+|status=Retired
+|hero=Puck
+|hero2= Storm Spirit
+|hero3= Invoker
+|ids=Gambeta, DDX-,10
+|country=Argentina
+|birth_date={{Birth date and age|1990|12|18}}
+|dotabuff=86750050
+|facebook=ddx.gambEta
+|twitch=10ddx
+|twitter=10ddx
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-03-18 — 2013-05-20|ROOT Gaming}}
+{{TH|2013-05-20 — 2014-01-10|paiN Gaming}} 
+{{TH|2013-01-10 — 2014-03-15|quaG Gaming}}
+{{TH|2014-03-15 — 2015-??-??|Isurus Gaming}}
+{{TH|2015-09-02 — 2016-01-26|Not Today}}
+{{TH|2016-04-15 — 2016-07-15|Vultur}}
+}}
+
+Alan '''"DDX-"''' Salvati is a professional Dota 2 player who is currently teamless.
+</textarea>]

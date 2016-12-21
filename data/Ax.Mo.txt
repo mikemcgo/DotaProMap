@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ax.Mo
+|name2=Results
+|link2=Ax.Mo/Results
+|This=1
+}}
+{{Infobox player
+|id=Ax.Mo
+|image=PlayerImagePlaceholder.png
+|romanized_name=Dmitry Morozov
+|name=Дмитрий Морозов
+|team=DX
+|ids=
+|country=Russia
+|role=offlane
+|status=Active
+|hero=Tiny
+|hero2=Queen of Pain
+|hero3=Earthshaker
+|mmr=7021
+|mmrdate=2016-06-23
+|datdota=
+|birth_date=
+|site=
+|twitch=axyennomodnui
+|vk=axmoaxmo
+|youtube=
+|dotabuff=114559048 &lt;!--- 170062542 ---&gt;
+|history={{TH|2015-??-?? — 2015-08-19|Moscow Five}}
+{{TH|2015-08-19 — 2015-09-04|ScaryFaceZ}}
+{{TH|2015-09-04 — 2015-09-??|CIS Rejects}}
+{{TH|2015-10-06 — 2015-10-26|Big Red Machine}}
+{{TH|2015-12-08 — 2016-01-17|Natus Vincere}}
+{{TH|2016-03-01 — 2016-04-15|Prodota Gaming}}
+{{TH|2016-09-17 — '''Present'''|DX}}
+}}
+
+Dmitry '''"Ax.Mo"''' Morozov is a Russian Dota 2 player who is currently playing for [[DX]].
+</textarea>]

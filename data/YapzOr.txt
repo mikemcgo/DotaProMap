@@ -1,0 +1,45 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=YapzOr
+|name2=Results
+|link2=YapzOr/Results
+|This=1
+}}
+{{Infobox player
+|id=YapzOr
+|image=YapzOr.jpg
+|name=يزيد جرادات
+|romanized_name=Yazied Jaradat
+|team=Escape Gaming
+|country=Jordan
+|hero=Mirana
+|hero2=Rubick
+|hero3=Night Stalker
+|mmr=7300
+|mmrdate=2016-11-03
+|role=support
+|status=Active
+|datdota=
+|dotabuff=89117038
+|facebook=
+|playlist=https://play.spotify.com/user/22yebvjpvozgvfpncaxlh72hi/playlist/2pZiKtRqh5PpGI2MaMc8Lm
+|twitter=YapzOrdota
+|twitch=yapzordota
+|history='''DotA:'''&lt;br&gt;
+{{TH|2011-09-11 — 2011-??-??|WhyAre}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2012-03-28 — 2013-10-25|Gaming Republic}}
+{{TH|2013-06-27 — 2014-04-10|Think Smart}}
+{{TH|2014-09-01 — 2014-12-17|4 Bunnies 1 Turtle}}
+{{TH|2014-12-17 — 2015-08-28|Balkan Bears}}
+{{TH|2015-08-28 — 2015-10-09|Monkey Freedom Fighters}}
+{{TH|2015-10-18 — 2015-12-07|Monkey Freedom Fighters}}
+{{TH|2015-12-07 — 2015-12-31|NO-VASELINE}}
+{{TH|2016-01-02 — 2016-02-??|Mamas Boys}}
+{{TH|2016-02-29 — 2016-06-21|No Diggity}}
+{{TH|2016-06-21 — '''Present'''|Escape Gaming}}
+}}
+
+Yazied '''"YapzOr"''' Jaradat is a professional Dota 2 player who is currently playing for [[Escape Gaming]].
+</textarea>]

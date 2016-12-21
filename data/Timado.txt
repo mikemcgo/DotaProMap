@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Timado
+|name2=Results
+|link2=Timado/Results
+|This=1
+}}
+{{Infobox player
+|id=Timado
+|image=PlayerImagePlaceholder.png
+|name=Enzo Gianoli
+|team=Team Freedom
+|birth_date=
+|country=Peru
+|country2=United States
+|hero=Shadow Fiend
+|hero2=Puck
+|hero3=Queen of Pain
+|mmr=6937
+|mmrdate=2016-12-04
+|role=mid
+|status=Active
+|twitter=Timadota
+|facebook=
+|twitch=0Timado0
+|youtube=
+|datdota=
+|dotabuff=97658618
+|history=
+{{TH|2016-01-20 — 2016-??-?? |Balrogs}}
+{{TH|2016-11-?? — '''Present'''|Team Freedom}}
+}}
+
+Enzo "'''Timado'''" Gianoli is a Peruvian Dota 2 player who is currently playing for [[Team Freedom]].
+</textarea>]

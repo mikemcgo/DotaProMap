@@ -1,0 +1,22 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:v0ja}}
+{{Tabs static
+|name1=Overview
+|link1=V0ja
+|name2=Results
+|link2=V0ja/Results
+|This=1
+}}
+{{Infobox player
+|id=v0ja
+|name=Adrien Putallaz
+|image=PlayerImagePlaceholder.png
+|team=
+|role=support
+|hero=Chen
+|hero2=Zeus
+|hero3=Nyx
+|country=Switzerland
+|birth_date={{Birth date and age|1988|07|12}} 
+}}
+</textarea>]

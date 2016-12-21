@@ -1,0 +1,58 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=DeMoN
+|name2=Results
+|link2=DeMoN/Results
+|This=1
+}}
+{{Infobox player
+|id=DeMoN
+|image=WIH-Demon-GzPKQ.jpg
+|name=Jimmy Ho
+|birth_date={{birth date and age|1990|7|8}}
+|country=United States
+|team=
+|hero=Batrider
+|hero2=Sand King
+|hero3=Clockwerk
+|mmr=6414
+|mmrdate=2016-11-23
+|ids=Pegasus
+|role=support
+|role2=captain
+|status=Active
+|twitch=DotADeMoN
+|facebook=DotADeMoN
+|tencent=DotADeMoN
+|datdota=27
+|dotabuff=85805514
+|tlstream=DotADeMoN
+|tlprofile=DotADeMoN
+|sponsor=
+|fanclub=http://www.liquiddota.com/forum/players-and-teams/454627-demon-discussion
+|twitter=dotademon
+|reddit=DeMoN_909
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2011-08-17 — 2011-08-28|Meet Your Makers}}
+{{TH|2011-10-24 — 2013-09-19|Evil Geniuses}}
+{{TH|2013-09-29 — 2013-10-08|Take Five}}
+{{TH|2013-10-27 — 2013-11-12|Dignitas}}
+{{TH|2013-11-29 — 2013-12-29|MVP}}
+{{TH|2014-02-18 — 2014-03-20|Team Dog}}
+{{TH|2014-04-14 — 2014-07-29|Team Liquid}}
+{{TH|2015-02-06 — 2015-02-20|FIRE}}
+{{TH|2015-02-20 — 2015-08-30|Champions of Summer's Rift}}
+{{TH|2015-08-30 — 2015-10-25|High Council of Wizards&amp;Priests}}
+{{TH|2015-10-18 — 2015-12-08|Monkey Freedom Fighters}}
+{{TH|2015-12-08 — 2016-01-04|As1-}}
+{{TH|2016-01-04 — 2016-05-28|EverNovaS}}
+{{TH|2016-05-15 — 2016-05-28|Views 6}}
+{{TH|2016-05-28 — 2016-06-15|Infamous}}
+{{TH|2016-06-16 — 2016-08-19|TNC Gaming}}
+{{TH|2016-09-06 — 2016-11-28|Fnatic}}
+|videoarchive=
+|youtube=DotADeMoNTV
+}}
+
+Jimmy '''"DeMoN"''' Ho is an American player who last played for [[Fnatic]]. He was also sponsored by Red Bull.&lt;ref&gt;[http://www.redbull.com/us/en/esports/stories/1331644482280/the-buy-back-the-resurrection-of-jimmy-demon-ho The Buy Back: The Resurrection of Jimmy "DeMoN" Ho]&lt;/ref&gt;
+</textarea>]

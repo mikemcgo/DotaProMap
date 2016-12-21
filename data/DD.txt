@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+:''For the team, see [[DD.Dota]]''
+{{Tabs static
+|name1=Overview
+|link1=DD
+|name2=Results
+|link2=DD/Results
+|This=1
+}}
+{{Infobox player
+|id=DD
+|image=DD.jpg
+|name=谢彬
+|romanized_name=Xie Bin
+|other_ids=
+|country=China
+|team=Old Boys
+|mmr=6965
+|mmrdate=2016-11-30
+|role=support
+|status=Retired
+|hero=Shadow Demon
+|hero2=Jakiro 
+|hero3=Sand King
+|datdota=41
+|dotabuff=89371588
+|tencent=zz12000
+|weibo=2345769350
+|tlstream=DD
+|stream=http://www.zhanqi.tv/11808
+||history='''Dota 2:'''&lt;br&gt;
+{{TH|2011-06-16  — 2011-08-28|TyLoo}}
+{{TH|2011-08-09 — 2013-04-11|LGD.cn}}
+{{TH|2013-05-06 — 2014-08-05|LGD.cn}}
+{{TH|2014-08-23 — '''Present'''|Old Boys}}
+}}
+
+Xie '''"DD"''' Bin is a semi-retired professional Chinese Dota 2 player playing for [[Old Boys]].
+</textarea>]

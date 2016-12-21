@@ -1,0 +1,22 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Infobox player
+|id=BBC
+|name=张宏圣
+|romanized_name=Zhang Hongsheng
+|image=
+|team=
+|country=China
+|role=caster
+|birth_date=
+|reddit=
+|ids=BBC, 比比西, imbabbc
+|site=
+|twitter=
+|twitch=
+|history=
+|youtube=
+|fanpage=
+}}
+
+Zhang '''"BBC"''' Hongsheng is the host for e-sports (Dota2, Counter Strike, etc.) programs at the premier gaming oriented programming production house, ImbaTV.
+</textarea>]

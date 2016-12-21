@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:zurdo}}
+{{Tabs static
+|name1=Overview
+|link1=Zurdo
+|name2=Results
+|link2=Zurdo/Results
+|This=1
+}}
+{{Infobox player
+|id=zurdo
+|image=PlayerImagePlaceholder.png
+|name=Rodrigo Lorenzatto
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Argentina
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-05-20  — 2014-01-10|paiN Gaming}} 
+}}
+
+Rodrigo '''"zurdo"''' Lorenzatto is a professional Dota 2 player who is currently teamless.
+</textarea>]

@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Agressif
+|name2=Results
+|link2=Agressif/Results
+|This=1
+}}
+{{Infobox player
+|id=Agressif
+|image=Agressif at The International 2015.jpg
+|name=孙正
+|romanized_name=Sun Zheng
+|team=Team VG.J
+|birth_date={{Birth date and age|1991|11|11}}
+|role=carry
+|status=Active
+|hero=Gyrocopter
+|hero2=Phantom Lancer
+|hero3=Ember Spirit
+|mmr=8050
+|mmrdate=2016-11-21
+|ids=上头是常态, xh, Shangtou
+|country=China
+|datdota=3744
+|twitter=
+|dotabuff=130416036
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-08-20 — 2013-11-25|New Element}}
+{{TH|2014-04-25 — 2014-10-14|LGD.CDEC}}
+{{TH|2014-10-14 — 2016-03-18|CDEC Gaming}}
+{{TH|2016-03-18 — 2016-08-20|LGD Gaming}}
+{{TH|2016-09-17 — '''Present'''|Team VG.J}}
+}}
+
+Sun "'''Agressif"''' Zheng is a professional Chinese Dota 2 player who is currently playing for [[Team VG.J]].
+</textarea>]

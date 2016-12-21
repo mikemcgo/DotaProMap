@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Xz
+|name2=Results
+|link2=Xz/Results
+|This=1
+}}
+{{Infobox player
+|id=Xz
+|image=Xz_frankfurt_major_2015.jpg
+|name=陈泽智
+|romanized_name=Chen Zezhi
+|team=LGD Gaming
+|role=support
+|role2=offlane
+|status=Active
+|hero=Clockwerk
+|hero2=Broodmother
+|hero3=Dark Seer
+|mmr=7423
+|mmrdate=2016-11-24
+|ids=TheAnswer
+|country=China
+|datdota=3165
+|weibo=1806141224
+|dotabuff=131237305
+|birth_date={{Birth date and age|1992|10|18}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-02-01 — 2014-09-02|New Element}}
+{{TH|2014-09-02 — 2015-03-15|LAI Gaming}}
+{{TH|2015-03-15 — 2016-03-20|CDEC Gaming}}
+{{TH|2016-03-25 — 2016-09-13|CDEC Youth}}
+{{TH|2016-09-14 — '''Present'''|LGD Gaming}}
+}}
+
+Chen "'''Xz"''' Zezhi is a professional Chinese Dota 2 player currently plays for [[LGD Gaming]].
+</textarea>]

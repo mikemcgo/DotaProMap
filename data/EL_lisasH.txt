@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:eL lisasH}}
+{{Tabs static
+|name1=Overview
+|link1=eL lisasH
+|name2=Results
+|link2=eL lisasH/Results
+|This=1
+}}
+{{Infobox player
+|id=eL lisasH
+|image=Lisash_attaxshooting.jpg
+|name=Rafal Wojcik
+|romanized_name=
+|team=Alternate aTTaX
+|birth_date={{Birth date and age|1996|7|28}}
+|country=Poland
+|hero=Witch_Doctor
+|hero2=Bane
+|hero3=Earthshaker
+|mmr=6403
+|mmrdate=2016-08-17
+|role=support
+|status=Active
+|twitch=el_lisash
+|tlstream=
+|tlprofile=
+|vk=lisek96
+|ids=
+|sponsor=[https://www.alternate.de/ Alternate]&lt;br /&gt;[http://www.qpad.com/ QPAD]&lt;br /&gt;[http://www.sharkoon.com/?q=de/ Sharkoon]&lt;br /&gt;[https://www.ckras.com/ CKRAS]&lt;br /&gt;[http://www.beyerdynamic.de/ beyerdynamic]&lt;br /&gt;[http://akracingeurope.eu/ AKRacing]&lt;br /&gt;[http://www.spreadshirt.de/ spreadshirt]
+|website=http://www.alternate-attax.de/
+|twitter=el_lisashdota
+|facebook=ellisashdota
+|dotabuff=181894940
+|history=
+{{TH|2014-??-?? — 2015-03-20|Let's Do It}}
+{{TH|2015-03-20 — '''Present'''|Alternate aTTaX}}
+|videoarchive=
+|youtube=
+}}
+
+Rafal '''"eL lisasH"''' Wojcik is a professional Dota 2 player currently playing for [[Alternate aTTaX]].
+</textarea>]

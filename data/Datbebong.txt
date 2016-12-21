@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Datbebong
+|name2=Results
+|link2=Datbebong/Results
+|This=1
+}}
+{{Infobox player
+|id=Datbebong
+|image=Datbebong_dota2.png
+|name=Nguyễn Thành Đạt
+|team=Next Generation
+|role=offlane
+|status=Active
+|hero=Dark Seer
+|hero2=Tidehunter
+|hero3=Bristleback
+|mmr=7002
+|mmrdate=2016-11-17
+|ids=Datbb, Đạt bé bỏng
+|country=Vietnam
+|birth_date= February 24,1999
+|twitch=
+|facebook= datbbkute99
+|datdota=
+|dotabuff=126598297
+|history=
+{{TH|2015-12 — '''Present'''|Next Generation}}
+}}
+
+Nguyễn '''"Datbebong"''' Thành Đạt is a professional Dota 2 player who currently plays for [[Next Generation]].
+</textarea>]

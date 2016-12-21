@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:MiHawk}}
+{{Tabs static
+|name1=Overview
+|link1=MiHawk
+|name2=Results
+|link2=MiHawk/Results
+|This=1
+}}
+{{Infobox player
+|id=MiHawk
+|image=PlayerImagePlaceholder.png
+|name=Leonardo Astete
+|team=
+|role=offlane
+|status=Retired
+|hero=Furion
+|hero2=Mirana
+|hero3=Clockwerk
+|Other_ids=NiHawk
+|country=Peru
+|birth_date=
+|facebook=MiHawkDota
+|datdota=562
+|dotabuff=86785102
+|history=
+{{TH|2012-12-15 — 2013-03-13|Gamer University}}
+{{TH|2013-03-?? — 2013-06-25|Artyk Gaming}}
+{{TH|2013-06-25 — 2013-08-14|Denial eSports}}
+{{TH|2013-08-14 — 2014-06-??|Revenge eSports}}
+{{TH|2014-06-17 — 2015-01-28|Not Today}}
+{{TH|2015-02-?? — 2015-??-??|Battle Zone}}
+}}
+Leonardo '''"MiHawk"''' Astete is a Peruvian Dota 2 player who is currently teamless.
+</textarea>]

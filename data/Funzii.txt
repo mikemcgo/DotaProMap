@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Funzii
+|name2=Results
+|link2=Funzii/Results
+|This=1
+}}
+{{Infobox player
+|id=Funzii
+|image=Funzii.jpg
+|name=Thibault Calonne
+|team=
+|role=mid
+|status=Inactive
+|hero=OD
+|hero2=Lone Druid
+|hero3=Batrider
+|mmr=6831
+|mmrdate=2016-04-25
+|ids=
+|country=France
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011-??-?? — 2012-01-12|Team Shakira}}
+{{TH|2012-01-13 — 2012-04-15|Western Wolves}}
+{{TH|2012-04-15 — 2012-09-18|mTw}}
+{{TH|2013-02-04 — 2013-06-04|DD.Dota}}
+{{TH|2013-06-04 — 2013-09-10|Quantic}}
+{{TH|2014-01-15 — 2014-01-26|WARMAKER}}
+{{TH|2014-01-26 — 2014-??-??|Zero Respect}}
+{{TH|2014-09-19 — 2014-??-??|Denial eSports}}
+}}
+
+Thibault '''"Funzii"''' Calonne is a Dota 2 player who is currently teamless.
+</textarea>]

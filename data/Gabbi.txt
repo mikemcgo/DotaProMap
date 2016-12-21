@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Gabbi
+|name2=Results
+|link2=Gabbi/Results
+|This=1
+}}
+{{Infobox player
+|id=Gabbi
+|image=PlayerImagePlaceholder.png
+|name=Khim Villafuerte
+|team=Execration
+|role=carry
+|status=Active
+|hero=jugg
+|hero2=sven
+|hero3=drow
+|mmr=7121
+|mmrdate=2016-11-26
+|ids=
+|country=Philippines
+|birth_date=
+|twitter=
+|datdota=
+|dotabuff=152545459
+|history={{TH|2016-03-18 — 2016-09-13|Acion Arena}}
+{{TH|2016-09-13 — '''Present'''|Execration}}
+}}
+
+Khim '''"Gabbi"''' Villafuerte is a professional Dota 2 player who is currently playing for [[Execration]].
+
+&lt;!--==Biography==
+
+==Dota 2==
+
+==Trivia==--&gt;
+</textarea>]

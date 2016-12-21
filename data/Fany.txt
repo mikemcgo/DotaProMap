@@ -1,0 +1,18 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Fany
+|image=PlayerImagePlaceholder.png
+|name=Nikola Radisavljevic
+|team=Dream Destroyers
+|ids=El Doctore
+|country=Serbia
+|hero=Rubick
+|hero2=Vengeful Spirit
+|hero3=Earthshaker
+|role=Support
+|history=
+{{TH|2014-08-26 — 2014-09-??|Dream Destroyers}}
+}}
+
+Nikola '''"Fany"''' Radisavljevic is a professional Dota 2 player that currently plays for [[Dream Destroyers]].
+</textarea>]

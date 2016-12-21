@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=iLLusionisT
+|name2=Results
+|link2=iLLusionisT/Results
+|This=1
+}}
+{{Infobox player
+|id=iLLusionisT
+|image=PlayerImagePlaceholder.png
+|romanized_name=Razvan Borceanu
+|team=
+|ids=LoLOmGS, iLLusionisT, Spammerino
+|role=support
+|status=Active
+|hero=Earthshaker
+|hero2=Sand King
+|hero3=Ancient Apparition
+|country=Romania
+|datdota=
+|dotabuff=37399177
+|facebook=
+|twitter=
+|history=
+{{TH|2013-10-05 — 2013-12-19|Cede Nullis}}
+{{TH|2014-12-18 — 2015-03-01|neXt!Please}}
+{{TH|2015-03-19 — 2015-07-01|Immortal Team}}
+{{TH|2015-05-30 — '''Present'''|XPC Romania ASUS}}
+}}
+
+Razvan '''"iLLusionisT"''' Borceanu is a professional Dota 2 player from Romania.
+</textarea>]

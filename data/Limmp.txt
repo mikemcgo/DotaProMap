@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Limmp
+|name2=Results
+|link2=Limmp/Results
+|This=1
+}}
+{{Infobox player
+|id=Limmp
+|image=Limmp DHS 2015.jpg
+|name=Linus Blomdin
+|country=Sweden
+|birth_date={{Birth date and age|1995|5|31}}
+|team=Alliance
+|role=mid
+|status=Active
+|hero=Puck
+|hero2=Lina
+|hero3=Queen of Pain
+|mmr=8712
+|mmrdate=2016-12-08
+|twitch=limmp
+|twitter=LimmpDota
+|facebook=limmpz
+|dotabuff=12231202
+|history=
+{{TH|2014-??-?? — 2014-08-27|stayGreen}}
+{{TH|2014-08-27 — 2015-02-23|compLexity Gaming}}
+{{TH|2015-02-23 — 2015-11-13|Ninjas in Pyjamas}}
+{{TH|2015-11-24 — 2016-08-30|compLexity Gaming}}
+{{TH|2016-09-16 — '''Present'''|Alliance}}
+}}
+
+Linus "'''Limmp'''" Blomdin is a Swedish professional Dota 2 player who has also played Heroes of Newerth professionally. He is currently playing for [[Alliance]].
+</textarea>]

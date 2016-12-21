@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:CLe-}}
+{{Tabs static
+|name1=Overview
+|link1=CLe-
+|name2=Results
+|link2=CLe-/Results
+|This=1
+}}
+{{Infobox player
+|id=CLe-
+|image=
+|name=Clement Teoh
+|team=
+|country=Malaysia
+|hero=Skywrath Mage
+|hero2=earthshaker
+|hero3=Dark Seer
+|mmr=6819
+|mmrdate=2016-07-01
+|role=support
+|status=Active
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|facebook=
+|datdota=
+|dotabuff=127019228
+|fanclub=
+|history=
+{{TH|??-??-?? — 2016-??-??|Booyakaa}}
+{{TH|2016-??-?? — 2016-04-28|Power Gaming}}
+}}
+
+Clement "'''CLe-'''" Teoh  is a Malaysian player currently teamless.
+</textarea>]

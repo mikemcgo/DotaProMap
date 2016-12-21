@@ -1,0 +1,45 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Febby
+|name2=Results
+|link2=Febby/Results
+|This=1
+}}
+{{Infobox player
+|id=Febby
+|image=Febby_mlg_pro_league_s1.jpg
+|name=김용민
+|romanized_name=Kim Yong-min
+|team=MVP Phoenix
+|role=support
+|status=Active
+|hero=Io
+|hero2=Bounty Hunter
+|hero3=Earthshaker
+|mmr=7324
+|mmrdate=2016-10-07
+|ids=
+|country=South Korea
+|country2=Canada
+|birth_date={{birth date and age|1993|02|19}}
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=Febbydota
+|datdota=445
+|dotabuff=112377459
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-??-?? — 2013-06-26|Kaipi}}
+{{TH|2013-06-26 — 2013-11-01|FXOpen e-Sports}}
+{{TH|2013-11-01 — 2013-12-03|For Our Utopia}}
+{{TH|2013-12-17 — 2014-01-07|StarTale}}
+{{TH|2014-01-07 — 2014-04-27|BirdGang}}
+{{TH|2014-04-27 — 2015-02-27|Pokerface}}
+{{TH|2015-02-27 — 2016-08-15|MVP Phoenix}}
+{{TH|2016-09-17 — '''Present'''|MVP Phoenix}}
+}}
+
+Kim '''"Febby"''' Yong-min is a professional Dota 2 player who currently plays for [[MVP Phoenix]].
+</textarea>]

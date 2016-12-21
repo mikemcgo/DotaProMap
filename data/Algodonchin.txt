@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Algodonchin
+|name2=Results
+|link2=Algodonchin/Results
+|This=1
+}}
+{{Infobox player
+|id=Algodonchin
+|image=
+|name=Julian Palermo
+|team=Vultur
+|role=carry
+|status=Active
+|mmr=6574
+|mmrdate=2016-07-01
+|hero=Alchemist
+|hero2=Phantom Lancer
+|hero3=Morphling
+|ids=Algodon, Algodonchin
+|country=Argentina
+|dotabuff=103099205
+|facebook=/AlGoDonChin/?fref=ts
+|twitch=/algodaochin/
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2015-06-01 — 2016-??-??|Isurus Gaming}}
+{{TH|2016-??-?? — 2016-04-??|Union Gaming}}
+{{TH|2016-04-15 — '''Present'''|Vultur}}
+}}
+Algodonchin is a professional Dota 2 player who most recently played for [[Vultur]].
+</textarea>]

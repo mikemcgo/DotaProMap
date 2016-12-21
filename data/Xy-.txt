@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=xy-
+|name2=Results
+|link2=xy-/Results
+|This=1
+}}
+{{Infobox player
+|id=xy-
+|image=Xy-.jpg
+|name=Toh Wai Hong
+|team=Team Faceless
+|role=support
+|status=Active
+|hero=ogre magi
+|hero2=rubick
+|hero3=undying
+|mmr=7007
+|mmrdate=2016-11-26
+|ids=
+|dotabuff=85417034
+|country=Singapore
+|birth_date= 
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011-08-01 — 2011-09-11|Scythe}}
+{{TH|2011-09-11 — 2012-01-04|Meet Your Makers}}
+{{TH|2012-03-29 — 2013-08-21|Zenith}}
+{{TH|2016-09-03 — '''Present'''|Team Faceless}}
+}}
+
+Toh '''"xy-"''' Wai Hong is a professional Dota 2 player who is currently with [[Team Faceless]]. Typically he played one of the carries or core farmers in the Zenith line-ups.
+</textarea>]

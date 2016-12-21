@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=nj
+|name2=Results
+|link2=nj/Results
+|This=1
+}}
+{{Infobox player
+|id=nj
+|image=PlayerImagePlaceholder.png
+|name=Law Chee Hoong
+|team=90s Gaming
+|role=mid
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=pink
+|country=Malaysia
+|birth_date=
+|facebook=
+|twitter=
+|tencent=
+|reddit=
+|datdota=
+|dotabuff=103126502
+|history=
+{{TH|2013-06-19 — 2013-08-24|Hell Gaming.my}}
+{{TH|2013-08-24 — 2015-06-27|TesTrial}}
+{{TH|2015-06-27 — 2015-09-03|Dream Gaming}}
+{{TH|2015-11-05 — 2015-12-31|MVP Hot6}}
+{{TH|2015-01-30 — 2015-03-23|Wu Jie}}
+{{TH|2015-03-23 — 2016-04-11|Taring}}
+{{TH|2016-04-11 — 2016-08-18|Orange.Taring}}
+{{TH|2016-10-?? — '''Present'''|90s Gaming}}
+}}
+
+Law Chee "'''nj'''" Hoong is a professional Dota 2 player who is playing for [[90s Gaming]].
+</textarea>]

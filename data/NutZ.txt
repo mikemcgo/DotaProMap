@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=NutZ
+|name2=Results
+|link2=NutZ/Results
+|This=1
+}}
+{{Infobox player
+|id=NutZ
+|image=NutZ at The International 2015.jpg
+|name=Wong Jeng Yih 
+|team=Team Faceless
+|role=support
+|status=Active
+|hero=Witch Doctor
+|hero2=Skywrath Mage
+|hero3=Vengeful Spirit
+|mmr=5505
+|mmrdate=2016-11-26
+|ids=Warnutz
+|country=Singapore
+|birth_date={{Birth date and age|1989|08|31}}
+|datdota=250
+|dotabuff=89603649
+|twitter=NutZdoto
+|history='''Dota2:'''
+{{TH|2013-04-28 — 2013-08-17|Flash eSports}}
+{{TH|2014-10-26 — 2015-02-26|MVP HOT6ix}}
+{{TH|2015-03-11 — 2015-08-16|MVP Phoenix}}
+{{TH|2015-09-?? — 2016-??-??|4Hate}}
+{{TH|2016-??-?? — 2016-09-03|Mugsy}}
+{{TH|2016-09-03 — '''Present'''|Team Faceless}}
+}}
+
+Wong "'''NutZ'''" Jeng Yih  is a professional Dota 2 player who is currently playing for [[Team Faceless]]. He once served as a coach for [[MVP Phoenix]] in [[The International/2016|The International 2016]].
+</textarea>]

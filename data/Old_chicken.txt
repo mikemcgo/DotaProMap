@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=old chicken
+|name2=Results
+|link2=old chicken/Results
+|This=1
+}}
+{{Infobox player
+|id=old chicken
+|image=Old chicken-EHOME.jpg
+|name=王志勇
+|romanized_name=Wang Zhiyong
+|team=EHOME.cn
+|role=mid
+|status=Active
+|hero=Dragon Knight
+|hero2=Viper
+|hero3=Brewmaster
+|mmr=7931
+|mmrdate=2016-11-24
+|ids=
+|country=China
+|birth_date={{Birth date and age|1993|5|26}}
+|datdota=4452
+|twitter=
+|dotabuff=135878232
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2015-03-?? — 2015-09-01 |Energy Pacemaker}}
+{{TH|2015-09-01 — '''Present'''|EHOME}}
+}}
+
+Wang "'''old chicken'''" Zhiyong is a professional Chinese Dota 2 player currently playing for [[EHOME/EHOME.cn|EHOME]].
+</textarea>]

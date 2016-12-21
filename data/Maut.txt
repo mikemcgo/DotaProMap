@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Maut
+|name2=Broadcasts
+|link2=Maut/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Maut
+|name=Travis Bueno
+|image=Travis.png
+|team=
+|country=United States
+|birth_date={{Birth date and age|1990|12|25}}
+|reddit=mautdota2
+|role=caster
+|role2=observer
+|site=
+|facebook=MautDota2
+|twitter=MautDota
+|twitch=Mautdota2
+|history=
+|youtube=
+|fanpage=
+}}
+
+Travis '''"Maut"''' Bueno is a Dota 2 personality serving as one of the main broadcasters for [http://www.neodota.com NEODota]. Maut also works as one of the producers and frequent contributors for the talk show [http://www.neodota.com/maad Much Ado About Dota]
+</textarea>]

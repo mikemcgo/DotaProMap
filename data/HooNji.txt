@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:HooNji}}
+{{Tabs static
+|name1=Overview
+|link1=HooNji
+|name2=Results
+|link2=HooNji/Results
+|This=1
+}}
+{{Infobox player
+|id=HooNji
+|image=MVP_HooNji.jpg
+|name=Baek Ji Hoon 
+|team=MVP HOT6ix
+|role=support
+|status=Active
+|hero=witch doctor
+|hero2=Vengeful Spirit
+|hero3=phoenix
+|ids=
+|country=South Korea
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-09-01 — 2014-01-14|MVP}}
+{{TH|2016-06-21 — '''Present'''|MVP HOT6ix}}
+}}
+
+Baek Ji '''"HooNji"''' Hoon is a professional Dota 2 player.
+</textarea>]

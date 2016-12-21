@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Pandaego
+|name2=Results
+|link2=Pandaego/Results
+|This=1
+}}
+{{Infobox player
+|id=Pandaego
+|name=Jared Fletcher
+|image=PlayerImagePlaceholder.png
+|team=
+|country=United States
+|role=support
+|role2=coach
+|status=Active
+|hero=Shadow Demon
+|hero2=Treant
+|hero3=AA
+|mmr=6389
+|mmrdate=2016-06-28
+|twitter=Pandaegodota
+|twitch=pandaego
+|dotabuff=7910302
+|history=
+{{TH|2013-09-29 — 2013-10-08|Take Five}} 
+{{TH|2014-01-20 — 2014-05-31|Team eHug}}
+{{TH|2016-05-?? — 2016-??-??|Shazam}}
+}}
+
+Jared '''"Pandaego"''' Fletcher is an American player who most recently played for [[Team eHug]]. He was a coach for [[Digital Chaos]] from the creation of the team in August 2015 until the winter shuffle in November 2015.
+</textarea>]

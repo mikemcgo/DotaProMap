@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Fonte
+|name2=Results
+|link2=Fonte/Results
+|This=1
+}}
+{{Infobox player
+|id=Fonte
+|image=PlayerImagePlaceholder.png
+|ids=
+|name=赖星宇
+|romanized_name=Lai Xingyu
+|team=MAX.X
+|role=carry
+|status=Active
+|mmr=7964
+|mmrdate=2016-11-30
+|hero=Gyrocopter
+|hero2=Spectre
+|hero3=
+|country=China
+|datdota=
+|dotabuff=208796906
+|twitter=
+|birth_date={{Birth date and age|1996|8|18}}
+|history=
+{{TH|2015-12-04 — 2016-08-??|DUOBAO}}
+{{TH|2016-09-17 — '''Present'''|MAX.X}}
+}}
+
+Lai '''"Fonte"'''' Xingyu is a professional Chinese Dota 2 player who currently playing for [[MAX.X]].
+</textarea>]

@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ArsZeeqq
+|name2=Results
+|link2=ArsZeeqq/Results
+|This=1
+}}
+{{Infobox player
+|id=ArsZeeqq
+|image=PlayerImagePlaceholder.png
+|name=Арсений Усов
+|romanized_name=Arseniy Usov
+|team=DX
+|ids=
+|role=support
+|status=Active
+|mmr=7082
+|mmrdate=2016-10-03
+|hero=Vengeful Spirit
+|hero2=Skywrath Mage
+|hero3=Oracle
+|country=Russia
+|datdota=5320
+|birth_date= 
+|site=
+|twitch=arszeeqq
+|vk=id9440017
+|dotabuff=100028335
+|youtube=
+|fanpage=
+|history={{TH|2014-03-01 — 2014-04-15|Ahead Gaming}}
+{{TH|2014-11-?? — 2014-11-24|BUHLO-UroPb}}
+{{TH|2014-11-24 — 2015-03-31|Vega Squadron}}
+{{TH|2015-??-?? — 2015-??-??|Phoenix Rising}}
+{{TH|2015-06-26 — 2015-??-??|Balkan Bears}}
+{{TH|2015-08-24 — 2015-10-11|aSpera}}
+{{TH|2015-10-11 — 2015-10-13|ScaryFaceZ}}
+{{TH|2015-10-13 — 2015-10-21|aSpera}}
+{{TH|2015-10-21 — 2015-10-27|hard'N'play}}
+{{TH|2015-12-08 — 2016-01-06|Fantastic Five 2015}}
+{{TH|2016-01-06 — 2016-02-11|RoX}}
+{{TH|2016-03-01 — 2013-04-15|Prodota Gaming}}
+{{TH|2016-09-17 — '''Present'''|DX}}
+}}
+Arsenij '''"ArsZeeqq"''' Usov is a Russian Dota 2 player who currently plays for [[DX]].
+</textarea>]

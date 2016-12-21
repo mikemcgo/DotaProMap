@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Sakata
+|name2=Results
+|link2=Fran/Results
+|This=1
+}}
+{{Infobox player
+|id=Sakata
+|image=IGV_sakata_head_2.jpg
+|name=许子晨
+|romanized_name=Xu Zichen
+|team=iG Vitality
+|role=mid
+|status=Active
+|hero=templar assassin
+|hero2=outworld devourer
+|hero3=juggernaut
+|mmr=7275
+|mmrdate=2016-11-29
+|ids=MarsC, Fran, 我妍我妍
+|country=China
+|birth_date={{Birth date and age|1995|7|21}}
+|datdota=
+|dotabuff=173880329
+|tencent=
+|weibo=
+|history=
+{{TH|2014-11-10 — 2015-04-02|Immortal Magneto Gaming}}
+{{TH|2016-03-19 — '''Present'''|IG Vitality}}
+}}
+
+Xu "'''Sakata'''" Zichen is a professional Dota 2 player currently playing for [[IG Vitality]].
+</textarea>]

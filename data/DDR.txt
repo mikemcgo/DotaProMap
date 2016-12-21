@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=DDR
+|name2=Results
+|link2=DDR/Results
+|This=1
+}}
+{{Infobox player
+|id=DDR
+|image=ddr-EHOME.X.jpg
+|name=阮拯豪
+|romanized_name=Ruan Zhenghao
+|team=EHOME.X
+|role=support
+|status=Active
+|hero=Lina
+|hero2=Ancient Apparition
+|hero3=Dazzle
+|mmr=6829
+|mmrdate=2016-11-24
+|ids=
+|dotabuff=133084797
+|country=China
+|birth_date=
+|history=
+{{TH|2015-03-12 — 2015-??-?? |TongFu.WanZhou}}
+{{TH|2015-09-04 — 2016-03-23 |Team FanTuan}}
+{{TH|2016-03-23 — 2016-08-23 |TongFu}}
+{{TH|2016-09-10 — '''Present''' |EHOME.X}}
+}}
+
+Yuan '''"DDR"''' Zhenghao is a professional Dota 2 player currently playing for [[EHOME.X]].
+</textarea>]

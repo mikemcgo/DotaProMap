@@ -1,0 +1,19 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Blah
+|image=PlayerImagePlaceholder.png
+|name=Teh Yuan Hing
+|team=Neolution.int
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Singapore
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-01-09 — '''Present'''|Neolution.int}} 
+}}
+
+Teh '''"Blah"''' Yuan Hing is a professional Dota 2 player who currently plays for [[Neolution.int]].
+</textarea>]

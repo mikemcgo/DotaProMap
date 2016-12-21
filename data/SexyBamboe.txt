@@ -1,0 +1,50 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SexyBamboe
+|name2=Results
+|link2=SexyBamboe/Results
+|This=1
+}}
+{{Infobox player
+|id=SexyBamboe
+|image=SexyBamboe DHW2015.jpg
+|name=Alaan Faraj
+|team=
+|role=support
+|role2=captain
+|status=Active
+|hero=Tiny
+|hero2=Furion
+|hero3=Dark Seer
+|mmr=7052
+|mmrdate=2016-10-07
+|ids=Bamboe
+|country=Netherlands
+|birth_date={{Birth date and age|1992|01|20}}
+|site=
+|twitch=sexybamboe
+|tlstream=
+|tlprofile=SexyBamboe
+|twitter=SexyBamboe
+|datdota=52
+|dotabuff=20321748
+|history={{TH|2009 — 2011|GoD}}
+{{TH|2011|DCcom}}
+{{TH|2011 — 2012|LowLandLions}}
+{{TH|2012-01-13 — 2012-10-16|mousesports}}
+{{TH|2012-10-17 — 2012-10-21|The GD B-Team}}
+{{TH|2012-10-24 — 2012-11-13|Zero}}
+{{TH|2012-11-13 — 2012-12-12|Absolute Legends}}
+{{TH|2013-05-01 — 2013-09-01|Evil Geniuses}}
+{{TH|2013-09-05 — 2013-11-15|Super Strong Dinosaurs}}
+{{TH|2014-01-03 — 2014-09-28|Team Zephyr}}
+{{TH|2014-12-01 — 2015-01-09|hehe united}}
+{{TH|2015-02-21 — 2015-03-10|Burden United}}
+{{TH|2015-03-?? — 2016-01-02|4 Clover &amp; Lepricon}}
+{{TH|2016-01-02 — 2016-02-01|Mamas Boys}}
+{{TH|2016-04-28 — 2016-10-28|Kaipi}}
+}}
+
+Alaan '''"SexyBamboe"''' Faraj is a professional Dota 2 player who is currently teamless.
+</textarea>]

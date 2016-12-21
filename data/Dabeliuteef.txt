@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:dabeliuteef}}
+{{Tabs static
+|name1=Overview
+|link1=Dabeliuteef
+|name2=Results
+|link2=Dabeliuteef/Results
+|This=1
+}}
+{{Infobox player
+|id=dabeliuteef
+|image=PlayerImagePlaceholder.png
+|romanized_name=Jun Liong Loh
+|team=MSI-EvoGT
+|role=carry
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=HONTRASHPLAYER
+|country=Malaysia
+|birth_date=
+|datdota=521
+|dotabuff=80576254
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-03-07 — 2013-03-13|ABC}}
+{{TH|2013-04-05 — 20??-??-??|MUFC}} 
+{{TH|2014-11-?? — 2015-02-22|G Guard Esports}}
+{{TH|2015-03-05 — 2015-03-12|Arcanys Gaming}}
+{{TH|2015-03-12 — 2015-06-??|Invasion e-Sports}}
+{{TH|2015-06-17 — 2015-08-31|Can't Say Wips}}
+{{TH|2015-08-31 — '''Present'''|MSI-EvoGT}}
+}}
+
+Jun Liong '''"dabeliuteef"''' Loh is a professional Dota 2 player currently playing for [[MSI-EvoGT]].
+</textarea>]

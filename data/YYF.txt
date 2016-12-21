@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=YYF 
+|name2=Results
+|link2=YYF/Results 
+|This=1
+}}
+{{Infobox player
+|id=YYF
+|image=Yyf.jpg
+|name=姜岑
+|romanized_name=Jiang Cen
+|birth_date={{Birth date and age|1987|02|03}} 
+|team=Old Boys
+|role=offlane
+|status=Retired
+|hero=Bounty Hunter
+|hero2=Windrunner
+|hero3=Lifestealer
+|mmr=7205
+|mmrdate=2016-11-30
+|ids=
+|country=China
+|datdota=39
+|tencent=yyfyyf1
+|tlstream=YYF
+|stream=http://www.douyutv.com/58428
+|history=
+{{TH|2010-01-10	— 2011-08-02|LGD.cn}}
+{{TH|2011-08-02 — 2014-07-24|Invictus Gaming}}
+{{TH|2014-08-23 — '''Present'''|Old Boys}}
+}}
+Jiang "'''YYF'''" Cen is a professional Dota 2 player from China, who is currently playing for [[Old Boys]].
+
+"YYF"' is an abbreviation of ''"Yue Ye Feng"'', which refers to ''"Maple in the Moonlight"'' in Chinese.
+</textarea>]

@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Nokky
+|name2=Results
+|link2=Nokky/Results
+|This=1
+}}
+{{Infobox player
+|id=Nokky
+|image=PlayerImagePlaceholder.png
+|name=Attawat Teephom
+|team=iDeal eSports
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=Vyper
+|country=Thailand
+|birth_date=
+|datdota=1134
+|dotabuff=102085684
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-??-?? — 2014-05-29|Everlast.GameFilling}}
+{{TH|2014-05-29 — 2015-01-20|MiTH.Trust}}
+{{TH|2015-01-20 — 2015-02-??|Signature.Trust}}
+{{TH|2015-??-?? — '''Present'''|iDeal eSports}}
+}}
+
+Attawat '''"Nokky"''' Teephom is a professional Dota 2 player for [[iDeal eSports]].
+</textarea>]

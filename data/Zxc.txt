@@ -1,0 +1,45 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=Zxc
+|name2=Results
+|link2=Zxc/Results
+|This=1
+}}
+{{Infobox player
+|id=zxc
+|image=PlayerImagePlaceholder.png
+|name=Вiталiй Кiянченко
+|romanized_name=Vitalii Kiyanichenko
+|team=GO2OLYMP
+|role=carry
+|hero=Slark
+|hero2=Juggernaut
+|hero3=Weaver
+|status=Active
+|ids=
+|country=Belarus
+|birth_date= 
+|site=
+|stream=
+|twitter=
+|youtube=
+|datdota=331
+|dotabuff=88655279
+|history=
+{{TH|20??-??-?? — 2013-01-18|XX5 Gaming}}
+{{TH|2013-08-01 — 2014-03-20 |Power Rangers}}
+{{TH|2014-04-22 — 2014-??-??|DreamTeam168}}
+{{TH|2014-11-11 — 2015-02-15|Moscow Five International }}
+{{TH|2015-02-15 — 2015-06-08 |Moscow Five}}
+{{TH|2015-06-08 — 2015-09-04|sQreen's Squad}}
+{{TH|2015-09-04 — 2015-09-25|Walrus Punch!|link=Walrus Punch! (Team)}}
+{{TH|2015-09-25 — 2015-10-26|Big Red Machine}}
+{{TH|2015-10-30 — 2015-11-24|Walrus Punch!|link=Walrus Punch! (Team)}}
+{{TH|2015-11-24 — 2015-12-08|Elements Pro Gaming}}
+{{TH|2016-06-05 — 2016-09-18|sQreen's Squad}}
+{{TH|2016-09-18 — '''Present'''|GO2OLYMP}}
+}}
+
+Vitalii "'''zxc'''" Kiyanichenko is a Belarusian professional Dota 2 player who is currently playing for [[GO2OLYMP]].
+</textarea>]

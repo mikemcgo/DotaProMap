@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:KotLGuy}}
+{{Tabs static
+|name1=Overview
+|link1=KotLGuy
+|name2=Broadcasts
+|link2=KotLGuy/Broadcasts
+|This=1
+}}
+{{caster-stub}}
+{{Infobox player
+|id=KotLGuy
+|name=Dakota Cox
+|image=Kotlguy ti6.jpg
+|team=
+|country=United States
+|birth_date={{Birth date and age|1984|11|16}}
+|role=caster
+|role2=host
+|site=http://www.beyondthesummit.tv
+|twitter=KotLguy
+|twitch=kotlguy
+|reddit=KOTLGuy
+|tlstream=
+|tlprofile=
+|history=
+|youtube=KOTLGuy
+|fanpage=
+}}
+
+Dakota '''"KotLGuy"''' Cox is a Dota 2 commentator from BeyondTheSummit (BTS).
+</textarea>]

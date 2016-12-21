@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=KeyaNo
+|name2=Results
+|link2=KeyaNo/Results
+|This=1
+}}
+{{Infobox player
+|id=KeyaNo
+|image=PlayerImagePlaceholder.png
+|name=Grigorie Andrei 
+|team=
+|role=carry
+|hero=magnus
+|hero2=storm_spirit
+|hero3=qop
+|mmr=7512
+|mmrdate=2016-08-25
+|ids=Puscariash
+|country=Romania
+|birth_date=
+|twitch=
+|twitter=
+|dotabuff=90159486
+|datdota=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-11-30 — 2014-02-04|We Still Got It}}
+{{TH|2013-12-18 — 2015-03-01|neXtPlease! Gaming}}
+{{TH|2015-03-19 — Present|XPC.ro}}
+{{TH|2015-12-07 — 2016-02-17|Kaipi}}
+{{TH|2016-02-17 — 2016-??-??|Power Rangers|sub}}
+}}
+
+Grigorie '''"KeyaNo"''' Andrei is a professional Dota 2 player who last acted as a substitute player for [[Power Rangers]].
+</textarea>]

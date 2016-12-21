@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Misha
+|name2=Results
+|link2=Misha/Results
+|This=1
+}}
+{{Infobox player
+|id=Misha
+|image=
+|name=Михаил Агатов
+|romanized_name=Mihail Agatov
+|team=Comanche
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=
+|mmrdate=
+|country=Russia
+|birth_date=
+|twitter=
+|twitch=
+|vk=
+|dotabuff=90125566
+|history=
+{{TH|2015-08-29 — 2016-02-10|Enso}}
+{{TH|2016-04-26 — 2016-05-19|Enso}}
+{{TH|2016-05-20 — '''Present'''|Comanche}}
+}}
+
+Mihail  '''"Misha"''' Agatov is a professional Russian Dota 2 player who is currently playing for [[Comanche]].
+</textarea>]

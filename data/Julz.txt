@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Julz
+|name2=Results
+|link2=Julz/Results
+|This=1
+}}
+{{Infobox player
+|id= Julz
+|image=Julz_frankfurt_major_2015.jpg
+|name=Julius De Leon
+|team=Mineski
+|role=support
+|status=Active
+|hero=Dazzle
+|hero2=Winter Wyvern
+|hero3=Disruptor
+|mmr=6759
+|mmrdate=2016-08-25
+|ids=KACL 
+|country=Philippines
+|birth_date=
+|datdota=591
+|dotabuff=256269737
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2010-??-?? — 2012-05-13|Mineski Infinity}}
+{{TH|2012-05-13 — 2013-05-31|Ledion DreamZ}}
+{{TH|2013-06-06 — 2013-10-02|MSI-evoGT.TnC}}
+{{TH|2013-10-02 — 2014-??-??|Mineski}}
+{{TH|2014-??-?? — 2014-??-??|Click 'N Search}}
+{{TH|2014-??-?? — 2014-??-??|Olympus Godz}}
+{{TH|2015-02-17 — '''Present''' |Mineski}}
+}}
+
+Julius '''"Julz"''' De Leon is a Filipino professional Dota 2 player who is currently playing the support role for [[Mineski]].
+</textarea>]

@@ -1,0 +1,52 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:syndereN}}
+{{Tabs static
+|name1=Overview
+|link1=SyndereN
+|name2=Results
+|link2=SyndereN/Results
+|name3=Broadcasts
+|link3=SyndereN/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=syndereN
+|image=Synderen_DHW_2016.jpg
+|name=Troels Lyngholt Nielsen
+|team=Escape Gaming
+|ids= 
+|country=Denmark
+|birth_date={{Birth date and age|1989|12|24}}
+|hero=Keeper of the Light
+|hero2=Vengeful Spirit
+|hero3=Dazzle
+|mmr=7110
+|mmrdate=2016-09-29
+|status=Active
+|role=support
+|role2=captain
+|videoarchive=
+|twitch=synderen
+|tlstream=syndereN
+|tlprofile=syndereN
+|twitter=syndereNdota
+|dotabuff=4281729
+|history=
+{{TH|2008-10-?? — 2008-11-??|iMprovisation}}
+{{TH|2008-11-?? — 2009-03-??|wTm-Gaming}}
+{{TH|2009-02-?? — 2009-04-??|mousesports}}
+{{TH|2009-??-?? — 2009-??-??|Reality|link=Reality_(team)}}
+{{TH|2009-??-?? — 2009-??-??|EnRo Griffins}}
+{{TH|2009-12-12 — 2010-03-06|The Shit!}}
+{{TH|2010-03-06 — 2010-10-10|Online Kingdom}}
+{{TH|2010-??-?? — 2011-??-??|Shift}}
+{{TH|2011-??-?? — 2011-??-??|Next Evolution}}
+{{TH|2011-??-?? — 2011-??-??|Wild Honey Badgers}}
+{{TH|2011-12-05 — 2013-01-19|Mortal Teamwork}}
+{{TH|2013-01-19 — 2013-02-26|Re-defining Madness}}
+{{TH|2013-05-01 — 2013-12-19|mousesports}}
+{{TH|2015-12-02 — 2016-02-29|Steak Gaming}}
+{{TH|2016-02-29 — 2016-06-21|No Diggity}}
+{{TH|2016-06-21 — '''Present'''|Escape Gaming}}
+}}
+Troels '''"syndereN"''' Nielsen is a Danish Dota 2 player and caster. He currently plays with [[Escape Gaming]].
+</textarea>]

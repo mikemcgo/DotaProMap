@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ALOHADANCE
+|name2=Results
+|link2=ALOHADANCE/Results
+|This=1
+}}
+{{Infobox player
+|id=ALOHADANCE
+|image=Alohadance_mlg_pro_league_s1.jpg
+|name=Ілля Коробкін
+|romanized_name=Ilya Korobkin
+|team=
+|birth_date={{Birth date and age|1997|09|15}}
+|role=carry
+|role2=support
+|status=Active
+|hero=slark
+|hero2=sven
+|hero3=juggernaut
+|mmr=8979
+|mmrdate=2016-12-09
+|ids=
+|country=Ukraine
+|datdota=3249
+|twitch=ALOHADANCETV
+|ldstream=ALOHADANCETV
+|vk=alohadancee
+|twitter=alohad4nce
+|dotabuff=123051238
+|history='''Dota 2:'''&lt;br&gt;	 
+{{TH|2013-10-22 — 2014-02-01|Flip.Sid3.ru}}
+{{TH|2014-08-29 — 2014-09-15|HellRaisers}}
+{{TH|2014-09-15 — 2014-??-??|Album Sheets}}
+{{TH|2014-12-31 — 2016-03-25|Team Empire}}
+{{TH|2016-03-25 — 2016-06-30|Virtus.Pro}}
+{{TH|2016-07-15 — 2016-09-12|F.R.I.E.N.D.S.}}
+{{TH|2016-09-12 — 2016-11-11|Team Empire}}
+}}
+
+Ilya '''"ALOHADANCE"''' Korobkin is a Ukranian professional Dota 2 player who is currently teamless.
+</textarea>]

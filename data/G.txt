@@ -1,0 +1,49 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=G
+|name2=Results
+|link2=G/Results
+|This=1
+}}
+{{Infobox player
+|id=G
+|image=God ESL Frankfurt 2015.jpg
+|name=Сергей Александрович Брагин
+|romanized_name=Sergey Alexandrovich Bragin
+|team=Vega Squadron
+|role=mid
+|status=Active
+|hero=Queen of Pain
+|hero2=Shadow Fiend
+|hero3=Storm Spirit
+|mmr=7585
+|mmrdate=2016-10-26
+|ids=God, GodKillThemAll
+|country=Russia
+|birth_date=
+|vk=god_fanpage
+|twitter=GTHEMALL
+|twitch=gthemall
+|datdota=18
+|dotabuff=87586992
+|history=''DotA:''&lt;br&gt;
+{{TH|2010-??-?? — 2010-12-27|The Retry}}
+{{TH|2010-12-27 — 2011-03-08|DTS.Chatrix}}
+{{TH|2011-03-21 — 2011-11-04|Moscow Five}}
+''Dota 2:''&lt;br&gt;
+{{TH|2011-03-21 — 2011-11-04|Moscow Five}} 
+{{TH|2011-12-07 — 2012-02-17|Moscow Five}} 
+{{TH|2012-02-17 — 2012-09-12|Darer}} 
+{{TH|2012-09-24 — 2012-10-11|Absolute Legends}} 
+{{TH|2012-10-16 — 2013-08-29|LGD.int}} 
+{{TH|2013-08-29 — 2015-03-11|Virtus.pro}} 
+{{TH|2015-04-04 — 2015-04-15|ASUS.Polar}}
+{{TH|2015-04-15 — 2016-06-30|Virtus.pro}}
+{{TH|2016-07-15 — 2016-09-12|F.R.I.E.N.D.S.}}
+{{TH|2016-09-12 — 2016-11-24|Team Empire}}
+{{TH|2016-11-24 — '''Present'''|Vega Squadron}}
+}}
+
+Sergey Alexandrovich '''"G"''' Bragin is a professional Dota 2 player who is currently playing for [[Vega Squadron]].
+</textarea>]

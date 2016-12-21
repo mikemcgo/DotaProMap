@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=JUST
+|name2=Results
+|link2=JUST/Results
+|This=1
+}}
+{{Infobox player
+|id=JUST
+|image=JUST-EHOME.X.jpg
+|name=何志鹏
+|romanized_name=He Zhipeng
+|team=EHOME.X
+|role=mid
+|status=Active
+|mmr=7759
+|mmrdate=2016-12-07
+|hero=Templar Assassin
+|hero2=Juggernaut
+|hero3=Queen of Pain
+|ids=
+|country=China
+|datdota=
+|dotabuff=194673410
+|twitter=
+|birth_date={{Birth date and age|1998|8|7}}
+|history=
+{{TH|2016-04-09 — 2016-07-10|MAX.X}}
+{{TH|2016-09-17 — '''Present'''|EHOME.X}}
+}}
+
+He '''"JUST"'''' Zhipeng is a professional Chinese Dota 2 player who currently plays for [[EHOME.X]].
+</textarea>]

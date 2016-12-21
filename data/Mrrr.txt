@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Mrrr
+|name2=Results
+|link2=Mrrr/Results
+|This=1
+}}
+{{Infobox player
+|id=Mrrr
+|image=Mrrr frankfurt major 2015.jpg
+|romanized_name=Meng Rui
+|name=蒙睿
+|team=
+|country=China
+|role=support
+|status=Retired
+|hero=Rubick
+|hero2=Earthshaker
+|hero3=Lion
+|ids=
+|datdota=
+|dotabuff=86861614
+|birth_date=
+|history=
+{{TH|2014-04-16 — 2014-08-20|talent}}
+{{TH|2014-09-18 — 2016-07-08|Newbee Young}}
+}}
+
+Meng '''"Mrrr"''' Rui was a professional Dota 2 player of team [[Newbee Young]]. He annouced his retirement on Weibo on July 8th, 2016. &lt;ref name="Mrrr retired"&gt;[http://weibo.com/ttarticle/p/show?id=2309403995053621168212 Mrrr announced his retirement on Weibo]&lt;/ref&gt;
+</textarea>]

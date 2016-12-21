@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=USH
+|name2=Results
+|link2=USH/Results
+|This=1
+}}
+{{Infobox player
+|id=USH
+|image=USHDota.jpeg  
+|name=Chris Usher
+|birth_date=
+|country=USA
+|team=
+|hero=Storm Spirit
+|hero2=Shadow Fiend
+|hero3=Axe
+|mmr=6600
+|mmrdate=2016-12-15
+|role=carry
+|status=Active
+|twitch=ushhdota
+|twitter=archonush
+|youtube=
+|fanpage=
+|datdota=1024
+|dotabuff=115975133
+|history=
+{{TH|2014-04-03 — 2014-10-23|SNA}}
+{{TH|2014-12-20 — 2015-02-20|FIRE}}
+{{TH|2015-02-20 — 2015-02-23|Champions of Summer's Rift}}
+{{TH|2015-03-24 — 2015-07-03|North American Rejects}}
+{{TH|2015-07-03 — 2015-09-06|Team Archon}}
+{{TH|2015-09-13 — 2015-??-??|Team Mischief}}
+{{TH|2015-12-07 — 2016-01-08|Power of Friendship}}
+{{TH|2016-03-26 — 2016-08-23|Digital Chaos|sub}}
+}}
+
+Chris'''"USH"''' Usher is a professional DotA player from New York, USA.
+</textarea>]

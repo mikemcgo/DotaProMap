@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Newsham
+|name2=Results
+|link2=Newsham/Results
+|This=1
+}}
+{{Infobox player
+|id=Newsham
+|image=Newsham.jpg
+|name=Jason Newsham
+|role=support
+|status=Active
+|hero=rubick
+|hero2=lion
+|hero3=jakiro
+|birth_date=
+|ids=Bloody Nine
+|country=USA
+|team=Team Leviathan
+|site=
+|tlstream=
+|twitch=jnewsham
+|youtube=
+|twitter=newshamdota
+|facebook=
+|reddit=jnewsham
+|dotabuff=1296625
+|achievements=
+|history= '''Dota 2:'''&lt;br&gt;
+{{TH|2014-??-?? — 2014-06-06|Team Leviathan}}
+{{TH|2014-06-06 — 2014-10-??|Flipside Tactics}}
+{{TH|2014-10-15 — 2015-08-18|Team Leviathan}}
+{{TH|2015-08-18 — 2015-09-23|Team Imagine}}
+{{TH|2015-09-23 — 2016-03-03|Team Leviathan}}
+{{TH|2016-03-23 — 2016-04-01|The Animal Kingdom}}
+{{TH|2016-04-01 — 2016-06-??|Kingdom Dota}}
+{{TH|2016-06-20 — '''Present'''|Team Leviathan}}
+}}
+
+Jason '''"Newsham"''' Newsham is a professional Dota 2 player who currently plays for [[Team Leviathan]].
+</textarea>]

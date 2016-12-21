@@ -1,0 +1,48 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:hFn}}
+{{player-stub}}
+
+{{Tabs static
+|name1=Overview|link1={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;BASEPAGENAME}}
+|name2=Results|link2={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;BASEPAGENAME}}/Results
+|This=1}}
+
+{{Infobox player
+|id=hFn
+|image=Hfnk3.jpg
+|name=William de Medeiros Anastacio
+|birth_date={{Birth date and age|1997|08|31}}
+|country= Brazil
+|hero=Slark
+|hero2=Anti-Mage
+|hero3=Shadow Fiend
+|role=mid
+|role2=carry
+|status=Active
+|team=SG e-sports
+|ids=hFnk3, k3
+|mmr=8104
+|mmrdate=2016-11-19
+|twitter=
+|facebook=hFnk3
+|twitch=hfndota
+|dotabuff=94004717
+|datdota=
+|history=
+{{TH|2013-08-15 — 2013-09-23|paiN Gaming}}
+{{TH|2014-03-20 — 2014-07-03|Jungles King}}
+{{TH|2014-08-03 — 2014-09-06|South American Rejects}}
+{{TH|2014-09-09 — 2014-11-28|Keyd Stars}}
+{{TH|2014-11-28 — 2015-04-??|Rebeldes}}
+{{TH|2015-06-30 — 2015-11-03|paiN Gaming}}
+{{TH|2015-11-03 — 2016-03-21|T Show}}
+{{TH|2015-03-21 — 2016-03-25|Team Archon}}
+{{TH|2016-03-26 — 2016-04-28|T Show}}
+{{TH|2016-04-29 — 2016-05-06|Dragneel}}
+{{TH|2016-05-07 — 2016-05-24|T Show}}
+{{TH|2016-05-25 — 2016-10-19|paiN Gaming}}
+{{TH|2016-10-19 — 2016-11-13|Kingao+4}}
+{{TH|2016-11-13 — '''Present'''|SG e-sports}}
+}}
+
+William '''"hFn"''' Medeiros is a [[:Category:Brazil|Brazilian]] professional player currently playing for [[SG e-sports]].
+</textarea>]

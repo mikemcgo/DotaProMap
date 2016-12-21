@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{DISPLAYTITLE:ninjaboogie}}
+{{Tabs static
+|name1=Overview
+|link1=ninjaboogie
+|name2=Results
+|link2=ninjaboogie/Results
+|This=1
+}}
+{{Infobox player
+|id=ninjaboogie
+|image=PlayerImagePlaceholder.png
+|name=Michael Ross Jr.
+|team=Mineski
+|role=support
+|role2=captain
+|status=Active
+|hero=Vengeful Spirit
+|hero2=Jakiro
+|hero3=
+|mmr=7115
+|mmrdate=2016-11-24
+|ids=nb
+|country=Philippines
+|country2=United States
+|birth_date=
+|dotabuff=91443418
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-04-28 — 2013-01-09|Duskbin}}
+{{TH|2013-01-09 — 2013-05-14|Neolution.int}} 
+{{TH|2013-08-14 — 20??-??-??|Team Impervious}}
+{{TH|20??-??-?? — 2014-05-25|Execration}}
+{{TH|2014-06-08 — 2015-06-1?|Rave}}
+{{TH|2015-08-21 — 2015-??-??|Banaaaanas}}
+{{TH|2016-01-03 — 2016-02-19|Mineski-X}}
+{{TH|2016-02-19 — 2016-07-13|Rave}}
+{{TH|2016-07-13 — '''Present'''|Mineski}}
+}}
+
+Michael '''"ninjaboogie"''' Ross Jr. is a professional [[:Category:Filipino Players|Filipino]] Dota 2 player who is of [[:Category:American Players|American]]  descent and currently plays for [[Mineski]].
+</textarea>]

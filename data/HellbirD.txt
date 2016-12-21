@@ -1,0 +1,17 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Infobox player
+|id=HellbirD
+|name=Devin Rigotti
+|image=HellbirD rAge 2014.jpg
+|team=
+|country=South Africa
+|birth_date={{Birth date and age|1987|02|12}}
+|ids=Hellbird, HellbirDza
+|site=http://www.hellbird.co.za
+|twitter=HellbirDza
+|twitch=HellbirDza
+|youtube=/user/navgamevid
+}}
+
+Devin '''"HellbirD"''' Rigotti, is a South African Dota 2 commentator who works for nAvTV. HellbirD has appeared at many of South Africa's major tournaments, for multiple titles such as Dota2, Mortal Kombat X and Heroes of the Storm
+</textarea>]

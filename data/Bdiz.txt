@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Bdiz
+|name2=Results
+|link2=Bdiz/Results
+|This=1
+}}
+{{Infobox player
+|id=Bdiz
+|image=PlayerImagePlaceholder.png
+|name=Robert Tinnes
+|team=
+|role=support
+|role2=coach
+|status=Retired
+|hero=Shadow Demon
+|hero2=Keeper of the Light
+|hero3=
+|ids=
+|country=USA
+|birth_date=
+|site=
+|twitch=bdiz
+|tlstream=Bdiz
+|tlprofile=
+|twitter=bdizdota
+|datdota=88
+|dotabuff=44463405
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-10-19 — 2013-09-19|Evil Geniuses}}
+{{TH|2013-10-13 — 2013-10-27|Team Dignitas}}
+}}
+
+Robert '''"Bdiz"''' Tinnes is a retired professional Dota 2 player. He was most recently a coach/analyst for [[Team Archon]].
+</textarea>]

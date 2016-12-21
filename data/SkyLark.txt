@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SkyLark
+|name2=Results
+|link2=SkyLark/Results
+|This=1
+}}
+{{Infobox player
+|id=SkyLark
+|image=PlayerImagePlaceholder.png
+|name=Χάρης Ζαφειρίου
+|romanized_name=Kharis Zafeiriou
+|team=Ad Finem
+|mmr=7325
+|mmrdate=2016-12-09
+|ids=zvyagintsev
+|country=Greece
+|datdota=6252
+|role=offlane
+|hero=Beastmaster
+|hero2=Dark Seer
+|hero3=Batrider
+|status=Active
+|birth_date= 
+|site=
+|youtube=
+|twitter=skylarkXZ
+|fanpage=
+|dotabuff=27178898
+|history=
+{{TH|2014-07-?? — 2015-??-??|Elysium Gaming}}
+{{TH|2015-05-06 — 2015-08-17|London Conspiracy}}
+{{TH|2015-08-17 — 2015-12-04|Golden Boys}}
+{{TH|2015-12-04 — '''Present'''|Ad Finem}}
+}}
+
+Kharis '''"SkyLark"''' Zafeiriou is a Greek Dota 2 player, currently playing for [[Ad Finem]].
+</textarea>]

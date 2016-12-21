@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Biryu
+|name2=Results
+|link2=Biryu/Results
+|This=1
+}}
+{{Infobox player
+|id=Biryu
+|image=PlayerImagePlaceholder.png
+|name=Hà Quốc Đạt
+|team=
+|birth_date=
+|country=Vietnam
+|hero=Dazzle
+|hero2=Bane
+|hero3=Winter Wyvern
+|mmr=7376
+|mmrdate=2016-12-09
+|role=support
+|status=Active
+|twitch=d47biryu
+|twitter=d47biryu
+|ids=
+|datdota=
+|dotabuff=87423323
+|history=
+{{TH|2014-04-04 — 2014-07-06 |Elysium Gaming.int}}
+{{TH|2015-01-28 — 2015-05-10 |5 Pencils 1 Case Gaming}}
+{{TH|2015-08-25 — 2016-03-23 |Digital Chaos}}
+{{TH|2016-03-26 — 2016-05-?? |Wonder Wolfs}}}}
+
+Hà '''"Biryu"''' Quốc Đạt is a professional Dota 2 player who is currently teamless.
+</textarea>]

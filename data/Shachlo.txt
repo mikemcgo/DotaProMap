@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Shachlo
+|name2=Results
+|link2=Shachlo/Results
+|This=1
+}}
+{{Infobox player
+|id=Shachlo
+|image=PlayerImagePlaceholder.png
+|name=Максим Абрамовских
+|romanized_name=Maxim Abramovskikh
+|team=Rebels
+|role=offlane
+|status=Active
+|hero=Lone Druid
+|hero2=Clockwerk
+|hero3=Natures Prophet
+|mmr=7585
+|mmrdate=2016-11-07
+|country=Russia
+|birth_date={{Birth date and age|1992|05|22}}
+|datdota=402
+|dotabuff=123787524
+|twitch=Shachlos
+|vk=Shachlos
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-11-12 — 2012-12-12|Eclypsia}}
+{{TH|2013-12-05 — 2014-08-08|Relax}}
+{{TH|2014-10-03 — 2015-02-12|Power Rangers}}
+{{TH|2015-09-04 — 2016-03-22|HellRaisers}}
+{{TH|2016-03-26 — 2016-05-22|Rebels}}
+{{TH|2016-05-22 — 2016-10-??|FlipSid3 Tactics}}
+{{TH|2016-10-?? — 2016-11-14|Skorokhod+4}}
+{{TH|2016-11-14 — '''Present'''|Rebels}}
+}}
+
+Maxim '''"Shachlo"''' Abramovskikh is a professional Russian Dota 2 player who is currently playing for [[Rebels]].
+</textarea>]

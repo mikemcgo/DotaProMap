@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=KINGRD
+|name2=Results
+|link2=KINGRD/Results
+|This=1
+}}
+{{Infobox player
+|id=KINGRD
+|image=10356728_280550522106696_7871108199604206326_n.jpg
+|name=Danylo Nascimento
+|team=SG e-sports
+|birth_date=
+|country=Brazil
+|hero=Kunkka
+|hero2=Io
+|hero3=Bounty Hunter
+|ids=GRD
+|mmr=7144
+|mmrdate=2016-10-20
+|twitch=kingrdxd
+|role=support
+|status=Active
+|role2=captain
+|facebook=Kingrdxd
+|datdota=531
+|dotabuff=84853828
+|history=
+{{TH|2011-08-?? — 2013-03-27|paiN Gaming}}
+{{TH|2013-07-27 — 2013-12-15|Keyd Stars}}
+{{TH|2014-04-07 — 2014-09-09|CNB e-Sports Club}}
+{{TH|2014-09-09 — 2015-06-30|paiN Gaming}}
+{{TH|2015-07-14 — 2015-09-02|INTZ eSports}}
+{{TH|2015-09-02 — 2016-01-23|T Show}}
+{{TH|2016-01-23 — 2016-10-19|paiN Gaming}}
+{{TH|2016-10-19 — 2016-11-13|Kingao+4}}
+{{TH|2016-11-13 — '''Present'''|SG e-sports}}
+}}
+Danylo '''"KINGRD"''' Nascimento is a professional DotA player who is currently playing for [[SG e-sports]].
+</textarea>]

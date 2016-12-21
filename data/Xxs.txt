@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Xxs
+|name2=Results
+|link2=Xxs/Results
+|This=1
+}}
+{{Infobox player
+|id=Xxs
+|image=PlayerImagePlaceholder.png
+|name=林靖
+|romanized_name=Lin Jing
+|team=Invictus Gaming
+|ids=
+|role=offlane
+|status=Active
+|hero=Tusk
+|hero2=Night Stalker
+|hero3=Phoenix
+|mmr=8190
+|mmrdate=2016-11-24
+|country=China
+|datdota=
+|dotabuff=129958758
+|tencent=
+|weibo=
+|history=
+{{TH|2015-09-17 — 2015-11-16|Team DK}}
+{{TH|2015-12-07 — 2016-03-19|IG Vitality}}
+{{TH|2016-03-19 — '''Present'''|Invictus Gaming}}
+}}
+
+Lin '''"Xxs"''' Jing is a professional Dota 2 player currently playing for [[Invictus Gaming]].
+</textarea>]

@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jason
+|name2=Results
+|link2=Fun/Results
+|This=1
+}}
+{{Infobox player
+|id=Jason
+|image=PlayerImagePlaceholder.png
+|name=Jason Teodosio
+|team=Doo Wop
+|role=support
+|status=Active
+|hero=Dazzle
+|hero2=Skywrath Mage
+|hero3=Witch Doctor
+|mmr=6237
+|mmrdate=2016-11-05
+|ids=JSNDota, Fun
+|country=USA
+|datdota=483
+|dotabuff=86747351
+|twitter=JSNDota
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-??-?? — 2013-??-??|ROOT Gaming}} 
+{{TH|2013-05-10 — 2013-06-19|Lions Pride}} 
+{{TH|2015-03-04 — 2015-09-02|ROOT Gaming}}
+{{TH|2015-09-03 — 2015-??-??|compLexity Gaming|sub}}
+{{TH|2015-12-04 — 2015-12-21|Team Mischief}}
+{{TH|2015-12-21 — 2016-02-??|Team Freedom}}
+{{TH|2016-02-?? — 2016-08-29|Shazam}}
+{{TH|2016-09-15 — '''Present'''|Doo Wop}}
+}}
+
+Jason '''"Jason"''' Teodosio is a professional Dota 2 player who is currently playing for [[Doo Wop]].
+</textarea>]

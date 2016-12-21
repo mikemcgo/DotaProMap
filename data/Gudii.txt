@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Gudii
+|name2=Results
+|link2=Gudii/Results
+|This=1
+}}
+{{Infobox player
+|id=Gudii
+|image=PlayerImagePlaceholder.png
+|name=William Aguilera
+|team=
+|ids=FanofSoyeon
+|role=support
+|hero=Omniknight
+|hero2=Meepo
+|hero3=Earthshaker
+|Other_ids=
+|country=Venezuela
+|facebook=fanofsoyeon
+|twitch=gudiiii
+|twitter=FanofSoyeon
+|birth_date={{Birth date and age|1991|08|20}}
+|dotabuff=58134384
+|history=
+{{TH|2013-??-?? — 2013-??-??|Grats ThO}}
+{{TH|2013-??-?? — 2013-??-??|Typical Mistakes}}
+{{TH|2014-??-?? — 2014-??-??|Shadow Fiend Eats Cake}}
+{{TH|2014-??-?? — 2014-??-??|No Earthspirit}}
+{{TH|2014-11-14 — 2015-??-??|Wheel}}
+{{TH|2015-09-02 — 2016-??-??|Not Today}}
+}}
+
+William '''"Gudii"''' Aguilera is a Venezuelan Dota 2 player who most recently played for [[Not Today]].
+</textarea>]

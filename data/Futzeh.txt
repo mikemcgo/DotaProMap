@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Futzeh
+|name2=Results
+|link2=Futzeh/Results
+|This=1
+}}
+{{Infobox player
+|id=futzeh
+|image=futzeh.png
+|name=Jean-Luc Tatto
+|team=END
+|birth_date={{birth date and age|1992|03|22}}
+|country=Canada
+|hero=Visage
+|hero2=Chen
+|hero3=Skywrath
+|role=support
+|status=Active
+|twitch=futzeh
+|facebook=
+|datdota=
+|dotabuff=165286316
+|sponsor=
+|site=
+|twitter=futzeh
+|youtube=
+|history=
+{{TH|2014-10-08 — 2015-01-15|Boreal eSports}}
+{{TH|2015-01-25 — 2015-02-21|ROOT Gaming}}
+{{TH|2016-10-20 — 2016-11-??|Soggy Mitts}}
+{{TH|2016-11-?? — '''Present'''|END|link=END (Team)}}
+}}
+
+Jean-Luc "'''futzeh'''" Tatto is a Canadian Dota 2 player who is currently playing for [[END (Team)|END]].
+</textarea>]

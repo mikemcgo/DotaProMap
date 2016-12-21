@@ -1,0 +1,19 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:idefix}}
+{{Infobox player
+|id=idefix
+|image=PlayerImagePlaceholder.png
+|name=Martin Čada
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=idef!x
+|country=Czech Republic
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-05-15 — 2014-??-??|iNfernity Gaming}} 
+}}
+
+Martin '''"idefix"''' Čada is a professional Dota 2 player who is currently teamless.
+</textarea>]

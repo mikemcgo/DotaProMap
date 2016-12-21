@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:SirActionSlacks}}
+{{Tabs static
+|name1=Overview
+|link1=SirActionSlacks
+|name2=Broadcasts
+|link2=SirActionSlacks/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=SirActionSlacks
+|image=SirActionSlacks.jpg
+|name=Jake Kanner
+|team=
+|hero=Techies
+|hero2=Omniknight
+|hero3=Keeper Of The Light
+|mmr=5016
+|mmrdate=2016-12-09
+|ids=
+|country=USA
+|vk=
+|birth_date=
+|facebook=
+|reddit=SirActionSlacks-
+|twitter=SirActionSlacks
+|twitch=SirActionSlacks
+|youtube=SirActionSlacks1
+|dotabuff=68186278
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2016-03-26 — 2016-08-23|Digital Chaos|sub}}
+}}
+
+Jake '''"SirActionSlacks"''' Kanner is a Dota 2 player and personality.
+</textarea>]

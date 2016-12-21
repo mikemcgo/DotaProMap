@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub|no-cat=false}} 
+{{Tabs static
+|name1=Overview
+|link1=Sneyking
+|name2=Results
+|link2=Sneyking/Results
+|This=1
+}}
+{{Infobox player
+|id=Sneyking
+|image=Sneyking-dh.jpg
+|romanized_name=Jingjun Wu
+|team=Doo Wop
+|role=mid
+|status=Active
+|ids=PB.Sneyking
+|country=United States
+|country2=China
+|hero=Templar Assassin
+|hero2=Furion
+|hero3=Storm Spirit
+|mmr=7797
+|mmrdate=2016-10-03
+|birth_date={{Birth date and age|1995|05|03}}
+|site=
+|twitter=_sneyking
+|twitch=sneyking
+|tlstream=Sneyking
+|tlprofile=sneyking
+|datdota=177
+|dotabuff=10366616
+|history=
+{{TH|2012-??-?? — 2012-09-22|PotM Bottom}}
+{{TH|2012-09-22 — 2012-12-29|Team Dignitas}}
+{{TH|2013-03-31 — 2013-08-17|Team Dignitas}}
+{{TH|2013-09-05 — 2013-12-23|Super Strong Dinosaurs}}
+{{TH|2014-04-11 — 2014-06-03|North American Rejects}}
+{{TH|2014-06-03 — 2014-12-05|Na'Vi North America|link=Natus Vincere/Natus_Vincere_North_America}}
+{{TH|2015-08-23 — 2015-11-30|Void Boys}}
+{{TH|2015-12-01 — 2016-03-22|Power of Friendship}}
+{{TH|2016-04-29 — 2016-06-??|Dragneel}}
+{{TH|2016-06-?? — 2016-09-15|Void Boys}}
+{{TH|2016-09-15 — '''Present'''|Doo Wop}}
+}}
+
+Jingjun '''"Sneyking"''' Wu is a Dota 2 player who currently plays for [[Doo Wop]].
+</textarea>]

@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:kacor}}
+{{Tabs static
+|name1=Overview
+|link1=kacor
+|name2=Results
+|link2=kacor/Results
+|This=1
+}}
+{{Infobox player
+|id=kacor
+|image=Kacor_Legends_Factory_Poznan_2016.jpg
+|name=Jakub Kocjan
+|romanized_name=
+|team=Alternate aTTaX
+|birth_date=
+|country=Poland
+|hero=Bounty_Hunter
+|hero2=oracle
+|hero3=Earth Spirit
+|mmr=6805
+|mmrdate=2016-08-25
+|role=support
+|status=Active
+|twitch=
+|tlstream=
+|tlprofile=
+|vk=
+|ids=
+|sponsor=[https://www.alternate.de/ Alternate]&lt;br /&gt;[http://www.qpad.com/ QPAD]&lt;br /&gt;[http://www.sharkoon.com/?q=de/ Sharkoon]&lt;br /&gt;[https://www.ckras.com/ CKRAS]&lt;br /&gt;[http://www.beyerdynamic.de/ beyerdynamic]&lt;br /&gt;[http://akracingeurope.eu/ AKRacing]&lt;br /&gt;[http://www.spreadshirt.de/ spreadshirt]
+|website=http://www.alternate-attax.de/
+|twitter=aTTaX_kacor
+|facebook=
+|dotabuff=26356855
+|history={{TH|2015-03-20—'''Present'''|Alternate aTTaX}}
+|videoarchive=
+|youtube=
+}}
+
+Jakub '''"kacor"''' Kocjan is a professional Dota 2 player currently playing for [[Alternate aTTaX]].
+</textarea>]

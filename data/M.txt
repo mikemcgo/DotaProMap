@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=m
+|name2=Results
+|link2=m/Results
+|This=1
+}}
+{{Infobox player
+|id=m
+|image=PlayerImagePlaceholder.png
+|name=杨仕豪
+|romanized_name=Yang Shihao
+|team=TongFu
+|role=mid
+|status=Active
+|hero=Queen of Pain
+|hero2=Shadow Fiend
+|hero3=
+|mmr=7187
+|mmrdate=2016-11-30
+|ids=456, Maomao
+|country=China
+|datdota=
+|dotabuff=216067541
+|birth_date=
+|history=
+{{TH|2014-??-?? — 2015-??-??|Newbee Young}}
+{{TH|2016-03-20 — 2016-04-30|Energy Pacemaker}}
+{{TH|2016-05-20 — 2016-08-23|FTD Club A}}
+{{TH|2016-09-17 — '''Present'''|TongFu}}
+}}
+
+Tan '''"m"''' Lijia is a professional Dota 2 player currently playing for [[TongFu]].
+</textarea>]

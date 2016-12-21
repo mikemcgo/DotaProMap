@@ -1,0 +1,22 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Noxville
+|name2=Broadcasts
+|link2=Noxville/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Noxville
+|name=Ben Steenhuisen
+|image=Noxville.jpg
+|country=South Africa
+|role=analyst
+|birth_date={{Birth date and age|1988|09|30}}
+|site=http://stats.noxville.co.za
+|ids=Noxville,NoxvilleZA
+|twitter=FollowNoxville
+|twitch=NoxvilleZA
+}}
+
+Ben '''"Noxville"''' Steenhuisen is a South African Dota 2 statsman, doing in-game statistics, production statistics and talent preparation for various events including [[The International 2015]], [[Frankfurt_Major/2015|The Frankfurt Major]] and [[Manila_Major/2016|The Manila Major]]. He works as a software developer at an eSports analytics company.
+</textarea>]

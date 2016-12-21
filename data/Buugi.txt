@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Buugi
+|name2=Results
+|link2=Buugi/Results
+|This=1
+}}
+{{Infobox player
+|id=Buugi
+|image=PlayerImagePlaceholder.png
+|name=Riku Fält
+|team=
+|role=support
+|status=Active
+|hero=Doom
+|hero2=Mirana
+|hero3=Chen
+|mmr=6959
+|mmrdate=2016-08-30
+|ids=
+|country=Finland
+|birth_date=
+|twitter=Buugidota
+|datdota=204
+|dotabuff=24009418
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-??-?? — 2013-07-17|Rat in the dark}}
+{{TH|2013-07-17 — 2013-11-??|Team Menace.fi}}
+{{TH|2013-11-?? — 2013-11-??|Aspera}}
+{{TH|2014-09-?? — 2015-09-28|4 Anchors + Sea Captain}}
+{{TH|2015-09-28 — 2016-03-02|STARK eSports}}
+{{TH|2016-03-22 — 2016-03-27|Avengers}}
+{{TH|2016-05-08 — 2016-06-15|Prodota Gaming}}
+}}
+
+Riku '''"Buugi"''' Fält is a professional Dota 2 player who last played for [[Prodota Gaming]].
+</textarea>]

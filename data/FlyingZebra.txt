@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=FlyingZebra
+|name2=Results
+|link2=FlyingZebra/Results
+|This=1
+}}
+{{Infobox player
+|id=FlyingZebra
+|image=FlyingZebra.jpg
+|name=Michael Stanus-Ghib
+|birth_date=
+|country=USA
+|team=
+|role=support
+|status=Active
+|hero=Dazzle
+|hero2=Skywrath Mage
+|hero3=Winter Wyvern
+|mmr=6272
+|mmrdate=2016-03-25
+|dotabuff=108548063
+|site=
+|tlstream=
+|twitch=flyingzebra
+|youtube=TeamLeviathan
+|twitter=flyingzebradota
+|facebook=
+|reddit=
+|achievements=
+|history= '''Dota 2:'''&lt;br&gt;
+{{TH|2014-??-?? — 2014-06-06|Team Leviathan}}
+{{TH|2014-06-06 — 2014-??-??|FlipSid3 Tactics.NA}}
+{{TH|2014-07-06 — 2014-10-03|ROOT Gaming}}
+{{TH|2015-01-15 — 2015-08-18|Team Leviathan}}
+{{TH|2015-08-18 — 2015-09-23|Team Imagine}}
+{{TH|2015-09-23 — 2016-01-21|Team Leviathan}}
+{{TH|2016-01-24 — 2016-05-05|Enemy}}
+{{TH|2016-06-20 — 2016-??-??|Team Leviathan}}
+}}
+
+Michael '''"FlyingZebra"''' Stanus-Ghib is a professional Dota 2 player currently playing for [[Team Leviathan]].
+</textarea>]

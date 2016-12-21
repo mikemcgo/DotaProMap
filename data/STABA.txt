@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=STABA
+|name2=Results
+|link2=STABA/Results
+|This=1
+}}
+{{Infobox player
+|id=STABA
+|image=
+|name=Munehito Takekawa
+|team=
+|birth_date=
+|role=support
+|hero= Earthshaker
+|hero2= 
+|hero3=
+|country=Japan
+|facebook=
+|site=
+|twitch=stabaaa
+|tlstream=
+|tlprofile=
+|youtube=
+|twitter=stabaaa
+|dotabuff=43589929
+|history= 
+{{TH|2014-06-28 — 2015-01-05|AffectioN!}}
+{{TH|2015-01-05 — 2015-09-02|DeToNator}}
+}}
+Munehito '''"STABA"''' Takekawa is a Japanese DotA player, now is inactive.
+</textarea>]

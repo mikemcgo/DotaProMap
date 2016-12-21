@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Flysolo
+|name2=Results
+|link2=Flysolo/Results
+|This=1
+}}
+{{Infobox player
+|id=Flysolo
+|image=PlayerImagePlaceholder.png
+|name=Kenneth Coloma
+|team=Rave
+|role=support
+|status=Active
+|sponsor=
+|country=Philippines
+|birth_date={{Birth date and age|1991|12|25}}
+|hero=
+|hero2=
+|hero3=
+|mmr=6500
+|mmrdate=2016-09-23
+|nicknames=
+|site=
+|stream=
+|ids=K^, FLY SOLO
+|twitter=kentosh55
+|dotabuff=201741490
+|youtube=
+|fanpage=http://facebook.com/ravedota2
+|history={{TH|2015-??-?? — 2015-10-31|RagingWePlay}}
+{{TH|2015-11-27 — 2016-03-12|Rave}}
+{{TH|2016-03-18 — 2016-05-??|Acion Arena}}
+{{TH|2016-06-?? — 2016-07-24|Power Gaming}}
+{{TH|2016-08-01 — '''Present'''|Rave}}
+}}
+
+Kenneth '''"Flysolo"''' Coloma is a professional Dota 2 player that currently plays for [[Rave]].
+</textarea>]

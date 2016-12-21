@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=KaHT
+|name2=Results
+|link2=KaHT/Results
+|This=1
+}}
+{{Infobox player
+|id=KaHT
+|image=PlayerImagePlaceholder.png
+|name=Andrey Shulgin 
+|team=Enso
+|role=support
+|status=Active
+|hero=Io
+|hero2=Shadow Demon
+|hero3=Earthshaker
+|mmr=7015
+|mmrdate=2016-09-08
+|other_ids=
+|datdota=
+|twitter=
+|twitch=
+|vk=yesdota2
+|dotabuff=105939162
+|country=Russia
+|birth_date=
+|history=
+{{TH|2013-08-01 — 2013-08-15|Power Rangers}}
+{{TH|2015-03-30 — 2015-??-??|ScaryFaceZ}}
+{{TH|2015-06-12 — 2015-09-01|Yellow Submarine}}
+{{TH|2015-09-01 — 2015-10-23|PRIES Gaming}}
+{{TH|2016-02-11 — '''Present'''|Enso}}
+ 
+}}
+
+Andrey "'''KaHT'''" Shulgin  is a professional Dota 2 player who is playing for [[Enso]].
+</textarea>]

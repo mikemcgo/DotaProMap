@@ -1,0 +1,16 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Infobox player
+|id=DarkFalco
+|image=PlayerImagePlaceholder.png
+|team=
+|birth_date=
+|country=Canada
+|hero=Axe
+|hero2=Pudge
+|hero3=Magnus
+|role=Solo Middle, Offlane
+|site=
+|twitch=darkfalco
+}}
+
+'''DarkFalco''' is a former Canadian professional Dota 2 player who is currently teamless.
+</textarea>]

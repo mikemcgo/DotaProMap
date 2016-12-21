@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ben
+|name2=Results
+|link2=Ben/Results
+|This=1
+}}
+{{Infobox player
+|id=Ben
+|image=PlayerImagePlaceholder.png
+|romanized_name=Benjamin Yi Cheong Lim
+|team=Fire Dragoon E-sports
+|role=carry
+|status=Active
+|hero=Juggernaut
+|hero2=Phantom Lancer
+|hero3=Slark
+|ids=ahbenLIM
+|country=Malaysia
+|birth_date=
+|datdota=
+|dotabuff=
+|history=
+{{TH|2015-01-06 — 2015-03-18|Natit Gaming}}
+{{TH|2015-04-02 — 2015-06-18|G Guard Esports}}
+{{TH|2015-06-23 — 2015-12-13|Team 123}}
+{{TH|2015-12-13 — 2016-03-19|Taring}}
+{{TH|2016-??-?? — '''Present'''|Fire Dragoon E-sports}}
+}}
+
+Benjamin '''"Ben"''' Lim Yi Cheong is a professional Dota 2 player that last played for [[Fire Dragoon E-sports]].
+</textarea>]

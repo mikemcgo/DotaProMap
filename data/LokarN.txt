@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=LokarN
+|name2=Results
+|link2=LokarN/Results
+|This=1
+}}
+{{Infobox player
+|id=LokarN
+|image=PlayerImagePlaceholder.png
+|name=Andy Ordonez
+|team=
+|role=offlane
+|status=Inactive
+|hero=Brewmaster
+|hero2=Tidehunter
+|hero3=Undying
+|mmr=7076
+|mmrdate=2016-11-05
+|ids=
+|country=USA
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=134566957
+|birth_date=
+|history=
+{{TH|2015-08-05 — 2015-11-09|Stratos eSports}}
+{{TH|2015-11-09 — 2015-12-06|Astral Authority}}
+{{TH|2015-12-06 — 2015-12-21|Enemy}}
+}}
+
+Andy '''"LokarN"''' Ordonez is an American professional Dota 2 player who is currently teamless.
+</textarea>]

@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=kphoenii
+|name2=Results
+|link2=kphoenii/Results
+|This=1
+}}
+{{Infobox player
+|id=kphoenii
+|name=Damien Sau-jing Chok
+|image=KpiiEpicenterMoscow.jpg
+|team=Newbee
+|country=Australia
+|hero=Naga Siren
+|hero2=Slardar
+|hero3=Tidehunter
+|mmr=8017
+|mmrdate=2016-12-12
+|role=offlane
+|role2=carry
+|status=Active
+|twitch=kpii3
+|dotabuff=87012746
+|twitter=kpiidota
+|ids=kpkpkp, kPhoenix, kphoenii, kpii
+|history= 	
+{{TH|2014-09-26 — 2015-01-06|Can't Say Wips}}
+{{TH|2015-02-26 — 2015-08-26|MVP Phoenix}}
+{{TH|2015-08-29 — 2015-12-??|EHOME.K}}
+{{TH|2015-12-03 — 2016-03-25|EHOME.Keen}}
+{{TH|2016-03-25 — '''Present'''|Newbee}}
+}}
+
+Damien '''"kphoenii"''' Chok is a professional Dota 2 player from Australia currently playing for [[Newbee]].
+</textarea>]

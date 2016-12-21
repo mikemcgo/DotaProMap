@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Kefka
+|name2=Results
+|link2=Kefka/Results
+|This=1
+}}
+{{Infobox player
+|id=Kefka
+|image=KefkaDota.jpg
+|name=Linus Bleckert
+|team=SOLIDUDES
+|role=offlane
+|status=Active
+|hero=Tidehunter
+|hero2=Faceless Void
+|hero3=Sand King
+|mmr=7663
+|mmrdate=2016-11-17
+|ids=
+|country=Sweden
+|datdota=
+|twitter=KefkaDota
+|facebook=
+|dotabuff=31456357
+|birth_date=
+|history=
+{{TH|2014-11-21 — 2015-01-05|Basically Unknown}}
+{{TH|2015-07-22 — 2015-08-12|Ancient Warriors}}
+{{TH|2015-08-12 — 2015-10-23|Princess Jellopy}}
+{{TH|2015-10-23 — 2016-04-22|London Conspiracy}}
+{{TH|2016-04-27 — 2016-07-??|Team Toast}}
+{{TH|2016-07-18 — 2016-11-02|Prodota Gaming}}
+{{TH|2016-11-07 — '''Present'''|SOLIDUDES}}
+}}
+
+Linus '''"Kefka"''' Bleckert is a Swedish professional Dota 2 player who is currently playing for [[SOLIDUDES]].
+</textarea>]

@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+
+{{Tabs static
+|name1=Overview|link1={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;BASEPAGENAME}}
+|name2=Results|link2={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;BASEPAGENAME}}/Results
+|This=1}}
+
+{{Infobox player
+|id=Bardo
+|image=Bardo_dota.jpg
+|name=Lucas Raphael
+|country= Brazil
+|hero=Earthshaker
+|hero2=Visage
+|hero3=Skywrath Mage
+|role=support
+|status=Active
+|ids=Peco
+|team=Midas Club Elite
+|dotabuff=85008179
+
+|history=
+{{TH|2014-08-06 — 2014-09-09|South American Rejects}}
+{{TH|2014-09-09 — 2014-11-28|Keyd Stars}}
+{{TH|2015-09-05 — 2015-10-12|INTZ eSports}}
+{{TH|2015-12-05 – 2016-01-05|paiN Gaming}}
+{{TH|2016-01-23 — 2016-09-02|Swagenteiger}}
+{{TH|2016-11-02 — '''Present'''|Midas Club Elite}}
+}}
+
+Lucas '''"Bardo"''' Raphael is a [[:Category:Brazil|Brazilian]] player currently playing for [[Midas Club Elite]].
+</textarea>]

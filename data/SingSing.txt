@@ -1,0 +1,50 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub|no-cat=false}} 
+{{Tabs static
+|name1=Overview
+|link1=SingSing
+|name2=Results
+|link2=SingSing/Results
+|This=1
+}}
+{{Infobox player
+|id=SingSing
+|image=SingSing_2013DHS.jpg
+|name=WehSing Yuen
+|team=
+|ids=WehSing, beaverknight
+|country=Netherlands
+|birth_date={{Birth date and age|1991|6|19}}
+|role=mid
+|status=Retired
+|hero=Mirana
+|hero2=Kunkka
+|hero3=Venomancer
+|mmr=7532
+|mmrdate=2016-10-26
+|twitch=sing_sing
+|tlstream=Sing_Sing
+|tlprofile=Sing_Sing
+|youtube=wehsing
+|twitter=Sing2X
+|fanclub=http://www.liquiddota.com/forum/players-and-teams/466497-singsing-discussion
+|facebook=pages/WehSing-SingSing-Yuen/239740989440503
+|datdota=55
+|dotabuff=19757254
+|history=
+{{TH|2011-12-05 — 2012-10-16|mousesports}}
+{{TH|2012-10-17 — 2012-10-21|The GD B-Team}}
+{{TH|2012-10-24 — 2012-11-05|Team Zero}}
+{{TH|2013-02-01 — 2013-08-07|QPAD Red Pandas}}
+{{TH|2013-08-07 — 2013-09-19|Kaipi}}
+{{TH|2013-09-19 — 2013-10-09|RSnake.int}}
+{{TH|2013-10-09 — 2014-02-09|Speed.int|link=Speed Gaming.int}}
+{{TH|2014-02-09 — 2014-08-13|Cloud9}}
+{{TH|2014-08-11 — 2015-02-13|Team Tinker}}
+{{TH|2015-02-21 — 2015-06-27|Burden United}}
+{{TH|2015-08-22 — 2015-10-09|Monkey Freedom Fighters}}
+{{TH|2015-10-18 — 2015-12-09|Monkey Freedom Fighters}}
+{{TH|2016-03-14 — 2016-10-28|Kaipi}}
+}}
+
+WehSing '''"SingSing"''' Yuen is a retired professional Dota 2 player, and is one of the most popular Dota 2 streamers.
+</textarea>]

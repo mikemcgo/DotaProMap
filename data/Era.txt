@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Era
+|name2=Results
+|link2=Era/Results
+|This=1
+}}
+{{Infobox player
+|id=Era
+|image=Era DHS 2015.jpg
+|name=Adrian Kryeziu
+|team=Escape Gaming
+|birth_date={{Birth date and age|1995|09|03}}
+|country=Sweden
+|hero=Lifestealer
+|hero2=Tiny
+|hero3=Luna
+|mmr=7726
+|mmrdate=2016-11-18
+|role=carry
+|status=Active
+|twitch=era17
+|tlstream=
+|tlprofile=
+|facebook=EraDota
+|site=
+|twitter=eradota
+|youtube=
+|fanpage=
+|datdota=97
+|dotabuff=100317750
+|history={{TH|2012-03-30 — 2014-08-20|Fnatic.EU}}
+{{TH|2014-09-14 — 2015-01-01|LAJONS}}
+{{TH|2015-01-01 — 2015-11-13|Ninjas in Pyjamas}}
+{{TH|2015-12-02 — 2016-??-??|Steak Gaming}}
+{{TH|2016-02-29 — 2016-06-21|No Diggity}}
+{{TH|2016-06-21 — '''Present'''|Escape Gaming}}
+}}
+
+Adrian '''"Era"''' Kryeziu is a professional DotA player who is currently playing on [[Escape Gaming]].
+</textarea>]

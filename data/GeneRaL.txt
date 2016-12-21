@@ -1,0 +1,45 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=GeneRaL
+|name2=Results
+|link2=GeneRaL/Results
+|This=1
+}}
+{{Infobox player
+|id=GeneRaL
+|image=GeneRaL DreamLeague Season 5.jpg
+|name=Віктор Нігріні
+|romanized_name=Victor Nigrini
+|team=Natus Vincere
+|sponsor=
+|dotabuff=89550641
+|datdota=5378
+|ids=
+|role=offlane
+|status=Active
+|hero=Furion
+|hero2=Beastmaster
+|hero3=Batrider
+|mmr=7850
+|mmrdate=2016-11-28
+|country=Ukraine
+|birth_date={{Birth date and age|1996|8|5}} 
+|nicknames=
+|site=
+|twitch=generalqw
+|vk=generalqw
+|twitter=generalqw
+|youtube=/channel/UCpiS5eFDQzEWheRKI8L6F0A
+|fanpage=
+|history={{TH|2015-04-22 — 2015-06-08|Duza Gaming}}
+{{TH|2015-06-08 — 2015-08-21|sQreen's Squad}}
+{{TH|2015-08-21 — 2015-09-04|Teamless}} &lt;!--- A team called "Teamless", he wasn't literally teamless ---&gt;
+{{TH|2015-09-04 — 2015-10-23|ScaryFaceZ}}
+{{TH|2015-10-30 — 2015-11-03|Walrus Punch!}}
+{{TH|2015-11-03 — 2015-11-??|Team Empire}}
+{{TH|2015-11-24 — 2016-01-10|Elements Pro Gaming}}
+{{TH|2016-02-23 — '''Present'''|Natus Vincere}}
+}}
+
+Victor '''"GeneRaL"''' Nigrini is a professional Dota 2 player who currently plays for [[Natus Vincere]].
+</textarea>]

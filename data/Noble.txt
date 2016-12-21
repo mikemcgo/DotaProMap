@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=noble
+|name2=Results
+|link2=noble/Results
+|This=1
+}}
+{{Infobox player
+|id=noble
+|image=PlayerImagePlaceholder.png
+|name=兰高崇
+|romanized_name=Lan Gaochong
+|team=
+|ids=02goddess
+|role=support
+|status=
+|hero=
+|hero2=
+|hero3=
+|mmr=
+|mmrdate=
+|country=China
+|datdota=
+|dotabuff=254013249
+|tencent=
+|weibo=
+|history=
+{{TH|2016-03-15 — 2016-05-??|FTD Club C}}
+}}
+
+Lan '''"noble"''' Gaochong is a professional Dota 2 player currently teamless.
+</textarea>]

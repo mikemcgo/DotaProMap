@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=June
+|name2=Results
+|link2=June/Results
+|This=1
+}}
+{{Infobox player
+|id=June
+|image=PlayerImagePlaceholder.png
+|name=林诗洋
+|romanized_name=Lin Shiyang
+|team=CDEC Gaming
+|country=China
+|hero=Clockwerk
+|hero2=Batrider
+|hero3=Tidehunter
+|mmr=8403
+|mmrdate=2016-12-17
+|role=offlane
+|status=Active
+|datdota=2246
+|dotabuff=138885864
+|tencent=Red_Lsy
+|weibo=2028501225
+|history={{TH|2014-02-18 — 2014-08-26|CIS Game}}
+{{TH|2014-08-26 — 2015-03-05|Invictus Gaming}}
+{{TH|2015-03-14 — 2015-09-03|Newbee}}
+{{TH|2015-09-03 — 2016-03-25|CDEC Youth}}
+{{TH|2016-03-25 — 2016-09-17|CDEC Avenger}}
+{{TH|2016-09-17 — '''Present'''|CDEC Gaming}}
+}}
+Lin '''"June"''' Shiyang is a professional Dota 2 player who is currently playing for [[CDEC Gaming]].
+</textarea>]

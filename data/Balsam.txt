@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Balsam
+|name2=Results
+|link2=Balsam/Results
+|This=1
+}}
+{{Infobox player
+|id=Balsam
+|image=Wolvesbalsam.jpg
+|name=Andreas Løchte
+|team=
+|birth_date={{birth date and age|1991|10|27}}
+|country=Denmark
+|hero=Anti-Mage
+|hero2=Morphling
+|hero3=Brewmaster
+|role=carry
+|status=Inactive
+|twitch=
+|tlstream=
+|tlprofile=
+|sponsor=
+|site=
+|twitter=
+|videoarchive=
+|youtube=
+|history=
+{{TH|2007-??-?? — 2008-??-??|QoQ}}
+{{TH|2008-??-?? — 2009-??-??|RapE}}
+{{TH|2010-??-?? — 2011-??-??|NORDIC eSports}}
+{{TH|2012-03-12 — 2012-07-12|The Tough Bananas}}
+{{TH|2012-07-12 — 2012-09-22|Copenhagen Wolves}}
+{{TH|2012-10-01 — 2012-11-17|Meet Your Makers}}
+{{TH|2013-12-06 — 2014-??-??|TRICKED eSport}}
+}}
+
+Andreas "Balsam" Løchte is a professional DotA 2 player who is currently teamless.
+</textarea>]

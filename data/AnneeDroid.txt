@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=AnneeDroid
+|name2=Broadcasts
+|link2=AnneeDroid/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=AnneeDroid
+|image=AnneeDroidphoto.jpg&lt;!--Please make sure not to use images you don't have permission to upload--&gt;
+|name=Annie LeClair
+|role=caster
+|team=
+|ids=
+|country=United States
+|tlpdid=
+|birth_date= April 29, 1995
+|nicknames=
+|site=
+|twitch=AnneeDroid
+|twitter=anneedroid
+|youtube=
+|fanpage=
+}}
+
+Annie '''"Anneedroid"''' LeClair is an American Dota 2 caster, currently casting for Moonduck.TV.
+</textarea>]

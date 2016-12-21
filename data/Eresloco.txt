@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:eresloco}}
+{{Tabs static
+|name1=Overview
+|link1=Eresloco
+|name2=Results
+|link2=Eresloco/Results
+|This=1
+}}
+{{Infobox player
+|id=eresloco
+|image=PlayerImagePlaceholder.png
+|name=Tobias Everhorn
+|team=
+|role=mid
+|status=Inactive
+|hero=Invoker
+|hero2=Ember Spirit
+|hero3=Puck
+|ids=
+|country=Sweden
+|birth_date=
+|twitter=
+|datdota=2163
+|dotabuff=102732874
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-04-?? — 2013-04-??|4 Friends + Chrillee}}
+{{TH|2014-01-04 — 2015-04-13|4 Friends + Chrillee}}
+{{TH|2015-04-13 — 2015-12-??|Lemondogs}}
+}}
+
+Tobias '''"eresloco"''' Everhorn is a professional Dota 2 player from Sweden who is currently teamless.
+</textarea>]

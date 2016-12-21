@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Seleri
+|name2=Results
+|link2=Seleri/Results
+|This=1
+}}
+{{Infobox player
+|id=Seleri
+|image=
+|name=Melchior Hillenkamp
+|team=Sanguine Sharks
+|birth_date=
+|country=Netherlands
+|role=support
+|status=Active
+|ids=
+|twitter=seleri4096
+|dotabuff=91730177
+|history=
+{{TH|2015-10-?? — 2016-02-??|EE's Disciples}}
+{{TH|2016-03-23 — 2016-06-06|GOOMBA Gaming}}
+{{TH|2016-06-06 — 2016-07-28|Sanguine Sharks}}
+{{TH|2016-07-28 — 2016-08-21|PRIES}}
+{{TH|2016-08-21 — '''Present'''|Sanguine Sharks}}
+}}
+
+Melchior '''"Seleri"''' Hillenkamp is a Dutch Dota 2 player who is currently playing for [[Sanguine Sharks]].
+</textarea>]

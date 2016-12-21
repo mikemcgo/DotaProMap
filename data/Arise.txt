@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Arise
+|name2=Results
+|link2=Arise/Results
+|This=1
+}}
+{{Infobox player
+|id=Arise
+|ids=Arise-, Ar1sE, ar1z0r^
+|image=PlayerImagePlaceholder.png
+|name=Turtoi Ionut
+|team=
+|role=mid
+|status=Active
+|hero=Magnus
+|hero2=Shadow Fiend
+|hero3=Queen of Pain
+|mmr=7693
+|mmrdate=2016-10-03
+|country=Romania
+|birth_date=
+|twitter=Ar1sE_3012
+|facebook=T.I.DUff
+|twitch=arise_3012
+|youtube=2lat3now
+|datdota=488
+|dotabuff=96169991
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|201?-??-?? — 2013-04-29 | Kaipi}} 
+{{TH|2013-09-05 — 2013-12-23 | Super Strong Dinosaurs}}
+{{TH|2013-??-?? — 2014-??-?? | Cede Nullis}}
+{{TH|2015-03-14 — 2015-03-18 | Basically Unknown}}
+{{TH|2015-03-20 — 2015-06-02 | Basically Unknown}}
+{{TH|2015-08-22 — 2015-09-25 | Monkey Freedom Fighters}}
+{{TH|2015-10-06 — 2015-10-?? |Arcade.PowerRangers}}
+{{TH|2015-10-18 — 2015-??-?? |Monkey Freedom Fighters}}
+{{TH|2016-01-02 — 2016-02-17|Burden United}}
+{{TH|2016-02-17 — 2016-07-19|Power Rangers}}
+}}
+
+Turtoi "'''Arise'''" Ionut is a Romanian dota 2 player who last played for [[Power Rangers]].
+</textarea>]

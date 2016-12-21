@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=747
+|name2=Results
+|link2=747/Results
+|This=1
+}}
+{{Infobox player
+|id=747
+|image=PlayerImagePlaceholder.png
+|name=Eric Dong
+|team=FDL
+|role=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Queen of Pain
+|hero3=Templar Assassin
+|mmr=8128
+|mmrdate=2016-12-08
+|ids=Suzy
+|country=United States
+|country2=China
+|datdota=
+|twitter=747dota
+|twitch=747dota
+|facebook=
+|dotabuff=115141430
+|birth_date=
+|history=
+{{TH|2014-11-01 — 2015-04-09|Boreal eSports}}
+{{TH|2015-04-09 — 2015-08-23|Void Boys}}
+{{TH|2015-08-23 — 2015-10-02|FIRE}}
+{{TH|2015-10-02 — 2015-10-08|Team Archon}}
+{{TH|2015-10-15 — 2015-11-??|ROOT Gaming}}
+{{TH|2015-12-01 — 2016-03-22|Void Boys}}
+{{TH|2016-03-22 — 2016-04-01|The Animal Kingdom}}
+{{TH|2016-04-01 — 2016-06-??|Kingdom Dota}}
+{{TH|2016-06-?? — 2016-09-04|Void Boys}}
+{{TH|2016-09-04 — '''Present'''|FDL}}
+}}
+
+Eric '''"747"''' Dong is a professional Dota 2 player who currently plays for [[FDL]].
+</textarea>]

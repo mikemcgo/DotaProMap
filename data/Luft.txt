@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Luft
+|name2=Results
+|link2=Luft/Results
+|This=1
+}}
+{{Infobox player
+|id=Luft
+|image=PlayerImagePlaceholder.png
+|name=Merlin Seibel
+|team=Valkyrie eSports
+|role=mid
+|status=Active
+|hero=Outworld Devourer
+|hero2=Doom
+|hero3=Windrunner
+|mmr=7164
+|mmrdate=2016-08-25
+|ids=
+|country=Germany
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=71869498
+|birth_date=
+|history=
+{{TH|2016-08-01 — '''Present'''|Valkyrie eSports}}
+}}
+
+Merlin '''"Luft"''' Seibel is a German professional Dota 2 player who currently plays for [[Valkyrie eSports]].
+</textarea>]

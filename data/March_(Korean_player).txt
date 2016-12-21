@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:March}}
+{{Tabs static
+|name1=Overview
+|link1=March (Korean player)
+|name2=Results
+|link2=March (Korean player)/Results
+|This=1
+}}
+{{Infobox player
+|id=March
+|image=MVP_March.jpg
+|name=박태원
+|romanized_name=Park Tae-won 
+|team=
+|role=offlane
+|role2=captain
+|status=Retired
+|hero=Warlock
+|hero2=Death Prophet
+|hero3=Bristleback
+|ids=
+|country=South Korea
+|country2=Canada
+|birth_date=
+|site=
+|twitch=marchdota
+|tlstream=
+|tlprofile=
+|twitter=MarchDota
+|datdota=238
+|dotabuff=3940262
+|history='''DotA:'''&lt;br&gt;
+{{TH|2009-??-?? — 2009-??-??|AzN}}
+{{TH|2010-??-?? — 2010-??-??|Nirvana.int}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2013-03-29 — 2013-11-01|FXOpen e-Sports}}
+{{TH|2013-11-01 — 2013-11-17|For Our Utopia}}
+{{TH|2013-11-17 — 2016-03-22|MVP Phoenix}}
+}}
+Park '''"March"''' Tae-won is a professional Korean/Canadian Dota 2 player who is retired. He had a notable career in both DotA and Dota 2, managing to attend [[The International 2014]] and [[The International 2015]].
+</textarea>]

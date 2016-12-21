@@ -1,0 +1,20 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Jhoven
+|image=PlayerImagePlaceholder.png
+|name=Jhoven Pancho
+|team=
+|role=mid
+|hero=Magnus
+|hero2=
+|hero3=
+|ids=
+|country=Philippines
+|birth_date=
+|history=
+{{TH|2013-03-?? — ????-??-??|Mineski}}
+{{TH|2014-08-14 — 2014-10-16|Mineski}}
+}}
+
+Jhoven "'''Jhoven'''" Pancho is a professional Filipino Dota 2 player who is currently teamless.
+</textarea>]

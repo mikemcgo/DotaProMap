@@ -1,0 +1,2 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">#REDIRECT [[Atun]]
+</textarea>]

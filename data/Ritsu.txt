@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ritsu
+|name2=Results
+|link2=Ritsu/Results
+|This=1
+}}
+{{Infobox player
+|id=Ritsu
+|image=Ritsu frankfurt major 2015.jpg
+|name=Ravindu Kodippili
+|team=
+|role=carry
+|status=Active
+|hero=Slark
+|hero2=Anti-Mage
+|hero3=Ember Spirit
+|ids=Oxen, Kagami, misaki ayuzawa
+|country=USA
+|birth_date=
+|mmr=7708
+|mmrdate=2016-11-05
+|site=
+|twitch=ritsugamer
+|tlstream=
+|tlprofile=
+|twitter=ritsudota
+|datdota=4644
+|dotabuff=177648913
+|history=
+{{TH|2015-08-?? — 2015-09-01|Dark Horse}}
+{{TH|2015-09-01 — 2015-11-16|Cloud9}}
+{{TH|2015-12-06 — 2016-01-17|Shazam}}
+{{TH|2016-03-21 — 2016-03-26|Team Archon}}
+{{TH|2016-03-26 — 2016-05-??|Wonder Wolfs}}
+}}
+
+Ravindu "'''Ritsu'''" Kodippili is an American professional Dota 2 player who is currently teamless.
+</textarea>]

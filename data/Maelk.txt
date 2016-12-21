@@ -1,0 +1,49 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Maelk
+|name2=Results
+|link2=Maelk/Results
+|name3=Broadcasts
+|link3=Maelk/Broadcasts
+|This=1
+}}
+{{Infobox player 
+|id=Maelk
+|image=Maelk-esl.jpg
+|name=Jacob Toft-Andersen
+|team=
+|birth_date={{birth date and age|1986|6|18}}
+|country=Denmark
+|hero= Chen
+|hero2= Venomancer
+|hero3= Enigma
+|role=support
+|status=Retired
+|reddit=Maelk
+|twitch=maelk
+|dotabuff=59457413
+|tlstream=eg.maelk
+|tlprofile=
+|ids= Milk, MYM.Maelk, "Ma lek", EG.Maelk[RC]
+|sponsor=
+|facebook=LikeMaelk?fref=ts
+|site=
+|twitter=TheMaelk
+|history='''Dota:'''&lt;br&gt;
+{{TH|2006|BTo}}
+{{TH|2006|lolboat}}
+{{TH|2006|JoY}}
+{{TH|2006 - 2008|MYM}}
+{{TH|2008|Online Kingdom}}
+{{TH|2008 - 2009|Ravens}}
+{{TH|2009|MYM}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2009-10-03 - 2011-08-28|MYM}}
+{{TH|2012-02-03 - 2013-05-01|Evil Geniuses}}
+{{TH|2015-12-08 - 2016-06-21|Vegetables Esports Club}}
+|videoarchive=
+|youtube=
+}}
+
+Jacob '''"Maelk"''' Toft-Andersen is a caster and retired Danish player. Maelk is regarded as having been one of the most influential players in the history of DotA.{{citation needed}} He is best known for his role in the now-disbanded squad, [[MYM]], with which he played in the original Warcraft 3 mod DotA. Currently, he leads FC Schalke 04's esports division.&lt;ref&gt;https://twitter.com/TheMaelk/status/732143485625700352&lt;/ref&gt;
+</textarea>]

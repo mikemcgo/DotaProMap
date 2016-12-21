@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Banana
+|name2=Results
+|link2=Banana/Results
+|This=1
+}}
+{{Infobox player
+|id=Banana
+|image=Banana_frankfurt_major_2015.jpg
+|name=王蛟
+|romanized_name=Wang Jiao
+|team=LGD.Taobao.cn
+|role=coach
+|role2=support
+|status=Inactive
+|hero=Enchantress
+|hero2=Rubick
+|hero3=Chen
+|ids=banana.hy, Biubiu
+|country=China
+|birth_date= 
+|datdota=533&amp;player=Banana
+|dotabuff=89217927
+|stream=http://www.zhanqi.tv/11467
+|tencent=banana_cherry
+|history='''DotA:'''&lt;br&gt;
+{{TH|2009-10-?? — 2010-02-??|xFy}}
+{{TH|2010-02-?? — 2011-12-??|Nirvana.cn}}
+{{TH|2012-05-?? — 2012-11-??|Radiance}}
+'''Dota 2:'''
+{{TH|2011-03-02 — 2011-11-23|Online Kingdom}}
+{{TH|2012-11-10 — 2013-03-14|For.Love}}
+{{TH|2013-03-14 — 2013-09-09|TongFu}}
+{{TH|2013-09-09 — 2014-03-09|Invictus Gaming}} 
+{{TH|2014-03-09 — 2016-03-18|Newbee}}
+{{TH|2016-03-18 — '''Present'''|LGD Gaming}}
+}}
+Wang '''"Banana"''' Jiao is a professional Dota player who is currently a coach and substitute player for [[LGD Gaming]].
+</textarea>]

@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Rapy
+|name2=Results
+|link2=Rapy/Results
+|This=1
+}}
+{{Infobox player
+|id=Rapy
+|image=PlayerImagePlaceholder.png
+|name=Rafael Sicat Palo 
+|team=Execration
+|role=offlane
+|role2=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=
+|mmrdate=
+|ids=
+|country=Philippines
+|birth_date=
+|twitter=
+|datdota=
+|dotabuff=121833213
+|history={{TH|2015-11-27 — 2016-08-19|Rave}}
+{{TH|2016-09-13 — '''Present'''|Execration}}
+}}
+
+Rafael '''"Rapy"''' Sicat Palo is a professional Dota 2 player who is currently playing for [[Execration]].
+
+&lt;!--==Biography==
+
+==Dota 2==
+
+==Trivia==--&gt;
+</textarea>]

@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=KvH
+|name2=Results
+|link2=KvH/Results
+|This=1
+}}
+{{Infobox player
+|id=KvH
+|image=PlayerImagePlaceholder.png
+|name=Khanh Huynh
+|team=Rainbows and Sunshine
+|role=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Queen of Pain
+|hero3=Juggernaut
+|mmr=7418
+|mmrdate=2016-11-05
+|ids=KvH
+|country=United States
+|datdota=
+|twitter=KvHDotA
+|twitch=kvhdota
+|facebook=
+|dotabuff=38057824
+|birth_date=
+|history=
+{{TH|2015-04-14 — 2015-08-30|Boreal eSports}}
+{{TH|2016-06-13 — 2016-09-??|Perky Pepperonis}}
+{{TH|2016-??-?? — '''Present'''|Rainbows and Sunshine}}
+}}
+
+Khanh '''"KvH"''' Huynh is an American professional Dota 2 player who last played for [[Perky Pepperonis]].
+</textarea>]

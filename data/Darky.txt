@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Darky
+|name2=Results
+|link2=Darky/Results
+|This=1
+}}
+{{Infobox player
+|id=Darky
+|image=PlayerImagePlaceholder.png
+|name=Bruno Vieira
+|team=Luccini
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Brazil
+|birth_date=
+|history=
+{{TH|2012-??-?? — 2012-12-??|CNB e-Sports Club}} 
+{{TH|2012-12-?? — 2013-??-??|Nex Impetus}} 
+{{TH|2014-09-16 — 2015-??-??|CNB e-Sports Club}} 
+{{TH|2015-??-?? — '''Present'''|Luccini}} 
+}}
+
+Bruno '''"Darky"''' Vieira is a professional Dota 2 player who currently plays for [[Luccini]].
+</textarea>]

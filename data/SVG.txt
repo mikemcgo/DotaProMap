@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SVG
+|name2=Results
+|link2=SVG/Results
+|This=1
+}}
+{{Infobox player
+|id=SVG
+|image=SVG.jpg
+|name=Avery Silverman
+|team=Team NP
+|status=Active
+|role=support
+|hero=Winter Wyvern
+|hero2=Earthshaker
+|hero3=Tusk
+|mmr=7424
+|mmrdate=2016-12-13
+|ids=XSVG, Savage
+|country=USA
+|birth_date=
+|site=
+|twitch=SVGDota
+|tlstream=
+|tlprofile=
+|twitter=SVGDota
+|datdota=5085
+|dotabuff=47434686
+|history=
+{{TH|2015-08-?? — 2015-09-01|Dark Horse}}
+{{TH|2015-09-01 — 2015-11-27|Cloud9}}
+{{TH|2015-12-06 — 2016-05-16|Shazam}}
+{{TH|2016-05-16 — 2016-08-19|Evil Geniuses|coach}}
+{{TH|2016-09-08 — '''Present'''|Team NP}}
+}}
+
+Avery "'''SVG'''" Silverman is a professional Dota 2 player who is currently playing support for [[Team NP]]. He has also played for [[Cloud9]], [[Shazam]], and coached [[Evil Geniuses]].
+</textarea>]

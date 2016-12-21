@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=qianqian
+|name2=Results
+|link2=qianqian/Results
+|This=1
+}}
+{{Infobox player
+|id=qianqian
+|image=PlayerImagePlaceholder.png
+|name=李文尧
+|romanized_name=Li Wenyao
+|team=
+|ids=qian
+|role=mid
+|status=Active
+|hero=Queen of Pain
+|hero2=Shadow Fiend
+|hero3=Batrider
+|mmr=6946
+|mmrdate=2016-11-30
+|country=China
+|datdota=
+|dotabuff=137925613
+|tencent=
+|weibo=
+|history=
+{{TH|2014-10-30 — 2015-03-12|TongFu.WanZhou}}
+{{TH|2015-04-12 — 2015-06-25|TongFu}}
+{{TH|2015-07-10 — 2015-09-04|Team Braveheart}}
+{{TH|2015-09-14 — 2016-01-01|FTD Club B}}
+{{TH|2016-01-14 — 2016-03-22|FTD Club A}}
+{{TH|2016-03-22 — 2016-09-17|FTD Club C}}
+}}
+
+Li '''"qianqian"''' Wenyao is a professional Dota 2 player currently teamless.
+</textarea>]

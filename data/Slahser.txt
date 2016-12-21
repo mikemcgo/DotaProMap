@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:slahser}}
+{{Tabs static
+|name1=Overview
+|link1=Slahser
+|name2=Results
+|link2=Slahser/Results
+|This=1
+}}
+{{Infobox player
+|id=slahser
+|image=
+|name=
+|team=
+|birth_date=
+|country=Denmark
+|status=Retired
+|hero=
+|hero2=
+|hero3=
+|role=support
+|twitch=slahserdota
+|tlstream=
+|tlprofile=
+|vk=
+|facebook=slahserdota
+|reddit=slahser
+|datdota=
+|dotabuff=166119739
+|sponsor=
+|site=
+|twitter=slahserdota
+|videoarchive=
+|youtube=channel/UC5iwG4dCIghdKbBfqfyxIdQ
+|history=
+'''Dota:'''&lt;br&gt;
+{{TH|2007 — ?|Meet Your Makers}}
+}}
+
+Lasse '''"slahser"''' Malver is a Danish player who did play for [[Meet Your Makers]] in 2007.
+</textarea>]

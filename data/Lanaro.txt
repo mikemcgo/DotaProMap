@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Lanaro
+|name2=Results
+|link2=Lanaro/Results
+|This=1
+}}
+{{Infobox player
+|id=Lanaro
+|image=LANARO.jpg
+|name=João Pedro Lanaro
+|team=VINCE TE IPSUM
+|birth_date=
+|country=Brazil
+|hero=Invoker
+|hero2=Storm Spirit
+|hero3=am
+|mmr=7757
+|mmrdate=2016-10-30
+|role=mid
+|role2=carry
+|status=Active
+|facebook=lanarinho
+|dotabuff=94120026
+|twitch=lanarinho
+|ids=Lanarinho
+|history=
+{{TH|2013-10-?? — 2016-02-10|Ode}}
+{{TH|2016-02-10 — 2016-03-14|T Show}}
+{{TH|2016-03-14 — 2016-05-24|paiN Gaming}}
+{{TH|2016-06-12 — 2016-09-16|T Show}}
+{{TH|2016-09-16 — 2016-10-20|Encore e-Sports}}
+{{TH|2016-10-25 — '''Present'''|VINCE TE IPSUM}}
+}}
+
+João Pedro '''"Lanaro"''' is a professional Dota 2 player who is currently playing for [[VINCE TE IPSUM]].
+</textarea>]

@@ -1,0 +1,27 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Gio
+|name2=Results
+|link2=Gio/Results
+|This=1
+}}
+{{Infobox player
+|id=Gio
+|image=PlayerImagePlaceholder.png
+|name=Jose Ramolete
+|team=
+|role=support
+|hero=Rubick
+|hero2=Keeper of the Light
+|hero3=Leshrac
+|ids=
+|country=Philippines
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-02 — 2014-06-10|Mineski}}
+{{TH|2015-04-10 — 2015-08-28|Mineski}}
+}}
+
+Jose '''"Gio"''' Ramolete most recently played for team [[Mineski]].
+</textarea>]

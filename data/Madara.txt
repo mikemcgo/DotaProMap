@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Madara
+|name2=Results
+|link2=Madara/Results
+|This=1
+}}
+{{Infobox player
+|id=Madara
+|image=Madarapic.jpg
+|name=Ομάρ Δαβάσας
+|romanized_name=Omar Dabachach
+|team=Ad Finem
+|role=carry
+|status=Active
+|hero=juggernaut
+|hero2=sven
+|hero3=slark
+|ids=
+|country=Greece
+|datdota=5380
+|mmr=8453
+|mmrdate=2016-12-12
+|birth_date= 
+|site=
+|youtube=
+|fanpage=
+|twitter=madaradota2
+|dotabuff=95430068
+|history={{TH|2014-05-?? — 2014-11-08|XtremeXPC International}}
+{{TH|2014-11-08 — 2015-08-17|London Conspiracy}}
+{{TH|2015-08-17 — 2015-11-04|Golden Boys}}
+{{TH|2015-08-17 — 2015-12-04|No Logic Gaming}}
+{{TH|2015-12-04 — '''Present'''|Ad Finem}}
+}}
+
+Omar '''"Madara"''' Dabasas is a Greek Dota 2 player, currently playing a core role for [[Ad Finem]].
+</textarea>]

@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">Ryuya '''"Ryuya"''' Ikeda is a Japanese DotA player for [[DeToNator|Team DeToNator]].
+
+
+{{Tabs static
+|name1=Overview
+|link1=Ryuya
+|name2=Results
+|link2=Ryuya/Results
+|This=1
+}}
+{{Infobox player
+|id=Ryuya
+|image=
+|name=Ryuya Ikeda
+|ids= Eryngii, Ryuuya, CaLaMiTy`
+|team=DeToNator
+|birth_date=
+|role=offlane
+|hero=Phoenix
+|hero2=Batrider
+|hero3=Spirit Breaker
+|country=Japan
+|facebook=
+|site=
+|twitch=det_calamity
+|tlstream=
+|tlprofile=
+|youtube=
+|twitter=DeT_CaLaMiTy
+|dotabuff=85185981
+|history= 
+{{TH|2014-06-28 — 2015-01-05|AffectioN!}}
+{{TH|2015-01-05 — '''Present'''|DeToNator}}
+}}
+</textarea>]

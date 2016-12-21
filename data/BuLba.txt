@@ -1,0 +1,51 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=BuLba
+|name2=Results
+|link2=BuLba/Results
+|This=1
+}}
+{{Infobox player
+|id=BuLba
+|image=WIH-r6FXm.jpg
+|name=ಕನಿಶ್ಕ ಸೋಸಲೆ
+|romanized_name=Kanishka "Sam" Sosale
+|team=Team Liquid
+|sponsor=
+|ids=BuLba-SaUr, flow
+|birth_date={{Birth date and age|1991|07|10}}
+|country=United States
+|country2=India
+|hero=Clockwerk 
+|hero2=Batrider
+|hero3=Beastmaster
+|mmr=7529
+|mmrdate=2016-12-04
+|role=support
+|role2=offlane
+|status=Active
+|reddit=bulba-saurr
+|tlstream=LiquidBuLba
+|tlprofile=BuLba
+|twitch=liquidbulba
+|site=
+|twitter=BuLbaDotA_
+|datdota=26
+|dotabuff=30237211
+|youtube=
+|history=
+{{TH|2011-09-02 — 2011-12-19|EZ Style}}
+{{TH|2011-12-19 — 2012-04-16|It's Gosu eSports}}
+{{TH|2012-05-08 — 2012-09-12|Evil Geniuses}}
+{{TH|2012-12-08 — 2014-08-29|Team Liquid}}
+{{TH|2014-08-11 — 2015-05-08|Team Tinker}}
+{{TH|2015-05-08 — 2015-07-16|mousesports}}
+{{TH|2015-08-24 — 2016-03-25|Digital Chaos}}
+{{TH|2016-03-25 — 2016-06-09|Evil Geniuses}}
+{{TH|2016-06-09 — 2016-08-27|Team Secret}}
+{{TH|2016-09-16 — '''Present'''|Team Liquid}}
+}}
+
+Kanishka 'Sam' '''"BuLba"''' Sosale is an Indo-American&lt;ref&gt;[http://www.reddit.com/r/DotA2/comments/1iyu14/ti3_pubstomp_in_delhi_india/cb9utrs]&lt;/ref&gt; Dota 2 player who is currently playing for [[Team Liquid]]. He is well-known for his [[Invoker]] play and pioneered the use of the "early March of the Machines skill build" on [[Tinker]].
+</textarea>]

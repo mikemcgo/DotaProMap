@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Reesion
+|name2=Results
+|link2=Reesion/Results
+|This=1
+}}
+{{Infobox player
+|id=Reesion
+|image=PlayerImagePlaceholder.png
+|name=David Siekas
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Sweden
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011-12-21 — 2012-09-12|Team Infused}}
+{{TH|2012-09-12 — 2012-10-18|Skånes Elit}}
+{{TH|2012-10-18 — 2013-01-07|Pulse eSports}}
+}}
+
+David '''"Reesion"''' Siekas is a Dota 2 player that is currently teamless.
+</textarea>]

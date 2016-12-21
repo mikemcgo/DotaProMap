@@ -1,0 +1,58 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Black^
+|name2=Results
+|link2=Black^/Results
+|This=1
+}}
+{{Infobox player
+|id=Black^
+|image=WIH-Black-3b3XD.jpg
+|name=Dominik Reitmeier
+|team=Team Faceless
+|birth_date{{Birth date and age|1993|4|19}}
+|country=Germany
+|hero=Anti-Mage
+|hero2=Gyrocopter
+|hero3=Invoker
+|mmr=8004
+|mmrdate=2016-09-02
+|role=carry
+|status=Active
+|datdota=53
+|tencent=BlackWeiboDota2
+|ldstream=Black
+|twitch=blackdotatv
+|stream=http://www.huomaotv.com/live/423
+|tlprofile=BlackDragon553
+|site=
+|twitter=BlackDotA2
+|youtube=
+|fanpage=
+|facebook=DominikBlackReitmeier
+|reddit=BlackDragon553
+|dotabuff=21289303
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2011-11-18 — 2012-01-03|Gamersleague}}
+{{TH|2012-??-?? — 2012-03-26|Next.kz}}
+{{TH|2012-05-09 — 2012-10-16|mousesports}}
+{{TH|2012-10-17 — 2012-10-21|The GD B-Team}}
+{{TH|2012-10-24 — 2012-11-21|Team Zero}}
+{{TH|2012-11-21 — 2013-09-14|mousesports}}
+{{TH|2013-09-14 — 2013-12-16|LGD.int}}
+{{TH|2014-03-27 — 2014-07-28|CIS Game}}
+{{TH|2014-08-26 — 2015-02-11|Vici Gaming}}
+{{TH|2015-03-10 — 2015-05-08|Team Tinker}}
+{{TH|2015-05-08 — 2015-07-16|mousesports}}
+{{TH|2015-08-26 — 2015-12-03|Fnatic}}
+{{TH|2015-12-07 — 2015-12-31|NO-VASELINE}}
+{{TH|2016-01-02 — 2016-01-??|Burden United}}
+{{TH|2016-03-22 — 2016-??-??|Avengers}}
+{{TH|2016-04-06 — 2016-04-27|E-LAB}}
+{{TH|2016-04-27 — 2016-06-21|HWA Gaming}}
+{{TH|2016-09-03 — '''Present'''|Team Faceless}}
+}}
+
+Dominik '''"Black^"''' Reitmeier is a professional Dota 2 player who is currently playing carry for [[Team Faceless]].
+</textarea>]

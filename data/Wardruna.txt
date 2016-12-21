@@ -1,0 +1,22 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Infobox player
+|id=Wardruna
+|image=
+|name=Wardruna
+|race=
+|team=Siberian Wild
+|sponsor=
+|ids=Wardruna, Sungrief
+|country=Bulgaria
+|tlpdid=
+|hero=Keeper Of The Light
+|hero2=Dark Seer
+|hero3=Furion
+|role=Support, Off-laner
+|nicknames=Wardruna, Sungrief
+|twitch=sungrief
+|twitter=
+|youtube=sungrief
+|fanpage=
+|history=
+}}
+</textarea>]

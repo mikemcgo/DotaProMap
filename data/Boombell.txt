@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:boombell}}
+{{Tabs static
+|name1=Overview
+|link1=Boombell
+|name2=Results
+|link2=Boombell/Results
+|This=1
+}}
+{{Infobox player
+|id=boombell
+|image=PlayerImagePlaceholder.png
+|name=
+|romanized_name=Anurat Praianun
+|team=Signature.Trust
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=6461
+|mmrdate=2016-07-05
+|ids=FTG
+|country=Thailand
+|birth_date=
+|datdota=727
+|dotabuff=101460882
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|201?-??-?? — 2014-01-10|Awake}}
+{{TH|2014-01-10 — 2014-??-??|MiTH}}
+{{TH|2015-0?-?? — '''Present'''|Signature}}
+}}
+
+Anurat '''"boombell"''' Praianun is a professional Dota 2 player currently playing for [[Signature.Trust]].
+</textarea>]

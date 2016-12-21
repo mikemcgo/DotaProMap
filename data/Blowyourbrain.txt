@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:blowyourbrain}}
+{{Tabs static
+|name1=Overview
+|link1=Blowyourbrain
+|name2=Results
+|link2=Blowyourbrain/Results
+|This=1
+}}
+{{Infobox player
+|id=blowyourbrain
+|image=Blowyourbrain_Starladder.jpg
+|name=Владислав Морозюк
+|romanized_name=Vladislav Morozyuk
+|team=
+|role=carry
+|status=Active
+|hero=Undying
+|hero2=Chaos Knight
+|twitch=blowyourbrain1d
+|tlstream=
+|tlprofile=
+|twitter=blowyourbrain1d
+|ids=Phe`V
+|country=Russia
+|dotabuff=87201671
+|birth_date= {{Birth date and age|1992|10|03}}
+|history=
+{{TH|2012-03-22 — 2013-09-01|Team Empire}}
+{{TH|2013-11-05 — 2013-11-30|Virtus.pro}}
+{{TH|2014-08-08 — 2014-11-21|Moscow 5}}
+{{TH|2015-09-04 — 2015-12-??|NewAfkTeam}}
+{{TH|2015-12-?? — 2015-12-??|The Retry}}
+{{TH|2016-01-01 — 2016-02-09|Elements One}}
+}}
+
+Vladislav '''"blowyourbrain"''' Morozyuk is a professional Russian Dota 2 player who is currently teamless. He is best known for playing carry for [[Team Empire]] from March 2012 to September 2013.
+</textarea>]

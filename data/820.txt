@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=820
+|name2=Results
+|link2=820/Results
+|This=1
+}}
+{{Infobox player
+|id=820
+|image=
+|name=邹倚天
+|romanized_name=Zou Yitian
+|race=
+|team=Old Boys
+|sponsor=
+|role=support
+|role2=coach
+|status=Retired
+|ids=820, EH.820.GIGABYTE, EH.GIGABYTE.820, EHOME.820.CN
+|country=China
+|tlpdid=
+|birth_date= 13.04.1990 
+|nicknames=
+|site=
+|stream=
+|twitter=
+|youtube=
+|fanpage=
+|history={{TH|2011-??-?? - 2012-??-??|EHOME}}
+{{TH|2014-08-23 - 2015-05-26|Old Boys}}
+{{TH|2014-03-05 - 2015-03-15|LGD Gaming|coach}}
+}}
+Zou '''"820"''' Yitian played the support role for [[Old Boys]] and was the coach of [[LGD Gaming]].
+</textarea>]

@@ -1,0 +1,18 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Squeei
+|image=PlayerImagePlaceholder.png
+|name=George Uzcategui
+|team=
+|country=United States
+|hero=Storm Spirit
+|hero2=Ursa
+|hero3=Pudge
+|role=mid
+|status=Active
+|history=
+{{TH|2014-09-04 — 2014-??-??|Dream Destroyers}}
+}}
+
+George '''"Squeei"''' Uzcategui is a professional Dota 2 player that frequently stands in for [[CompLexity]].
+</textarea>]

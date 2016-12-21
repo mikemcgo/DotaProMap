@@ -1,0 +1,48 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=UnderShock
+|name2=Results
+|link2=UnderShock/Results
+|This=1
+}}
+{{Infobox player
+|id=UnderShock
+|image=PlayerImagePlaceholder.png
+|name=Дмитрий Большаков
+|romanized_name=Dmitry Bolshakov
+|team=F.R.I.E.N.D.S.
+|twitter=undershock17
+|twitch=undershockk
+|vk=undershocktv
+|role=mid
+|status=Active
+|hero=Puck
+|hero2=Storm Spirit
+|hero3=Lina
+|mmr=7593
+|mmrdate=2016-09-24
+|ids=
+|country=Russia
+|datdota=1922
+|dotabuff=113372833
+|birth_date=
+|history=
+{{TH|2013-08-?? — 2013-12-12|Enterprise Gaming}}
+{{TH|2013-12-12 — 2014-01-??|NRAGED.int}}
+{{TH|2014-01-?? — 2014-02-??|Courage Gaming}}
+{{TH|2014-03-03 — 2014-04-15|Ahead Gaming}}
+{{TH|2014-05-01 — 2014-??-??|CounterHelix}}
+{{TH|2014-12-?? — 2014-??-??|AlbumSheet}}
+{{TH|2014-12-23 — 2015-02-01|Vega Squadron}}
+{{TH|2015-02-?? — 2015-??-??|XX5 Gaming}}
+{{TH|2015-08-24 — 2015-10-21|aSpera}}
+{{TH|2015-10-21 — 2015-10-27|hard'N'play}}
+{{TH|2015-12-07 — 2016-02-09|HellRaisers}}
+{{TH|2016-03-16 — 2016-04-15|Prodota Gaming}}
+{{TH|2016-06-05 — 2016-08-01|sQreen's Squad}}
+{{TH|2016-09-15 — '''Present'''|F.R.I.E.N.D.S.}}
+}}
+
+Dmitry '''"UnderShock"''' Bolshakov is a professional Russian Dota 2 player currently playing for [[F.R.I.E.N.D.S.]].
+</textarea>]

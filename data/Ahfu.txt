@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ahfu
+|name2=Results
+|link2=Ahfu/Results
+|This=1
+}}
+{{Infobox player
+|id=Ahfu
+|image=PlayerImagePlaceholder.png
+|name=Tue Soon Chuan
+|team=WarriorsGaming.Unity
+|ids=Taufukia, ah fu
+|role=support
+|role2=captain
+|status=Active
+|hero=Enigma
+|hero2=Vengeful Spirit
+|hero3=Earth Spirit
+|mmr=7018
+|mmrdate=2016-10-03
+|country=Malaysia
+|birth_date=
+|datdota=
+|dotabuff=119576842
+|facebook=
+|twitter=
+|history=
+{{TH|2014-04-07 — 2014-07-24|Nara Stacks}}
+{{TH|2014-11-26 — 2015-01-04|Mineski}}
+{{TH|2016-03-09 — '''Present'''|WarriorsGaming.Unity}}
+}}
+
+Tue '''"Ahfu"''' Soon Chuan is a professional Dota 2 player and currently the captain of [[WarriorsGaming.Unity]].
+</textarea>]

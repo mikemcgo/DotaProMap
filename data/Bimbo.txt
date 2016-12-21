@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Bimbo
+|name2=Results
+|link2=Bimbo/Results
+|This=1
+}}
+{{Infobox player
+|id=Bimbo
+|image=Bimbo frankfurt major 2015.jpg
+|name=Ryan Jay Qui
+|team=Mineski
+|role=mid
+|status=Active
+|hero=Invoker
+|hero2=Anti-Mage
+|hero3=Meepo
+|mmr=7307
+|mmrdate=2016-11-24
+|ids=Jay, raging-_-potato, Raging Potato
+|country=Philippines
+|birth_date=
+|datdota=5021
+|dotabuff=192914280
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2011-10-?? — 2014-07-28|Mineski}}
+{{TH|2014-08-22 — 2014-10-29|Execration}}
+{{TH|2014-11-06 — '''Present'''|Mineski}}
+}}
+
+Ryan '''"Bimbo"''' Jay Qui is a professional Filipino player currently playing for [[Mineski]].
+</textarea>]

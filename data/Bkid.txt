@@ -1,0 +1,27 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Liquipedia links|hots=bkid}}
+{{Infobox player
+|id=Bkid
+|image=Bkid_profile.jpg
+|name=Josh Choi
+|birth_date={{birth date and age|1989|05|08}}
+|country=United States
+|hero=Sand King
+|hero2=Earthshaker
+|hero3=Mirana
+|role=support
+|status=Retired
+|ids=Bendi
+|history=
+{{TH|2014-05-01 — 2014-??-??|Dream Destroyers}}
+|twitch=bkids2
+|facebook=col.bkid
+|datdota=4386&amp;player=Bendi
+|sponsor=
+|site=
+|twitter=
+|youtube=
+}}
+
+Josh "'''Bkid'''" Choi was a professional Heroes of Newerth player, who switched to Dota 2 currently playing with [[Dream Destroyers]], known for his intelligent drafting and leading many Heroes of Newerth teams to victory.
+</textarea>]

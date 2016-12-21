@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{lowercase}}
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ubah
+|name2=Results
+|link2=ubah/Results
+|This=1
+}}
+{{Infobox player
+|id=ubah
+|image=PlayerImagePlaceholder.png
+|name=Иван Капустин
+|romanized_name=Ivan Kapustin
+|team=
+|role=support
+|role2=coach
+|status=Active
+|hero=Dazzle
+|hero2=Witch doctor
+|hero3=Rubick
+|ids=yolowarrior, yw
+|country=Russia
+|datdota=
+|dotabuff=135270298
+|twitch=ubah
+|mmr=7727
+|mmrdate=2016-08-20
+|vk=ubahdota2
+|birth_date=
+|history=
+{{TH|2015-01-05 — 2015-??-??|XX5 Gaming}}
+{{TH|2015-08-25 — 2015-10-04|Team Empire}}
+{{TH|2015-12-07 — 2016-03-22|HellRaisers}}
+{{TH|2016-03-26 — 2016-11-14|Power Rangers|coach}}
+}}
+Ivan '''"ubah"''' (pronounced I-van) Kapustin is a professional Russian Dota 2 player who was last a coach and substitute player for [[Power Rangers]].
+</textarea>]

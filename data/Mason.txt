@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=Mason
+|name2=Results
+|link2=Mason/Results
+|This=1
+}}
+{{Infobox player
+|id=mason
+|image=Mason.jpg
+|team=
+|name=Mason Venne
+|country=United States
+|role=carry
+|status=Active
+|hero=Weaver
+|hero2=Mirana
+|hero3=Storm Spirit
+|twitter=masondota
+|datdota=2662
+|dotabuff=121847953
+|twitch=masonmjw
+|askfm=masonxdxd
+|history=
+{{TH|2013-09-29 — 2013-10-08|Take Five}}
+{{TH|2014-06-02 — 2014-07-28|Evil Geniuses}}
+{{TH|2015-08-30 — 2015-10-25|High Council of Wizards&amp;Priests}}
+{{TH|2015-12-06 — 2016-01-17|Shazam}}
+{{TH|2016-04-29 — 2016-06-?? |Dragneel}}
+{{TH|2016-09-15 — 2016-09-21 |Doo Wop}}
+}}
+
+Mason "'''mason'''" Venne is an American professional Dota 2 player who is currently teamless.
+</textarea>]

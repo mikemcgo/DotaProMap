@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=TnK
+|name2=Results
+|link2=TnK/Results
+|This=1
+}}
+{{Infobox player
+|id=TnK
+|image=PlayerImagePlaceholder.png
+|name=Trai Akaravinak
+|team=
+|role=offlane
+|status=Active
+|hero=batrider
+|hero2=dark seer
+|hero3=
+|Other_ids=
+|country=Thailand
+|birth_date=
+|datdota=247
+}}
+
+Trai '''"TnK"''' Akaravinak is a retired professional Dota 2 player.
+</textarea>]

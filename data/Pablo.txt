@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Pablo
+|name2=Results
+|link2=Pablo/Results
+|This=1
+}}
+{{Infobox player
+|id=Pablo
+|image=PlayerImagePlaceholder.png
+|name=Axel Källman 
+|team=Horde
+|birth_date=
+|country=Sweden
+|role=support
+|status=Active
+|hero=Rubick
+|hero2=Winter Wyvern
+|hero3=Skywrath Mage
+|mmr=6887
+|mmrdate=2016-08-26
+|ids=Le Cat
+|twitch=pablogaming13
+|twitter=pablogaming13
+|dotabuff=117015167
+|youtube=
+|facebook=
+|datdota=
+|tlstream=
+|vk=
+|history=
+{{TH|2015-01-26 — 2015-04-13|4 Friends + Chrillee}}
+{{TH|2015-08-29 — 2015-11-22|Alliance|sub}}
+{{TH|2015-12-12 — 2016-04-26|COOKISS}}
+{{TH|2016-09-17 — 2016-11-16|Memento Mori}}
+{{TH|2016-11-16  — '''Present'''|Horde}}
+}}
+
+Axel '''"Pablo"''' Källman is a Swedish Dota 2 player who is currently playing for [[Horde]].
+</textarea>]

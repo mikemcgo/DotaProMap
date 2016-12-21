@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=WwieWambo
+|name2=Results
+|link2=WwieWambo/Results
+|This=1
+}}
+{{Infobox player
+|id=wwieWambo
+|image=PlayerImagePlaceholder.png
+|name=Felix Schipke
+|team=Valkyrie eSports
+|role=support
+|hero=Silencer
+|hero2=Chen
+|hero3=Enchantress
+|mmr=6019
+|mmrdate=2016-08-25
+|ids=
+|facebook=wwiewambodota
+|dotabuff=115810875
+|twitch=wwiewambo487
+|country=Germany
+|birth_date={{birth date and age|1995|03|15}}
+|history={{TH|20??-??-?? - 2015-??-??|Cyclones}}
+{{TH|2015-09-01 - 2016-06-??|GOOMBA Gaming}}
+{{TH|2016-08-01 - '''Present'''|Valkyrie eSports}}
+}}
+
+Felix '''''WwieWambo''''' Schipke is professional Dota 2 player, currently playing for [[Valkyrie eSports]].
+</textarea>]

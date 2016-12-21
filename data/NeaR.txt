@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=NeaR
+|name2=Results
+|link2=NeaR/Results
+|This=1
+}}
+{{Infobox player
+|id=NeaR
+|image=PlayerImagePlaceholder.png
+|name=卢广坤
+|romanized_name=Lu Guangkun
+|team=CAVALRY
+|country=China
+|role=carry
+|role2=support
+|hero=Lycan
+|hero2=Morphling
+|hero3=Rubick
+|status=Active
+|mmr=7019
+|mmrdate=2016-11-30
+|datdota=
+|dotabuff=138154666
+|tencent=
+|history=
+{{TH|2014-03-?? — 2014-04-??|Orenda}} 
+{{TH|2014-10-?? — 2015-01-??|Energy Pacemaker}}
+{{TH|2015-10-?? — 2016-05-??|Thunderobot Gaming}}
+{{TH|2016-09-17 — '''Present'''|CAVALRY}}
+}} 
+
+Lu "'''NeaR'''" Guangkun is a professional Dota 2 player who is currently playing for [[CAVALRY]].
+</textarea>]

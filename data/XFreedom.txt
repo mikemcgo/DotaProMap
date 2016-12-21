@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=XFreedom
+|name2=Results
+|link2=XFreedom/Results
+|This=1
+}}
+{{Infobox player
+|id=xFreedom
+|image=XFreedom.jpg
+|name=Nicholas Kelvin Ileto Lim
+|team=White Fries Gaming
+|birth_date={{birth date and age|1993|5|10}}
+|country=Singapore
+|hero=Rubick
+|hero2=Shadow Demon
+|hero3=Enchantress
+|role=support
+|status=Active
+|site=
+|twitter=xfreeedom
+|twitch=eyeseyeseyes
+|datdota=84
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-03-29 — 2013-09-14|Team Zenith}}
+{{TH|2013-09-14 — 2013-12-26|LGD.int}}
+{{TH|2014-01-21 — 2014-08-09|Scythe Gaming}}
+{{TH|2014-??-?? —  2015-01-13|Team Zephyr}}
+{{TH|2015-04-05 —  2015-06-06|First Departure}}
+{{TH|2015-08-29 —  2015-??-??|SG Rejects}}
+{{TH|2016-03-26 —  '''Present'''|White Fries Gaming|sub}}
+}}
+
+
+Nicholas '''"xFreedom"''' Kelvin Ileto Lim is a professional Dota 2 player, currently playing for [[White Fries Gaming]].
+</textarea>]

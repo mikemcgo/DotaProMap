@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Kuře
+|name2=Results
+|link2=Kuře/Results
+|This=1
+}}
+
+{{Infobox player
+|id=Kure
+|ids=Kuře, Kurak
+|image=Kure-face.jpg
+|name=Matouš Mudřík
+|team=
+|teamlink=
+|birth_date=1992
+|country=Czech Republic
+|hero=Skywrath Mage
+|hero2=Shadow Demon
+|hero3=Lich
+|role=support
+|status=Active
+|reddit=
+|twitch=kure_stream
+|tlstream=
+|tlprofile=
+|datdota=
+|steam=76561198056730087
+|vk=
+|fanclub=
+|sponsor=
+|site=
+|twitter=
+|tencent=
+|dotabuff=96464359
+|youtube=UCARwXY9m1hBKg6Y4U-ECVmA/feed
+|history=
+{{TH|2012-??-?? — 2012-??-?? | PSG}}
+{{TH|2013-07-02 — ????-??-?? | Ensox}}
+{{TH|2014-05-?? — 2015-??-?? | Epidemic!}}
+|videoarchive=
+}}
+</textarea>]

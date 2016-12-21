@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ran
+|name2=Results
+|link2=Ran/Results
+|This=1
+}}
+{{Infobox player
+|id=Ran
+|image=Ran-EHOME.Luminous.jpg
+|name=方旭
+|country=China
+|romanized_name=Fang Xu
+|team=EHOME.Luminous
+|role=offlane
+|status=Active
+|hero=Faceless Void
+|hero2=Clockwerk
+|hero3=Centaur
+|mmr=7167
+|mmrdate=2016-11-30
+|ids=
+|birth_date=
+|datdota=
+|dotabuff=117197143
+|tencent=
+|weibo=
+|history=
+{{TH|2014-10-18 — 2014-12-04|HyperGloryTeam}}
+{{TH|2015-09-14 — 2016-06-??|FTD Club B}}
+{{TH|2016-06-?? — '''Present'''|EHOME.Luminous}}
+}}
+
+Fang "'''Ran'''" Xu is a professional Dota 2 player currently playing for [[EHOME.Luminous]].
+</textarea>]

@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|link1=Sheever
+|name1=Overview
+|link2=Sheever/Broadcasts
+|name2=Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Sheever
+|name=Jorien van der Heijden
+|image=Sheevercropped.jpg
+|team=
+|mmr=3682
+|mmrdate=2016-09-05
+|country=Netherlands
+|birth_date={{Birth date and age|1985|04|26}}
+|site=http://www.sheevergaming.com
+|twitter=sheevergaming
+|twitch=sheevergaming
+|tlstream=Sheever
+|role=caster
+|role2=host
+|tlprofile=Sheever
+|liquidotaprofile=Sheever
+|youtube=sheevergaming
+|fanpage=www.facebook.com/SheeverGaming
+|playlist=http://open.spotify.com/user/thelin79/playlist/5tmjPuvBk3JzGimhYqwtVO
+|reddit=Sheevar
+|history=
+}}
+
+Jorien '''"Sheever"''' van der Heijden is an English commentator.  She is a frequent caster for Dota 2 tournaments, and gave English interviews at [[The International/2012|The International 2012]].&lt;ref&gt;https://www.youtube.com/watch?v=-V881e_0t2U&lt;/ref&gt;. She's widely known for hosting [[DreamLeague]], and co-hosting [[Shanghai_Major/2016|The Shanghai Major 2016]] with [[Kotlguy]]
+</textarea>]

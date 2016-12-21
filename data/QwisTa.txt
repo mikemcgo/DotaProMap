@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=QwisTa
+|name2=Results
+|link2=QwisTa/Results
+|This=1
+}}
+{{Infobox player
+|id=QwisTa
+|image=PlayerImagePlaceholder.png
+|name=Михайло Ілляшенко
+|romanized_name=Mikhail Ilyashenko
+|team=Enso
+|role=carry
+|status=Active
+|hero=Phantom Lancer
+|hero2=Medusa
+|hero3=
+|ids=
+|country=Ukraine
+|birth_date=
+|dotabuff=100630244
+|history='''Dota 2'''&lt;br&gt;
+{{TH|2012-08-20 — 2013-03-28|Confidens Victoria}}
+{{TH|2013-03-28 — 2013-10-03|ScaryFaceZ}}
+{{TH|2014-??-?? — 2015-08-19|ScaryFaceZ}}
+{{TH|2015-08-20 — 2015-??-??|Siberian Valenki Black}}
+{{TH|2016-05-25 — '''Present'''|Enso}}
+}}
+
+Mikhail '''"QwisTa"''' Ilyashenko is a professional Dota 2 player who is currently playing for [[Enso]].
+</textarea>]

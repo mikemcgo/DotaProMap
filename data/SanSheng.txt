@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SanSheng
+|name2=Results
+|link2=SanSheng/Results
+|This=1
+}}
+{{Infobox player
+|id=SanSheng
+|image=SanSheng.jpg
+|name=王兆辉
+|romanized_name=Wang Zhaohui
+|team=Newbee
+|role=support
+|status=Retired
+|hero=Rubick 
+|hero2=Visage
+|hero3=Shadow Demon
+|ids=
+|country=China
+|birth_date= 
+|datdota=75&amp;player=SanSheng
+|stream=http://www.zhanqi.tv/11468
+|tencent=SanSheng3434
+|history='''DotA:'''&lt;br&gt;
+{{TH|2011-08-02 — 2011-11-23|Invictus Gaming}}
+{{TH|2012-02-23 — 2012-03-??|PanDarea}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2012-04-01 — 2014-02-19|TongFu}} 
+{{TH|2014-04-22 — 2015-12-07|Newbee}}
+}}
+Wang '''"SanSheng"''' Zhaohui is a Chinese professional Dota 2 player who is currently a coach for [[Newbee]].
+</textarea>]

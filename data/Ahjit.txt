@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ahjit
+|name2=Results
+|link2=Ahjit/Results
+|This=1
+}}
+{{Infobox player
+|id=Ahjit
+|image=PlayerImagePlaceholder.png
+|name=Lai Jay Son
+|team=WarriorsGaming.Unity
+|ids=Ah Jit
+|role=carry
+|status=Active
+|hero=Ember Spirit
+|hero2=Slark
+|hero3=Naga Siren
+|mmr=8113
+|mmrdate=2016-12-09
+|country=Malaysia
+|birth_date=
+|datdota=
+|dotabuff=126417273
+|twitter=
+|facebook=
+|history=
+{{TH|2015-04-14 — 2016-01-30|K2.Apes}}
+{{TH|2016-01-30 — 2016-04-01|Wu Jie}}
+{{TH|2016-04-03 — '''Present'''|WarriorsGaming.Unity}}
+}}
+
+Lai '''"Ahjit"''' Jay Son is a professional Dota 2 player currently playing for [[WarriorsGaming.Unity]].
+</textarea>]

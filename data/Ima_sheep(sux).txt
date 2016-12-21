@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:ima_sheep(sux)}}
+{{Tabs static
+|name1=Overview
+|link1=Ima sheep(sux)
+|name2=Results
+|link2=Ima sheep(sux)/Results
+|This=1
+}}
+{{Infobox player
+|id=ima_sheep(sux)
+|image=ima_sheep(sux).jpeg
+|name=Donal Cheung
+|team=
+|country=United States
+|hero=enchantress
+|hero2=Chen
+|hero3=Visage
+|role=Support
+|twitch=imasheepsux
+|facebook=pages/Imasheepsux/281203038558007
+|twitter=imasheepsux
+|datdota=1216
+|dotabuff=83625397
+|youtube=imasheepsux
+|history=
+{{TH|2013-08-?? — 2014-01-20|Pretty Boy Swag}}
+{{TH|2014-01-20 — 2014-05-31|Team eHug}}
+{{TH|2014-11-14 — 2015-01-10|Wheel Whreck While Whistling}}
+}}
+Donal "'''ima_sheep(sux)'''" Cheung is an American Dota 2 player who was most recently a member of [[Team eHug]] and [[Wheel Whreck While Whistling]]. Though he was first recognized for his strong Chen, Visage, and Enchantress skills, he is now known as a top North American support player.
+</textarea>]

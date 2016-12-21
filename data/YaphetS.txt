@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=YaphetS
+|name2=Results
+|link2=YaphetS/Results
+|This=1
+}}
+{{Infobox player
+|id=YaphetS
+|image=PlayerImagePlaceholder.png
+|name=卜严骏
+|romanized_name=Bu Yanjun
+|team=
+|role=mid
+|status=Inactive
+|hero=Shadow Fiend
+|hero2=Queen of Pain
+|hero3=Invoker
+|mmr=8031
+|mmrdate=2016-12-07
+|dotabuff=204640412
+|stream=http://www.douyutv.com/pis 
+|ids=pis
+|country=China
+|birth_date={{Birth date and age|1990|3|8}}
+|history=
+{{TH|&lt;small&gt;'''DotA: Allstars'''&lt;/small&gt;|no-link=true}}
+{{TH|2010-06-05 — 2011-01-19|Nirvana|}}
+{{TH|2010-01-07 — 2010-06-04|CityHunter|}}
+{{TH|&lt;small&gt;'''Dota 2'''&lt;/small&gt;|no-link=true}}
+{{TH|2010-01-07 — 2010-06-04|TongFu}}
+{{TH|2013-01-28 - ????-??-??|Vici Gaming}}
+{{TH|2013-11-17 — 2013-11-25|TongFu}}
+{{TH|2015-04-04 — 2015-09-04|Immortal Magneto Gaming}}
+{{TH|2015-09-04 — 2015-12-??|Team FanTuan}}
+}}
+
+Bu '''"YaphetS"''' Yanjun, also known as ''''PIS'''' or ''''Perfect is Shit'''', is a professional DotA player who is currently teamless. He was considered the best Shadow Fiend player in the world at the height of his DotA career.
+</textarea>]

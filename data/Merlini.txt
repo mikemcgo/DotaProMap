@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{tabs static
+|name1=Overview
+|link1=Merlini
+|name2=Results
+|link2=Merlini/Results
+|name3=Broadcasts
+|link3=Merlini/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Merlini
+|image=Merlini ESL Frankfurt 2015.jpg
+|name=Ben Wu
+|team=
+|birth_date={{Birth date and age|1987|10|23}}
+|country=USA
+|hero=Zeus
+|hero2=tinker
+|hero3=Rubick
+|mmr=6196
+|mmrdate=2016-05-12
+|role=caster
+|role2=mid
+|status=Retired
+|twitch=merlinidota
+|facebook=merlinidota
+|tlstream=
+|tlprofile=
+|sponsor=
+|site=http://merlinidota.com/
+|twitter=merlinidota
+|datdota=559
+|dotabuff=67760037
+|videoarchive=
+|youtube=merlinidota
+|history='''DotA:'''&lt;br&gt;
+{{TH|2008 — 2009|MYM}}
+{{TH|2009|EG}}
+{{TH|2009 — 2010|OK.Nirvana.int}}
+{{TH|2012|SK Gaming}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2014-08-03 — 2014-??-??|Zephyr}}
+{{TH|2015-02-25 — 2015-03-20|Monib Baray}}
+}}
+
+Ben '''"Merlini"''' Wu is a professional caster, streamer and an ex-professional DotA player, currently casting for Beyond the Summit.
+</textarea>]

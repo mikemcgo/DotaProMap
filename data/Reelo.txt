@@ -1,0 +1,22 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Reelo
+|image=reelo_profile.jpeg
+|name=Oscar Ljungberg 
+|country=Sweden
+|team=
+|role=mid
+|hero=Brewmaster
+|hero2=Shadow Fiend
+|hero3=Outworld Devourer
+|ids=reelo
+|twitch=reelo1
+|twitter=oscarljungberg
+|facebook=oscarljungberg
+|history=
+{{TH|2013-10-05 — 2014-05-07|hehe united}}
+{{TH|2014-09-14 — 2014-10-06|LAJONS}}
+}}
+
+Oscar "'''Reelo'''" Ljungberg was a former professional Swedish Heroes of Newerth player who recently switched full time to Dota 2. He is currently teamless.
+</textarea>]

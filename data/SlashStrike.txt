@@ -1,0 +1,46 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:SlashStrike}}
+{{Tabs static
+|name1=Overview
+|link1=SlashStrike
+|name2=Results
+|link2=SlashStrike/Results
+|This=1
+}}
+{{Infobox player
+|id=SlashStrike
+|ids=Slash Strike, SlashStrike
+|image=
+|name=Стоян Кралчев
+|romanized_name=Stoyan Kralchev
+|team=Sanguine Sharks
+|country=Bulgaria
+|role=mid
+|mmr=7069
+|mmrdate=2016-09-05
+|status=Active
+|hero=Ember Spirit
+|hero2=Templar Assassin
+|hero3=Storm Spirit
+|youtube=ShadowRaze999
+|facebook=SlashStrike
+|twitch=SlashStrike
+|twitter=StoyanKralchev
+|dotabuff=66228684
+|history=
+{{TH|2013-??-?? — 2014-??-??|Exhausted Samurai roniN}}
+{{TH|2014-??-?? — 2014-??-??|Adrenal1ne Rush}}
+{{TH|2014-??-?? — 2014-04-29|Vast Cast}}
+{{TH|2014-04-29 — 2014-07-02|Aftershock Gaming}}
+{{TH|2014-??-?? — 2015-01-??|House of Gamers}}
+{{TH|2015-01-19 — 2015-04-??|GameOnline}}
+{{TH|2015-??-?? — 2015-??-??|mYinsanity}}
+{{TH|2015-09-04 — 2015-??-??|KomandaMinus}}
+{{TH|2015-12-07 — 2016-??-??|VodkaVikings}}
+{{TH|2016-03-23 — 2016-06-06|GOOMBA Gaming}}
+{{TH|2016-06-06 — 2016-07-28|Sanguine Sharks}}
+{{TH|2016-07-28 — 2016-08-21|PRIES Gaming}}
+{{TH|2016-08-21 — '''Present'''|Sanguine Sharks}}
+}}
+
+Stoyan '''"SlashStrike"''' Kralchev is an Dota 2 player and streamer who is currently playing for [[Sanguine Sharks]].
+</textarea>]

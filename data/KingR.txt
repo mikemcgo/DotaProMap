@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=KingR
+|name2=Results
+|link2=KingR/Results
+|This=1
+}}
+{{Infobox player
+|id=KingR
+|image=KingR ESL One Manila 2016.jpg
+|name=Ринат Абдуллин
+|romanized_name=Rinat Abdullin 
+|team=Team Empire
+|role=support
+|status=Active
+|hero=Vengeful Spirit
+|hero2=Lina
+|hero3=Io
+|mmr=7019
+|mmrdate=2016-10-12
+|ids=KingR?!
+|datdota=5070
+|twitter=R1nater
+|twitch=kingrdoto
+|vk=kingrdoto
+|dotabuff=182993582
+|country=Russia
+|birth_date={{Birth date and age|1993|8|22}}
+|history=
+{{TH|2014-10-04 — 2014-11-21|Moscow Five}}
+{{TH|2015-01-05 — 2015-04-??|XX5 Gaming}}
+{{TH|2014-04-27 — 2015-06-16|Power Rangers}}
+{{TH|2014-06-25 — 2015-08-??|aSpera}}
+{{TH|2015-08-22 — 2015-09-04|sQreen's Squad}}
+{{TH|2015-09-04 — 2015-12-08|Fantastic Five 2015}}
+{{TH|2015-12-08 — 2016-01-10|Elements Pro Gaming}}
+{{TH|2016-03-25 — '''Present'''|Team Empire}}
+}}
+
+Rinat "'''KingR'''" Abdullin  is a professional Dota 2 player who is currently playing for [[Team Empire]].
+</textarea>]

@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Miposhka
+|name2=Results
+|link2=Miposhka/Results
+|This=1
+}}
+{{Infobox player
+|id=Miposhka
+|image=PlayerImagePlaceholder.png
+|name=Ярослав Найдёнов
+|romanized_name=Yaroslav Naidenov 
+|team=Team Empire
+|role=support
+|status=Active
+|hero=Earth Spirit
+|hero2=Enchantress
+|hero3=Bounty Hunter
+|mmr=7925
+|mmrdate=2016-12-08
+|other_ids=
+|datdota=
+|twitter=miposhka
+|twitch=
+|vk=miposhkapage
+|dotabuff=113331514
+|country=Russia
+|birth_date={{Birth date and age|1997|11|30}}
+|history=
+{{TH|2014-11-01 — 2015-09-01|Yellow Submarine}}
+{{TH|2015-09-01 — 2015-10-23|PRIES Gaming}}
+{{TH|2015-10-24 — 2015-??-??|Yellow Submarine}}
+{{TH|2016-02-11 — 2016-03-25|Enso}}
+{{TH|2016-03-25 — '''Present'''|Team Empire}}
+}}
+
+Yaroslav "'''Miposhka'''" Naidenov  is a professional Dota 2 player who is currently playing for [[Team Empire]].
+</textarea>]

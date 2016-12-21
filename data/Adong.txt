@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Adong
+|name2=Results
+|link2=Adong/Results
+|This=1
+}}
+{{Infobox player
+|id=Adong
+|image=PlayerImagePlaceholder.png
+|name=陈英东
+|romanized_name=Chen Yingdong
+|team=DUOBAO
+|ids=kirr
+|role=support
+|status=Active
+|hero=Disruptor
+|hero2=Lion
+|hero3=
+|mmr=7272
+|mmrdate=2016-11-30
+|country=China
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=137273293
+|birth_date=
+|history=
+{{TH|2014-06-18 — 2015-01-??|Dream Gaming}}
+{{TH|2015-10-01 — 2015-12-??|E-Sports Dream}}
+{{TH|2016-03-20 — '''Present'''|DUOBAO}}
+}}
+
+Chen '''"Adong"''' Yingdong is a Chinese professional Dota 2 player who currently plays for [[DUOBAO]].
+</textarea>]

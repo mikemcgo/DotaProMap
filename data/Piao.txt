@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Piao
+|name2=Results
+|link2=Piao/Results
+|This=1
+}}
+{{Infobox player
+|id=Piao
+|image=PlayerImagePlaceholder.png
+|name=彭仁杰
+|romanized_name=Peng Renjie
+|team=Brave Heart
+|role=mid
+|role2=carry
+|status=Active
+|hero=Storm Spirit
+|hero2=Ember Spirit
+|hero3=Juggernaut
+|ids=飘杰
+|country=China
+|datdota=
+|dotabuff=175538337
+|mmr=7403
+|mmrdate=2016-11-30
+|twitter=
+|birth_date={{Birth date and age|1995|08|23}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-09-22 — 2015-04-02|Speed Gaming}}
+{{TH|2015-04-02 — 2015-09-01 |Newbee.Y}}
+{{TH|2015-09-01 — 2016-03-?? |EHOME.K}}
+{{TH|2016-03-?? — 2016-05-29|To.be.or.not.to.be}}
+{{TH|2016-06-01 — '''Present'''|Brave Heart}}
+}}
+
+Peng '''"Piao"''' Renjie is a professional Chinese Dota 2 player currently playing for [[Brave Heart]].
+</textarea>]

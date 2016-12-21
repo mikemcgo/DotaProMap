@@ -1,0 +1,49 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Player-stub}}
+{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=Ixmike88
+|name2=Results
+|link2=Ixmike88/Results
+|This=1
+}}
+{{Infobox player
+|id=ixmike88
+|image=Ixmike88 Red Bull BG 2015.jpg
+|name=Michael Ghannam
+|team=Team Freedom
+|sponsor=
+|birth_date={{Birth date and age|1991|06|07}}
+|country=United States
+|hero=Clockwerk
+|hero2=Batrider
+|hero3=Abaddon
+|mmr=6787
+|mmrdate=2016-11-12
+|role=offlane
+|status=Active
+|youtube=
+|tlstream=liquidixmike88
+|tlprofile=ixmike88
+|twitch=ixmike88
+|dotabuff=86715129
+|site=
+|twitter=ixmike88
+|reddit=ixmike88
+|datdota=13
+|history=
+{{TH|2011-??-?? — 2012-02-16|FIRE}} 
+{{TH|2012-02-16 — 2012-12-07|compLexity}} 
+{{TH|2012-12-07 — 2013-09-21|Team Liquid}} 
+{{TH|2014-04-03 — 2014-12-20|Sneaky Nyx Assassins}}
+{{TH|2014-12-20 — 2015-02-06|FIRE}}
+{{TH|2015-02-21 — 2015-03-21|FIRE}}
+{{TH|2015-03-21 — 2015-06-??|Wheel Whreck While Whistling}}
+{{TH|2015-07-02 — 2015-??-??|Champions of Summer's Rift}}
+{{TH|2015-09-13 — 2015-12-21|Team Mischief}}
+{{TH|2015-12-21 — 2016-06-22|Team Freedom}}
+{{TH|2016-09-17 — '''Present'''|Team Freedom}}
+}}
+
+Michael '''"ixmike88"''' Ghannam is a professional Dota 2 player from the United States who is currently a member of [[Team Freedom]].
+</textarea>]

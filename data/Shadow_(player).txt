@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:shadow}}{{Tabs static
+|name1=Overview
+|link1=shadow (player)
+|name2=Results
+|link2=shadow (player)/Results
+|This=1
+}}
+{{Infobox player
+|id=shadow
+|image=Shadow ESL One Manila 2016.jpg
+|name=褚泽宇
+|romanized_name=Chu Zeyu
+|team=Wings Gaming
+|sponsor=
+|ids=YsimlvViVi
+|role=carry
+|status=Active
+|hero=ember
+|hero2=razor
+|hero3=jugg
+|mmr=8131
+|mmrdate=2016-12-04
+|country=China
+|birth_date={{Birth date and age|1997|3|21}}
+|nicknames=
+|site=
+|stream=
+|twitter=
+|youtube=
+|datdota=1326
+|dotabuff=129585121
+|fanpage=
+|history=
+{{TH|2014-08-16 — 2014-10-27|Green Shoots Gaming}}
+{{TH|2014-10-27 — 2015-01-15|Immortal Magneto Gaming}}
+{{TH|2015-03-31 — 2015-07-22|Kefira United}}
+{{TH|2015-08-25 — '''Present'''|Wings Gaming}}
+}}
+
+Chu '''"shadow"''' Zeyu is a professional Dota 2 player who is currently playing for [[Wings Gaming]].
+</textarea>]

@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=canceL^^
+|name2=Results
+|link2=canceL^^/Results
+|This=1
+}}
+{{Infobox player
+|id=canceL^^
+|image=Mihai Antonio August 2016.jpg
+|name=Mihai Antonio
+|team=compLexity Gaming
+|role=mid
+|status=Active
+|hero=tinker
+|hero2=windranger
+|hero3=storm spirit
+|mmr=7426
+|mmrdate=2016-11-10
+|ids=canceL, canceldota, Mihai Antonio
+|country=Romania
+|birth_date=&lt;!--October 17th --&gt;
+|facebook=canceldota
+|twitch=canceldota
+|twitter=canceldota
+|dotabuff=141690233
+|datdota=7199
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2015-03-?? — 2015-04-??|XPC.ro}}
+{{TH|2015-09-24 — 2016-04-14|Kaipi}}
+{{TH|2016-09-17 — '''Present'''|compLexity Gaming}}
+}}
+
+Mihai '''"canceL^^"''' Antonio is a professional Dota 2 player who currently plays for [[compLexity Gaming]].
+</textarea>]

@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Yuno
+|name2=Results
+|link2=Yuno/Results
+|This=1
+}}
+{{Infobox player
+|id=Paparazi灬
+|image=IGV paparazi head.jpg
+|name=张成俊
+|romanized_name=Zhang Chengjun
+|team=iG Vitality
+|role=carry
+|status=Active
+|hero=Lifestealer
+|hero2=Sven
+|hero3=Slark
+|ids=Sala, 拒绝者, Yuno
+|country=China
+|dotabuff=137193239
+|mmr=8598
+|mmrdate=2016-12-09
+|birth_date={{Birth date and age|1996|6|27}}
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2015-06-01 — 2015-09-04|Immortal Magneto Gaming}}
+{{TH|2015-09-04 — 2016-01-20|Team FanTuan}}
+{{TH|2016-01-20 — 2016-03-19|Invictus Gaming}}
+{{TH|2016-03-19 — '''Present'''|iG Vitality}}
+}}
+
+Zhang '''"Paparazi灬"''' Chengjun is a professional Dota 2 player who currently plays for [[iG Vitality]].
+</textarea>]

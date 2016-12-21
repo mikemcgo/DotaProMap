@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=bOne7
+|name2=Results
+|link2=bOne7/Results
+|This=1
+}}
+{{Infobox player
+|id=bOne7
+|image=bone7_The_Summit_3.jpg
+|name=Pittner Armand
+|team=Prodota Gaming
+|role=carry
+|role2=offlane
+|status=Active
+|hero=Batrider
+|hero2=Phoenix
+|hero3=Legion Commander
+|mmr=7238
+|mmrdate=2016-10-12
+|twitter=bOne7dota
+|twitch=bone7
+|datdota=631
+|dotabuff=88719902
+|facebook=bOne7DotA
+|ids=
+|country=Romania
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-11-19 — 2013|GamersLeague}}
+{{TH|2013-01-01 — 2013-09-19|Kaipi}} 
+{{TH|2013-09-19 — 2013-10-09|RSnake.int}}
+{{TH|2013-10-09 — 2014-02-09|Speed.int|link=Speed Gaming.int}}
+{{TH|2014-02-09 — 2015-08-14|Cloud9}}
+{{TH|2015-08-29 — 2016-10-28|Kaipi}}
+{{TH|2016-11-11 — '''Present'''|Prodota Gaming}}
+}}
+
+Pittner '''"bOne7"''' Armand is a professional Romanian Dota 2 player who is currently playing for [[Prodota Gaming]]
+</textarea>]

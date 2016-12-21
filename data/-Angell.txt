@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Infobox player
+|id=-Angell
+|image= 
+|name= Miguel Nuñez
+|race=
+|team= Sad Voids
+|sponsor=
+|ids=Angel, -Angell
+|country= Chile
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|stream=
+|twitter=
+|youtube=
+|fanpage=
+|history=
+{{TH|2014-??-?? — 2014-12-13|Immortal Fire Gaming}}
+{{TH|2014-12-14 — 2015-??-??|Sad Voids}}
+{{TH|2015-??-?? — 2015-03-10|Don't Dive Again}}
+{{TH|2015-03-10 — '''Present'''|Sad Voids}}
+}}
+
+-Angell is a Chilean Dota 2 player currently playing position 1 for the team [[Sad Voids]].
+</textarea>]

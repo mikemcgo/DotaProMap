@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=DJ
+|name2=Results
+|link2=DJ/Results
+|This=1
+}}
+{{Infobox player
+|id=DJ
+|image=DJ_frankfurt_major_2015.jpg
+|name=Djardel Jicko B. Mampusti 
+|team=Execration
+|role=support
+|role2=offlane
+|status=Active
+|hero=Enigma
+|hero2=Enchantress
+|hero3=Earth Spirit
+|mmr=6908
+|mmrdate=2016-08-02
+|ids=Chrissy
+|country=Philippines
+|birth_date={{Birth date and age|1994|11|6}}
+|site=
+|twitch=http://twitch.tv/fnaticdj
+|tlstream=
+|tlprofile=
+|twitter=DjardelJicko 
+|dotabuff=102099826
+|datdota=870
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-11-29 — 2014-05-04|EoT Hammer}}
+{{TH|2014-05-04 — 2015-06-16|Rave}}
+{{TH|2015-06-19 — 2015-08-26|MSI-EvoGT}}
+{{TH|2015-08-26 — 2016-08-19|Fnatic}}
+{{TH|2016-09-13 — '''Present'''|Execration}}
+}}
+
+Djardel Jicko B. '''"DJ"''' Mampusti, formerly known as Chrissy, is a professional Dota 2 player who plays for [[Execration]]
+</textarea>]

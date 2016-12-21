@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Sh4dowehhh
+|name2=Results
+|link2=Sh4dowehhh/Results
+|This=1
+}}
+{{Infobox player
+|id=Sh4dowehhhhh
+|image=Sh4dow.jpg
+|name=Євген Алексєєв
+|romanized_name=Eugeniy Aleskeev
+|team=DX
+|role=support
+|status=Active
+|hero=Disruptor
+|hero2=Undying
+|hero3=Abaddon
+|mmr=7472
+|mmrdate=2016-09-24
+|ids=
+|country=Ukraine
+|birth_date={{Birth date and age|1996|6|23}}
+|dotabuff=86937884
+|vk=sh4dowtv
+|twitter=sh4dowehhh
+|youtube=channel/UCAjt3jTn-KVREpRQ1hEW2DQ
+|twitch=sh4dowehhh
+|history='''Dota 2'''&lt;br&gt;
+{{TH|2013-05-09 — 2014-01-21|Knights}}
+{{TH|2014-04-29 — 2014-05-23|Zdarova}}
+{{TH|2014-11-29 — 2015-??-?? |ScaryFaceZ}}
+{{TH|2015-12-08 — 2016-03-06|Natus Vincere|sub}}
+{{TH|2016-09-17 — '''Present'''|DX}}
+}}
+
+Eugeniy "'''Sh4dowehhhhh'''" Alekseev is a professional Dota 2 player who is currently playing for [[DX]].
+</textarea>]

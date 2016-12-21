@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jixing
+|name2=Results
+|link2=Jixing/Results
+|This=1
+}}
+{{Infobox player
+|id=Jixing
+|image=PlayerImagePlaceholder.png
+|name=肖子豪
+|romanized_name=Xiao Zihao
+|team=LGD Gaming
+|role=offlane
+|status=Active
+|hero=Dark Seer
+|hero2=Slardar
+|hero3=
+|mmr=7076
+|mmrdate=2016-11-30
+|ids=爆炸气
+|country=China
+|datdota=
+|dotabuff=92590479
+|weibo=2361834552
+|history=
+{{TH|2015-03-15 — 2015-09-03|Dream Gaming}}
+{{TH|2015-09-?? — 2015-09-??|Brave Heart}}
+{{TH|2016-03-20 — 2016-05-28|Thunderobot Gaming}}
+{{TH|2016-06-?? — 2016-09-17|Vici Gaming Potential}}
+{{TH|2016-09-17 — '''Present'''|LGD Gaming}}
+}}
+
+Sun "'''Jixing'''" Runfa is a professional Dota 2 player currently playing for [[LGD Gaming]].
+</textarea>]

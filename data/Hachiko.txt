@@ -1,0 +1,19 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Hachiko
+|image=PlayerImagePlaceholder.png
+|name=Shawn Ng
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Singapore
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-01-09 — 2013-??-??|Neolution.int}} 
+}}
+
+Shawn '''"Hachiko"''' Ng is a professional Dota 2 player who last played for [[Neolution.int]].
+</textarea>]

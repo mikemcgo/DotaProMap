@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Yasy
+|name2=Results
+|link2=Yasy/Results
+|This=1
+}}
+{{Infobox player
+|id=Yasy
+|id2=Trash
+|image=PlayerImagePlaceholder.png
+|name=Nguyễn Châu Lôi
+|team=Next Generation
+|role=support
+|status=Active
+|hero=Pudge
+|hero2=Bounty Hunter
+|hero3=Tusk
+|mmr=
+|mmrdate=
+|ids=Trash
+|country=Vietnam
+|birth_date=
+|twitch=
+|facebook=
+|datdota=
+|dotabuff=206144913
+|history=
+{{TH|2016-06-24 — 2016-09-28|Eternal Creed}}
+{{TH|2016-11-16 — '''Present'''|Next Generation}}
+}}
+
+Nguyễn '''"Yasy"'''  Châu Lôi is a professional Dota 2 player who currently plays for [[Next Generation]].
+</textarea>]

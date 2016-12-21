@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Liquipedia links|ssb=Akke}}
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Akke
+|name2=Results
+|link2=Akke/Results
+|This=1
+}}
+{{Infobox player
+|id=Akke
+|image=Akke_ems_fall.jpg
+|name=Joakim Akterhall
+|team=Horde
+|role=support
+|status=Active
+|hero=Chen
+|hero2=Enchantress
+|hero3=Keeper of the Light
+|other_ids=
+|country=Sweden
+|birth_date={{birth date and age|1988|5|26}}
+|twitter=FollowAkke
+|facebook=FollowAkke
+|twitch=followakke
+|datdota=6
+|dotabuff=41288955
+|site=http://officialakke.com/
+|history='''Dota:'''&lt;br&gt;
+{{TH|2006|Team Team}}
+{{TH|2006|Jukes on You}}
+{{TH|2006|Meet Your Makers}}
+{{TH|2006 - 2007|Team Team}}
+{{TH|2007 - 2008|SK Gaming}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-12-11 - 2012-02-06|eXperience Gaming}}
+{{TH|2012-02-02 - 2012-10-29|Counter Logic Gaming}}
+{{TH|2012-10-29 - 2013-04-12|No Tidehunter}}
+{{TH|2013-04-12 - 2016-08-28|Alliance}}
+{{TH|2016-09-06  — '''Present'''|Horde}}
+}}
+
+Joakim '''"Akke"''' Akterhall (pronounced '''''"[ack-eh]"''''') is a professional DotA player who is currently plays for [[Horde]].
+</textarea>]

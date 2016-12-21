@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=WwD
+|name2=Results
+|link2=WwD/Results
+|This=1
+}}
+{{Infobox player
+|id=WwD
+|image=PlayerImagePlaceholder.png
+|name=Will Davis
+|mmr=7333
+|mmrdate=2016-11-05
+|team=
+|birth_date={{birth date and age|1996|1|21}}
+|country=United States
+|hero=outworld devourer
+|hero2=puck
+|hero3=nyx assassin 
+|role=mid
+|history=
+{{TH|2014-05-01 — 2014-09-03|Dream Destroyers}}
+{{TH|2016-09-17 — 2016-10-??|Team Freedom}}
+|twitch=
+|facebook=
+|datdota=3399&amp;player=WwD
+|dotabuff=40586005
+|sponsor=
+|site=
+|twitter=
+|youtube=
+}}
+
+Will "'''WwD'''" Davis is an American professional Dota 2 player who last played for [[Team Freedom]].
+</textarea>]

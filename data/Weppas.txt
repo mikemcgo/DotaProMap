@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Weppas
+|name2=Broadcasts
+|link2=Weppas/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Weppas
+|image=Weppas.jpg
+|name=Johan Westberg
+|status=Active
+|role=observer
+|team=
+|sponsor=
+|ids=Weppas, wEppas
+|country=Sweden
+|tlpdid=
+|birth_date={{Birth date and age|1992|03|23}}
+|nicknames=
+|site=
+|twitch=weppas
+|twitter=weppas_
+|youtube=
+|fanpage=
+}}
+
+Johan "[[Weppas]]" Westberg is a Dota 2 observer. He is widely known to be one of the people behind the scenes during tournaments as an observer alongside [[skrff]].
+</textarea>]

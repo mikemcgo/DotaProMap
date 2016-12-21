@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Gorgc
+|name2=Results
+|link2=Gorgc/Results
+|This=1
+}}
+{{Infobox player
+|id=Gorgc
+|image=PlayerImagePlaceholder.png
+|name=Janne Stefanovski
+|team=Horde
+|role=carry
+|status=Active
+|hero=mirana
+|hero2=morphling
+|hero3=juggernaut
+|mmr=7474
+|mmrdate=2016-11-25
+|country=Sweden
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=56939869
+|birth_date=October 28th, 1992
+|history=
+{{TH|2016-09-17 — 2016-11-16|Memento Mori}}
+{{TH|2016-11-16  — '''Present'''|Horde}}
+}}
+
+Janne '''"Gorgc"''' Stefanovski is a Swedish professional Dota 2 player who currently plays for [[Horde]].
+</textarea>]

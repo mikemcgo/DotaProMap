@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ace
+|name2=Results
+|link2=Ace/Results
+|This=1
+}}
+{{Infobox player
+|id=Ace
+|image=Ace DHW 2016.jpg
+|name=Marcus Hoelgaard
+|team=
+|role=carry
+|status=Active
+|hero=Centaur Warrunner
+|hero2=Anti-Mage
+|hero3=Timbersaw
+|mmr=7853
+|mmrdate=2016-09-01
+|ids=
+|country=Denmark
+|birth_date=
+|twitter=AceDota
+|twitch=aceyouknow
+|facebook=AceDota2Imperial
+|datdota=182
+|dotabuff=97590558
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-06-12 — 2012-11-13|Gamer University}}
+{{TH|2012-11-13 — 2013-04-03|3DMAX}} 
+{{TH|2012-08-21 — 2013-10-16|Team Life}}
+{{TH|2013-10-16 — 2014-01-23|Mousesports}}
+{{TH|2014-01-24 — 2014-02-09 |Team Life}}
+{{TH|2014-02-09 — 2014-09-30|Meet Your Makers}}
+{{TH|2015-01-18 — 2015-03-09|Lianghao}}
+{{TH|2015-03-09 — 2015-04-29|Flipsid3 Tactics}}
+{{TH|2015-08-31 — 2016-06-24|Danish Bears}}
+{{TH|2016-06-24 — 2016-12-09|The Imperial}}
+}}
+
+Marcus '''"Ace"''' Hoelgaard is a professional Dota 2 player who lasted played for [[The Imperial]]. His brother is the professional Dota player Sylvester "[[Link]]" Hoelgaard.
+</textarea>]

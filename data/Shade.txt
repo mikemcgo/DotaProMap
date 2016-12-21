@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Shade
+|name2=Results
+|link2=Shade/Results
+|This=1
+}}
+{{Infobox player
+|id=Shade
+|image=PlayerImagePlaceholder.png
+|name=高振雄
+|romanized_name=Gao Zhenxiong
+|team=CDEC Gaming
+|country=China
+|hero=Invoker
+|hero2=queen of pain
+|hero3=puck
+|mmr=6762
+|mmrdate=2016-11-24
+|role=mid
+|status=Active
+|datdota=
+|dotabuff=139822354
+|tencent=
+|weibo=
+|history=
+{{TH|2016-03-20 — 2016-05-14|boomloomdoom}}
+{{TH|2016-05-20 — 2016-05-30|FTD club B}}
+{{TH|2015-06-01 — 2016-06-30|FTD club A}}
+{{TH|2016-09-17 — '''Present'''|CDEC Gaming}}
+}}
+Gao '''"Shade"''' Zhenxiong is a professional Dota 2 player who is currently playing for [[CDEC Gaming]].
+</textarea>]

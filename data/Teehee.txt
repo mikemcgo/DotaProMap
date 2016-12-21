@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:Teehee}}
+{{Tabs static
+|name1=Overview
+|link1=Teehee
+|name2=Results
+|link2=Teehee/Results
+|This=1
+}}
+{{Infobox player
+|id=Teehee
+|image=PlayerImagePlaceholder.png
+|name=John Linuel Abanto
+|team=
+|role=carry
+|status=Active
+|hero=Gyrocopter
+|hero2=Phantom Lancer
+|hero3=Juggernaut
+|mmr=7237
+|mmrdate=2016-08-06
+|ids=
+|dotabuff=110759067
+|country=Philippines
+|birth_date=
+|history='''Dota 2'''&lt;br&gt;
+{{TH|2015-01-22 — 2016-06-16|TnC Gaming}}
+{{TH|2016-08-01 — 2016-09-05|Rave}}
+{{TH|2016-09-05 — 2016-11-21|TnC Gaming}}
+}}
+
+John Linuel '''"Teehee"''' Abanto is a professional Dota 2 player who is currently teamless.
+</textarea>]

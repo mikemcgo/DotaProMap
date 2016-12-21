@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Sooths}}
+{{player-stub}}
+
+{{Tabs static
+|name1=Overview
+|link1=Sooths
+|name2=Results
+|link2=Sooths/Results
+|This=1
+}}
+
+{{Infobox player
+|id=Sooths
+|image=PlayerImagePlaceholder.png
+|name=Pedro Luiz
+|country= Brazil
+|hero=Invoker
+|hero2=Shadow Fiend
+|hero3=Storm Spirit
+|role=mid
+|status=Active
+|team=Midas Club Elite
+|mmr=7177
+|mmrdate=2016-05-06
+|facebook=soothsdota
+|dotabuff=116514161
+|history=
+{{TH|2015-07-25 — 2015-10-22|Artyk Gaming}}
+{{TH|2016-03-26 — 2016-05-13|T Show}}
+{{TH|2016-01-23 — 2016-08-20|Swagenteiger}}
+{{TH|2016-11-22 — '''Present'''|Midas Club Elite}}
+}}
+
+Pedro '''"Sooths"''' Luiz is a [[:Category:Brazil|Brazilian]] professional player who is currently playing for [[Midas Club Elite]].
+</textarea>]

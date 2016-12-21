@@ -1,0 +1,19 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=MIL
+|image=PlayerImagePlaceholder.png
+|name=Milton Peña
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Argentina
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-05-20  — 2014-01-10|paiN Gaming}} 
+}}
+
+Milton '''"MIL"''' Peña is a professional Dota 2 player who is currently teamless.
+</textarea>]

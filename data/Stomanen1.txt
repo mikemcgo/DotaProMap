@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Stomanen1
+|name2=Results
+|link2=Stomanen1/Results
+|This=1
+}}
+{{Infobox player
+|id=Stomanen1
+|ids=insol3n7, CTOMAHEH1, Stomanen1, stomanen
+|image=Stomanen1 DHS 2015.jpg
+|name=Nikolay Kalchev
+|team=
+|role=support
+|status=Active
+|hero=Lion
+|hero2=Disruptor
+|hero3=Zeus
+|country=Bulgaria
+|twitch=CTOMAHEH1
+|twitter=CTOMAHEH1
+|dotabuff=104055297
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-??-?? — 2015-02-10 |GPlay}}
+{{TH|2015-03-14 — 2015-06-02 |Basically Unknown}}
+}}
+</textarea>]

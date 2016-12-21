@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{lowercase}}{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ROtK
+|name2=Results
+|link2=ROtK/Results
+|This=1
+}}
+{{Infobox player
+|id=rOtK
+|image=rotk ems finals.jpg
+|name=白帆
+|romanized_name=Bai Fan
+|team=Team VG.J
+|role=offlane
+|role2=captain
+|status=Active
+|hero=Tidehunter
+|hero2=Dark Seer
+|hero3=Clockwerk
+|mmr=7229
+|mmrdate=2016-11-11
+|ids=rOtk_xB
+|tencent=rOtK_xB
+|weibo=3159721180
+|stream=http://www.huomaotv.cn/live/58
+|datdota=23
+|country=China
+|birth_date={{Birth date and age|1992|3|13}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2011-08-23 — 2013-08-22|Team DK}}
+{{TH|2013-09-02 — 2014-08-17|Vici Gaming}} 
+{{TH|2014-??-?? — 2015-03-15|Big God}}
+{{TH|2015-03-15 — 2015-08-25|EHOME}}
+{{TH|2015-08-25 — 2016-03-18|LGD.cn}}
+{{TH|2016-03-20 — 2016-09-14|Vici Gaming}}
+{{TH|2016-09-17 — '''Present'''|Team VG.J}}
+}}
+Bai '''"rOtk"''' Fan is a professional Dota player who is currently playing for [[Team VG.J]].
+</textarea>]

@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SANKE
+|name2=Results
+|link2=SANKE/Results
+|This=1
+}}
+{{Infobox player
+|id=SANKE
+|image=PlayerImagePlaceholder.png
+|name=Энх-Од Нэргүй
+|romanized_name=Enkh-Od Nergui
+|team=The Mongolz
+|birth_date=
+|country=Mongolia
+|hero=Juggernaut
+|hero2=Tinker
+|hero3=Mirana
+|mmr=6614
+|mmrdate=2016-09-02
+|role=mid
+|datdota=
+|twitch=
+|twitter=
+|facebook=
+|dotabuff=113272381
+|history=
+{{TH|2014-01-30 — '''Present'''|The Mongolz}}
+}}
+
+Enkh-Od '''"SANKE"''' Nergui is a professional Dota 2 player currently playing for [[The Mongolz]].
+</textarea>]

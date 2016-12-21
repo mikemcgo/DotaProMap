@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Luo
+|name2=Results
+|link2=Luo/Results
+|This=1
+}}
+{{Infobox player
+|id=Xi
+|image=Xi-EHOME.Keen.jpg
+|name=罗殷琪
+|romanized_name=Luo Yinqi
+|team=EHOME.Keen
+|role=offlane
+|status=Active
+|hero=Spirit Breaker
+|hero2=Broodmother
+|hero3=Axe
+|mmr=7035
+|mmrdate=2016-11-24
+|ids=xiaoluo, Director Luo, Luo
+|country=China
+|datdota=80
+|dotabuff=89246836
+|tencent=xiaoluo1
+|stream=http://www.douyutv.com/15312
+|tlstream=Luo
+|birth_date={{birth date and age|1990|10|25}}
+|history='''Dota:'''&lt;br&gt;
+{{TH|2009 — 2010|World Elite}}
+{{TH|2011 — 2012|Evil Geniuses}}
+'''Dota2:'''&lt;br&gt;
+{{TH|2012-02-?? — 2012-09-??|World Elite}}
+{{TH|2013-01-18 — 2014-02-20|RaTtLeSnAkE}}
+{{TH|2014-02-20 — 2016-03-19|Invictus Gaming}}
+{{TH|2016-03-25 — 2016-09-16|CDEC Avenger}}
+{{TH|2016-09-17 — '''Present'''|EHOME.Keen}}
+}}
+Luo '''"Xi"''' Yinqi is a Chinese professional Dota player who currently plays for [[EHOME.Keen]].
+</textarea>]

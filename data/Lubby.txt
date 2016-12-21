@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Lubby
+|name2=Results
+|link2=Lubby/Results
+|This=1
+}}
+{{Infobox player
+|id=Lubby
+|image=PlayerImagePlaceholder.png
+|romanized_name=Chan Jun Jie
+|team=First Departure
+|role=support
+|status=Active
+|hero=Leshrac
+|hero2=
+|hero3=
+|ids=
+|country=Singapore
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-10-03 — 2013-05-27|First Departure}}
+{{TH|2014-08-10 — '''Present'''|First Departure}}
+}}
+
+Chan '''"Lubby"''' Jun Jie is a support player currently playing for [[First Departure]].
+</textarea>]

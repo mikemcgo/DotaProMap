@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=hex0r
+|name2=Results
+|link2=hex0r/Results
+|This=1
+}}
+{{Infobox player
+|id=hex0r
+|image=hexOr.jpg
+|name=Dominik Buhmann 
+|status=Retired
+|role=
+|team=
+|sponsor=
+|ids=hexOr, TheMagicalhexOr, hOly_hexOr, hOlyhexOr, HAWKEYE!, THE_ART_OF_JUKING
+|country=Germany
+|hero=pudge
+|hero2=mirana
+|tlpdid=
+|birth_date={{Birth date and age|1991|03|21}}
+|nicknames=
+|dotabuff=87139174
+|site=https://artofdota2.com/
+|twitch=themagicalhexor
+|twitter=DotA2hexOr
+|youtube=hOlyhexOr
+|facebook=themagicalhexor
+|history=
+}}
+
+Dominik "hex0r" Buhmann is a former professional Dota 2 player and now a content creator.
+</textarea>]

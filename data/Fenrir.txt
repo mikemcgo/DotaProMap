@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Fenrir
+|name2=Results
+|link2=Fenrir/Results
+|This=1
+}}
+{{Infobox player
+|id=Fenrir
+|image=fenrir ems finals.jpg
+|name=卢超
+|romanized_name=Lu Chao 
+|team=Team VG.J
+|role=support
+|status=Active
+|hero=Shadow Demon
+|hero2=Skywrath Mage
+|hero3=Visage
+|mmr=7343
+|mmrdate=2016-10-14
+|ids=old Fenrir
+|tencent=Fenrir1989
+|datdota=544
+|dotabuff=113800818
+|country=China
+|birth_date={{Birth date and age|1989|1|18}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-10-21 — 2016-03-08|Vici Gaming}}
+{{TH|2016-03-08 — 2016-09-17|EHOME}}
+{{TH|2016-09-17 — '''Present'''|Team VG.J}}
+}}
+Lu '''"Fenrir"''' Chao is a professional Dota 2 player who currently plays the support role for [[Team VG.J]].
+</textarea>]

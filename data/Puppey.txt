@@ -1,0 +1,51 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{tabs static
+|name1=Overview
+|link1=Puppey
+|name2=Results
+|link2=Puppey/Results
+|This=1
+}}
+{{Infobox player
+|id=Puppey
+|image=Puppey ESL Frankfurt 2015.jpg
+|name=Clement Ivanov
+|team=Team Secret
+|birth_date={{birth date and age|1990|3|6}}
+|country=Estonia
+|hero=Chen
+|hero2=Enchantress
+|hero3=Enigma
+|mmr=7397
+|mmrdate=2016-09-08
+|role=support
+|status=Active
+|role2=captain
+|twitch=puppey
+|tlstream=puppey
+|tlprofile=puppey
+|vk=puppey1
+|facebook=OfficialPuppey
+|reddit=CLEMENTINATOR
+|datdota=64
+|dotabuff=87278757
+|sponsor=
+|site=
+|twitter=clementinator
+|videoarchive=
+|youtube=
+|history=
+'''Dota:'''&lt;br&gt;
+{{TH|2007 — 2008|XsK}}
+{{TH|2008 — 2009|Ks.int}}
+{{TH|2009|BFB}}
+{{TH|2009 — 2010|Blight.int}}
+{{TH|2010|Nirvana.int}}
+{{TH|2010|NWO}}
+{{TH|2010 — 2011|GosuGamers}}
+'''Dota 2:'''
+{{TH|2011-06-17 — 2014-08-20|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2014-08-27 — '''Present'''|Team Secret}}
+}}
+
+Clement '''"Puppey"''' Ivanov is an Estonian professional Dota 2 player who is currently the captain of [[Team Secret]].
+</textarea>]

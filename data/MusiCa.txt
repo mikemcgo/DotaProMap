@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:xMusiCa}}
+{{Tabs static
+|name1=Overview
+|link1=MusiCa
+|name2=Results
+|link2=MusiCa/Results
+|This=1
+}}
+{{Infobox player
+|id=xMusiCa
+|image=MusiCa_profile.jpg
+|name=Justin Yuen 
+|team=
+|role=mid
+|status=Active
+|hero=queen of pain
+|hero2=storm spirit
+|hero3=invoker
+|ids=xMoosiCa, MusiCa
+|country=Australia
+|country2=Singapore
+|birth_date={{birth date and age|1990|12|12}}
+|site=
+|twitch=mvpmusica
+|tlstream=
+|tlprofile=
+|twitter=
+|facebook=xMusiCaa
+|datdota=2842
+|dotabuff=89001276
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011-11-02 — 2012-01-21|Natural 9}}
+{{TH|2012-01-21 — 2012-08-09|Absolute Legends}}
+{{TH|2012-09-08 — 2012-10-20|Natural 9}}
+{{TH|2014-04-29 — 2014-09-26|MVP HOT6ix}}
+{{TH|2014-09-26 — 2015-03-24|Can't Say Wips}}
+{{TH|2015-06-?? — 2015-10-19|Spac_ Creators}}
+}}
+
+Justin '''"xMusiCa"''' Yuen is a professional Dota 2 player who last played for [[Spac_ Creators]].
+</textarea>]

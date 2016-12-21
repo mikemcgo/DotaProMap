@@ -1,0 +1,52 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Arteezy
+|name2=Results
+|link2=Arteezy/Results
+|This=1
+}}
+{{Infobox player
+|id=Arteezy
+|image=teamsecret_arteezy.jpg
+|name=Artour Babaev
+|team=Evil Geniuses
+|birth_date={{Birth date and age|1996|07|01}}
+|country=Canada
+|country2=Uzbekistan
+|hero=Shadow Fiend
+|hero2=Lycan
+|hero3=Outworld Devourer
+|mmr=8584
+|mmrdate=2016-11-24
+|role=mid
+|role2=carry
+|status=Active
+|ids=RTZ, A-God, Allison, Pablo, RTZ YB, JUST RTZ, RTZ 1, Mary Day, Aomine
+|site=
+|fanclub=http://www.liquiddota.com/forum/players-and-teams/454613-egarteezy-discussion
+|twitch=arteezy
+|stream=http://www.huomaotv.com/live/1251
+|ldstream=Arteezy
+|twitter=arteezy
+|facebook=arteezydota
+|youtube=dota2arteezy
+|datdota=649
+|vk=2ez4rtzdota
+|ldprofile=Arteezy
+|dotabuff=86745912
+|askfm=ybArteezy
+|playlist=https://play.spotify.com/user/arteezydaboy/playlist/2zfPQrkFJRiTuAAwCnomNN
+|history=
+{{TH|2013-04-29 — 2013-08-15|Kaipi}}
+{{TH|2013-09-29 — 2013-10-08|Take Five}}
+{{TH|2014-01-31 — 2014-02-21|S A D B O Y S}}
+{{TH|2014-02-21 — 2015-01-06|Evil Geniuses}}
+{{TH|2015-01-06 — 2015-08-14|Team Secret}}
+{{TH|2015-08-14 — 2016-03-22|Evil Geniuses}}
+{{TH|2016-03-22 — 2016-08-27|Team Secret}}
+{{TH|2016-09-15 — '''Present'''|Evil Geniuses}}
+}}
+
+Artour '''"Arteezy"''' Babaev is a professional Dota 2 player from Vancouver, British Columbia, Canada. Arteezy has a very popular live stream which showcases his outgoing personality, eccentric taste in music, as well as his exceptional skill.
+</textarea>]

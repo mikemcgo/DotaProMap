@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=spotty
+|name2=Results
+|link2=spotty/Results
+|This=1
+}}
+{{Infobox player
+|id=spotty
+|image=PlayerImagePlaceholder.png
+|name=余文源
+|romanized_name=Yu Wenyuan
+|team=CAVALRY
+|role=support
+|role2=mid
+|status=Active
+|ids=spotty-qcc
+|hero=Tusk
+|hero2=Queen of Pain
+|hero3=Invoker
+|mmr=7363
+|mmrdate=2016-12-07
+|country=China
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=124013062
+|birth_date=
+|history=
+{{TH|2014-10-?? — 2014-12-??|Butter Fly}}
+{{TH|2015-03-?? — 2015-07-??|Kefira United}}
+{{TH|2015-10-?? — 2015-12-??|FTD club A}}
+{{TH|2015-12-?? — 2016-03-20|CDEC Avenger}}
+{{TH|2016-09-17 — '''Present'''|CAVALRY}}
+}}
+
+Yu '''"spotty"''' Wenyuan is a Chinese professional Dota 2 player who currently plays for [[CAVALRY]].
+</textarea>]

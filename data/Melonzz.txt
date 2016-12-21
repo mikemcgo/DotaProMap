@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:melonzz}}
+{{Tabs static
+|name1=Overview
+|link1=melonzz
+|name2=Results
+|link2=melonzz/Results
+|This=1
+}}
+{{Infobox player
+|id=melonzz
+|image=swindlemelonzz ESL One Frankfurt 2016.jpg
+|name=Kyle Freedman
+|country=United States
+|team=compLexity Gaming
+|role=support
+|role2=captain
+|status=Active
+|hero=Dark Seer
+|hero2=Beastmaster
+|hero3=Slardar
+|mmr=6199
+|mmrdate=2016-10-08
+|ids=Swindle, swindlezz, swindlemelonzz
+|twitch=melonzz
+|twitter=melonzzdota
+|facebook=swindlemelonzz
+|reddit=melonzz
+|dotabuff=49317728
+|history=
+{{TH|2014-??-?? — 2014-08-27|stayGreen}}
+{{TH|2014-08-27 — '''Present'''|compLexity Gaming}}
+}}
+
+Kyle "'''melonzz'''" Freedman is an American former professional American Heroes of Newerth player who switched full time to Dota 2 in mid-2014. He is currently playing for [[compLexity Gaming]].
+</textarea>]

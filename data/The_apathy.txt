@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=The_apathy
+|name2=Results
+|link2=The_apathy/Results
+|This=1
+}}
+{{Infobox player
+|id=The_apathy
+|image=PlayerImagePlaceholder.png
+|name=Андрей Алешков
+|romanized_name=Andrey Aleshkov
+|team=
+|birth_date=
+|country=Russia
+|role=carry
+|status=Active
+|hero=Lycan
+|hero2=Anti-Mage
+|hero3=Phantom Lancer
+|mmr=6546
+|mmrdate=2016-03-26
+|ids=The_Apathy
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=the_apathy_dota
+|vk=
+|datdota=2195
+|dotabuff=91852305
+|history={{TH|2013-08-?? — 201?-??-??|GamersLeague}}
+{{TH|2014-01-?? — 2014-10-??|Micare in tenebris}}
+{{TH|2014-10-?? — 2014-11-??|Vega Squadron}}
+{{TH|2014-12-06 — 2015-09-05|.aSpera.}}
+{{TH|2015-09-05 — 2015-10-04|Team Empire}}
+{{TH|2015-10-28 — 2016-??-??|Revival Gaming}}
+{{TH|2016-??-?? — 2016-??-??|Siberian Valenki}}
+{{TH|2016-09-10 — 2016-11-??|Docler Myrmidons}}
+}}
+Andrey '''"The_apathy"''' Aleshkov is a professional Russian Dota 2 player who is currently teamless.
+</textarea>]

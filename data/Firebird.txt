@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Firebird
+|name2=Results
+|link2=Firebird/Results
+|This=1
+}}
+{{Infobox player
+|id=Firebird
+|image=
+|name=محمد شہوار
+|romanized_name=Muhammad Shehwar
+|team=
+|role=Carry
+|status=Active
+|hero=Anti-Mage
+|hero2=Clinkz
+|hero3=Juggernaut
+|mmr=
+|mmrdate=
+|sponsor=
+|dotabuff=254223768
+|ids=T1TAN
+|country=Pakistan
+|country2=Malaysia
+|birth_date=
+|history=
+{{TH|2015-??-?? — 2015-??-??|Team Lunatic}}
+{{TH|2015-08-13 — 2016-07-01|Power Gaming}}
+}}&lt;br&gt;
+
+Muhammad "'''Firebird'''" Shehwar is a Pakistani player living in Malaysia and was previously the carry for [[Power Gaming]].
+</textarea>]

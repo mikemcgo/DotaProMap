@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=FzFz
+|name2=Results
+|link2=FzFz/Results
+|This=1
+}}
+{{Infobox player
+|id=FzFz
+|image=fzfz.png
+|name=Cheng Hor Siew
+|team=
+|role=mid
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=
+|dotabuff=96708830
+|country=Malaysia
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-03-07 — 2013-03-13|ABC}}
+{{TH|2013-03-13 — 201?-??-??|MUFC}} 
+{{TH|201?-??-?? — 2015-04-02|Invasion e-Sports}}
+{{TH|2015-04-02 — 2016-??-??|Underminer}}
+}}
+
+Cheng '''"FzFz"''' Hor Siew is a Malaysian professional Dota 2 player who is currently teamless.
+</textarea>]

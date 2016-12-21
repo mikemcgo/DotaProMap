@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Boris
+|name2=Results
+|link2=Boris/Results
+|This=1
+}}
+{{Infobox player
+|id=Boris
+|image=PlayerImagePlaceholder.png
+|name=Bill Oliver
+|team=
+|country=Canada
+|ids=bill, shamgar
+|hero=Storm Spirit
+|hero2=Templar Assassin
+|hero3=Shadow Fiend
+|role=mid
+|status=Active
+|mmr=6363
+|mmrdate=2016-11-12
+|twitch=boris_dota
+|twitter=borsterr
+|dotabuff=94364925
+|history=
+{{TH|2015-08-29 — 2016-??-??|GOD BLESS}}
+{{TH|2016-01-25 — 2016-??-??|Team Leviathan}}
+{{TH|2016-03-26 — 2016-??-??|Wonder Wolfs}}
+{{TH|2016-05-15 — 2016-05-24|Views 6}}
+{{TH|2016-05-24 — 2016-06-22|Team Freedom}}
+{{TH|2016-09-17 — 2016-10-??|Team Freedom}}
+}}
+
+Bill '''"Boris"''' Oliver is a Canadian professional Dota 2 player who last played for [[Team Freedom]].
+</textarea>]

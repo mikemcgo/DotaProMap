@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Inkvizitor
+|name2=Results
+|link2=Inkvizitor/Results
+|This=1
+}}
+{{Infobox player
+|id=Inkvizitor
+|image=PlayerImagePlaceholder.png
+|romanized_name=Sergey Kaluzhniy
+|team=
+|ids=Inkvizitor
+|role=support
+|status=Active
+|hero=Earthshaker
+|hero2=Sand King
+|hero3=Ancient Apparition
+|country=Russia
+|datdota=
+|dotabuff=93736444
+|facebook=
+|twitter=
+|history=
+{{TH|2012-11-06 — 2013-03-01|Infernal Canibus}}
+{{TH|2013-05-18 — 2013-08-30|zRAGE}}
+{{TH|2013-08-30 — 2013-12-01|aSpera}}
+{{TH|2013-12-24 — 2014-08-02|Oslik Gaming}}
+{{TH|2014-02-12 — 2014-06-11|Insane Gaming}}
+{{TH|2014-08-25 — 2015-01-29|AlbumSheet}}
+}}
+
+Sergey '''"Inkvizitor"''' Kaluzhniy is a professional Dota 2 player from Russia.
+</textarea>]

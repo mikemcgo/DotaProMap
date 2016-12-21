@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Victoria
+|name2=Results
+|link2=Victoria/Results
+|This=1
+}}
+{{Infobox player
+|id=Victoria
+|image=PlayerImagePlaceholder.png
+|name=陈冠宏
+|romanized_name=Chen Guanhong
+|team=LGD Gaming
+|country=China
+|hero=Rubick
+|hero2=Phoenix
+|hero3=Dazzle
+|mmr=7689
+|mmrdate=2016-11-24
+|role=support
+|status=Active
+|ids=M99_JY
+|datdota=
+|dotabuff=107081378
+|weibo=1107888450
+|history=
+{{TH|2015-10-08 — 2016-10-30|King of Dream}}
+{{TH|2015-12-11 — 2016-01-10|CDEC Avenger}}
+{{TH|2016-03-25 — 2016-09-13|CDEC Youth}}
+{{TH|2016-09-14 — '''Present'''|LGD Gaming}}
+}} 
+
+Chen '''"Victoria"''' Guanhong is a professional Dota 2 player, currently plays for [[LGD Gaming]].
+</textarea>]

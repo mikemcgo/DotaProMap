@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Benjaz
+|name2=Results
+|link2=Benjaz/Results
+|This=1
+}}
+{{Infobox player
+|id=Benjaz
+|image=Dota2benjaz.jpeg
+|name=Benjamin Lanao Barrios
+|team=Infamous
+|role=carry
+|status=Active
+|hero=Juggernaut
+|hero2=Slark
+|hero3=Huskar
+|mmr=7945
+|mmrdate=2016-11-03
+|ids=
+|country=Peru
+|birth_date=
+|dotabuff=194521913
+|history=
+{{TH|????-??-?? — 2014-02-17|Union Gaming}}
+{{TH|2014-02-17 — 2014-06-??|Revenge eSports}}
+{{TH|2014-06-?? — 2015-??-??|Union Gaming}}
+{{TH|2015-05-10 — 2015-07-31|Balrogs}}
+{{TH|2015-07-31 — 2015-12-07|Team DileCom}}
+{{TH|2015-12-07 — 2016-07-08|Not Today}}
+{{TH|2016-07-08 — '''Present'''|Infamous}}
+}}
+
+Benjamin '''"Benjaz"''' Lanao Barrios is a Peruvian professional Dota 2 player who is currently playing for [[Infamous]].
+</textarea>]

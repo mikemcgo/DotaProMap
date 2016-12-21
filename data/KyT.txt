@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=KyT
+|name2=Results
+|link2=KyT/Results
+|This=1
+}}
+{{Infobox player
+|id=KyT
+|image=PlayerImagePlaceholder.png
+|name=Nitiphat Chutonganan
+|team=iDeal eSports
+|role=offlaner
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Thailand
+|birth_date=
+|datdota=620
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-??-?? — 2014-01-10|Everlast.GameFilling}}
+{{TH|2014-01-10 — 2015-01-20|MiTH}}
+{{TH|2015-01-20 — 2015-??-??|BLINX}}
+{{TH|2015-??-?? — '''Present'''|iDeal eSports}}
+}}
+
+Nitiphat '''"KyT"''' Chutonganan is a professional Dota 2 player currently playing for [[iDeal eSports]].
+</textarea>]

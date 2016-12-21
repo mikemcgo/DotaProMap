@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:jigglebilly}}
+{{Tabs static
+|name1=Overview
+|link1=Jigglebilly
+|name2=Results
+|link2=Jigglebilly/Results
+|This=1
+}}
+{{Infobox player
+|id=jigglebilly
+|image=PlayerImagePlaceholder.png
+|name=Marcus Dastrup
+|team=
+|birth_date={{birth date and age|1994|6|09}}
+|country=Canada
+|hero= Pudge
+|hero2= Lycan
+|hero3= Mirana
+|role=carry
+|twitter=JiggleBillyTV
+|stream=http://www.hitbox.tv/jigglebillyy
+|facebook=SippyCupHon
+|twitch=JiggIebilly
+|ldstream=JiggIebilly
+|history=
+{{TH|2014-02-27 — 2014-05-31|Team eHug}}
+{{TH|2014-09-?? — 2014-10-??|Stay Free}}	
+}}
+
+Marcus '''"jigglebilly"''' Dastrup is an American player that most recently played for [[Team eHug]]. jigglebilly sustains his teammate's morale with a booming and commanding timbre voice. On his free time, jigglebilly is a substation communication engineer and a leading expert in software defined networks.
+</textarea>]

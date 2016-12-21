@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=JyU
+|image=PlayerImagePlaceholder.png
+|name=Kang Taeyeong
+|team=
+|role=offlane
+|hero=Puck
+|hero2=Doom
+|hero3=Viper
+|ids=
+|country=South Korea
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-10-11 — 2014-01-07|StarTale}}
+{{TH|2014-01-07 — 2014-04-27|BirdGang}}
+{{TH|2014-04-27 — 2015-??-??|Pokerface}}
+}}
+
+Kang '''"JyU"''' Taeyeong is a professional Dota 2 player.
+</textarea>]

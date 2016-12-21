@@ -1,0 +1,25 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SlaVe
+|name2=Results
+|link2=SlaVe/Results
+|This=1
+}}
+{{Infobox player
+|id=SlaVe
+|name=Lounis Benmouffok
+|image=PlayerImagePlaceholder.png
+|team=Sigma.fr
+|role=carry
+|hero=Night Stalker
+|hero2=Anti mage
+|hero3=Lone Druid
+|country=Belgium
+|birth_date={{Birth date and age|1989|09|21}}
+|{{TH|2010-09-01 - 2011-10-01|[[MEW]]}} 
+|{{TH|2011-11-01 - '''Present'''|[[Baguette]]}}
+}}
+
+Lounis "'''SlaVe'''" Benmouffok is a semi-professional Dota 2 player from Belgium, who currently plays for [[Sigma.fr]].
+</textarea>]

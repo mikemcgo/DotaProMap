@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Toby
+|name2=Results
+|link2=Toby/Results
+|This=1
+}}
+{{Infobox player
+|id=Toby
+|image=PlayerImagePlaceholder.png
+|name=Ровоам Гаврилов
+|romanized_name=Rovoam Gavrilov
+|team=Valor Gaming
+|role=carry
+|hero=Gyrocopter
+|hero2=Juggernaut
+|hero3=Razor
+|country=Latvia
+|birth_date=
+|twitter=
+|twitch=
+|vk=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2015-10-25 — 2014-11-18|Valor Gaming}}
+{{TH|2014-11-18 — '''Present'''|Valor Gaming (standin) }}
+}}
+
+Rovoam '''"Toby"''' (pronounced To-bi) is a professional Latvian Dota 2 player who is currently playing as standin for [[Valor Gaming]].
+</textarea>]

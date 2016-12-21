@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=chisbug
+|name2=Results
+|link2=chisbug/Results
+|This=1
+}}
+{{Infobox player
+|id=chisbug
+|image=Chisbug_frankfurt_major_2015.jpg
+|name=李晨
+|romanized_name=Li Chen
+|team=White Fries Gaming
+|country=China
+|ids=ch, CHisbug, 321
+|hero=Skywrath Mage
+|hero2=Ancient Apparition
+|hero3=Rubick
+|role=support
+|status=Active
+|datdota=4960
+|dotabuff=90031225
+|history={{TH|2010-03-01 — 2011-08-02|LGD Gaming}}
+{{TH|2011-08-02 — 2011-11-23|Invictus Gaming}}
+{{TH|2014-08-26 — 2014-12-24|Invictus Gaming}}
+{{TH|2015-09-03 — 2015-12-08|Newbee}}
+{{TH|2015-12-08 — 2016-03-22|Newbee Young}}
+{{TH|2016-03-26 — 2016-09-16|White Fries Gaming}}
+{{TH|2016-10-17 — '''Present'''|White Fries Gaming|sub}}
+}}
+Li '''"chisbug"''' Chen is a professional Dota 2 player who is currently teamless.
+</textarea>]

@@ -1,0 +1,21 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Monolith
+|name2=Broadcasts
+|link2=Monolith/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Monolith
+|name=Charlie Yang
+|image=CharlieYang.jpg
+|country=USA
+|ids=Charlie
+|role=analyst
+|twitter=CharlieYang
+|askfm=CharlieCYang
+}}
+
+Charlie '''"Monolith"''' Yang is a well known persona in the Dota 2 scene. He was the manager of [[Dignitas]], [[Speed Gaming]] and most recently, [[Evil Geniuses]]. He is regarded as one of the most professional managers in the scene.
+</textarea>]

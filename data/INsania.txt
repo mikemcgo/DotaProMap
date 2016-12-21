@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:iNsania}}
+{{Tabs static
+|name1=Overview
+|link1=iNsania
+|name2=Results
+|link2=iNsania/Results
+|This=1
+}}
+{{Infobox player
+|id=iNsania
+|image=Insania.jpg
+|name=Aydin Sarkohi
+|country=Sweden
+|team=SOLIDUDES
+|birth_date={{Birth date and age|1994|06|18}}
+|role=support
+|status=Active
+|hero=Bounty Hunter
+|hero2=Mirana
+|hero3=Ogre Magi
+|ids=ArryStark
+|mmr=6101
+|mmrdate=2016-08-25
+|twitch=insan1a
+|twitter=insan1a
+|facebook=iNsaniaHoN
+|datdota=
+|dotabuff=54580962
+|history=
+{{TH|2016-08-16 — 2016-10-??|Team Doge}}
+{{TH|2016-10-?? — '''Present'''|SOLIDUDES}}
+}}
+
+Aydin "'''iNsania'''" Sarkohi is a former professional Swedish Heroes of Newerth player who switched full time to Dota 2. He currently plays for [[SOLIDUDES]].
+</textarea>]

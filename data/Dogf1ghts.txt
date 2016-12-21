@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Dogf1ghts
+|name2=Results
+|link2=Dogf1ghts/Results
+|This=1
+}}
+{{Infobox player
+|id=Dogf1ghts
+|image=IGV_dogfights_head.jpg
+|name=高天鹏
+|romanized_name=Gao Tianpeng
+|team=iG Vitality
+|role=support
+|status=Active
+|hero=Bounty Hunter
+|hero2=Night Stalker
+|hero3=Earthshaker
+|mmr=7322
+|mmrdate=2016-08-20
+|ids=ManGo
+|country=China
+|birth_date={{Birth date and age|1995|12|05}}
+|datdota=
+|dotabuff=103940975
+|tencent=
+|history=
+{{TH|2015-03-15 — 2016-03-19|Vici Gaming Potential}}
+{{TH|2016-03-19 — '''Present'''|iG Vitality}}
+}}
+
+Gao '''"Dogf1ghts"''' Tianpeng is a professional Dota 2 player currently playing for [[iG Vitality]].
+</textarea>]

@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=NoFear
+|name2=Results
+|link2=NoFear/Results
+|This=1
+}}
+{{Infobox player
+|id=NoFear
+|image=NoFear DHW2015.jpg
+|name=Александр Чурочкин
+|romanized_name=Alexander Churochkin
+|team=F.R.I.E.N.D.S.
+|role=support
+|role2=captain
+|status=Active
+|hero=earthshaker
+|hero2=dazzle
+|hero3=vengeful spirit
+|mmr=7562
+|mmrdate=2016-10-12
+|ids=NoFearWP
+|country=Russia
+|datdota=
+|vk=
+|twitter=
+|facebook=
+|dotabuff=93552791
+|birth_date=
+|history=
+{{TH|2012-04-01 — 2013-08-01|SoWhatYouCan}}
+{{TH|2014-01-11 — 2014-01-28|Flip.Sid3.ru}}
+{{TH|2014-03-05 — 2014-04-14|The Retry}}
+{{TH|2014-04-14 — 2014-04-22|Ahead Gaming}}
+{{TH|2014-04-22 — 2014-06-19|DreamTeam168}}
+{{TH|2014-08-25 — 2014-12-26|AlbumSheet}}
+{{TH|2015-??-?? — 2015-??-??|Elysium Gaming}}
+{{TH|2015-04-06 — 2015-04-22|Vega Squadron}}
+{{TH|2015-08-29 — 2015-10-04|newteam123123}}
+{{TH|2015-10-04 — 2016-03-25|Team Empire}}
+{{TH|2016-03-25 — 2016-06-30|Virtus Pro}}
+{{TH|2016-07-15 — '''Present'''|F.R.I.E.N.D.S.}}
+}}
+
+Alexander '''"NoFear"''' Churochkin is a professional Dota 2 player currently playing for [[F.R.I.E.N.D.S.]].
+</textarea>]

@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=faraz
+|name2=Results
+|link2=faraz/Results
+|This=1
+}}
+{{Infobox player
+|id=faraz
+|image=PlayerImagePlaceholder.png
+|name=Сергей Носырев
+|romanized_name=Sergey Nosirev
+|team=Valor Gaming
+|role=Middle
+|hero=Qop
+|hero2=Sf
+|hero3=Windranger
+|country=Latvia
+|birth_date=
+|twitter=
+|twitch=
+|vk=farazzz
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-03-11 — 2014-06-01|Valor Gaming}}
+{{TH|2014-07 — 2015-10-19|Chappa_}}
+{{TH|2014-10-23 — 2015-05-11|Team Mops}}
+{{TH|2015-10-25 — '''Present'''|Valor Gaming}}
+}}
+
+Sergey '''"faraz"''' (pronounced fa-raz) is a semi Latvian Dota 2 player who is currently playing for [[Valor Gaming]].
+</textarea>]

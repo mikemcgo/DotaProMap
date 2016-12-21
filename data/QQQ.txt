@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=QQQ
+|name2=Results
+|link2=QQQ/Results
+|This=1
+}}
+{{Infobox player
+|id=QQQ
+|image=WIH-QQQ-7JHNL.jpg
+|name=姚羿
+|romanized_name=Yao Yi
+|team=LGD.Forever Young
+|role=support
+|role2=coach
+|status=Retired
+|hero=Chen
+|hero2=Visage
+|hero3=Crystal Maiden
+|ids=357
+|country=China
+|birth_date=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-10-11 — 2013-08-25|Team DK}}
+{{TH|2013-09-09 — 2013-11-27|RisingStars}}
+{{TH|2015-09-01 — 2016-03-19|Vici Gaming|coach}}
+{{TH|2016-09-17 — '''Present'''|LGD.Forever Young|coach}}
+}}
+Yao '''"QQQ"''' Yi is a professional Dota player who was famous for playing for [[EHOME]] and [[Team DK]]. After retiring from competitive Dota 2, he became a coach and substitute for [[Vici Gaming]]. He is currently the coach of [[LGD.Forever Young]].
+</textarea>]

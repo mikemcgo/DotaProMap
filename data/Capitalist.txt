@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Capitalist
+|name2=Broadcasts
+|link2=Capitalist/Broadcasts
+|This=1
+}}
+{{Infobox player
+|role=caster
+|team=
+|id=Capitalist
+|hero=tusk
+|hero2=disruptor
+|hero3=abaddon
+|mmr=6493
+|mmrdate=2016-12-02
+|name=Austin Walsh
+|image=Capitalist ESL One Frankfurt 2015.jpg
+|country=United States
+|dotabuff=58380135
+|facebook=DotaCapitalist
+|twitter=DotaCapitalist
+|ids=DotaCapitalist, The Capitalist, 989
+|twitch=http://www.twitch.tv/dotacapitalist
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-01-04 — 2013-??-??|Gamer University}}
+{{TH|2015-12-08 — '''Present'''|Vegetables Esports Club}}
+}}
+
+Austin '''"Capitalist"''' Walsh is an independent Dota 2 caster and content creator. He has also played Dota 2 at a semi-professional level with teams such as [[Gamer University]] and [[Vegetables Esports Club]].
+</textarea>]

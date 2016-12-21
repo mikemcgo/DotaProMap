@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Player-stub}}
+{{tabs static
+|name1=Overview
+|link1=Axypa
+|name2=Results
+|link2=Axypa/Results
+|This=1
+}}
+
+{{Infobox player
+|id=Axypa
+|image=
+|name=Богдан Бойчук
+|romanized_name=Bogdan Boychuk
+|team=
+|birth_date=
+|country=Ukraine
+|hero=Lich
+|hero2=Abaddon
+|hero3=Crystal Maiden
+|role=support
+|status=Retired
+|twitch=axypa
+|tlstream=axypa
+|tlprofile=
+|vk=axypamazda
+|datdota=
+|ids=Axypamazda
+|sponsor=
+|site=http://axypa.com/
+|twitter=axypadota
+|dotabuff=136779842
+|history='''DotA:''' &lt;br&gt;
+{{TH|2007 — 2008 |Wolker Gaming}}
+{{TH|2009 — 2010-10-22|DTS}}
+{{TH|2010-10-22 — 2011-04-28|Natus Vincere}}
+'''Dota 2:'''' &lt;br&gt;
+{{TH|2014-01-16—2014-01-23|sQreen's Squad}}
+|videoarchive=
+|youtube=
+}}
+
+Bogdan '''"Axypa"''' Boychuk was a professional DotA player. He earned his popularity by playing for the teams [[DTS]] and [[Natus Vincere]]. Axypa was playing a support role. He retired in 2011, although he had a brief comeback in 2014.
+</textarea>]

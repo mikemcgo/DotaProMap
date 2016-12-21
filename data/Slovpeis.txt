@@ -1,0 +1,20 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">
+
+{{Infobox player
+|id=Slovpeis
+|image=PlayerImagePlaceholder.png
+|name=
+|team=Aposis Gaming
+|sponsor=Host1.no
+|ids=
+|country=Norway
+|birth_date={{Birth date and age|1990|09|06}}
+|nicknames=
+|site=http://aposis.com/
+|twitch=slovpeis
+|twitter=AposisSlovpeis
+|youtube=
+|fanpage=
+|history=
+}}
+</textarea>]

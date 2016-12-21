@@ -1,0 +1,45 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Lin
+|name2=Results
+|link2=Lin/Results
+|This=1
+}}
+{{Infobox player
+|id=Lin
+|image=PlayerImagePlaceholder.png
+|name=徐子洋
+|romanized_name=Xu Ziyang
+|team=Newbee Young
+|role=mid
+|status=Active
+|hero=Viper
+|hero2=Invoker
+|hero3=Ember Spirit
+|mmr=7063
+|mmrdate=2016-11-30
+|sponsor=
+|ids=All Beauty Must Die, Whisper
+|datdota=2433&amp;player=lin
+|dotabuff=136477860
+|tencent=Se_yx_
+|country=China
+|birth_date= 
+|nicknames=
+|site=
+|stream=
+|twitter=
+|youtube=
+|fanpage=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-09-11 — 2014-04-09|RattleSnake}}
+{{TH|2014-04-09 — 2014-12-09|LGD.cn}}
+{{TH|2014-12-09 — 2015-01-02|LV Gaming}}
+{{TH|2015-01-02 — 2015-03-13|LAI Gaming}}
+{{TH|2015-03-14 — 2015-12-04|Vici Gaming Potential}}
+{{TH|2015-12-07 — 2016-09-17|TongFu}}
+{{TH|2016-09-17 — '''Present'''|Newbee Young}}
+}}
+
+Xu '''"Lin"''' Ziyang is a Chinese professional Dota 2 player currently playing for [[Newbee Young]].
+</textarea>]

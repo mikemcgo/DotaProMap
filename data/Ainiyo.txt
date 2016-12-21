@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ainiyo
+|name2=Results
+|link2=Ainiyo/Results
+|This=1
+}}
+{{Infobox player
+|id=yxb
+|image=yxb-EHOME.Luminous.jpg
+|name=胡志毅
+|romanized_name=Hu Zhiyi
+|team=EHOME.Luminous
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=
+|mmrdate=
+|ids=Ainiyo,夜小白
+|country=China
+|datdota=
+|dotabuff=247607981
+|tencent=
+|weibo=
+|history=
+{{TH|2015-03-15 — 2015-07-01|Newbee.Miracle}}
+{{TH|2015-10-15 — 2016-03-22|Thunderobot Gaming}}
+{{TH|2016-04-?? — 2016-04-23|FTD Club B}}
+{{TH|2016-05-?? — '''Present'''|EHOME.Luminous}}
+}}
+
+Hu "'''yxb'''" Zhiyi is a professional Dota 2 player currently playing for [[EHOME.Luminous]].
+</textarea>]

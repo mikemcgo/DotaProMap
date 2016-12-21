@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:w33}}
+{{Tabs static
+|name1=Overview
+|link1=W33
+|name2=Results
+|link2=W33/Results
+|This=1
+}}
+{{Infobox player
+|id=w33
+|image=W33_frankfurt_major_2015.jpg
+|name=عليوي عمر
+|romanized_name=Aliwi Omar
+|team=Digital Chaos
+|role=mid
+|status=Active
+|hero=Meepo
+|hero2=Windranger
+|hero3=Invoker
+|mmr=8105
+|mmrdate=2016-11-24
+|ids=w33haa
+|country=Romania
+|country2=Syria
+|datdota=3428
+|vk=
+|birth_date={{birth date and age|1995|3|6}}&lt;ref&gt;[http://redd.it/3b29lx reddit.com: AMA w33"]&lt;/ref&gt;
+|facebook=w33haa
+|reddit=w33haa
+|twitter=w33haa
+|twitch=w33haa
+|dotabuff=86700461
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-05-?? — 2015-01-10|Balkan Bears}}
+{{TH|2015-01-10 — 2015-03-06|MeePwn'd}}
+{{TH|2015-03-06 — 2015-05-11|Balkan Bears}}
+{{TH|2015-05-17 — 2015-08-21|4 Clover &amp; Lepricon}}
+{{TH|2015-08-22 — 2016-03-22|Team Secret}}
+{{TH|2016-03-26 — '''Present'''|Digital Chaos}}
+}}
+
+Aliwi '''"w33"''' Omar is a professional Dota 2 player who is playing for [[Digital Chaos]].
+</textarea>]

@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:ShiKi}}
+{{Tabs static
+|name1=Overview
+|link1=Shiki
+|name2=Results
+|link2=Shiki/Results
+|This=1
+}}
+{{Infobox player
+|id=ShiKi
+|image=Shiki_frankfurt_major_2015.jpg
+|name=黄绩伟
+|romanized_name=Huang Jiwei
+|team=
+|role=mid
+|status=Active
+|hero=Queen of Pain
+|hero2=Shadow Fiend
+|hero3=Lina
+|mmr=7300
+|mmrdate=2016-09-23
+|ids=两仪落
+|country=China
+|datdota=2219
+|twitter=
+|dotabuff=101375717
+|birth_date={{Birth date and age|1992|10|7}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-08-20 — 2014-07-01|New Element}}
+{{TH|2014-09-02 — 2014-11-01|Immortal Magneto Gaming}}
+{{TH|2015-03-15 — 2016-03-20|CDEC Gaming}}
+{{TH|2016-03-26 — 2016-08-20|CDEC Youth|sub}}
+}}
+
+Huang '''"ShiKi"''' Jiwei is a professional Chinese Dota 2 player who is is currently teamless.
+</textarea>]

@@ -1,0 +1,48 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:g0g1}}
+{{Tabs static
+|name1=Overview
+|link1=G0g1
+|name2=Results
+|link2=G0g1/Results
+|This=1
+}}
+{{Infobox player
+|id=g0g1
+|image=EPGg0g1.jpeg
+|name=Gordan Prosic
+|team=Elements Pro
+|birth_date={{Birth date and age|1988|10|19}}
+|country=Serbia
+|hero=Queen of Pain
+|hero2=Axe
+|hero3=Luna
+|mmr=5829
+|mmrdate=2016-08-25
+|role=carry
+|status=Active
+|ids=nn, GordaN
+|tlstream=
+|tlprofile=
+|dotabuff=43401453
+|twitch=g0g1le
+|twitter=g0g1dota
+|facebook=g0g1dota
+|vk=
+|history='''Dota:'''&lt;br&gt;
+{{TH|2009-??-?? |Serious Gaming}}
+{{TH|2011-06-?? — 2011-07-21|H2k Gaming}}
+{{TH|2011-07-31 — 2011-11-07|Team Gamersleague}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-07-31 — 2011-11-07|Team Gamersleague}}
+{{TH|2011-11-07 — 2012-03-22|Fnatic}}
+{{TH|2013-??-?? — 2013-??-??|iNfernity Gaming}}
+{{TH|2013-05-27 — 2014-04-06|Team ONE}}
+{{TH|2014-04-06 — 2014-07-31|mYinsanity}}
+{{TH|2015-01-03 — 2015-??-??|mYinsanity}}
+{{TH|2016-02-10 — 2015-06-03|Spider Pigzs}}
+{{TH|2016-08-02 — 2016-08-25|Elements One}}
+{{TH|2016-08-25 — '''Present'''|Elements Pro}}
+}}
+
+Gordan '''"g0g1"''' Prosic is a professional Dota 2 player currently playing for [[Elements Pro]].
+</textarea>]

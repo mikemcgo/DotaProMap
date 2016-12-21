@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE: Hot_Bid}}
+{{tabs static
+|name1=Overview
+|link1=Hot_Bid
+|name2=Interviews
+|link2=Hot_Bid/Interviews
+|This=1
+}}
+
+{{Infobox player
+|id=Hot_Bid
+|image=Hot BidAtDreamHackSummer2013.jpg
+|name=Ken Chen
+|birth_date=
+|country=United States
+|hero=sb
+|hero2=earthshaker
+|hero3=void
+|ids=HotBid
+
+|twitch=hot_bid
+|youtube=HotBid
+|twitter=Hot_Bid
+|fanclub=http://www.teamliquid.net/forum/viewmessage.php?topic_id=211735
+}}
+
+Ken "'''Hot_Bid'''" Chen is an ex-administrator for TeamLiquid.net. He now works full-time for ESL, where he has helped organize various ESL run Dota 2 events. Through his work on Teamliquid.net he has become a popular community figure, known for his humorous coverage of StarCraft and Dota 2 related content.
+</textarea>]

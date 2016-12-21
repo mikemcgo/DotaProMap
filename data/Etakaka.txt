@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Etakaka
+|name2=Results
+|link2=Etakaka/Results
+|This=1
+}}
+{{Infobox player
+|id=Etakaka
+|image=PlayerImagePlaceholder.png
+|name=Alexander Lindström 
+|team=IKEA
+|birth_date=
+|country=Sweden
+|role=Mid
+|status=Active
+|hero=puck
+|hero2=batrider
+|hero3=mirana
+|mmr=7293
+|mmrdate=2016-10-07
+|ids=Eta
+|youtube=
+|facebook=
+|datdota=
+|tlstream=
+|vk=
+|history=
+{{TH|2016-09-13 — '''Present'''|IKEA}}
+}}
+
+Alexander '''"Etakaka"''' Lindström is a Swedish Dota 2 player who is currently playing for [[IKEA]].
+</textarea>]

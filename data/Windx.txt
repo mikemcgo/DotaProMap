@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Windx
+|name2=Results
+|link2=Windx/Results
+|This=1
+}}
+{{Infobox player
+|id=Windx
+|image=PlayerImagePlaceholder.png
+|team=cascade
+|name=Евгений Власенко
+|romanized_name=Yevgeny Vlasenko
+|role=support
+|status=Active
+|hero=Dazzle
+|hero2=Rubick
+|hero3=Enchantress
+|ids=Sakura
+|country=Russia
+|birth_date=
+|datdota=2104
+|dotabuff=124049453
+|facebook=
+|twitter=
+|vk=
+|history=
+{{TH|2012-11-05 — 2012-12-??|MDMA^}}
+{{TH|2013-08-30 — 2013-11-04|Poseidon}}
+{{TH|2014-02-22 — 2014-07-24|Relax, you're doing fine}}
+{{TH|2015-09-01 — 2015-10-06|PRIES Gaming}}
+{{TH|2015-10-06 — 2016-??-??|abnormalize}}
+{{TH|2016-??-?? — '''Present'''|Cascade}}
+}}
+
+Yevgeny "'''Windx'''" Vlasenko is a professional Dota 2 player currently playing for [[Cascade]].
+</textarea>]

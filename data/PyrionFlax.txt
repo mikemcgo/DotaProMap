@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=PyrionFlax
+|name2=Broadcasts
+|link2=PyrionFlax/Broadcasts
+|This=1
+}}
+{{Infobox player
+|role=analyst
+|role2=caster
+|role3=contentcreator
+|id=PyrionFlax
+|name=Ted Forsyth
+|image=CoqFgj2VYAEEscc.jpg
+|image_size=175
+|caption=Pyrion Flax and BlitzDotA
+|birth_date={{Birth date and age|1976|03|29}}
+|facebook=PyrionFlax
+|country=United Kingdom
+|twitter=PyrionFlax
+|ids=PyrionFlax, PFlax, Flax, The Dumb One
+|twitch=pyrionflax
+|youtube=user/tedhimself
+}}
+</textarea>]

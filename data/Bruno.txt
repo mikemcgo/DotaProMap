@@ -1,0 +1,22 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Infobox player
+|id=Bruno
+|name=Bruno Carlucci 
+|image=Bruno.jpg
+|team=
+|country=Argentina
+|birth_date=
+|ids=Statsman, Wicked
+|site=http://dota-academy.com/
+|twitter=StatsmanBruno
+|twitch=thegdstudio
+|tlstream=thegdstudio
+|role=analyst
+|tlprofile=
+|history=
+|youtube=
+|fanpage=
+}}
+{{caster-stub}}
+
+Bruno '''"Bruno"''' Carlucci is a well-known Dota 2 commentator and former statistician for The GD Studio and Dota Academy, now a programmer for Valve.
+</textarea>]

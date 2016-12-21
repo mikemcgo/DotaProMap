@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Hao
+|name2=Results
+|link2=Hao/Results
+|This=1
+}}
+{{Infobox player
+|id=Hao
+|image=Hao frankfurt major 2015.jpg
+|name=陈智豪
+|romanized_name=Chen Zhihao
+|team=Newbee
+|role=carry
+|status=Inactive
+|hero=Gyrocopter
+|hero2=Spectre
+|hero3=Weaver
+|mmr=7356
+|mmrdate=2016-09-28
+|twitter=chantseho
+|ids=
+|datdota=72
+|dotabuff=88508515
+|stream=http://www.zhanqi.tv/11464
+|tencent=Nv_hao
+|country=China
+|birth_date= {{Birth date and age|1990|07|28}}
+|history=
+{{TH|2011-06-16 — 2011-08-28|TyLoo}}
+{{TH|2012-04-01 — 2013-09-04|TongFu}}
+{{TH|2013-09-04 — 2014-02-20|Invictus Gaming}}
+{{TH|2014-02-23 — 2015-03-10|Newbee}}
+{{TH|2015-03-10 — 2015-09-03 |Vici Gaming}}
+{{TH|2015-09-03 — 2016-08-18|Newbee}}
+{{TH|2016-08-18 — '''Present'''|Newbee|inactive}}
+}}
+Chen '''"Hao"''' Zhihao is a professional Dota 2 player, who is currently inactive.
+</textarea>]

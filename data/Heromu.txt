@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">Hiromu '''"Heromu"''' Hosoya is a Japanese DotA player for [[DeToNator|Team DeToNator]].
+
+
+{{Tabs static
+|name1=Overview
+|link1=Heromu
+|name2=Results
+|link2=Heromu/Results
+|This=1
+}}
+{{Infobox player
+|id=Heromu
+|image=Heromu.jpg
+|name=Hiromu Hosoya
+|team=DeToNator
+|birth_date=
+|role=Solo Mid, Carry
+|hero=Storm Spirit
+|hero2=Invoker
+|hero3=Shadow Fiend
+|country=Japan
+|facebook=
+|site=
+|twitch=heromuu
+|tlstream=
+|tlprofile=
+|youtube=
+|twitter=Det_heromu
+|dotabuff=75028116
+|history= 
+{{TH|2014-06-28 — 2015-01-05|AffectioN!}}
+{{TH|2015-01-05 — '''Present'''|DeToNator}}
+}}
+</textarea>]

@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Snoopy
+|name2=Results
+|link2=Snoopy/Results
+|This=1
+}}
+{{Infobox player
+|id=Snoopy
+|image=WIH-Snoopey-FaLSe.jpg
+|name=Trong Truong
+|team=
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Australia
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011-11-02 — 2012-01-21|Natural 9}}
+{{TH|2012-01-21 — 2012-08-09|Absolute Legends}}
+{{TH|2012-09-08 — 2013-02-11|Natural 9}}
+}}
+
+Trong '''"Snoopy"''' Truong is a professional Dota 2 player who is currently teamless.
+</textarea>]

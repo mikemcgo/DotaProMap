@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=MEGAKING1337
+|name2=Results
+|link2=MEGAKING1337/Results
+|This=1
+}}
+
+{{Infobox player
+|id=MEGAKING1337
+|image=
+|name=Karel Spěvák
+|team=
+|hero=Doom
+|hero2=Razor
+|hero3=Mirana
+|role=offlane
+|ids=reejd, Megaking1337, Rejd
+|country=Czech Republic
+|birth_date=  
+|facebook=
+|site=
+|twitch=megaking1337
+|ldstream=
+|tlprofile=
+|datdota=
+|vk=
+|twitter=
+|dotabuff=114213950
+|history=
+{{TH|2012-??-?? - ????-??-??|Epidemic!}}
+{{TH|2012-??-?? - 2012-??-??|Sluníčka}}
+{{TH|2013-07-02 - 2013-08-??|Ensox}}
+{{TH|2013-08-?? - 2013-??-??|eEriness}}
+{{TH|2013-11-?? - 2013-11-??|Random Trash}}
+{{TH|2013-11-?? - 2013-12-??|Martin Hala Gaming}}
+{{TH|2014-??-?? - 2015-05-14|Epidemic!}}
+{{TH|2015-06-16 - 2015-08-??|eSuba}}
+{{TH|2015-08-?? - 2015-??-??|Epidemic!}}
+}}
+</textarea>]

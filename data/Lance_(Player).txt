@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub|no-cat=false}}{{DISPLAYTITLE:Lance}}
+{{Tabs static
+|name1=Overview
+|link1=Lance (Player)
+|name2=Results
+|link2=Lance (Player)/Results
+|This=1
+}}
+{{Infobox player
+|id=Lance
+|image=PlayerImagePlaceholder.png
+|name=Fua Hsien Wan
+|team=
+|ids=Fua Hsien Wan
+|country=Malaysia
+|role=carry
+|status=Banned
+|hero=Doom Bringer
+|hero2=Lycanthrope
+|hero3=Lone Druid
+|mmr=7470
+|mmrdate=2016-11-14
+|datdota=2156
+|dotabuff=96429099
+|history=
+{{TH|2014-01-25 — 2014-10-20|Arrow Gaming}}
+{{TH|2015-01-09 — 2016-04-06|Team Redemption}}
+}}
+
+Fua '''"Lance"''' Hsien Wan is a professional Dota 2 player who is currently teamless.
+</textarea>]

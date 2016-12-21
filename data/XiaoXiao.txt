@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=XiaoXiao
+|name2=Results
+|link2=XiaoXiao/Results
+|This=1
+}}
+{{Infobox player
+|id=XiaoXiao
+|image=PlayerImagePlaceholder.png
+|name=马骏驹
+|romanized_name=Ma Junju
+|team=TongFu
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=
+|mmrdate=
+|ids=XiaoXiaoSala
+|country=China
+|datdota=
+|dotabuff=133705802
+|birth_date=
+|history=
+{{TH|2016-09-17 — '''Present'''|TongFu}}
+}}
+
+Ma '''"XiaoXiao"''' Junju is a professional Dota 2 player currently playing for [[TongFu]].
+</textarea>]

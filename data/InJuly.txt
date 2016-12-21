@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=InJuly
+|name2=Results
+|link2=InJuly/Results
+|This=1
+}}
+{{Infobox player
+|id=InJuly
+|image=IGV_inJuly_head.png
+|name=杨晓东
+|romanized_name=Yang Xiaodong
+|team=iG Vitality
+|country=China
+|role=offlane
+|status=Active
+|hero=Batrider
+|hero2=Centaur Warrunner
+|hero3=Dark Seer
+|mmr=7908
+|mmrdate=2016-11-23
+|birth_date={{Birth date and age|1993|1|12}}
+|dotabuff=111291593
+|datdota=3216
+|tlstream=injuly
+|tencent=yangxiaodo7509
+|history=
+{{TH|2011-09-21 — 2013-01-17|DT^Club}}
+{{TH|2013-01-17 — 2013-03-21|RisingStars}}
+{{TH|2013-09-25 — 2014-08-26|DT^Club}}
+{{TH|2014-08-26 — 2015-03-15|LGD.cn}}
+{{TH|2015-03-15 — 2015-04-??|DK}}
+{{TH|2015-04-?? — 2015-05-30|Wings Gaming}}
+{{TH|2015-09-04 — 2016-03-19|Team FanTuan}}
+{{TH|2016-03-19 — '''Present'''|iG Vitality}}
+}}&lt;br/&gt;
+
+Yang '''"InJuly"''' Xiaodong is a professional Dota 2 player who is currently playing for [[iG Vitality]].
+</textarea>]

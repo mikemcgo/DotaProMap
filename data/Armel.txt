@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Armel
+|name2=Results
+|link2=Armel/Results
+|This=1
+}}
+{{Infobox player
+|id=Armel
+|image=PlayerImagePlaceholder.png
+|name=Armel Paul Tabios 
+|team=Acion Arena
+|role=mid
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=
+|mmrdate=
+|ids=
+|country=Philippines
+|birth_date=
+|twitter=
+|datdota=
+|dotabuff=164532005
+|history={{TH|2016-03-18 — '''Present'''|Acion Arena}}
+}}
+
+Armel Paul '''"Armel"''' Tabios is a professional Dota 2 player who is currently playing for [[Acion Arena]].
+
+&lt;!--==Biography==
+
+==Dota 2==
+
+==Trivia==--&gt;
+</textarea>]

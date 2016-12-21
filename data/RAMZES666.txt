@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=RAMZES666
+|name2=Results
+|link2=RAMZES666/Results
+|This=1
+}}
+{{Infobox player
+|id=RAMZES666
+|image=SIXSIXSIX.jpg
+|name=Роман Кушнарев
+|romanized_name=Roman Kushnarev
+|team=Virtus.pro
+|role=carry
+|status=Active
+|hero=Gyrocopter
+|hero2=Juggernaut
+|hero3=Lifestealer
+|mmr=9024
+|mmrdate=2016-12-03
+|ids=Ramzes666, SIXSIXSIX, Ramzes
+|country=Russia
+|birth_date={{Birth date and age|1999|04|25}}
+|twitter=ramzesdoto
+|vk=ramzes_fanpage
+|dotabuff=132851371
+|history='''Dota 2'''&lt;br&gt;
+{{TH|2015-04-01 — 2015-10-11|ScaryFaceZ}}
+{{TH|2015-09-03 — 2015-12-06|CIS Rejects}}
+{{TH|2015-12-06 — 2016-03-05|Team Spirit}}
+{{TH|2016-03-25 — 2016-08-04|Team Empire}}
+{{TH|2016-08-04 — '''Present'''|Virtus.pro}}
+}}
+
+Roman '''"RAMZES666"''' Kushnarev is a professional Dota 2 player who is currently playing for [[Virtus.pro]].
+</textarea>]

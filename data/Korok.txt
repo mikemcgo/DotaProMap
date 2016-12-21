@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Korok
+|name2=Results
+|link2=Korok/Results
+|This=1
+}}
+{{Infobox player
+|id=Korok
+|image=Korok_pre-DH.jpg
+|name=Steven Ashworth
+|team=
+|sponsor= 
+|birth_date={{Birth date and age|1993|09|02}}
+|country=United States
+|hero=Queen of Pain
+|hero2=ursa
+|hero3=morphling
+|role=carry
+|status=Inactive
+|ids=Stealth Steven &lt;ref&gt;[https://www.youtube.com/watch?v=sysWbWHzWsU&amp;t=9m20s HotBid interviews EGM]&lt;/ref&gt;
+|tlstream=Korok
+|twitch=korok
+|twitter=korokdota
+|datdota=104
+|dotabuff=1185644
+|history=
+{{TH|2012-05-11 — 2012-10-22|Quantic Gaming}}
+{{TH|2012-12-07 — 2013-09-22|Team Liquid}}
+{{TH|2013-09-22 — 2013-11-10|Team Dignitas}}
+{{TH|2014-04-11 — 2014-06-03|North American Rejects}}
+{{TH|2014-06-03 — 2014-12-05|Na'Vi North America|link=Natus Vincere/Natus_Vincere_North_America}}
+{{TH|2015-03-24 — 2015-07-03|North American Rejects}}
+{{TH|2015-07-03 — 2015-09-06|Team Archon}}
+}}
+Steven "'''Korok'''" Ashworth is a DotA player from the United States who is currently teamless. He most recently played for [[Team Archon]].
+</textarea>]

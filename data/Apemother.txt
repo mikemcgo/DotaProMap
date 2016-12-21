@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Apemother
+|name2=Results
+|link2=Apemother/Results
+|This=1
+}}
+{{Infobox player
+|id=Apemother
+|image=Apemother TeamCoast 2014.jpg
+|name=Joel Larsson
+|team=
+|role=mid
+|status=Inactive
+|hero=Veno
+|hero2=Viper
+|hero3=Magnus
+|ids=
+|country=Sweden
+|birth_date={{Birth date and age|1990|12|14}}
+|twitter=Apemother
+|facebook=Apemother
+|twitch=apemother
+|datdota=3402
+|dotabuff=43720230
+|playlist=http://open.spotify.com/user/karatemamman
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-04-09 — 2014-04-11|Drakdräpare}}
+{{TH|2014-04-11 — 2014-05-20|Monomaniac}}
+{{TH|2014-05-20 — 2014-11-??|Team Coast}}
+{{TH|2014-11-20 — 2015-01-01|LAJONS}}
+{{TH|2015-01-01 — 2015-02-23|Ninjas in Pyjamas}}
+{{TH|2015-03-30 — 2015-??-??|Taco Life}}
+}}
+
+Joel “Apemother” Larsson is a Swedish professional Dota 2 player who is currently teamless.
+</textarea>]

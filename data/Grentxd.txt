@@ -1,0 +1,27 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Grentxd
+|name2=Results
+|link2=Grentxd/Results
+|This=1
+}}
+{{Infobox player
+|id=grentxd
+|image=PlayerImagePlaceholder.png
+|name=Mariano Lages	
+|team=
+|birth_date=
+|country=Brazil
+|hero=Tidehunter
+|hero2=centaur
+|hero3=Batrider
+|role=Offlane
+|facebook=grentxd
+|datdota=473&amp;player=grentxd
+|history=
+{{TH|2014-10-07 — 2014-12-15|paiN Gaming}}
+{{TH|2015-06-15 — 2015-06-26|INTZ eSports}}
+}}
+
+Mariano '''"grentxd"''' Lages is a professional DotA player who is currently teamless.
+</textarea>]

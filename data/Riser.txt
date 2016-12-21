@@ -1,0 +1,24 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Riser
+|image=riser_profile.png
+|name=Andrew Bronze
+|country=United States
+|team=compLexity Gaming
+|role=support
+|status=Retired
+|hero=Earthshaker
+|hero2=Enigma
+|hero3=Sand King
+|ids=Riser_
+|twitch=riseairofool
+|twitter=coL_Riser
+|facebook=coLRiser
+|history=
+{{TH|2014-??-?? — 2014-08-27|stayGreen}}
+{{TH|2014-08-27 — 2014-11-03|compLexity Gaming}}
+{{TH|2015-09-03 — '''Present''' |compLexity Gaming|sub}}
+}}
+
+Andrew "'''Riser'''" Bronze is an American former professional Heroes of Newerth and Dota 2 player who is currently a substitute for [[compLexity Gaming]].
+</textarea>]

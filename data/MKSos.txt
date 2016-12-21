@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=MKSos
+|name2=Results
+|link2=MKSos/Results
+|This=1
+}}
+{{Infobox player
+|id=MKSos
+|image=PlayerImagePlaceholder.png
+|name=刘玉峰
+|romanized_name=Liu Yufeng
+|team=Rampage Gaming
+|country=China
+|role=support
+|hero=Vengeful Spirit
+|hero2=Earthshaker
+|hero3=Tusk
+|status=Active
+|ids=MK, 876
+|mmr=
+|mmrdate=
+|datdota=
+|dotabuff=103729052
+|tencent=
+|history=
+{{TH|2014-10-24 — 2015-06-25|Newbee Young}}
+{{TH|2015-12-06 — 2016-01-10|FTD club C}} 
+{{TH|2016-04-21 — 2016-05-08|Void Boys}} 
+{{TH|2016-06-30 — 2016-07-31|CDEC Avenger}}
+{{TH|2016-10-16 — '''Present'''|Rampage Gaming}}
+}} 
+
+Liu "'''MKSos'''" Yufeng is a professional Dota 2 player, who is currently playing for [[Rampage Gaming]].
+</textarea>]

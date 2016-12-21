@@ -1,0 +1,52 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Wagamama
+|name2=Results
+|link2=Wagamama/Results
+|name3=Broadcasts
+|link3=Wagamama/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Wagamama
+|image=Wagamama_2013DHS.jpg
+|name=Niklas Högström
+|team=Thinking
+|birth_date=
+|country=Sweden
+|hero=TA
+|hero2=Meepo
+|hero3=Queen of Pain
+|mmr=7618
+|mmrdate=2016-09-24
+|role=mid
+|status=Active
+|twitch=wagamamatv
+|tlstream=Wagamama
+|tlprofile=Wagamama
+|reddit=WagamamaW
+|datdota=148
+|dotabuff=32995405
+|sponsor=
+|site=
+|twitter=WagaGaming
+|facebook=pages/WagaGaming/453238441382927
+|history='''Dota:'''
+{{TH|2010-02-13 — 2011-09-07|Druidz}}
+{{TH|2011-09-07 — 2011-12-21|Emocore}}
+'''Dota 2:'''
+{{TH|2011-09-07 — 2011-12-21|Emocore}}
+{{TH|2011-12-21 — 2012-09-12|Team Infused}}
+{{TH|2012-09-12 — 2012-10-18|Skånes Elit}}
+{{TH|2012-10-18 — 2013-01-07|Pulse eSports}}
+{{TH|2013-02-01 — 2014-01-27|QPAD Red Pandas}}
+{{TH|2015-05-05 — 2015-08-19|4 Clover &amp; Lepricon}}
+{{TH|2015-09-02 — 2015-10-08|ROOT Gaming}}
+{{TH|2016-09-11 — 2016-10-17|LVLUP}}
+{{TH|2016-10-21 — '''Present'''|Thinking}}
+|videoarchive=
+|youtube=WagaGaming
+}}
+
+Niklas '''"Wagamama"''' Högström is a Swedish professional Dota 2 player who is currently playing for [[Thinking]].
+</textarea>]

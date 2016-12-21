@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=scant
+|name2=Results
+|link2=scant/Results
+|name3=Broadcasts
+|link3=scant/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=scant
+|image=scantpic.jpg
+|name=Anthony Hodgson
+|status=Active
+|role=analyst
+|role2=coach
+|team=mineski
+|mmr=5377
+|mmrdate=2016-08-23
+|dotabuff=http://www.dotabuff.com/esports/players/86727763
+|ids=scantzor
+|country=South Africa
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=http://gameishard.blogspot.com.au/
+|stream=
+|twitter=scantzor
+|youtube=
+|fanpage=https://www.facebook.com/scantilyscant/posts
+|history={{TH|2012 — 20??-??-??|Bravado Gaming}}{{TH|20??-??-?? — 2015-08-06|Bravado Blue}}{{TH|20??-??-?? — '''Present'''|Carbon eSports}}
+}}
+
+Anthony "[[scant]]" Hodgson is a Dota 2 analyst. He is also a writer, statistican and caster. He is currently the coach for [[Mineski]].
+</textarea>]

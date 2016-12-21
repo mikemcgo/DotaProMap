@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=GoDz
+|name2=Broadcasts
+|link2=GoDz/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=GoDz
+|name=David Parker
+|image=Godz ti6.jpg
+|team=
+|mmr=5466
+|mmrdate=2016-08-03
+|country=Australia
+|birth_date={{Birth date and age|1990|02|27}}
+&lt;!-- |tlpdid=1361--&gt;
+|site=
+|role=caster
+|twitter=BTSGoDz
+|twitch=beyondthesummittv
+|tlstream=beyondthesummittv
+|tlprofile=
+|history=[[Natural 9]]
+|youtube=beyondthesummittv
+|fanpage=
+}}
+
+David '''"GoDz"''' Parker is a well-known Dota 2 commentator casting for BeyondTheSummit.
+</textarea>]

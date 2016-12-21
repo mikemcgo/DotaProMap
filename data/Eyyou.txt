@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:eyyou}}
+{{Tabs static
+|name1=Overview
+|link1=Eyyou
+|name2=Results
+|link2=Eyyou/Results
+|This=1
+}}
+{{Infobox player
+|id=eyyou
+|image=PlayerImagePlaceholder.png
+|name=Nico Barcelon
+|team=
+|role=support
+|status=Active
+|mmr=6427
+|mmrdate=2016-11-11
+|hero=Vengeful Spirit
+|hero2=Bounty Hunter
+|hero3=Phoenix 
+|ids=
+|dotabuff=173476224
+|country=Philippines
+|birth_date=
+|history='''Dota 2'''&lt;br&gt;
+{{TH|2015-01-22 — 2016-08-22|TnC Gaming}}
+{{TH|2016-09-06 — 2016-11-28|Fnatic}}
+}}
+
+Nico '''"eyyou"''' Barcelon is a Filipino professional Dota 2 player who last played for [[Fnatic]].
+</textarea>]

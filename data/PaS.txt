@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=PaS
+|name2=Results
+|link2=PaS/Results
+|This=1
+}}
+{{Infobox player
+|id=paS
+|image=paS ESL One Frankfurt 2014.jpg
+|name=Pascal Lohmeier
+|team=
+|role=support
+|status=Active
+|hero=Gyrocopter
+|hero2=Shadow Demon
+|hero3=
+|ids=
+|datdota=142
+|dotabuff=31078647
+|twitch=pasminus
+|twitter=Dota2paS
+|country=Germany
+|birth_date={{birth date and age|1992|10|25}}
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-11-21 — 2013-10-16|mousesports}}
+{{TH|2013-10-16 — 2013-10-22|DD.Dota}}
+{{TH|2013-10-22 — 2014-04-11|Sigma.int}}
+{{TH|2014-04-11 — 2014-05-13|Team Dog}}
+{{TH|2014-05-13 — 2014-08-??|mousesports}}
+{{TH|20??-??-?? — 2015-??-??|GOOMBA Gaming}}
+{{TH|2015-10-08 — 2015-10-09|Monkey Freedom Fighters}}
+}}
+
+Pascal '''"paS"''' Lohmeier is a Dota 2 player who last played for [[Monkey Freedom Fighters]].
+</textarea>]

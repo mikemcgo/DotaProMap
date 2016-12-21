@@ -1,0 +1,24 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:PLZDunKilme}}
+{{Infobox player
+|id=PLZDunKilme
+|image=5inQ_PLZDunKilme.jpg
+|name=
+|team=
+|role=mid
+|hero=Outworld Destroyer
+|hero2=
+|hero3=
+|ids=
+|country=South Korea
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|??? — 2014-01-17|5inQ}}
+}}
+
+Kim '''"PLZDunKilme"''' Sangho is a professional Dota 2 player who last played for [[5inQ]].
+</textarea>]

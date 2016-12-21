@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Hym
+|name2=Results
+|link2=Hym/Results
+|This=1
+}}
+{{Infobox player
+|id=Hym
+|image=PlayerImagePlaceholder.png
+|name=徐帜
+|romanized_name=Xu Zhi
+|team=Team VG.J
+|role=support
+|status=Active
+|hero=earth spirit
+|hero2=bounty hunter
+|hero3=lion
+|mmr=7731
+|mmrdate=2016-11-16
+|ids=
+|country=China
+|birth_date=
+|datdota=
+|dotabuff=135384059
+|tencent=
+|weibo=
+|history=
+{{TH|2015-07-03 — 2015-09-14|Victory O Lord}}
+{{TH|2015-09-14 — 2015-11-14|HyperGloryTeam}}
+{{TH|2015-11-?? — 2015-12-??|EHOME.Luminous}}
+{{TH|2016-03-20 — 2016-09-14|Vici Gaming}}
+{{TH|2016-09-17 — '''Present'''|Team VG.J}}
+}}
+
+Xu "'''Hym'''" Zhi is a professional Dota 2 player who is currently playing for [[Team VG.J]].
+</textarea>]

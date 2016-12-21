@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Garder
+|name2=Results
+|link2=Garder/Results
+|This=1
+}}
+{{Infobox player
+|id=Garder
+|image=Garder-EHOME.jpg
+|name=刘鑫洲
+|romanized_name=Liu Xinzhou
+|birth_date={{Birth date and age|1989|04|17}}
+|team=EHOME
+|role=support
+|status=Active
+|hero=Lion
+|hero2=Bounty Hunter
+|hero3=Earthshaker
+|mmr=6535
+|mmrdate=2016-11-24
+|ids=Wil, Guardian
+|country=China
+|datdota=3341
+|twitter=
+|dotabuff=142750189
+|history='''Dota 2:'''&lt;br/&gt;
+{{TH|2014-04-25 — 2014-10-14|LGD.CDEC}}
+{{TH|2014-10-14 — 2016-08-30|CDEC Gaming}}
+{{TH|2016-09-17 — '''Present'''|EHOME}}
+}}
+
+Liu "'''Garder"''' Xinzhou is a professional Chinese Dota 2 player currently playing for [[EHOME/EHOME.cn|EHOME]].
+</textarea>]

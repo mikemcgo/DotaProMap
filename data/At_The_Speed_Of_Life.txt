@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=At The Speed Of Life
+|name2=Results
+|link2=At The Speed Of Life/Results
+|This=1
+}}
+{{Infobox player
+|id=At The Speed Of Life
+|image=PlayerImagePlaceholder.png
+|name=Vladimir Stojakovic
+|team=
+|role=mid
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=Justice
+|datdota=6520
+|twitter=
+|twitch=
+|vk=
+|dotabuff=82659961
+|country=Serbia
+|birth_date=
+|history=
+{{TH|2015-09-?? — 2015-12-08|Team Bad English}}
+{{TH|2015-12-08 — 2016-01-27|PRIES}}
+}}
+
+Vladimir "'''AT THE SPEED OF LIFE'''" Stojakovic  is a Serbian professional Dota 2 player who is currently teamless.
+</textarea>]

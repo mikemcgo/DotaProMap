@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:rZs}}
+{{player-stub}}
+
+{{Tabs static
+|name1=Overview|link1=RZs
+|name2=Results|link2=RZs/Results
+|This=1}}
+
+{{Infobox player
+|id=rZs
+|image=10337750 587057154776181 5825247465407754852 n.jpg
+|name=Sergio Gonçalves
+|birth_date=
+|country= Brazil
+|hero=Enigma
+|hero2=
+|hero3=
+|tlstream=
+|role=support
+|status=Active
+|team=
+|ids=
+|mmr=6000
+|mmrdate=2016-06-08
+|twitter=
+|twitch=
+|facebook=rzsdota2
+|dotabuff=124438626
+|datdota=
+|history=
+{{TH|2016-03-09 — 2016-09-03|g3nerationX}}
+}}
+
+Sergio '''"rZs"''' Gonçalves is a [[:Category:Brazil|Brazilian]] professional player who is currently teamless.
+</textarea>]

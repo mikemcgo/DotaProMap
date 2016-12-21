@@ -1,0 +1,19 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:Mofi}}
+{{Infobox player
+|id=Mofi
+|image=
+|name=Rong Yao
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=China
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-03-21 — 2013-07-09|RisingStars}}
+}}
+
+Rong '''"Mofi"''' Yao is a professional Dota player.
+</textarea>]

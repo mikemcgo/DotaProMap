@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=HANNAH MONTANA
+|name2=Results
+|link2=HANNAH MONTANA/Results
+|This=1
+}}
+{{Infobox player
+|id=HANNAH_MONTANA
+|image=Hannah.jpeg
+|name=Tony Talavera
+|team=
+|birth_date={{Birth date and age|1992|01|01}}
+|country=United States
+|hero=beastmaster
+|hero2=tidehunter
+|hero3=
+|role=offlane
+|status=Retired
+|twitch=HANNAH_MONTANAD2
+|ldstream=HANNAH_MONTANAD2
+|tlprofile=
+|sponsor=
+|site=
+|twitter=
+|videoarchive=
+|youtube=
+|datdota=12
+|history=
+{{TH|2011-??-?? — 2012-02-16|FIRE}} 
+{{TH|2012-02-16 — 2012-??-??|compLexity}} 
+{{TH|2013-02-25 — 2013-05-??|Fnatic.NA}}
+}}
+
+Tony '''"HANNAH_MONTANA"''' Talavera is an American player who is currently teamless.
+</textarea>]

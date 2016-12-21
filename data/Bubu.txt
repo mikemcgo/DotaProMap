@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{lowercase}}{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=bubu
+|name2=Results
+|link2=bubu/Results
+|This=1
+}}
+{{Infobox player
+|id=bubu
+|image=482675 503102556403486 794636387 n.jpg
+|name=Muhammad Damar
+|team=
+|birth_date={{Birth date and age|1993|10|23}}
+|country=Indonesia
+|hero=Visage
+|hero2=Skywrath Mage
+|hero3=Shadow Shaman
+|role=Support
+|ids=bubu:3
+|history={{TH|????-??-?? - 2012-12-27|DG}}
+{{TH|2012-12-27 - 2013-11-07|team nxl}}
+{{TH|2013-11-07 - 2014-05-23|Rex Regum}}
+{{TH|2014-06-06 - 2015-06-01|The Prime}}
+{{TH|2015-06-01 - 2015-10-11|Rex Regum}}
+{{TH|2016-??-?? - 2016-08-30|Nas Ne Dogonyat}}
+}}
+
+Muhammad '''"bubu"''' Damar is a Dota 2 player from Indonesia who last played for [[Nas Ne Dogonyat]].
+</textarea>]

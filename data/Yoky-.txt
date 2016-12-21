@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{lowercase}}
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Yoky-
+|name2=Results
+|link2=Yoky-/Results
+|This=1
+}}
+{{Infobox player
+|id=yoky-
+|image=yoky- DreamLeague Season 5.jpg
+|name=Максим Ким
+|romanized_name=Maxim Kim
+|team=F.R.I.E.N.D.S.
+|role=offlane
+|status=Active
+|hero=Tidehunter
+|hero2=Axe
+|hero3=Doom
+|mmr=7561
+|mmrdate=2016-11-10
+|ids=Melancholy-
+|country=Russia
+|datdota=3246
+|vk=yokyofficial
+|twitter=yokydota
+|dotabuff=112250781
+|birth_date=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-10-22 — 2014-02-01|Flip.Sid3.ru}}
+{{TH|2014-02-18 — 2014-08-29|Relax, you're doing fine}}
+{{TH|2014-08-29 — 2014-10-15|HellRaisers}}
+{{TH|2014-10-21 — 2015-08-25|Team Empire}}
+{{TH|2014-08-29 — 2015-10-04|newteam123123}}
+{{TH|2015-10-04 — 2015-11-03|Team Empire}}
+{{TH|2015-11-03 — 2015-11-24|Walrus Punch!|Walrus_Punch!_(team)}}
+{{TH|2015-11-24 — 2016-01-10|Elements Pro Gaming}}
+{{TH|2016-03-25 — 2016-06-30|Virtus Pro}}
+{{TH|2016-07-15 — '''Present'''|F.R.I.E.N.D.S.}}
+}}
+
+Maxim '''"yoky-"''' (pronounced yo-koo) Kim is a professional Russian Dota 2 player currently playing for [[F.R.I.E.N.D.S.]].
+</textarea>]

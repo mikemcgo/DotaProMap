@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|link1=Draskyl
+|name1=Overview
+|link2=Draskyl/Broadcasts
+|name2=Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Draskyl
+|name=Andy Stiles
+|birth_date={{Birth date and age|1988|01|19}}
+|image=Draskyl.jpg
+|team=
+|mmr=5250
+|mmrdate=2016-08-17
+|country=USA
+|ids=Andy
+|site=http://www.twitch.tv/draskyl
+|twitter=Draskyldotatwo
+|twitch=draskyl
+|tlstream=draskyl
+|role=caster
+|tlprofile=
+|history=
+|youtube=
+|fanpage=
+|playlist=https://play.spotify.com/user/draskyl/playlist/3wMFnZTBiM0ebEvpFSidXB
+}}
+
+Andy "'''Draskyl'''" Stiles is a well-known former professional Heroes of Newerth player and Dota 2 commentator casting for [http://moonduck.tv moonduck.TV].
+</textarea>]

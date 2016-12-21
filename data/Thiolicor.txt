@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Thiolicor}}
+{{player-stub}}
+
+{{Tabs static
+|name1=Overview|link1={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;BASEPAGENAME}}
+|name2=Results|link2={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;BASEPAGENAME}}/Results
+|This=1}}
+
+{{Infobox player
+|id=Thiolicor
+|image=10885310 629004437226232 4617921844898106772 n.jpg
+|name=Thiago Cordeiro
+|birth_date={{Birth date and age|1999|08|10}}
+|country= Brazil
+|hero=Rubick
+|hero2=Vengeful Spirit
+|hero3=Doom 
+|role=support
+|status=Active
+|team=Midas Club Elite
+|mmr=6387
+|mmrdate=2016-08-02
+|twitter=
+|facebook=Thiolicor
+|dotabuff=105045291
+|datdota=
+|history=
+{{TH|2016-01-23 — 2016-03-01|paiN Gaming}}
+{{TH|2016-04-01 — 2016-09-05|g3nerationX}}
+{{TH|2016-09-05 — 2016-11-02 |Keyd Stars}}
+{{TH|2016-11-02 — '''Present'''|Midas Club Elite}}
+}}
+
+Thiago '''"Thiolicor"''' Cordeiro is a [[:Category:Brazil|Brazilian]] professional player currently playing for [[Midas Club Elite]].
+</textarea>]

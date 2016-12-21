@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub|no-cat=false}} 
+{{Tabs static
+|name1=Overview
+|link1=Brax
+|name2=Results
+|link2=Brax/Results
+|This=1
+}}
+{{Infobox player
+|id=Brax
+|image=Brax2.jpg
+|name=Braxton Paulson
+|team=
+|role=mid
+|role2=offlane
+|status=Inactive
+|hero=Dark Seer
+|hero2=Batrider
+|hero3=Storm Spirit
+|mmr=7808
+|mmrdate=2016-11-29
+|ids=
+|country=USA
+|birth_date=
+|site=
+|twitch=braxton911
+|askfm=braxton911
+|tlstream=
+|tlprofile=
+|twitter=braxlikesdota
+|datdota=131
+|dotabuff=31818853
+|history=
+{{TH|2012-07-25 — 2012-10-15|Quantic}}
+{{TH|2012-10-16 — 2013-12-26|LGD.int}}
+{{TH|2014-04-11 — 2014-06-03|North American Rejects}}
+{{TH|2014-06-03 — 2014-12-05|Na'Vi North America|link=Natus Vincere/Natus_Vincere_North_America}}
+{{TH|2014-12-05 — 2014-12-20|Sneaky Nyx Assassins}}
+{{TH|2015-02-06 — 2015-02-20|FIRE}}
+{{TH|2015-02-20 — 2015-08-??|Champions of Summer's Rift}}
+{{TH|2015-08-?? — 2015-09-01|Dark Horse}}
+{{TH|2015-02-20 — 2015-11-27|Cloud9}}
+{{TH|2015-12-06 — 2016-??-??|Shazam}}
+}}
+
+Braxton '''"Brax"''' Paulson is a Dota 2 player.
+</textarea>]

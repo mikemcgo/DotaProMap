@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Noia
+|name2=Results
+|link2=Noia/Results
+|This=1
+}}
+{{Infobox player
+|id=Noia
+|image=Noia_DHW_2016.jpg
+|name=Danny Mørch Junget
+|team=
+|role=support
+|status=Active
+|hero=Earth Spirit
+|hero2=Keeper of the Light
+|hero3=Tusk
+|mmr=7004
+|mmrdate=2016-08-25
+|ids=NoiA
+|country=Denmark
+|birth_date=
+|dotabuff=23883296
+|twitter=NoiADJ
+|twitch=djnoia
+|facebook=NoiADJ
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-11-13 — 2013-04-03|3DMAX}}
+{{TH|2013-05-10 — 2013-07-26|Lions Pride}}
+{{TH|2013-07-26 — 2013-10-16|Team Life}}
+{{TH|2015-08-31 — 2016-06-24|Danish Bears}}
+{{TH|2016-06-24 — 2016-12-09|The Imperial}}
+}}
+
+Danny '''"Noia"''' Junget is a professional Dota 2 player who last played for [[The Imperial]].
+</textarea>]

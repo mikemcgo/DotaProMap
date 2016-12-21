@@ -1,0 +1,51 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Dendi
+|name2=Results
+|link2=Dendi/Results
+|This=1
+}}
+
+{{Infobox player
+|id=Dendi
+|image=920320_487802117941777_282656275_o.jpg 
+|name=Данило Ішутін
+|romanized_name=Danil Ishutin
+|team=Natus Vincere
+|teamlink=Natus Vincere/Natus Vincere
+|birth_date={{Birth date and age|1989|12|30}}
+|country=Ukraine
+|hero=Pudge
+|hero2=Magnus
+|hero3=Invoker
+|mmr=8167
+|mmrdate=2016-12-07
+|role=mid
+|status=Active
+|reddit=dendimon
+|twitch=dendi
+|tlstream=dendi
+|tlprofile=dendi
+|datdota=62
+|vk=dendiboss
+|fanclub=http://www.liquiddota.com/forum/players-and-teams/454614-navidendi-discussion
+|sponsor=
+|site=
+|twitter=DendiBoss
+|tencent=dendi_navi
+|dotabuff=70388657
+|history='''DotA:'''&lt;br&gt;
+{{TH|2007-10-15 — 2008|Wolker Gaming}}
+{{TH|2008 — 2008-09|Ks.int}}
+{{TH|2008-09 — 2009-03|DTS}}
+{{TH|2009-03 — 2009-06|Ks.int}}
+{{TH|2009-06 — 2010-12-25|DTS Gaming}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2010-12-25 — 2015-10-16|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2015-10-20 — '''Present'''|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+|videoarchive=
+|youtube=
+}}
+
+Danil '''"Dendi"''' Ishutin is a professional Dota 2 player on [[Natus Vincere/Natus Vincere|Natus Vincere]]. Well known for his solo mid skills, he is regarded as one of the most creative players in the scene today, and is renowned for his unorthodox play style and unconventional skill and item builds.
+</textarea>]

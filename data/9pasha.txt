@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=9pasha
+|name2=Results
+|link2=9pashaebashu/Results
+|This=1
+}}
+{{Infobox player
+|id=9pasha
+|image=9pashaebashu frankfurt major 2015.jpg
+|name=Павел Хвастунов
+|romanized_name=Pavel Khvastunov
+|team=Virtus.pro
+|ids=9pashaebashu
+|mmr=7884
+|mmrdate=2016-12-13
+|country=Russia
+|birth_date={{Birth date and age|1992|06|06}}
+|site=http://vega-squadron.com/users/9pashaebashu
+|twitch=9pasha
+|twitter=9pashka
+|vk=justserious
+|youtube=
+|datdota=3799
+|role=offlane
+|status=Active
+|hero=Slardar
+|hero2=Centaur Warrunner
+|hero3=Clockwerk
+|dotabuff=92423451
+|history={{TH|2013-01-?? — 2014-11-??|UrsaStroitHram}}
+{{TH|2014-11-?? — 2014-11-24|BUHLO-UroPb}}
+{{TH|2014-11-24 — 2016-03-22|Vega Squadron}}
+{{TH|2016-03-25 — 2016-06-05|Polarity}}
+{{TH|2016-07-29 — 2016-08-04|Fantastic Five}}
+{{TH|2016-08-04 — '''Present'''|Virtus.pro}}
+}}
+Pavel '''"9pasha"''' (pronounced ya-pasha) Khvastunov is a Russian Dota 2 player who is currently playing for [[Virtus.pro]]. He formerly played offlane on team "UrsaStroitHram" (rus. Ursa builds a temple) and carry on [[Vega Squadron]].
+</textarea>]

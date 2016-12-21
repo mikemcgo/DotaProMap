@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Crydasia
+|name2=Results
+|link2=Crydasia/Results
+|This=1
+}}
+{{Infobox player
+|id=Crydasia
+|image=Cryasia-dh.jpg
+|name=David Landmesser 
+|team=
+|birth_date
+|country=Germany
+|hero=
+|hero2=
+|role=
+|twitch=
+|tlstream=
+|tlprofile=
+|site=
+|twitter=
+|youtube=
+|fanpage=
+|history=
+{{TH|2012-??-?? — 2012-11-13|WhA}}
+{{TH|2012-11-13 — 2012-11-16|H2k}}
+{{TH|2012-11-16 — 2013-01-03|WhA}}
+}}
+
+David '''"Cry))asia"''' Landmesser is a professional Dota 2 player, currently teamless.
+</textarea>]

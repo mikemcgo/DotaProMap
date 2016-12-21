@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=iceice
+|name2=Results
+|link2=iceice/Results
+|This=1
+}}
+{{Infobox player
+|id=iceice
+|image=iceice ESL One Manila 2016.jpg
+|name=李鹏
+|romanized_name=Li Peng
+|team=Wings Gaming
+|hero=Rubick
+|hero2=Witch Doctor
+|hero3=Dazzle
+|mmr=8071
+|mmrdate=2016-12-06
+|ids=
+|role=support
+|status=Active
+|country=China
+|datdota=4033
+|dotabuff=102644565
+|birth_date= 
+|site=
+|youtube=
+|fanpage=
+|history=
+{{TH|2015-01-12 — 2015-03-15|Big God}}
+{{TH|2015-08-25 — '''Present'''|Wings Gaming}}
+}}
+Li '''"iceice"''' Peng is a Chinese Dota 2 player who is currently playing for [[Wings Gaming]]. A well-known pubstar, iceice was brought into the professional scene by [[xiao8]] as part of the team [[Big God]].
+</textarea>]

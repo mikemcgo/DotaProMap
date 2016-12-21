@@ -1,0 +1,23 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ODPixel
+|name2=Broadcasts
+|link2=ODPixel/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=ODPixel
+|name=Owen Davies
+|image=Odpixel_frankfurt_major_2015.jpg
+|country=United Kingdom
+|twitter=ODPixel
+|role=caster
+|birth_date={{Birth date and age|1993|03|29}}
+|mmr=3907
+|mmrdate=2016-07-25
+|twitch=http://www.twitch.tv/odpixel
+}}
+
+Owen '''"ODPixel"''' Davies is a Dota 2 caster.
+</textarea>]

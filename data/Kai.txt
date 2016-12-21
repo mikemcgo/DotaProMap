@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Kai
+|name2=Results
+|link2=Kai/Results
+|This=1
+}}
+{{Infobox player
+|id=Kai
+|ids=kana, Meen, teppei
+|image=PlayerImagePlaceholder.png
+|name=Teo Kai Sheng
+|team=First Departure
+|role=support
+|status=Active
+|hero=Nyx Assassin
+|hero2=
+|hero3=
+|country=Singapore
+|dotabuff=92127891
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-10 — 2013-03|First Departure}}
+{{TH|2012-09-01 — '''Present'''|First Departure}}
+}}
+
+Teo '''"Kai"''' Kai Sheng is a support player, currently playing for [[First Departure]].
+</textarea>]

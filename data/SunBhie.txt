@@ -1,0 +1,46 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SunBhie
+|name2=Results
+|link2=SunBhie/Results
+|This=1
+}}
+{{Infobox player
+|id=SunBhie
+|image=MVP_SunBhie.jpg
+|name=이정재
+|romanized_name=Lee Jeong-jae
+|team=
+|role=mid
+|role2=coach
+|status=Active
+|hero=Ember Spirit
+|hero2=Shadow Fiend
+|hero3=Tinker
+|mmr=6706
+|mmrdate=2016-11-19
+|ids=
+|country=South Korea
+|country2=Canada
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=SunBhieDota
+|datdota=2776
+|dotabuff=32936165
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-11-21 — 2014-??-??|MVP HOT6ix}}
+{{TH|2014-??-?? — 2014-10-26|LoTem}}
+{{TH|2014-10-26 — 2015-02-26|MVP HOT6ix}}
+{{TH|2015-04-01 — 2015-08-30|MVP HOT6ix}}
+{{TH|2015-09-01 — 2015-09-13|Bathroom Buddies}}
+{{TH|2015-09-13 — 2015-12-21|Team Mischief}}
+{{TH|2015-12-21 — 2016-07-03|Team Freedom}}
+{{TH|2016-08-02 — 2016-08-13|TnC Gaming|coach}}
+}}
+
+Lee '''"SunBhie"''' Jeong-jae is a professional Dota 2 player who most recently coached [[TnC Gaming]] at [[The International 2016]].
+</textarea>]

@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Nando
+|name2=Results
+|link2=Nando/Results
+|This=1
+}}
+{{Infobox player
+|id=Nando
+|image=Nando.jpg
+|name=Fernando Mendoza
+|team=s1 lykos
+|role=carry
+|role2=mid
+|status=Active
+|hero=Juggernaut
+|hero2=Gyrocopter
+|hero3=puck
+|mmr=7346
+|mmrdate=2016-08-17
+|country=Philippines
+|birth_date=
+|twitter=
+|datdota=6417
+|dotabuff=180012313
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2015-06-19 — 2016-08-18|Execration}}
+{{TH|2016-09-08 — '''Present'''|S1 Lykos}}
+}}
+
+Fernando '''"Nando"''' Mendoza is a Filipino professional Dota 2 player who last played for [[Execration]].
+</textarea>]

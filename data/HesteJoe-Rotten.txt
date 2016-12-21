@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=HesteJoe-Rotten
+|name2=Results
+|link2=HesteJoe-Rotten/Results
+|This=1
+}}
+{{Infobox player
+|id=HesteJoe-Rotten
+|image=Hestejoe_DHW_2016.jpg
+|name=Mikki Junget
+|team=
+|role=offlane
+|status=Active
+|hero=Queen of Pain
+|hero2=Magnus
+|hero3=Dragon Knight
+|mmr=7712
+|mmrdate=2016-11-17
+|ids=HeStEJoE-RoTTeN
+|country=Denmark
+|birth_date=
+|twitch=3dmaxhestejoe
+|twitter=HeStEJoE1RoTTeN
+|datdota=191
+|dotabuff=43619695
+|history={{TH|2012-11-13 — 2013-04-03|3DMAX}} 
+{{TH|2013-05-10 — 2013-07-26|Lions Pride}} 
+{{TH|2013-07-26 — ????-??-??|Team NewGeneration}}
+{{TH|2015-08-31 — 2016-06-24|Danish Bears}}
+{{TH|2016-06-24 — 2016-12-09|The Imperial}}
+}}
+
+Mikki '''"HesteJoe-Rotten"''' Junget is a professional Dota 2 player.
+</textarea>]

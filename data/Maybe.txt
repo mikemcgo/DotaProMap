@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Maybe
+|name2=Results
+|link2=Maybe/Results
+|This=1
+}}
+{{Infobox player
+|id=Maybe
+|image=Maybe.jpg
+|name=路垚
+|romanized_name=Lu Yao
+|birth_date={{Birth date and age|1995|12|16}}
+|team=LGD Gaming
+|role=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Invoker
+|hero3=Storm Spirit
+|mmr=8707
+|mmrdate=2016-11-28
+|ids=
+|country=China
+|datdota=3724
+|dotabuff=106863163
+|stream=http://www.douyu.com/73966
+|weibo=maybe1216
+|history=
+'''Dota 2:'''
+{{TH|2013-01-28 - ????-??-??|Vici Gaming}}
+{{TH|2014-02-19 - 2014-04-25|LGD Gaming}}
+{{TH|2014-04-25 - 2014-10-14|LGD.CDEC}}
+{{TH|2014-10-14 - 2015-03-15|CDEC Gaming}}
+{{TH|2015-03-15 - '''Present'''|LGD Gaming}}
+}}
+
+Lu '''"Maybe"''' Yao is a professional Chinese Dota 2 player who is currently playing for [[LGD.cn]].
+</textarea>]

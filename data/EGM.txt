@@ -1,0 +1,51 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=EGM
+|name2=Results
+|link2=EGM/Results
+|This=1
+}}
+{{Infobox player
+|id=EGM
+|image=EGM.jpg
+|name=Jerry Lundkvist
+|team=Alliance
+|birth_date=
+|country=Sweden
+|hero=Io
+|hero2=Rubick
+|hero3=Shadow Demon
+|mmr=7217
+|mmrdate=2016-09-08
+|role=support
+|status=Active
+|twitch=egm
+|tlstream=
+|tlprofile=
+|ids=EnterGodMode, Doney, Doni, Potato
+|sponsor=
+|site=
+|twitter=followEGM
+|datdota=184
+|dotabuff=3916428
+|history='''DotA:'''
+{{TH|2011-??-?? - 2011-09-07|Druidz}}
+'''Dota 2:'''
+{{TH|2011-09-07 - 2011-12-21|Emocore}}
+{{TH|2011-12-21 - 2012-09-12|Team Infused}}
+{{TH|2012-12-05 - 2013-02-01|Turtle Masters}}
+{{TH|2013-02-01 - 2013-02-24|QPAD Red Pandas}}
+{{TH|2013-02-24 - 2013-04-12|No Tidehunter}}
+{{TH|2013-04-12 - 2014-09-03|Alliance}}
+{{TH|2014-08-20 - 2015-01-08|Team Tinker}}
+{{TH|2015-01-07 - 2015-05-02|Alliance}}
+{{TH|2015-05-?? - 2015-05-17|Turtle Masters}}
+{{TH|2015-05-17 - 2015-12-07|4 Clover &amp; Lepricon}}
+{{TH|2015-12-07 - '''Present'''|Alliance}}
+|videoarchive=
+|youtube=
+}}
+
+Jerry '''"EGM"''' Lundkvist is a Swedish professional Dota 2 player, currently playing for [[Alliance]].
+</textarea>]

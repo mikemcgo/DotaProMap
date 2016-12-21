@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub|no-cat=false}}
+{{Tabs static
+|name1=Overview
+|link1=MoZuN
+|name2=Results
+|link2=MoZuN/Results
+|This=1
+}}
+{{Infobox player
+|id= MoZuN-
+|image= 
+|name=Goh Choo Jian
+|team=Power Gaming
+|ids=MoZuN-
+|country=Malaysia
+|role=support
+|status=Banned
+|hero=Rubick
+|hero2=Dazzle
+|hero3=Enchantress
+|facebook=profile.php?id=535283921
+|datdota=2178
+|dotabuff=131380551
+|history={{TH|2014-01-25 — 2014-10-21|Arrow Gaming}}
+{{TH|2015-01-09 — 2016-04-07|Team Redemption}}
+{{TH|2016-07-24 — '''Present'''|Power Gaming}}
+}}
+
+Goh '''"MoZuN-"''' Choo Jian is a professional Dota 2 player who is currently on [[Power Gaming]].
+</textarea>]

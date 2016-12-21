@@ -1,0 +1,25 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=JesusSt1ck
+|image=
+|name=Park Yoon-Soo
+|team=
+|role=support
+|hero=Rubick
+|hero2=Wraith King
+|hero3=Elder Titan
+|ids=
+|country=South Korea
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-08-06 — 2014-10-26'|Pokerface}}
+{{TH|2014-10-26 — 2014-??-??|Monkey Spanner}}
+}}
+
+Park '''"JesusSt1ck"''' Yoon-Soo is a professional Dota 2 player who is currently teamless.
+</textarea>]

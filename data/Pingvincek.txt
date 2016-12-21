@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=
+|name2=Results
+|link2=Pingvincek/Results
+|This=1
+}}
+{{Infobox player
+|id=Pingvincek
+|image=PlayerImagePlaceholder.png
+|name=Jure Plešej
+|team=
+|role=mid
+|status=Active
+|hero=Alchemist
+|hero2=Invoker
+|hero3=Ember Spirit
+|mmr=7038
+|mmrdate=2016-09-02
+|ids=
+|country=Slovenia
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=83867257
+|birth_date=
+|history=
+{{TH|2016-02-?? — 2016-06-03|Danish Bears}}
+{{TH|2016-09-09 — 2016-11-23|Prodota Gaming}}
+}}
+
+Jure  '''"Pingvincek"''' Plešej is a Slovenian professional Dota 2 player who last played for [[Prodota Gaming]].
+</textarea>]

@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=sugar baby
+|name2=Results
+|link2=sugar baby/Results
+|This=1
+}}
+{{Infobox player
+|id=sugar baby
+|image=PlayerImagePlaceholder.png
+|ids=糖宝宝, 糖送八大家
+|name=李雅俊
+|romanized_name=Li Yajun
+|team=MAX.Y
+|role=support
+|status=Active
+|mmr=6903
+|mmrdate=2016-11-30
+|hero=Oracle
+|hero2=Beastmaster
+|hero3=
+|country=China
+|datdota=
+|dotabuff=163879323
+|twitter=
+|birth_date={{Birth date and age|1995|3|16}}
+|history=
+{{TH|2015-09-10 — 2015-12-??|DUOBAO}}
+{{TH|2016-03-31 — 2016-04-30|EHOME.Luminous}}
+{{TH|2016-05-?? — 2016-06-??|Avalon Club}}
+{{TH|2016-10-01 — '''Present'''|MAX.Y}}
+}}
+
+Li '''"sugar baby"'''' Yajun is a professional Chinese Dota 2 player who currently playing for [[MAX.Y]].
+</textarea>]

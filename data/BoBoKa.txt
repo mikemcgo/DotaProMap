@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=BoBoKa
+|name2=Results
+|link2=BoBoKa/Results
+|This=1
+}}
+{{Infobox player
+|id=BoBoKa
+|image=PlayerImagePlaceholder.png
+|name=叶智标
+|romanized_name=Ye Zhibiao
+|team=Invictus Gaming
+|role=support
+|status=Active
+|hero=Earth Spirit
+|hero2=Rubick
+|hero3=Vengeful Spirit
+|mmr=7143
+|mmrdate=2016-11-24
+|ids=
+|country=China
+|birth_date=
+|datdota=
+|dotabuff=207829314
+|tencent=
+|weibo=
+|history=
+{{TH|2015-07-14 — 2015-08-14|TongFu.WanZhou}}
+{{TH|2015-08-14 — 2015-10-07|Team DK}}
+{{TH|2015-10-07 — 2015-11-18|DK Scuderia}}
+{{TH|2015-12-07 — 2016-03-19|iG Vitality}}
+{{TH|2016-03-19 — '''Present'''|Invictus Gaming}}
+}}
+
+Ye "'''BoBoKa'''" Zhibiao is a professional Dota 2 player currently playing for [[Invictus Gaming]].
+</textarea>]

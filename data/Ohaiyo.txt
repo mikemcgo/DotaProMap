@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ohaiyo
+|name2=Results
+|link2=Ohaiyo/Results
+|This=1
+}}
+{{Infobox player
+|id=Ohaiyo
+|image=Ohaiyo-2013.jpg
+|name=邱宗星
+|romanized_name=Chong Xin Khoo
+|team=Fnatic
+|role=offlane
+|status=Active
+|hero=Natures Prophet
+|hero2=Batrider
+|hero3=Dark Seer
+|mmr=7211
+|mmrdate=2016-09-26
+|ids=Ohy`, OU
+|country=Malaysia
+|birth_date={{Birth date and age|1993|03|31}} 
+|twitter=Titan_Ohaiyo
+|facebook=ohyohyohy
+|twitch=Ohaiyodota
+|reddit=Ohyprox
+|tencent=ohyprox
+|datdota=218
+|dotabuff=93616251
+|history={{TH|2012-09-17 — 2013-01-22|MUFC}}
+{{TH|2013-01-25 — 2013-09-21|Orange}}
+{{TH|2013-09-21 — 2014-10-01|Titan}}
+{{TH|2014-10-01 — 2015-01-07|Team Malaysia}}
+{{TH|2015-01-07 — 2015-03-01|EHOME}}
+{{TH|2015-03-01 — 2015-03-26|EHOME.my}}
+{{TH|2015-03-26 — 2015-06-04|Team Malaysia}}
+{{TH|2015-06-04 — '''Present'''|Fnatic}} 
+}}
+
+Chong Xin '''"Ohaiyo"''' Khoo is currently playing the offlane role for [[Fnatic]].
+</textarea>]

@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Resolut1on
+|name2=Results
+|link2=Resolut1on/Results
+|This=1
+}}
+{{Infobox player
+|id=Resolut1on
+|image=Resolut1on_mlg_pro_league_s1.jpg
+|name=Роман Фомінок
+|romanized_name=Roman Fominok
+|team=Digital Chaos
+|role=carry
+|status=Active
+|hero=Invoker
+|hero2=Tiny
+|hero3=Slark
+|mmr=8011
+|mmrdate=2016-08-13
+|ids= 
+|country=Ukraine
+|birth_date={{Birth date and age|1996|09|02}}
+|site=
+|tlstream=
+|tlprofile=
+|twitter=Resolut1on_
+|vk=resolut1on_page
+|twitch=resolut1ontv
+|datdota=397
+|dotabuff=86725175
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-03-14 — 2013-08-16|ICCup}}
+{{TH|2013-08-16 — 2013-08-29|TTD}}
+{{TH|2013-08-29 — 2013-10-08|VP}}
+{{TH|2013-10-25 — 2013-11-12|RoX}}
+{{TH|2013-11-12 — 2016-02-04|Empire}}
+{{TH|2016-02-04 — '''Present'''|Digital Chaos}}
+}}
+
+Roman '''"Resolut1on"''' Fominok is a Ukrainian professional Dota 2 player who is currently playing carry for [[Digital Chaos]].
+</textarea>]

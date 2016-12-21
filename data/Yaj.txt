@@ -1,0 +1,25 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Yaj
+|image=XctNYaj.jpg
+|name=Jayjay Garan
+|team=S1 Lykos
+|role=offlane
+|status=Active
+|hero=Tidehunter
+|hero2=Invoker
+|hero3=Doom
+|country=Philippines
+|birth_date=
+|twitter=
+|datdota=5091
+|dotabuff=182113992
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2014-10-21 — 2014-11-26|Mineski}}
+{{TH|2014-01-01 — 2015-04-07|Execration}}
+{{TH|2015-10-20 — 2016-03-10|Acion Arena}}	
+{{TH|2016-03-15 — '''Present'''|S1 Lykos}}
+}}
+
+Jayjay '''"Yaj"''' Garan is a professional Dota Player that is currently playing for [[S1 Lykos]].
+</textarea>]

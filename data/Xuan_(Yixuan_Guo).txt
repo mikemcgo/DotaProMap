@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=xuan (Yixuan Guo)
+|name2=Results
+|link2=xuan (Yixuan Guo)/Results
+|This=1
+}}
+{{Infobox player
+|id=xuan
+|image=PlayerImagePlaceholder.png
+|name=郭一轩
+|romanized_name=Guo Yixuan
+|team=Rampage Gaming
+|role=support
+|status=Active
+|hero=Dazzle
+|hero2=Witch Doctor
+|hero3=Vengeful Spirit
+|ids=543
+|country=Canada
+|country2=China
+|mmr=7016
+|mmrdate=2016-10-16
+|datdota=1240
+|twitter=tryhardxuan
+|stream=http://www.douyutv.com/xuandota
+|facebook=
+|dotabuff=70673409
+|birth_date=
+|history=
+{{TH|2014-10-08 — 2015-04-09|Boreal eSports}}
+{{TH|2015-04-09 — 2015-09-02|Void Boys}}
+{{TH|2015-09-02 — 2015-11?-??|ROOT Gaming}}
+{{TH|2015-11-27 — 2016-03-22|Void Boys}}
+{{TH|2016-03-24 — 2016-07-03|EverNova}}
+{{TH|2016-07-05 — 2016-07-30|Void Boys}}
+{{TH|2016-10-16 — '''Present'''|Rampage Gaming}}
+}} 
+
+Yixaun '''"xuan"''' Guo is a Chinese-Canadian professional Dota 2 player who is currently playing for [[Rampage Gaming]].
+</textarea>]

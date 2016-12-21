@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Masakary
+|name2=Results
+|link2=Masakary/Results
+|This=1
+}}
+{{Infobox player
+|id=Masakary
+|image=PlayerImagePlaceholder.png
+|name=Cosmin Nechifor
+|team=
+|role=offlane
+|status=Active
+|mmr=7359
+|mmrdate=2016-11-10
+|hero=Timbersaw
+|hero2=Batrider
+|hero3=Clockwerk
+|ids=
+|dotabuff=32335598
+|country=Romania
+|birth_date=
+|facebook=MasakaryOfficial
+|datdota=Masakary
+|steam=masakary
+|twitch=masakary
+|twitter=masakary
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2014-01-31 — 2014-05-31|XtremeXPC International}}
+{{TH|2014-06-23 — 2014-09-04|XtremeXPC}}
+{{TH|2014-10-12 — 2014-11-08|iNsuRgeNcy^}}
+{{TH|2015-01-12 — 2015-04-17|Balkan Bears}}
+{{TH|2015-05-24 — 2015-11-12|XtremeXPC}}
+{{TH|2015-12-07 — 2015-12-19|No Logic Gaming}}
+{{TH|2016-04-28 — 2016-05-23|Kaipi}}
+{{TH|2016-06-27 — 2016-09-13|Docler Myrmidons}}
+{{TH|2016-09-25 — 2016-10-28|SOLIDUDES}}
+}}
+
+Cosmin '''"Masakary"''' Nechifor is a Romanian professional Dota 2 player who most recently played for [[SOLIDUDES]].
+</textarea>]

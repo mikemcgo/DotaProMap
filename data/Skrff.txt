@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=skrff
+|name2=Broadcasts
+|link2=skrff/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=skrff
+|image=Skrff thumb.jpg
+|name=Rikard Holm Melin
+|status=Active
+|role=observer
+|team=
+|sponsor=
+|ids=skrff
+|country=Sweden
+|tlpdid=
+|birth_date={{Birth date and age|1988|10|18}} 
+|nicknames=
+|site=
+|twitch=skrff
+|twitter=skrff
+|youtube=
+|fanpage=
+|history=
+}}
+
+Rikard '[[skrff]]' Holm Melin is a Dota 2 observer. Along with [[Weppas]], skrff is also another person  that is "behind the scenes" during tournaments for being the camera man when the casters commentate.
+</textarea>]

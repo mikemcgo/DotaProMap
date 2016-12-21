@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">
+
+{{Tabs static
+|name1=Overview
+|link1=Reaves
+|This=1
+}}
+{{Infobox player
+|id=Reaves
+|image=reaves.jpg
+|name=
+|status=Active
+|role=
+|team=
+|sponsor=
+|ids=
+|country=United States
+|tlpdid=
+|birth_date= 
+|nicknames=
+|twitch=glhf_reaves
+|twitter=classicreaves
+|youtube=poorpixels
+|fanpage=
+}}
+
+Reaves is a Dota 2 content creator.
+</textarea>]

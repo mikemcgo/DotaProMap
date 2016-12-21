@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Gareth
+|name2=Broadcasts
+|link2=Gareth/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Gareth
+|image=Gareth_Bateson.jpeg
+|name=Gareth Bateson
+|status=Active
+|role=caster
+|team=
+|sponsor=
+|ids=Durka, Gareth
+|country=United Kingdom
+|birth_date={{Birth date and age|1989|06|06}}
+|tlpdid=
+|nicknames=
+|site=http://www.joindota.com
+|twitter=GarethCasts
+|twitch=Gareth
+|facebook=GarethCasts
+|youtube=joinDOTA
+|fanpage=
+|history=
+}}
+
+Gareth '''"Gareth"''' Bateson is a caster for [[joinDOTA]].
+</textarea>]

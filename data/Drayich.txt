@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Drayich
+|name2=Results
+|link2=Drayich/Results
+|This=1
+}}
+{{Infobox player
+|id=Drayich
+|image=
+|name=Kim Larsson
+|team=
+|hero=
+|ids=
+|country=Sweden
+|birth_date={{birth date and age|1982|12|22}}
+|twitter=dotadrayich
+|facebook=Papadrayich
+|role=caster
+|status=Retired
+|site=http://www.tv6.se/drayich
+|twitch=drayswe
+|youtube=user/Drayich
+|history='''Dota:'''&lt;br&gt;
+{{TH|2006-??-?? — 2007-06-30|Team_Team}}
+{{TH|2007-06-30 — 2007-12-17|SK Gaming}}
+{{TH|2007-12-17 — 2008-11-14|mousesports}}
+{{TH|2009-12-12 — 2010-03-06|THE SHIT!}}
+{{TH|2010-03-06 — 2010-05-23|Online Kingdom}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-11-18 — 2012-01-02|Gamersleague}}
+{{TH|2012-01-02 — 2012-03-26|Reason Gaming}}
+}}
+
+Kim '''"Drayich"''' Larsson is a retired Dota 2 player, who is currently pursuing a casting career.
+</textarea>]

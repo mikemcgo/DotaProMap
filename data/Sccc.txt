@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Sccc
+|name2=Results
+|link2=Sccc/Results
+|This=1
+}}
+{{Infobox player
+|id=Sccc
+|image=PlayerImagePlaceholder.png
+|name=宋淳
+|romanized_name=Song Chun
+|team=Newbee
+|role=mid
+|status=Active
+|hero=invoker
+|hero2=queen of pain
+|hero3=lina
+|ids=
+|mmr=8890
+|mmrdate=2016-12-05
+|country=China
+|datdota=
+|dotabuff=149486894
+|birth_date={{birth date and age|1995|08|18}}
+|history=
+{{TH|2015-04-02 — 2016-08-27|Newbee.Y}}
+{{TH|2016-09-17 — '''Present'''|Newbee}}
+}}
+
+Song '''"Sccc"''' Chun is a professional Dota 2 player. He is currently a member of [[Newbee]].
+</textarea>]

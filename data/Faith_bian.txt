@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Faith_bian
+|name2=Results
+|link2=Faith_bian/Results
+|This=1
+}}
+{{Infobox player
+|id=Faith_bian
+|image=Faith_bian ESL One Manila 2016.jpg
+|name=张睿达
+|romanized_name=Zhang Ruida
+|team=Wings Gaming
+|role=offlane
+|status=Active
+|hero=Beastmaster
+|hero2=Batrider
+|hero3=Clockwerk
+|mmr=8285
+|mmrdate=2016-12-09
+|ids=Zrd
+|country=China
+|birth_date={{Birth date and age|1998|03|21}}
+|datdota=
+|dotabuff=118134220
+|twitter=
+|facebook=
+|tencent=
+|history=
+{{TH|2014-03-18 — 2014-08-??|Speed Gaming.cn}}
+{{TH|2014-10-27 — 2014-12-28|Wings Gaming}}
+{{TH|2015-08-25 — '''Present'''|Wings Gaming}}
+}}
+
+Zhang "'''Faith_bian'''" Ruida is a professional Dota 2 player currently playing for [[Wings Gaming]].
+</textarea>]

@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Iceberg
+|name2=Results
+|link2=Iceberg/Results
+|This=1
+}}
+{{Infobox player
+|id=Iceberg
+|image=IcebergDota.jpg
+|name=Богдан Василенко
+|romanized_name=Bogdan Vasylenko
+|birth_date={{birth date and age|1997|4|13}}
+|team=Team Spirit
+|role=mid
+|status=Active
+|hero=Invoker
+|hero2=Zeus
+|hero3=Tiny
+|mmr=7269
+|mmrdate=2016-09-25
+|ids=Iceberg
+|country=Ukraine
+|vk=id212414269
+|datdota=3558
+|dotabuff=250114507
+|twitter=Icebergdota
+|history=
+{{TH|201?-??-?? — 201?-??-??|Duza Gaming}}
+{{TH|2015-??-??	— 2015-06-25|.aSpera.}}
+{{TH|2015-09-03	— 2015-12-06|CIS Rejects}}
+{{TH|2015-12-06	— 2016-06-08|Team Spirit}}
+{{TH|2016-06-08	— 2016-06-30|Polarity}}
+{{TH|2016-08-21	— 2016-11-13|Vega Squadron}}
+{{TH|2016-12-15  — '''Present'''|Team Spirit}}
+}}
+
+Bogdan "'''Iceberg'''" Vasilenko is a professional Ukranian Dota 2 player who currently playing for [[Team Spirit]].
+</textarea>]

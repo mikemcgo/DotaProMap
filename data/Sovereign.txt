@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Sovereign
+|name2=Results
+|link2=Sovereign/Results
+|This=1
+}}
+{{Infobox player
+|id=Sovereign
+|image=PlayerImagePlaceholder.png
+|name=Robert Dodge
+|birth_date=
+|country=USA
+|team=
+|role=offlane
+|status=Active
+|hero=Beastmaster
+|hero2=Enchantress
+|hero3=Abaddon
+|mmr=7038
+|mmrdate=2016-10-14
+|tlstream=
+|twitch=sovereigndota
+|youtube=
+|twitter=sovereigndota
+|facebook=
+|dotabuff=82059860
+|reddit=
+|achievements=
+|history= '''Dota 2:'''&lt;br&gt;
+{{TH|2016-01-24 — 2016-06-??|Enemy}}
+{{TH|2016-06-?? — 2016-09-??|Exodus}}
+}}
+
+Robert '''"Sovereign"''' Dodge is a professional Dota 2 player who last played for [[Exodus]].
+</textarea>]

@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=MaGoma
+|name2=Results
+|link2=MaGoma/Results
+|This=1
+}}
+{{Infobox player
+|id=MaGoma
+|image=PlayerImagePlaceholder.png
+|name=Andreas Ramljak
+|team=
+|role=support
+|status=Active
+|hero=tusk
+|hero2=earth spirit
+|hero3=aa
+|mmr=
+|mmrdate=
+|ids=
+|country=Germany
+|datdota=
+|twitter=
+|facebook=
+|twitch=
+|dotabuff=114672220
+|birth_date=
+|history=
+{{TH|2014-02-10 — 2014-04-29|Vast Cast}}
+{{TH|2014-04-29 — 2014-11-21|Aftershock Gaming}}
+{{TH|2014-11-21 — 2015-??-??|Basically Unknown}}
+{{TH|2016-06-17 — 2016-08-19|Prodota Gaming}}
+}}
+
+Andreas '''"MaGoma"''' Ramljak is an German professional Dota 2 player who last played for [[Prodota Gaming]].
+</textarea>]

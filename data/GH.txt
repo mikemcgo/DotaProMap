@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=GH
+|name2=Results
+|link2=GH/Results
+|This=1
+}}
+{{Infobox player
+|id=GH
+|image=GHGod.jpg
+|name=Maroun Merhej
+|team=
+|birth_date=
+|country=Lebanon
+|ids=GH-GOD
+|hero=io
+|hero2=rubick
+|hero3=magnus
+|mmr=9014
+|mmrdate=2016-11-19
+|role=support
+|status=Active
+|datdota=
+|twitter=GHGOD_DOTA
+|facebook=
+|dotabuff=101356886
+|history=
+{{TH|2015-08-29 — 2016-??-?? |E-LAB}}
+}}
+
+Maroun '''"GH"''' Merhej is a professional Dota 2 player who is currently standing in for [[Team Liquid]].
+</textarea>]

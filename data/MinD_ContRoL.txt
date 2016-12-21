@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:MinD_ContRoL}}
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=MinD_ContRoL
+|name2=Results
+|link2=MinD_ContRoL/Results
+|This=1
+}}
+{{Infobox player
+|id=MinD_ContRoL
+|ids=Mind Control, MindControl, MC
+|image=Mindcontrol.jpg
+|name=Иван Бориславoв
+|romanized_name=Ivan Borislavov
+|team=Team Liquid
+|country=Bulgaria
+|birth_date={{Birth date and age|1995|01|20}}
+|role=offlane
+|status=Active
+|hero=Dark Seer
+|hero2=Clockwerk
+|hero3=Tusk
+|mmr=8322
+|mmrdate=2016-11-28
+|facebook=
+|twitch=mindcontrolll
+|ldstream=mindcontrolll
+|twitter=LiquidMinD_ctrL
+|datdota=2621
+|dotabuff=34505203
+|history=
+{{TH|2014-02-10 — 2014-04-29|Vast Cast}}
+{{TH|2014-04-29 — 2014-11-21|Aftershock Gaming}}
+{{TH|2014-11-21 — 2015-05-05|Basically Unknown}}
+{{TH|2015-05-15 — 2015-08-01|hehe united}}
+{{TH|2015-08-28 — 2015-10-09|5Jungz}}
+{{TH|2015-10-09 — '''Present'''|Team Liquid}}
+}}
+
+Ivan '''"MinD_ContRoL"''' Borislavov is a professional Dota 2 player currently playing for [[Team Liquid]].
+</textarea>]

@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Fusheng
+|name2=Results
+|link2=Fusheng/Results
+|This=1
+}}
+{{Infobox player
+|id=Fusheng
+|image=PlayerImagePlaceholder.png
+|name=冯志超
+|romanized_name=Feng Zhichao
+|team=Rampage Gaming
+|role=offlane
+|status=Active
+|hero=Queen of Pain
+|hero2=Ember Spirit
+|hero3=Furion
+|mmr=6712
+|mmrdate=2016-11-30
+|ids=FuSheng, 红尘似水
+|country=China
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=169672157
+|birth_date=
+|history=
+{{TH|2014-10-27 — 2014-11-29|2144 Gaming.Shield}}
+{{TH|2015-09-15 — 2015-11-30|FTD club A}}
+{{TH|2015-12-07 — 2016-03-22|FTD club C}}
+{{TH|2016-03-22 — 2016-06-??|Void Boys}}
+{{TH|2016-10-16 — '''Present'''|Rampage Gaming}}
+}}
+
+Feng '''"Fusheng"''' Zhichao is a Chinese professional Dota 2 player who is currently playing for [[Rampage Gaming]].
+</textarea>]

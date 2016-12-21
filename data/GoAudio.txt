@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=GoAudio
+|name2=Results
+|link2=GoAudio/Results
+|This=1
+}}
+{{Infobox player
+|id=GoAudio
+|image=PlayerImagePlaceholder.png
+|name=Tobi Strand
+|team=
+|role=carry
+|hero=
+|hero2=
+|hero3=
+|Other_ids=
+|country=Sweden
+|status=Inactive
+|twitch=goaudio
+|tlstream=
+|tlprofile=
+|birth_date=
+|history=
+{{TH|2012-??-?? — 2013-01-27|Svenhunterz}}
+{{TH|2013-01-27 — 2013-08-29|TCM-Gaming}}
+{{TH|2013-08-30 — 2013-10-??|aSpera}}
+}}
+
+Tobi '''"GoAudio"''' Strand is a professional Swedish Dota 2 player who is currently teamless.
+</textarea>]

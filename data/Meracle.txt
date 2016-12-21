@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Meracle
+|name2=Results
+|link2=Meracle/Results
+|This=1
+}}
+{{Infobox player
+|id=Meracle
+|image=Meracle.jpg
+|name=江建文
+|romanized_name=Galvin Kang Jian Wen
+|team=Mineski
+|role=carry
+|role2=mid
+|status=Active
+|hero=Juggernaut
+|hero2=Naga Siren
+|hero3=Morphling
+|mmr=7641
+|mmrdate=2016-11-24
+|ids=Testarossa
+|country=Singapore
+|birth_date=
+|twitter=Meracleeeee
+|twitch=MeracleCHAMLOTTE
+|datdota=273
+|reddit=meracle
+|dotabuff=91369376
+|history=
+{{TH|2012-10-03 — 2013-10-31|First Departure}}
+{{TH|2013-10-31 — 2013-11-27|RisingStars}}
+{{TH|2013-11-30 — 2014-01-18|Titan}}
+{{TH|2014-01-18 — 2014-08-09|Scythe Gaming}}
+{{TH|2014-08-09 — 2015-01-30|First Departure}}
+{{TH|2015-02-01 — 2015-06-06|5eva}}
+{{TH|2015-06-06 — 2016-06-??|First Departure}}
+{{TH|2016-08-25 — '''Present'''|Mineski}}
+}}
+
+Galvin '''"Meracle"''' Kang Jian Wen is a Singaporean Dota 2 player who is currently playing for [[Mineski]].
+</textarea>]

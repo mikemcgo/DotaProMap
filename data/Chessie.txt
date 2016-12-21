@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Chessie
+|name2=Results
+|link2=Chessie/Results
+|This=1
+}}
+{{Infobox player
+|id=Chessie
+|image=Chessie ESL One Manila 2016.jpg
+|name=Rasmus Blomdin
+|birth_date={{Birth date and age|1992|12|26}}
+|country=Sweden
+|team=compLexity Gaming
+|role=carry
+|status=Inactive
+|hero=Invoker
+|hero2=Magnus
+|hero3=Lone Druid
+|mmr=7837
+|mmrdate=2016-10-21
+|twitch=Chessie
+|tlstream=Chessie
+|dotabuff=172424257
+|tlprofile=
+|facebook=chessiehon
+|twitter=ChessieDota
+|youtube=ChessieOfDoom
+|reddit=chessieofdoom
+|datdota=4710
+|history=
+{{TH|2014-06-?? — 2014-08-19|stayGreen}}
+{{TH|2015-08-23 — 2015-11-13|Ninjas in Pyjamas|coach}}
+{{TH|2015-11-24 — 2016-08-30|compLexity Gaming}}
+{{TH|2016-08-30 — '''Present'''|compLexity Gaming|inactive}}
+}}
+
+Rasmus "'''Chessie'''" Blomdin is a Swedish professional Dota 2 player who has also played Heroes of Newerth professionally. He is currently an inactive member of [[compLexity Gaming]].
+</textarea>]

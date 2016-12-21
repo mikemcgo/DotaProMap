@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SeeL
+|name2=Results
+|link2=SeeL/Results
+|This=1
+}}
+{{Infobox player
+|id=SeeL
+|id2=Tai
+|image=Tai_SeeL_dota2.jpg
+|name=Vương Thiện Tài
+|team=Next Generation
+|role=support
+|role2=carry
+|status=Active
+|hero=Anti-Mage
+|hero2=Ember Spirit
+|hero3=Rubick
+|mmr=6620
+|mmrdate=2016-11-17
+|ids=Tai, Taif, taipolime
+|country=Vietnam
+|birth_date=
+|twitch=
+|facebook= taipolime531
+|datdota=
+|dotabuff=207983361
+|history=
+{{TH|2016-06-24 — 2016-09-28|Eternal Creed}}
+{{TH|2016-11-16 — '''Present'''|Next Generation}}
+}}
+
+Vương '''"SeeL"''' Thiện Tài is a professional Dota 2 player who currently plays for [[Next Generation]].
+</textarea>]

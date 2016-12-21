@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ifrit
+|name2=Results
+|link2=Ifrit/Results
+|This=1
+}}
+{{Infobox player
+|id=Ifrit
+|image=Dota2ifrit.png
+|name=Jesús Valencia
+|team=
+|mmr=7193
+|mmrdate=2016-11-19
+|role=mid
+|status=Active
+|hero=Meepo
+|hero2=Storm Spirit
+|hero3=Ember Spirit
+|country=Mexico
+|facebook=pages/Ifrit/407393842756429?fref=ts
+|datdota=770
+|dotabuff=87040694
+|history=
+{{TH|2015-02-02 — 2015-06-11|Not Today}}
+{{TH|2016-03-26 — 2016-05-15|EverNovaS|sub}}
+}}
+Jesús '''"Ifrit"''' Valencia is a Mexican professional Dota 2 player who is currently teamless.
+</textarea>]

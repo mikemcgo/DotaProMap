@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SKANKS224
+|name2=Results
+|link2=SKANKS224/Results
+|This=1
+}}
+{{Infobox player
+|id=SKANKS224
+|image=
+|name=Γιάννης Θεοδωρίδης
+|romanized_name=Giannis Theodoridis
+|role=support
+|status=Active
+|team=BrooDMotherS
+|ids=BORSALINO, S224J, Conman
+|country=Greece
+|datdota=5384
+|birth_date= 
+|site=
+|youtube=
+|twitter=S224J
+|fanpage=
+|dotabuff=119809622
+|history={{TH|2014-05-?? — 2014-11-08|XtremeXPC International}}
+{{TH|2014-11-08 — 2015-08-17|London Conspiracy}}
+{{TH|2015-08-17 — 2016-??-??|Golden Boys}}
+{{TH|2016-03-?? — 2016-06-28|BrooDMotherS}}
+{{TH|2016-08-?? — '''Present'''|BrooDMotherS}}
+}}
+
+Giannis '''"SKANKS224"''' Theodoridis is a Greek Dota 2 player who is currently playing for [[BrooDMotherS]].
+</textarea>]

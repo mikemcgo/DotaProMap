@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=AdmiralBulldog
+|name2=Results
+|link2=AdmiralBulldog/Results
+|This=1
+}}
+{{Infobox player
+|id=AdmiralBulldog
+|ids=Bulldog, Bulldong, Donger, Dongerino, Dong
+|image=admiralbulldog_ems_fall.jpg
+|name=Henrik Ahnberg
+|team=
+|birth_date={{Birth date and age|1990|12|19}}
+|country=Sweden
+|hero=Furion
+|hero2=Lone Druid
+|hero3=Broodmother
+|mmr=7594
+|mmrdate=2016-08-31
+|role=offlane
+|status=Active
+|twitch=admiralbulldog
+|tlstream=admiralbulldog
+|tlprofile=admiralbulldog
+|askfm=realadmiralbulldog
+|sponsor=
+|site=
+|twitter=AdmiralBulldog
+|datdota=158
+|dotabuff=76482434
+|history=
+{{TH|2012-09-21 — 2013-04-12 |No Tidehunter}}
+{{TH|2015-01-20 — 2015-02-13|Team Tinker}}
+{{TH|2013-04-12 — 2016-08-28|Alliance}}
+|videoarchive=
+|youtube=
+}}
+
+Henrik "'''AdmiralBulldog'''" Ahnberg is a Swedish professional Dota 2 player who is currently teamless.
+</textarea>]

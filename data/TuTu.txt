@@ -1,0 +1,23 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=TuTu
+|image=Tutu.JPG
+|name=白帆
+|romanized_name=Bai Fan
+|ids=AABF
+|team=
+|role=carry
+|status=Retired
+|hero=
+|hero2=
+|hero3=
+|country=China
+|birth_date=
+|datdota=532
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-07-03 — 2013-10-31|Vici Gaming}}
+}}
+
+
+Bai '''"TuTu"''' Fan is a professional Dota player that is currently teamless.
+</textarea>]

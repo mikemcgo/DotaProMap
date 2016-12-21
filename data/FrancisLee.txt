@@ -1,0 +1,45 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=FrancisLee
+|name2=Results
+|link2=FrancisLee/Results
+|This=1
+}}
+{{Infobox player
+|id=FrancisLee
+|image=
+|name=Francis Lee
+|birth_date=
+|country=USA
+|country2=Philippines 
+|team=Doo Wop
+|role=offlane
+|role2=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Storm Spirit
+|hero3=Ember Spirit
+|mmr=7630
+|mmrdate=2016-08-10
+|site=
+|tlstream=
+|twitch=francislee
+|dotabuff=292461276
+|twitter=Mineskifangirl
+|facebook=
+|reddit=
+|ids=Mineski FAN GAY, FAN GAY DOTA, FranGay, Francis, FrancisLee, FLee
+|achievements=
+|history= '''Dota 2:'''&lt;br&gt;
+{{TH|2015-07-23 — 2015-08-18|Team Leviathan}}
+{{TH|2015-08-18 — 2015-09-23|Team Imagine}}
+{{TH|2015-09-23 — 2015-??-??|Team Leviathan}}
+{{TH|2015-12-04 — 2015-12-21|Team Mischief}}
+{{TH|2015-12-21 — 2016-05-18|Team Freedom}}
+{{TH|2016-05-29 — 2016-08-18|EverNova}}
+{{TH|2016-09-15 — '''Present'''|Doo Wop}}
+}}
+
+Francis '''"FrancisLee"''' Lee is a professional Dota 2 player who is currently playing for [[Doo Wop]].
+</textarea>]

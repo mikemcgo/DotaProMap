@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=RodjER
+|name2=Results
+|link2=RodjER/Results
+|This=1
+}}
+{{Infobox player
+|id=RodjER
+|image=PlayerImagePlaceholder.png
+|name=
+|romanized_name=Vladimir Nikogosyan
+|team=Rebels
+|role=support
+|status=Active
+|hero=Chen
+|hero2=Shadow Demon
+|hero3=Earth Spirit
+|mmr=7463
+|mmrdate=2016-11-14
+|ids=
+|country=Russia
+|country2=Armenia
+|vk=
+|birth_date=
+|twitter=
+|datdota=
+|dotabuff=159020918
+|history={{TH|2014-??-?? — 2014-03-19|Cleave Gaming}}
+{{TH|2014-03-19 — 2014-??-??|Aware Gaming}}
+{{TH|2014-??-?? — 2014-??-??|Cleave Gaming}}
+{{TH|2015-10-21 — 2015-10-27|Hard'N'play}}
+{{TH|2016-01-30 — 2016-06-02|Prodota Gaming}}
+{{TH|2016-08-23 — 2016-10-??|FlipSid3 Tactics}}
+{{TH|2016-10-?? — 2016-11-14|Skorokhod+4}}
+{{TH|2016-11-14 — '''Present'''|Rebels}}
+}}
+
+Vladimir '''"RodjER"''' Nikogosyan is a professional Dota 2 player who is currently playing for [[Rebels]].
+
+&lt;!--==Biography==
+
+==Dota 2==
+
+==Trivia==--&gt;
+</textarea>]

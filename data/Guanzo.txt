@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:guanzo}}
+{{Tabs static
+|name1=Overview
+|link1=Guanzo
+|name2=Results
+|link2=Guanzo/Results
+|This=1
+}}
+{{Infobox player
+|id=guanzo
+|image=PlayerImagePlaceholder.png
+|name=Eric Guan
+|team=
+|role=offlane
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=USA
+|birth_date=
+|datdota=777
+|dotabuff=39173624
+|twitch=guanzo91
+|ldstream=guanzo91
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-??-?? — 2013-05-06|Eosin + 4}}
+{{TH|2013-05-06 — 2013-06-??|Denial eSports}}
+{{TH|2014-??-?? — 2014-??-??|Osiris Gaming}}
+{{TH|2015-03-04 — 2015-05-??|ROOT Gaming}}
+}}
+
+Eric '''"guanzo"''' Guan is a professional Dota 2 player that most recently played for [[ROOT Gaming]].
+</textarea>]

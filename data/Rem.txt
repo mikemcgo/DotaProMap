@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Rem
+|name2=Results
+|link2=Rem/Results
+|This=1
+}}
+{{Infobox player
+|id=Rem
+|image=PlayerImagePlaceholder.png
+|ids=Yetian, 夜
+|name=沈超
+|romanized_name=Shen Chao
+|team=BraveHeart.Zombie
+|role=support
+|status=Active
+|mmr=7030
+|mmrdate=2016-11-30
+|hero=Elder Titan
+|hero2=Slardar
+|hero3=
+|country=China
+|datdota=
+|dotabuff=130909394
+|twitter=
+|birth_date={{Birth date and age|1995|5|15}}
+|history=
+{{TH|2016-05-?? — 2016-07-??|Adversity Rebirth}}
+{{TH|2016-07-?? — '''Present'''|BraveHeart.Zombie}}
+}}
+
+Shen '''"Rem"'''' Chao is a professional Chinese Dota 2 player who currently playing for [[BraveHeart.Zombie]].
+</textarea>]

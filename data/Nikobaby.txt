@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Nikobaby
+|name2=Results
+|link2=Nikobaby/Results
+|This=1
+}}
+{{Infobox player
+|id=Nikobaby
+|ids=Nikobby, Niko
+|image=Nikobaby_ID.png
+|name=Николай Николов
+|romanized_name=Nikolay Nikolov
+|team=
+|role=carry
+|mmr=6958
+|mmrdate=2016-08-26
+|status=Active
+|hero=Slark
+|hero2=Anti-Mage
+|hero3=Queen of Pain 
+|country=Bulgaria
+|twitch=
+|twitter=NikoDOTA
+|dotabuff=141568610
+|datdota=6422
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-12-10 — 2015-02-10|Gplay}}
+{{TH|2015-02-10 — 2015-06-02|Basically Unknown}}
+{{TH|2015-06-30 — 2015-09-02|Balkan Bears}}
+{{TH|2015-09-02 — 2015-10-05|No Logic Gaming}}
+{{TH|2015-10-08 — 2015-10-09|Monkey Freedom Fighters}}
+{{TH|2016-01-25 — 2016-01-??|Walrus Punch!|Walrus_Punch!_(team)}}
+}}&lt;br&gt;
+</textarea>]

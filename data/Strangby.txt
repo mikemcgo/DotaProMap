@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Strangby
+|name2=Results
+|link2=Strangby/Results
+|This=1
+}}
+{{Infobox player
+|id=Strangby
+|image=PlayerImagePlaceholder.png
+|name=Carl-Philip Strängby
+|team=BIRAK
+|hero=Mirana
+|hero2=Weaver
+|hero3=Kunkka
+|role=mid
+|status=Active
+|ids=
+|country=Sweden
+|birth_date=
+|twitter=Strangby
+|twitch=strangby
+|datdota=215
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-04-?? — 2015-04-14|4 Friends + Chrillee}}
+{{TH|2015-08-21 — '''Present'''|BIRAK}}
+}}
+
+Carl-Philip "Strangby" Strängby is a professional Dota 2 player that plays for team [[BIRAK]].&lt;ref&gt;{{cite web |url=http://www.dota2.com/majorsregistration/list |title=Dota 2 Majors Registration |publisher=dota2.com |date=21 August 2015 |accessdate=23 August 2015 }}&lt;/ref&gt;
+Strangby is an emigrated HON player, known from teams like Reason Gaming.
+</textarea>]

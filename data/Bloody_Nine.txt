@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Bloody Nine
+|name2=Results
+|link2=Bloody Nine/Results
+|This=1
+}}
+{{Infobox player
+|id=Bloody Nine
+|image=Bloodynine_profile.jpg
+|name=Daniel Foster
+|team=END
+|birth_date={{birth date and age|1992|11|11}}
+|country=United States
+|hero=furion
+|hero2=batrider
+|hero3=puck
+|mmr=6325
+|mmrdate=2016-08-31
+|dotabuff=59752811
+|ids=BloodyNine, WorstAtHoN, WAH
+|role=offlane
+|history=
+{{TH|2014-05-01 — 2014-09-22|Dream Destroyers}}
+{{TH|2014-09-28 — 2014-10-05|Boreal eSports}}
+{{TH|2014-11-03 — 2014-11-21|compLexity Gaming}}
+{{TH|2015-??-?? — 2015-??-??|Team eHug}}
+{{TH|2016-11-09 — 2016-11-??|Soggy Mitts}}
+{{TH|2016-11-?? — '''Present'''|END|link=END (Team)}}
+|twitch=BloodyNine_
+|facebook=
+|datdota=3824
+|sponsor=
+|site=
+|twitter=B9dota
+|youtube=
+}}
+
+Daniel "'''Bloody Nine'''" Foster was a professional Heroes of Newerth player who switched to Dota 2.
+</textarea>]

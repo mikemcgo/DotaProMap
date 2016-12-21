@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Blaze
+|name2=Broadcasts
+|link2=Blaze/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Blaze
+|image=Blaze1.jpg
+|name=David Dillon
+|status=Active
+|role=caster
+|team=
+|sponsor=
+|ids=BlazeCasting
+|country=United States
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|stream=
+|twitter=BlazeCasting
+|youtube=BlazeCasting
+|fanpage=
+|history=
+}}
+
+David "[[Blaze]]" Dillon is a Dota 2 caster for [[Beyond The Summit]].
+</textarea>]

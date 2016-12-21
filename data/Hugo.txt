@@ -1,0 +1,24 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Hugo
+|name2=Results
+|link2=Hugo/Results
+|This=1
+}}
+{{Infobox player
+|id=Hugo
+|image=HugoDota.jpg
+|name=Hugo Fouques
+|team=Zero Respect
+|role=support
+|hero=Viper
+|hero2=Dragon Knight
+|hero3=Wraith King
+|country=France
+|birth_date={{Birth date and age|1989|12|20}} 
+|twitter=HugoDOTA
+}}
+
+Hugo "'''Hugo'''" Fouques is a retired semi-professional Dota 2 player from France, who played for [[Zero Respect]], he is now mainly casting Tournaments games and regurlarly streaming for the [http://www.froggedtv.com/ FroggedTV]. He also stands as Coach and Manager for [[Zero Respect]]
+</textarea>]

@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=PSM
+|name2=Results
+|link2=PSM/Results
+|This=1
+}}
+{{Infobox player
+|id=PSM
+|image=PlayerImagePlaceholder.png
+|name=Андрей Дунаев
+|romanized_name=Andrei Dunaev
+|team=
+|birth_date={{Birth date and age|1986|08|19}}
+|country=Russia
+|role=support
+|role2=captain
+|status=Active
+|hero=Rubick
+|hero2=Shadow Demon
+|hero3=Skywrath mage
+|ids=PheeSoloMeko
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|vk=id6869093
+|datdota=3370
+|dotabuff=116287390
+|history=
+{{TH|2014-06-25 — 2014-10-30|Kompas.Gaming}}
+{{TH|2015-01-01 — 2015-06-12|Yellow Submarine}}
+{{TH|2015-09-02 — 2015-10-16|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2015-10-24 — 2016-01-06|Yellow Submarine}}
+{{TH|2016-02-?? — 2016-06-??|Siberian Valenki}}
+{{TH|2016-06-?? — '''Present'''|Yellow Submarine}}
+}}
+Andrei "'''PSM'''" Dunaev is a professional Russian Dota 2 player.
+</textarea>]

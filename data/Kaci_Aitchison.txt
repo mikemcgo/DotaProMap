@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Kaci Aitchison
+|name2=Broadcasts
+|link2=Kaci_AitchisonBroadcasts
+|This=1
+}}
+{{Infobox player
+|id=Kaci Aitchison
+|image=Kaci1.jpg
+|name=Kaci Aitchison
+|status=Active
+|role=host
+|team=
+|sponsor=
+|ids=Kaci
+|country=United States
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|reddit=kaciaitch
+|twitter=KaciAitchison
+|youtube=
+|facebook=kaciaitchison
+}}
+
+Kaci "Kaci" Aitchison is a Dota 2 backstage host and interviewer during [[The_International|The International]].
+</textarea>]

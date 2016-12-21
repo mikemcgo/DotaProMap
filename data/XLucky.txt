@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:xLucky}}
+{{Tabs static
+|name1=Overview
+|link1=XLucky
+|name2=Results
+|link2=XLucky/Results
+|This=1
+}}
+{{Infobox player
+|id=xLucky
+|image=PlayerImagePlaceholder.png
+|name=Mark Louise Reyes
+|role=carry
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Philippines
+|team=
+|datdota=
+|dotabuff=117262984
+|facebook=
+|twitter=
+|birth_date=
+|history=
+{{TH|2014-06-07 — 2014-10-16|MSI-EvoGT}}
+{{TH|2015-02-02 — 2016-01-??|TnC Gaming}}
+}}
+
+Mark '''"xLucky"''' Louise Reyes is a professional Dota 2 player currently teamless.
+</textarea>]

@@ -1,0 +1,56 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Liquipedia links|sc2=iceiceice}}{{lowercase}}&lt;!--
+--&gt;{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=iceiceice
+|name2=Results
+|link2=iceiceice/Results
+|This=1
+}}
+{{Infobox player
+|id=iceiceice
+|image=Iceiceice ESL Frankfurt 2015.jpg
+|name=许培祥
+|romanized_name=Daryl Koh Pei Xiang
+|team=Team Faceless
+|birth_date={{Birth date and age|1990|06|17}}
+|country=Singapore
+|role=offlane
+|role2=carry
+|status=Active
+|hero=timbersaw
+|hero2=tidehunter
+|hero3=clockwerk
+|mmr=7997
+|mmrdate=2016-12-12
+|twitch=iceiceice
+|tlstream=iceiceice
+|tlprofile=
+|sponsor=
+|site=
+|twitter=iceiceicedota
+|videoarchive=
+|youtube=iceiceicedota
+|datdota=82
+|dotabuff=84772440
+|tencent=iceiceicedota
+|facebook=iceiceicedota
+|vk=iceiceicedota
+|weibo=5330043447
+|stream=http://www.huomaotv.com/live/35
+|history='''DotA:'''&lt;br&gt;
+{{TH|2005 — 2006|mVp}}
+{{TH|2006 — 2007|Zenith}}
+{{TH|2008 — 2009|KingSurf}}
+{{TH|2009 — 2009|AEON.sg}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-08-01 — 2011-09-11|Scythe.SG}} 	
+{{TH|2011-09-11 — 2012-01-04|MYM}}
+{{TH|2012-03-29 — 2013-09-04|Zenith}}
+{{TH|2013-09-04 — 2014-08-26|Team DK}}
+{{TH|2014-08-26 — 2016-03-08|Vici Gaming}}
+{{TH|2016-03-08 — 2016-08-29|EHOME}}
+{{TH|2016-09-03 — '''Present'''|Team Faceless}}
+}}
+Daryl Koh '''"iceiceice"''' Pei Xiang is a Singaporean player, who is currently with [[Team Faceless]]. A famous DotA player who had notably won ESWC Paris and CAPL, iceiceice pursued a StarCraft II career in 2010 and early 2011 and switched to Dota 2 in 2011.
+</textarea>]

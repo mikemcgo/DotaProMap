@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=longb
+|name2=Results
+|link2=longb/Results
+|This=1
+}}
+{{Infobox player
+|id=longb
+|image=PlayerImagePlaceholder.png
+|name=陈隆
+|romanized_name=Chen Long
+|team=To.be.or.not.to.be
+|role=support
+|status=Active
+|hero=Doom
+|hero2=Lion
+|hero3=Bounty Hunter
+|ids=
+|country=China
+|datdota=
+|dotabuff=164536353
+|mmr=6281
+|mmrdate=2016-10-04
+|twitter=
+|birth_date={{Birth date and age|1992|09|20}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2015-08-29 — 2015-??-??|EHOME.L}}
+{{TH|2016-04-01 — '''Present'''|To.be.or.not.to.be}}
+}}
+
+Chen '''"longb"''' Long is a professional Chinese Dota 2 player who last played offlane for [[To.be.or.not.to.be]].
+</textarea>]

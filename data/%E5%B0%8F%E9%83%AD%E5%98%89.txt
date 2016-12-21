@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=小郭嘉
+|name2=Results
+|link2=小郭嘉/Results
+|This=1
+}}
+{{Infobox player
+|id=小郭嘉
+|image=PlayerImagePlaceholder.png
+|name=占耀阳
+|romanized_name=Zhan Yaoyang
+|team=Brave Heart
+|role=support
+|status=Active
+|hero=Disruptor
+|hero2=Witch Doctor
+|hero3=Ancient Apparition
+|ids=Codo
+|country=China
+|datdota=
+|dotabuff=136624722
+|mmr=6342
+|mmrdate=2016-10-15
+|twitter=
+|birth_date=
+|history=
+{{TH|2014-10-27 — 2014-12-31|2144 Gaming.Shield}}
+{{TH|2015-04-01 — 2015-07-??|Brave Heart}}
+{{TH|2015-09-?? — 2016-03-20|FTD club A}}
+{{TH|2016-03-20 — 2016-04-??|FTD club B}}
+{{TH|2016-04-?? — '''Present'''|Brave Heart}}
+}}
+
+Zhan '''"小郭嘉"''' Yaoyang is a professional Chinese Dota 2 player currently playing for [[Team Braveheart]].
+</textarea>]

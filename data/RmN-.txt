@@ -1,0 +1,65 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:rmN-}}
+{{Tabs static
+|name1=Overview
+|link1=rmN-
+|name2=Results
+|link2=rmN-/Results
+|This=1
+}}
+{{Infobox player
+|id=rmN-
+|image=PlayerImagePlaceholder.png
+|name=Roman Paley
+|birth_date={{Birth date and age|1993|12|17}}
+|country=Germany
+|country2=Russia
+|team=Fantastic Five
+|ids=rmN
+|role=support
+|hero=Io
+|hero2=Bane
+|hero3=Winter Wyvern
+|status=Active
+|mmr=7737
+|mmrdate=2016-10-07
+|site=
+|datdota=352
+|dotabuff=87197791
+|tlstream=
+|twitch=
+|own3d=
+|stream=
+|youtube=
+|twitter=rmN_dota
+|facebook=
+|weibo=
+|tencent=
+|gplus=
+|tlprofile=
+|reddit=
+|fanclub=
+|achievements=
+|history='''Dota:'''
+{{TH|????-??-?? — 2010-01-??|dmZ|}}
+{{TH|2010-01-?? — ????-??-??|LAGINHED|}}
+{{TH|2011-07-20 — 2011-??-??|GosuGamers}}
+'''Dota 2:'''{{TH|2011-??-?? — 2011-??-??|GosuGamers}}
+{{TH|2011-??-?? — 2012-03-??|Just 4 the Tournament}}
+{{TH|2012-04-?? — 2012-??-??|uebelst gamynG}}
+{{TH|2012-??-?? — 2013-??-??|Kaipi}}
+{{TH|2013-??-?? — 2013-09-30|uebelst gamynG}}
+{{TH|2013-11-20 — 2013-12-??|The Retry}}
+{{TH|2013-12-17 — 2014-01-27|QPAD Red Pandas}}
+{{TH|2014-??-?? — 2014-??-??|Vhoul Assassins}}
+{{TH|2014-??-?? — 2015-??-??|GOOMBA Gaming}}
+{{TH|2015-09-04 — 2015-09-07|5Jungz|sub}}
+{{TH|2015-09-07 — 2015-10-21|.aSpera.}}
+{{TH|2015-10-21 — 2015-10-27|hard'N'play}}
+{{TH|2015-11-?? — 2015-11-??|ScaryFaceZ}}
+{{TH|2015-11-24 — 2015-12-08|Elements Pro Gaming}}
+{{TH|2016-01-02 — 2016-02-17|Power Rangers}}
+{{TH|2016-03-27 — '''Presnt'''|Fantastic Five}} 
+}}
+
+Roman '''"rmN-"''' Paley is a professional Dota 2 player who currently playing for [[Fantastic Five]].
+</textarea>]

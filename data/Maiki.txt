@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=maiki
+|name2=Results
+|link2=maiki/Results
+|This=1
+}}
+{{Infobox player
+|id=maiki
+|image=Maiki600-1.jpg
+|name=
+|team=DeToNator
+|birth_date=
+|role=support
+|hero=Vengeful Spirit
+|hero2=Dazzle
+|hero3=Witch Doctor
+|country=Japan
+|facebook=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|youtube=
+|twitter=
+|dotabuff=63067747
+|history= 
+{{TH|2014-06-28 — 2015-01-05|AffectioN!}}
+{{TH|2015-01-05 — 2015-09-02|DeToNator}}
+{{TH|2015-10-15 — '''Present'''|DeToNator}}
+}}
+
+'''"maiki"''' is a Japanese DotA player for [[DeToNator|Team DeToNator]].
+</textarea>]

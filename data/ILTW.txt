@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=iLTW
+|name2=Results
+|link2=iLTW/Results
+|This=1
+}}
+{{Infobox player
+|id=iLTW
+|image=
+|name=Игорь Филатов
+|romanized_name=Igor Filatov
+|team=Comanche
+|role=mid
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=7208
+|mmrdate=2016-11-25
+|country=Russia
+|birth_date={{Birth date and age|1999|10|29}}
+|twitter=
+|twitch=
+|vk=iltwdota
+|dotabuff=113995822
+|history=
+{{TH|2015-08-29 — 2016-02-10|Enso}}
+{{TH|2016-04-26 — 2016-05-19|Enso}}
+{{TH|2016-07-08 — '''Present'''|Comanche}}
+}}
+
+Igor '''"iLTW"''' Filatov is a professional Russian Dota 2 player who is currently playing for [[Comanche]].
+</textarea>]

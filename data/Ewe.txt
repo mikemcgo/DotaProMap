@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ewe
+|name2=Results
+|link2=Ewe/Results
+|This=1
+}}
+{{Infobox player
+|id=Ewe
+|image=PlayerImagePlaceholder.png
+|name=Earlwin Libre 
+|team=
+|role=offlane
+|status=Active
+|hero=Faceless Void
+|hero2=Centaur
+|hero3=
+|country=Philippines
+|birth_date=
+|twitter=
+|datdota=3502
+|dotabuff=164685813
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-10-?? — 2013-03-05|MSI-EvoGT}}
+{{TH|2014-06-01 — 2015-??-??|Execration}}
+{{TH|2015-08-26 — 2015-11-??|Execration}}
+}}
+
+Earlwin '''"Ewe"''' Libre is a professional Dota player that currently teamless.
+</textarea>]

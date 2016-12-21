@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Barash
+|name2=Results
+|link2=Barash/Results
+|This=1
+}}
+{{Infobox player
+|id=Barash
+|image=PlayerImagePlaceholder.png
+|name=Dmitry Lednikov 
+|team=
+|role=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Queen of Pain
+|hero3=Ember Spirit
+|other_ids=
+|datdota=
+|twitter=
+|twitch=
+|vk=yesdota2
+|dotabuff=178771086
+|country=Russia
+|birth_date=
+|history=
+{{TH|2014-11-01 — 2015-09-01|Yellow Submarine}}
+{{TH|2015-09-01 — 2015-10-23|PRIES Gaming}}
+{{TH|2015-12-07 — 2015-12-28|Arcade.PowerRangers}}
+}}
+
+Dmitry "'''Barash'''" Lednikov  is a professional Dota 2 player who last played for [[Arcade.PowerRangers]].
+</textarea>]

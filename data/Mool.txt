@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=mool
+|name2=Results
+|link2=mool/Results
+|This=1
+}}
+{{Infobox player
+|id=mool
+|image=PlayerImagePlaceholder.png
+|ids=
+|name=曾宇雷
+|romanized_name=Zeng Yulei
+|team=MAX.Y
+|role=offlane
+|role2=support
+|status=Active
+|mmr=
+|mmrdate=
+|hero=Phoenix
+|hero2=Dark Seer
+|hero3=Winter Wyvern
+|country=China
+|datdota=
+|dotabuff=130291678
+|twitter=
+|birth_date={{Birth date and age|1994|8|26}}
+|history=
+{{TH|2016-03-23 — 2016-06-01|Energy Pacemaker}}
+{{TH|2016-05-?? — '''Present'''|MAX.Y}}
+}}
+
+Zeng '''"mool"'''' Yulei is a professional Chinese Dota 2 player who currently playing for [[MAX.Y]].
+</textarea>]

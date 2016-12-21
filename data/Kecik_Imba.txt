@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Kecik Imba
+|name2=Results
+|link2=Kecik Imba/Results
+|This=1
+}}
+{{Infobox player
+|id=Kecik Imba
+|image=Kecik-imba-2013.jpg
+|name=Fadil Bin Mohd Raziff
+|team=Mineski-X
+|mmr=6399
+|mmrdate=2016-11-14
+|role=mid
+|status=Active
+|hero=Viper
+|hero2=Death Prophet
+|hero3=Dragon Knight
+|ids=
+|country=Malaysia
+|birth_date={{Birth date and age|1996|03|30}}
+|datdota=622
+|dotabuff=92551671
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-02-14 — 2013-09-21|Orange}}
+{{TH|2014-03-02 — 2015-03-01|Invasion e-Sports}}
+{{TH|2015-03-01 — 2015-03-26|EHOME.my}} 
+{{TH|2015-03-26 — 2015-06-04|Team Malaysia}}
+{{TH|2015-06-04 — 2015-08-17|Fnatic}} 
+{{TH|2016-01-03 — '''Present'''|Mineski-X}} 
+}}
+
+Fadil '''"Kecik Imba"''' Bin Mohd Raziff is a Malaysian player, formerly of [[Fnatic]] and [[Orange]] and currently playing for [[Mineski-X]].
+</textarea>]

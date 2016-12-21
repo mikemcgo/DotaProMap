@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Zenigata}}
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Zenigata
+|name2=Results
+|link2=Zenigata/Results
+|This=1
+}}
+{{Infobox player
+|id=Zenigata
+|image=PlayerImagePlaceholder.png
+|name=Tilen Simcic
+|team=
+|role=support
+|status=Active
+|hero=treant
+|hero2=bane
+|hero3=dazzle
+|mmr=6739
+|mmrdate=2016-08-25
+|other_ids=
+|datdota=
+|twitter=
+|twitch=
+|vk=
+|dotabuff=86740536
+|country=Italy
+|birth_date=
+|history=
+{{TH|2014-05-?? — 2015-01-12|Balkan Bears}}
+{{TH|2015-09-?? — 2015-12-08|Team Bad English}}
+{{TH|2015-12-08 — 2016-02-25|PRIES}}
+{{TH|2016-02-25 — 2016-04-06|Team Bad English}}
+}}
+
+Tilen "'''Zenigata'''" Simcic is an Italian Dota 2 player who last played for [[Team Bad English]].
+</textarea>]

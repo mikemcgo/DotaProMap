@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=FATA-
+|name2=Results
+|link2=FATA-/Results
+|This=1
+}}
+{{Infobox player
+|id=FATA-
+|image=Fata_profile.jpg
+|name=Adrian Trinks
+|team=
+|role=mid
+|status=Inactive
+|hero=Puck
+|hero2=Viper
+|hero3=Razor
+|mmr=8023
+|mmrdate=2016-07-01
+|ids=
+|datdota=164
+|dotabuff=86799300
+|twitch=dota2fata
+|twitter=liquidfata
+|reddit=FATA-
+|country=Germany
+|birth_date={{birth date and age|1993|2|24}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-06-?? — 2012-??-??|We haz Asian}}
+{{TH|2012-??-?? — 2012-11-07|Kaipi}}
+{{TH|2012-11-13 — 2012-11-13|Zero}}
+{{TH|2012-11-21 — 2013-09-10|mousesports}}
+{{TH|2013-09-10 — 2013-10-22|DD.Dota}}
+{{TH|2013-10-22 — 2014-04-11|Sigma.int}}
+{{TH|2014-04-11 — 2014-05-13|Team Dog}}
+{{TH|2014-05-13 — 2014-08-18|mousesports}}
+{{TH|2014-08-18 — 2015-08-14|Cloud9}}
+{{TH|2015-08-28 — 2015-10-09|5Jungz}}
+{{TH|2015-10-09 — 2016-09-01|Team Liquid}}
+}}
+
+Adrian '''"FATA-"''' Trinks is a professional Dota 2 player who last played for [[Team Liquid]].
+</textarea>]

@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Zacky
+|name2=Results
+|link2=Zacky/Results
+|This=1
+}}
+{{Infobox player
+|id=Zacky
+|image=PlayerImagePlaceholder.png
+|name=Tui Jun Jie
+|team=
+|ids=JJt
+|role=support
+|status=Active
+|hero=Vengeful Spirit
+|hero2=Lion
+|hero3=
+|mmr=6274
+|mmrdate=2016-06-09
+|country=Malaysia
+|birth_date=
+|datdota=
+|dotabuff=101598503
+|facebook=
+|twitter=
+|history=
+{{TH|2015-02-10 — 2016-03-09|Ice}}
+{{TH|2016-03-09 — 2016-08-01|WarriorsGaming.Unity}}
+}}
+
+Tui '''"Zacky"''' Jun Jie is a professional Dota 2 player who last played for [[WarriorsGaming.Unity]].
+</textarea>]

@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ori
+|name2=Results
+|link2=Ori/Results
+|This=1
+}}
+{{Infobox player
+|id=Ori
+|image=PlayerImagePlaceholder.png
+|name=曾焦阳
+|romanized_name=Zeng Jiaoyang
+|team=DUOBAO
+|role=mid
+|role2=offlane
+|status=Active
+|hero=templar assassin
+|hero2=storm spirit
+|hero3=puck
+|mmr=8846
+|mmrdate=2016-11-12
+|country=China
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=107803494
+|birth_date=
+|history=
+{{TH|2016-09-17 — '''Present'''|DUOBAO}}
+}}
+
+Zeng '''"Ori"''' Jiaoyang is a Chinese professional Dota 2 player who currently plays for [[DUOBAO]].
+</textarea>]

@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:pieliedie}}
+{{Tabs static
+|name1=Overview
+|link1=Pieliedie
+|name2=Results
+|link2=Pieliedie/Results
+|This=1
+}}
+{{Infobox player
+|id=pieliedie
+|ids=PieD, pld
+|image=Pieliedie-esl.jpg
+|name=Johan Åström
+|team=Team Secret
+|role=support
+|status=Active
+|hero=Bounty Hunter
+|hero2=Bane
+|hero3=Lion
+|mmr=8006
+|mmrdate=2016-11-28
+|country=Sweden
+|birth_date=
+|twitter=PieLieDieDota
+|facebook=pieliediedota
+|twitch=pieliedie
+|datdota=212
+|dotabuff=6922000
+|history='''DotA:'''&lt;br&gt;
+{{TH|2007 — 2008|Gvision}}
+{{TH|2008 — 2009|eSports United}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2012-??-?? — 2013-09-19|Kaipi}}
+{{TH|2013-09-19 — 2013-10-09|RSnake.int}}
+{{TH|2013-10-09 — 2014-02-09|Speed Gaming.int}}
+{{TH|2014-02-09 — 2015-05-08|Cloud9}}
+{{TH|2015-01-10 — 2015-02-15|MeePwn'd}}
+{{TH|2015-03-05 — 2015-05-08|Team Tinker}}
+{{TH|2015-05-08 — 2015-07-16|mousesports}}
+{{TH|2015-08-22 — '''Present'''|Team Secret}}
+}}
+
+Johan '''"pieliedie"''' Åström is a Swedish professional Dota 2 player currently playing for [[Team Secret]].
+</textarea>]

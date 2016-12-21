@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Bignum
+|name2=Results
+|link2=Bignum/Results
+|This=1
+}}
+{{Infobox player
+|id=Bignum
+|image=PlayerImagePlaceholder.png
+|name=Данило Шеховцов
+|romanized_name=Danil Shehovtsov
+|team=
+|role=carry
+|status=Active
+|hero=Luna
+|hero2=Juggernaut
+|hero3=Drow Ranger
+|mmr=7699
+|mmrdate=2016-11-28
+|ids=
+|country=Ukraine
+|datdota=319
+|dotabuff=90423751
+|vk=bignumdota2
+|twitter=Bignumdota
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-11-?? — 2013-02-01|Team iLuminate}}
+{{TH|2012-03-24 — 2013-05-09|Netolic.eu}}
+{{TH|2013-06-?? — 2013-09-??|Cascade}}
+{{TH|2013-09-?? — 2013-??-??|Al'met}}
+{{TH|2013-11-22 — 2014-01-14|Oslik Gaming}}
+{{TH|2014-01-14 — 2014-04-12|Insane Gaming}}
+{{TH|2014-04-12 — 2014-08-??|Oslik Gaming}}
+{{TH|2014-08-?? — 2014-10-31|Album Sheets}}
+{{TH|2014-10-31 — 2014-11-11|sQreen's Squad}}
+{{TH|2014-11-11 — 2014-12-16|Moscow Five International}}
+{{TH|2014-12-16 — 2015-01-??|Album Sheets}}
+{{TH|2015-01-?? — 2015-02-??|xGame.kz}}
+{{TH|2015-02-?? — 2015-??-??|Moscow Five}}
+{{TH|2015-12-07 — 2015-12-28|Arcade.PowerRangers}}
+{{TH|2015-12-28 — 2016-11-14|Power Rangers}}
+}}
+Danil '''"Bignum"''' Shehovtsov is a professional Dota 2 player, who last played for [[Power Rangers]].
+</textarea>]

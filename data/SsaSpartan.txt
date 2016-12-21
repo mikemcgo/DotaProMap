@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SsaSpartan
+|name2=Results
+|link2=SsaSpartan/Results
+|This=1
+}}
+{{Infobox player
+|id=SsaSpartan
+|image=PlayerImagePlaceholder.png
+|name=Γιώργος Γιαννακόπουλος
+|romanized_name=Giorgos Giannakopoulos
+|team=Ad Finem
+|ids=
+|country=Greece
+|hero=enigma
+|hero2=Io
+|hero3=shadow demon
+|mmr=7360
+|mmrdate=2016-11-25
+|role=support
+|role2=captain
+|status=Active
+|datdota=5379
+|birth_date= 
+|site=
+|youtube=
+|fanpage=
+|twitter=ssaspartan
+|facebook=ssaspartan
+|dotabuff=92949094
+|history={{TH|2014-05-?? — 2014-11-08|XtremeXPC International}}
+{{TH|2014-11-08 — 2015-08-11|London Conspiracy}}
+{{TH|2015-09-02 — 2015-12-04|No Logic Gaming}}
+{{TH|2015-12-04 — '''Present'''|Ad Finem}}
+}}
+
+Giorgos '''"SsaSpartan"''' Giannakopoulos is a Greek Dota 2 player, currently captaining and playing support for [[Ad Finem]].
+</textarea>]

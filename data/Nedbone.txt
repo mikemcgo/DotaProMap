@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Nedbone
+|name2=Results
+|link2=Nedbone/Results
+|This=1
+}}
+{{Infobox player
+|id=Nedbone
+|image=PlayerImagePlaceholder.png
+|name=Danilo Silva	
+|team=
+|birth_date=
+|country=Brazil
+|hero=Rubick
+|hero2=Skywrath Mage
+|hero3=Earthshaker
+|role=support
+|status=Active
+|twitter=DotaNed
+|twitch=nedbonedota
+|facebook=nedbonedota
+|datdota=1050&amp;player=Ned
+|dotabuff=100704400
+|history=
+{{TH|2013-08-07 — 2013-12-05|Keyd Stars}}
+{{TH|2014-01-03 — 2014-03-11|Swagenteiger}}
+{{TH|2014-03-11 — 2014-09-09|CNB e-Sports Club}}
+{{TH|2014-09-09 — 2014-11-24|paiN Gaming}}
+{{TH|2015-03-?? — 2015-05-13|Swagenteiger}}
+{{TH|2015-05-13 — 2015-??-??|semXorah Red}}
+{{TH|2015-09-08 — 2015-10-22|Artyk Gaming}}
+{{TH|2016-01-03 — 2016-09-02	|Swagenteiger}}
+
+}}
+
+Danilo '''"Ned"''' Silva is a professional DotA player who is currently teamless.
+</textarea>]

@@ -1,0 +1,20 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Spin
+|image=PlayerImagePlaceholder.png
+|name=Ari Raimi
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Finland
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-??-?? — 2013-07-17|Rat in the dark}}
+{{TH|2013-07-17 — 2014-01-01|Team Menace.fi}}
+}}
+
+Ari '''"Spin"''' Raimi most recently played for [[Team Menace.fi]].
+</textarea>]

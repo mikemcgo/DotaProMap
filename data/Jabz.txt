@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jabz
+|name2=Results
+|link2=Jabz/Results
+|This=1
+}}
+{{Infobox player
+|id=Jabz
+|image=PlayerImagePlaceholder.png
+|romanized_name=Anucha Jirawong
+|team=Team Faceless
+|role=mid
+|status=Active
+|hero=Tinker
+|hero2=Invoker
+|hero3=Templar Assassin
+|mmr=7845
+|mmrdate=2016-12-06
+|ids=Jabbb, Kaneki, NAGATO
+|country=Thailand
+|birth_date=
+|facebook=Jal3zz
+|dotabuff=100471531
+|history=
+{{TH|2015-01-20 — 2016-09-03|Signature.Trust}}
+{{TH|2016-09-03 — '''Present'''|Team Faceless}}
+}}
+
+Anucha "'''Jabz'''" Jirawong is a professional Dota 2 player, currently playing for [[Team Faceless]]
+</textarea>]

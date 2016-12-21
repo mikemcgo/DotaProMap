@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Fly.
+|name2=Results
+|link2=Fly./Results
+|This=1
+}}
+{{Infobox player
+|id=Fly.
+|image=PlayerImagePlaceholder.png
+|name=Yao Linhui
+|team=
+|role=support
+|status=Active
+|hero=Earthshaker
+|hero2=Vengeful Spirit
+|hero3=Witch Doctor
+|ids=
+|country=United States
+|country2=China
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=91981924
+|birth_date=
+|history=
+{{TH|2013-??-?? — 2014-??-??|Top5}}
+{{TH|2014-11-18 — 2016-03-22|Void Boys}}
+}}
+
+Yao '''"Fly."''' Linhui is an American professional Dota 2 player who is currently teamless.
+</textarea>]

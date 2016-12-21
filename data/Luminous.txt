@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|link1=Luminous
+|name1=Overview
+|link2=Luminous/Broadcasts
+|name2=Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Luminous
+|name=David Zhang
+|image=LuminousInverse.jpg
+|team=
+|country=United States
+|birth_date={{Birth date and age|1988|08|04}}
+|ids=Luminous, LuminousInverse, Lumi
+|site=http://www.dotacommentaries.com/
+|twitter=LuminousInverse
+|twitch=luminousinverse
+|role=caster
+|dotabuff=82202389
+|tlstream=
+|tlprofile=
+|history=
+|youtube=LuminousInverse
+|fanpage=
+}}
+
+David '''"Luminous"''' Zhang, aka LuminousInverse, is a Dota 2 commentator, and founder of [http://www.dotacommentaries.com DotaCommentaries].  He is a frequent caster for Dota 2 tournaments, including primary caster during [[The International/2012|The International 2012]].
+</textarea>]

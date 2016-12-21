@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=monkeys-forever
+|name2=Results
+|link2=monkeys-forever/Results
+|This=1
+}}
+{{Infobox player
+|id=monkeys-forever
+|image=PlayerImagePlaceholder.png
+|name=Jaron Clinton
+|team=compLexity Gaming
+|country=USA
+|ids=monkeys-
+|hero=Storm Spirit
+|hero2=Batrider
+|hero3=Templar Assassin
+|mmr=7180
+|mmrdate=2016-12-07
+|role=mid
+|status=Active
+|datdota=484
+|dotabuff=86811043
+|twitter=MonkeysDota
+|twitch=monkeys_forever
+|playlist=https://play.spotify.com/user/monkeys-/playlist/7ob9QZOQi569vMVXh8GhDT
+|history=
+{{TH|2012-10-20 — 2013-??-??|ROOT Gaming}}
+{{TH|2014-07-06 — 2014-10-05|Boreal eSports}}
+{{TH|2015-03-04 — 2015-10-08|ROOT Gaming}}
+{{TH|2015-10-08 — 2016-03-21|Team Archon}}
+{{TH|2016-03-24 — 2016-08-18|Perky Pepperonis}}
+{{TH|2016-11-09 — '''Present'''|compLexity Gaming}}
+}}
+
+Jaron '''"monkeys-forever"''' Clinton is an American Dota 2 player who is currently playing for [[compLexity Gaming]].
+</textarea>]

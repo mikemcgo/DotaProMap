@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=demons
+|name2=Results
+|link2=demons/Results
+|This=1
+}}
+{{Infobox player
+|id=demons
+|image=PlayerImagePlaceholder.png
+|name=肖作义
+|romanized_name=Xiao Zuoyi
+|team=CDEC Gaming
+|country=China
+|hero=Dazzle
+|hero2=Io
+|hero3=Sand King
+|mmr=7156
+|mmrdate=2016-11-24
+|role=offlane
+|role2=support
+|status=Active
+|ids=deamons, ADD, Darkrai
+|datdota=2236
+|dotabuff=131043881
+|tencent=shouji009264
+|history={{TH|2014-02-18 — 2014-09-12|CIS Game}}
+{{TH|2014-09-12 — 2014-12-01|LV Gaming}}
+{{TH|2014-12-01 — 2015-09-03|Dream Gaming}}
+{{TH|2015-09-03 — 2016-09-17|CDEC Youth}}
+{{TH|2016-09-17 — '''Present'''|CDEC Gaming}}
+}} 
+
+Xiao '''"demons"''' Zuoyi is a professional Dota 2 player, currently playing for [[CDEC Gaming]].
+</textarea>]

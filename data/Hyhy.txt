@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{lowercase}}{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Hyhy
+|name2=Results
+|link2=Hyhy/Results
+|This=1
+}}
+{{Infobox player
+|id=hyhy
+|image=hyhy_kraken.jpg
+|name=Benedict Lim Han Yong
+|team=White Fries Gaming
+|mmr=7289
+|mmrdate=2016-11-12
+|role=offlane
+|role2=captain
+|status=Active
+|hero=Shadow Fiend
+|hero2=Morphling
+|hero3=Kunkka
+|ids=
+|country=Singapore
+|birth_date= 
+|facebook=limmyhy
+|twitter=hyhylim
+|dotabuff=87394977
+|dotabuffold=68740191
+|tencent=hyhylim
+|reddit=hyhylim
+|datdota=81
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011-08-01 — 2011-09-11|Scythe Gaming}}
+{{TH|2011-09-11 — 2012-03-29|Meet Your Makers}}
+{{TH|2012-03-29 — 2012-09-18|Team Zenith}}
+{{TH|2014-12-22 — 2015-01-06|KingSurf}}
+{{TH|2016-03-26 — '''Present'''|White Fries Gaming}}
+}}
+
+Benedict Lim '''"hyhy"''' Han Yong is a professional Dota 2 player, who's currently playing for [[White Fries Gaming]].&lt;ref&gt;https://twitter.com/babyolingg/status/547014054372319232&lt;/ref&gt;&lt;ref&gt;http://www.gosugamers.net/dota2/news/29503-team-ks-disbands-csw-to-receive-dac-slot-r1sk-out-xtinct-in&lt;/ref&gt; His nickname ''"hyhy"'' is derived from the letters of his Chinese name ''"Han Yong"''.
+</textarea>]

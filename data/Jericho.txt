@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jericho
+|name2=Results
+|link2=Jericho/Results
+|This=1
+}}
+{{Infobox player
+|id=Jericho
+|image=PlayerImagePlaceholder.png
+|name=Diego Rivera
+|team=
+|role=support
+|status=Active
+|hero=Earthshaker
+|hero2=Rubick
+|hero3=Disruptor
+|mmr=
+|mmrdate=
+|ids=J3R1CHO
+|country=Peru
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=99672424
+|birth_date=
+|history=
+{{TH|2014-02-17 — 2015-01-12|Union Gaming}}
+{{TH|2015-05-10 — 2015-07-31|Balrogs}}
+{{TH|2015-07-31 — 2016-03-25|Team DileCom}}
+{{TH|2016-03-25 — 2016-08-19|Not Today}}
+}}
+
+Diego '''"Jericho"''' Rivera is a Peruvian professional Dota 2 player who is currently teamless.
+</textarea>]

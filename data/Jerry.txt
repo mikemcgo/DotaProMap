@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jerry
+|name2=Results
+|link2=Jerry/Results
+|This=1
+}}
+{{Infobox player
+|id=Jerry
+|image=PlayerImagePlaceholder.png
+|name=Jerry Isidro  
+|team=
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=
+|mmrdate=
+|ids=
+|country=Peru
+|birth_date=
+|twitter=
+|facebook=
+|dotabuff=192319592
+|twitch=
+|history=
+{{TH|2015-12-07 — 2016-??-??|Not Today}}
+{{TH|2016-09-15 — 2016-12-14|Not Today}}
+}}
+
+Jerry '''"Jerry"''' Isidro  is a professional Dota 2 player.
+</textarea>]

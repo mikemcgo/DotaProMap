@@ -1,0 +1,25 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=baNhwA
+|image=MVP_banHwa.jpg
+|name=Yoon Deok Soo
+|team=
+|role=carry
+|hero=Weaver
+|hero2=Mirana
+|hero3=Lifestealer
+|ids=
+|country=South Korea
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-??-?? — 2013-07-16|Eyes of Tiger Hammer}}
+{{TH|2013-09-01 — 2014-10-26|MVP HOT6ix}}
+}}
+
+Yoon Deok '''"baNhwa"''' Soo is a professional Dota 2 player currently teamless.
+</textarea>]

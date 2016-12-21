@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+
+{{Tabs static
+|name1=Overview|link1={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;BASEPAGENAME}}
+|name2=Results|link2={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;BASEPAGENAME}}/Results
+|This=1}}
+
+{{Infobox player
+|id=PAADA
+|image=PAADA.jpg
+|name=Arthur Zarzur Curiati
+|birth_date={{Birth date and age|1988|09|01}}
+|country= Brazil
+|hero=Dazzle
+|hero2=Kunkka
+|role=support
+|role2=coach
+|status=Retired
+|team=paiN Gaming
+|ids=PPPPP, Paadão, emPAADA
+|twitter=
+|facebook=ArthurPAADA
+|dotabuff=16317795
+|history=
+{{TH|Unknown|CNB e-Sports Club}}
+{{TH|2011-04-?? – '''Present'''|paiN Gaming}}
+}}
+
+Arthur '''"PAADA"''' Zarzur is a [[:Category:Brazil|Brazilian]] player and the CEO of [[paiN Gaming]]. 
+
+PAADA is known for selling a courier for $38,000 and for being the CEO of paiN Gaming, the biggest organization/team in brazilian scene.
+</textarea>]

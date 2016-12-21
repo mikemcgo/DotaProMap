@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=jaH
+|name2=Results
+|link2=jaH/Results
+|This=1
+}}
+{{Infobox player
+|id=jaH
+|image=PlayerImagePlaceholder.png
+|name=Matthew Penaroza
+|team=Team Leviathan
+|role=support
+|status=Active
+|hero=silencer
+|hero2=lion
+|hero3=crystal maiden
+|mmr=
+|mmrdate=
+|ids=
+|country=United States
+|datdota=
+|twitter=
+|facebook=
+|twitch=
+|dotabuff=5571849
+|birth_date=
+|history=
+{{TH|2014-07-06 — 2014-10-05|Boreal eSports}}
+{{TH|2015-??-?? — 2015-09-02|Team eHug}}
+{{TH|2015-09-02 — 2015-09-20|ROOT Gaming}}
+{{TH|2016-02-29 — 2016-03-03|Team Leviathan}}
+{{TH|2016-03-23 — 2016-04-01|The Animal Kingdom}}
+{{TH|2016-04-01 — 2016-05-25|Kingdom Dota}}
+{{TH|2016-09-11 — '''Present'''|Team Leviathan}}
+}}
+
+Matthew '''"jaH"''' Penaroza is an American professional Dota 2 player who currently plays for [[Team Leviathan]]
+</textarea>]

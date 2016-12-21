@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Xiao2lei
+|name2=Results
+|link2=Xiao2lei/Results
+|This=1
+}}
+{{Infobox player
+|id=Xiao2lei
+|image=Xiao2le_frankfurt_major_2015.jpg
+|name=孟磊
+|romanized_name=Meng Lei
+|team=Newbee Young
+|role=offlane
+|status=Active
+|hero=Clockwerk
+|hero2=Dark Seer
+|hero3=Batrider
+|mmr=7360
+|mmrdate=2016-09-21
+|ids=123456, 小2雷, 2lei, 2le, 小二雷
+|country=China
+|datdota=3745
+|twitter=
+|dotabuff=117199412
+|birth_date={{Birth date and age|1993|7|21}}
+|history=
+{{TH|2013-09-25 — 2014-02-08|DT^Club}}
+{{TH|2014-10-?? — 2015-09-04|Energy Pacemaker Gaming}}
+{{TH|2015-09-04 — 2016-03-22|Newbee}}
+{{TH|2016-03-22 — '''Present'''|Newbee Young}}
+}}
+
+Meng "'''Xiao2lei"''' Lei is a professional Chinese Dota 2 player currently playing for [[Newbee Young]].
+</textarea>]

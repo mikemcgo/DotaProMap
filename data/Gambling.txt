@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Gambling
+|name2=Results
+|link2=Gambling/Results
+|This=1
+}}
+{{Infobox player
+|id=Gambling
+|image=
+|name=Fabio Fernandes Soares Sarellas
+|country= Brazil
+|hero=naga siren
+|hero2=Io
+|hero3=Rubick
+|role=support
+|status=Active
+|ids=July, Gambling JK, zx
+|team=
+|dotabuff=105001471
+|facebook=july
+|history=
+{{TH|2014-08-06 — 2014-09-09|South American Rejects}}
+{{TH|2014-09-09 — 2014-11-28|Keyd Stars}}
+{{TH|2015-06-30 – 2015-10-23|paiN Gaming}}
+{{TH|2015-10-23 – 2016-02-??|T Show}}
+{{TH|2016-09-15 – '''Present'''|T Show|coach}}
+
+}}
+
+Fabio '''"Gambling"''' Sarellas is a [[:Category:Brazil|Brazilian]] player who is currently coaching team [[T Show]].
+</textarea>]

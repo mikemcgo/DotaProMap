@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=LeoStyle-
+|name2=Results
+|link2=LeoStyle-/Results
+|This=1
+}}
+{{Infobox player
+|id=LeoStyle-
+|image=PlayerImagePlaceholder.png
+|name=Leonardo Sifuentes 
+|team=
+|role=mid
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=7441
+|mmrdate=2016-12-04
+|ids=
+|country=Peru
+|birth_date=
+|dotabuff=59463394
+|history=
+{{TH|2015-07-31 — 2015-12-07|Team DileCom}}
+{{TH|2015-12-07 — 2016-09-15|Not Today}}
+}}
+
+Leonardo '''"LeoStyle-"''' Sifuentes is a Peruvian professional Dota 2 player who last played for [[Not Today]].
+</textarea>]
