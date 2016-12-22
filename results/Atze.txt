@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'Germany', 'site': '', 'hero2': '', 'id': 'Atze', 'twitter': 'atze_dota', 'fanpage': '', 'image': 'PlayerImagePlaceholder.png', 'twitch': '', 'team': '', 'tlstream': '', 'tlprofile': '', 'youtube': '', 'name': 'Marcel Binz ', 'role': '5'}

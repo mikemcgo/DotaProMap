@@ -1,0 +1,1 @@
+{'hero': 'Wisp', 'dotabuff': '34128052', 'country': 'Sweden', 'datdota': '147', 'hero2': 'Shadow Demon', 'id': 'Mini', 'image': 'PlayerImagePlaceholder.png', 'twitter': 'miniminidota', 'status': 'Active', 'twitch': 'MiniDotA', 'birth_date': '{{Birth date and age|1993|09|08}}', 'team': '', 'facebook': 'Hampemini', 'name': 'Hampus Olsson', 'role': 'support'}

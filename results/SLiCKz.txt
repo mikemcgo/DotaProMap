@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '29110522', 'country': 'Australia', 'datdota': '2835', 'hero2': 'Mirana', 'mmr': '6423', 'id': 'SLiCKz', 'twitter': 'slickzdota', 'image': 'slickz.jpg', 'status': 'Active', 'twitch': 'slickz', 'hero3': 'Shadow Fiend', 'mmrdate': '2016-10-04', 'team': 'Natural 9', 'facebook': 'slickz88', 'name': 'Trent Tucker', 'role': 'mid'}

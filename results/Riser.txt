@@ -1,0 +1,1 @@
+{'hero': 'Earthshaker', 'country': 'United States', 'hero2': 'Enigma', 'id': 'Riser', 'twitter': 'coL_Riser', 'image': 'riser_profile.png', 'status': 'Retired', 'twitch': 'riseairofool', 'hero3': 'Sand King', 'ids': 'Riser_', 'team': 'compLexity Gaming', 'facebook': 'coLRiser', 'name': 'Andrew Bronze', 'role': 'support'}

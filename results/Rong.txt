@@ -1,0 +1,1 @@
+{'hero': 'Doom', 'dotabuff': '160678812', 'country': 'China', 'datdota': '', 'hero2': 'Lina', 'mmr': '7824', 'id': 'Rong', 'romanized_name': 'Chen Jingwu', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Night Stalker', 'mmrdate': '2016-11-16', 'tencent': '', 'ids': 'SmallRong', 'team': 'Invictus Gaming', 'name': '陈敬武', 'role': 'support'}

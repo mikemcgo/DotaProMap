@@ -1,0 +1,1 @@
+{'hero': 'ogre magi', 'dotabuff': '85417034', 'hero2': 'rubick', 'mmr': '7007', 'mmrdate': '2016-11-26', 'image': 'Xy-.jpg', 'status': 'Active', 'hero3': 'undying', 'id': 'xy-', 'country': 'Singapore', 'birth_date': ' ', 'ids': '', 'team': 'Team Faceless', 'name': 'Toh Wai Hong', 'role': 'support'}

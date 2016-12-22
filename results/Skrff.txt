@@ -1,0 +1,1 @@
+{'nicknames': '', 'country': 'Sweden', 'site': '', 'id': 'skrff', 'twitter': 'skrff', 'fanpage': '', 'image': 'Skrff thumb.jpg', 'status': 'Active', 'twitch': 'skrff', 'tlpdid': '', 'birth_date': '{{Birth date and age|1988|10|18}} ', 'ids': 'skrff', 'youtube': '', 'sponsor': '', 'team': '', 'name': 'Rikard Holm Melin', 'role': 'observer'}

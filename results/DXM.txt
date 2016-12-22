@@ -1,0 +1,1 @@
+{'hero': 'Queen of Pain', 'dotabuff': '120374476', 'country': 'China', 'datdota': '', 'hero2': 'Ember Spirit', 'mmr': '7576', 'id': 'DXM', 'romanized_name': 'Ding Zhenghao', 'image': 'PlayerImagePlaceholder.png', 'status': '', 'weibo': '', 'hero3': 'Dragon Knight', 'mmrdate': '2016-11-30', 'tencent': '', 'ids': '', 'team': '', 'name': '丁正昊', 'role': 'mid'}

@@ -1,0 +1,1 @@
+{'hero': 'Clinkz', 'country': 'France', 'site': '', 'hero2': '', 'id': 'Carn', 'twitter': 'CARNDARAK', 'image': '', 'status': 'Inactive', 'twitch': 'carn_', 'hero3': '', 'birth_date': '', 'ids': 'cArn, cArn-', 'tlprofile': 'cArn-', 'tlstream': '', 'team': '', 'datdota': '3352', 'name': 'Souaib Hanaf ', 'role': 'carry'}

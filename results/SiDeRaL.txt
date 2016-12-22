@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'Peru', 'hero2': '', 'Other_ids': '', 'id': 'SiDeRaL', 'mmr': '6476', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-12-17', 'birth_date': '', 'ids': ' Logan, labeba', 'fanpage': 'https://www.facebook.com/SiDeRaLLLL', 'team': 'Jayce', 'name': 'Jesus Andres Carrion', 'role': 'mid'}

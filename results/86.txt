@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '182439266', 'country': 'China', 'datdota': '', 'hero2': '', 'mmr': '', 'id': '86', 'romanized_name': 'Chen Yuxuan', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '', 'birth_date': '', 'ids': '', 'team': 'FTD Club C', 'name': '陈雨轩', 'role': 'mid'}

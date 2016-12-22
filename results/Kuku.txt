@@ -1,0 +1,1 @@
+{'hero': 'Huskar', 'dotabuff': '184950344', 'country': 'Philippines', 'hero2': 'Phantom lancer', 'mmr': '7382', 'mmrdate': '2016-10-08', 'twitter': 'kukudota', 'image': 'Kuku_frankfurt_major_2015.jpg', 'status': 'Active', 'hero3': 'Windranger', 'id': 'Kuku', 'birth_date': '{{Birth date and age|1996|09|21}}', 'team': 'TNC Gaming', 'name': 'Carlo Palad', 'role': 'mid'}

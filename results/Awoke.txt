@@ -1,0 +1,1 @@
+{'hero': 'Enigma', 'country': 'China', 'hero2': 'Visage', 'id': 'Awoke', 'romanized_name': 'Ye Jing', 'image': 'Awoke.jpg', 'status': 'Retired', 'hero3': 'Enchantress', 'birth_date': '{{Birth date and age|1987|11|30}}', 'ids': 'Qeki, haAaDes', 'team': '', 'name': '叶靓', 'role': 'support'}

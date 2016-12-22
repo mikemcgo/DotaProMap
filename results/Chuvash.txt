@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '', 'country': 'Russia', 'hero2': '', 'mmr': '', 'id': 'Chuvash', 'twitter': '', 'romanized_name': 'Evgeniy Makarov', 'image': '', 'status': 'Active', 'twitch': '', 'hero3': '', 'mmrdate': '', 'birth_date': '', 'team': 'Comanche', 'vk': '', 'name': 'Евгений Макаров', 'role': 'support'}

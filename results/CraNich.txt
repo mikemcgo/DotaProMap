@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': 'Storm Spirit', 'birth_date': '', 'country': 'Czech Republic', 'ids': '', 'hero2': 'Shadow Fiend', 'id': 'craNich', 'team': '', 'image': 'MJbMJ1gUYSs.jpg', 'name': 'Petr Meluzin', 'role': 'mid'}

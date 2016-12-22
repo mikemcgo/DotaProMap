@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '20237599', 'country': 'Denmark', 'datdota': '162', 'hero2': '', 'id': 'Link', 'twitter': 'linkdota', 'image': '', 'status': 'Active', 'twitch': 'linkdota', 'hero3': '', 'birth_date': '{{birth date and age|1992|4|19}}', 'ids': 'LINK, LinkLink', 'tlstream': 'LINKDotA', 'team': '', 'facebook': 'linkdota', 'name': 'Sylvester Hoelgaard', 'role': 'carry'}

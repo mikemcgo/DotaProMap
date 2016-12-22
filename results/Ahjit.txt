@@ -1,0 +1,1 @@
+{'hero': 'Ember Spirit', 'dotabuff': '126417273', 'country': 'Malaysia', 'datdota': '', 'hero2': 'Slark', 'mmr': '8113', 'id': 'Ahjit', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Naga Siren', 'mmrdate': '2016-12-09', 'birth_date': '', 'ids': 'Ah Jit', 'team': 'WarriorsGaming.Unity', 'facebook': '', 'name': 'Lai Jay Son', 'role': 'carry'}

@@ -1,0 +1,1 @@
+{'hero': 'Doom', 'dotabuff': '24009418', 'country': 'Finland', 'datdota': '204', 'hero2': 'Mirana', 'mmr': '6959', 'mmrdate': '2016-08-30', 'twitter': 'Buugidota', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Chen', 'id': 'Buugi', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Riku Fält', 'role': 'support'}

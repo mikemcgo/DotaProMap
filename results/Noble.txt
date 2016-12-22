@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '254013249', 'country': 'China', 'datdota': '', 'hero2': '', 'mmr': '', 'id': 'noble', 'romanized_name': 'Lan Gaochong', 'image': 'PlayerImagePlaceholder.png', 'status': '', 'weibo': '', 'hero3': '', 'mmrdate': '', 'tencent': '', 'ids': '02goddess', 'team': '', 'name': '兰高崇', 'role': 'support'}

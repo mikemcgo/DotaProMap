@@ -1,0 +1,1 @@
+{'hero': 'Doom Bringer', 'dotabuff': '96429099', 'country': 'Malaysia', 'datdota': '2156', 'hero2': 'Lycanthrope', 'mmr': '7470', 'id': 'Lance', 'image': 'PlayerImagePlaceholder.png', 'status': 'Banned', 'hero3': 'Lone Druid', 'mmrdate': '2016-11-14', 'ids': 'Fua Hsien Wan', 'team': '', 'name': 'Fua Hsien Wan', 'role': 'carry'}

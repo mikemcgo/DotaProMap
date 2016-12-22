@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Singapore', 'ids': '', 'hero2': '', 'id': 'Hachiko', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Shawn Ng', 'role': ''}

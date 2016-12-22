@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '130027499', 'country': 'China', 'datdota': '', 'hero2': '', 'mmr': '7131', 'id': 'carrot', 'romanized_name': 'Peng Chao', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-11-30', 'birth_date': '', 'ids': 'Kubo', 'team': 'TongFu', 'name': '彭超', 'role': 'offlane'}

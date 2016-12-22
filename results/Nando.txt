@@ -1,0 +1,1 @@
+{'hero': 'Juggernaut', 'dotabuff': '180012313', 'country': 'Philippines', 'datdota': '6417', 'hero2': 'Gyrocopter', 'mmr': '7346', 'id': 'Nando', 'twitter': '', 'image': 'Nando.jpg', 'status': 'Active', 'hero3': 'puck', 'mmrdate': '2016-08-17', 'birth_date': '', 'role2': 'mid', 'team': 's1 lykos', 'name': 'Fernando Mendoza', 'role': 'carry'}

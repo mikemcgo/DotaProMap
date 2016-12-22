@@ -1,0 +1,1 @@
+{'hero': 'Sand King', 'dotabuff': '91988610', 'country': 'Sweden', 'datdota': '8', 'hero2': 'Rubick', 'id': 'Mirakel', 'twitter': 'MiracleDotA', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'hero3': 'Enigma', 'other_ids': '', 'birth_date': '{{birth date and age|1990|2|18}}', 'team': '', 'name': 'Jesper Nyhlén', 'role': 'support'}

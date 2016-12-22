@@ -1,0 +1,1 @@
+{'hero': 'Storm Spirit', 'dotabuff': '94364925', 'country': 'Canada', 'hero2': 'Templar Assassin', 'mmr': '6363', 'id': 'Boris', 'twitter': 'borsterr', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': 'boris_dota', 'hero3': 'Shadow Fiend', 'mmrdate': '2016-11-12', 'ids': 'bill, shamgar', 'team': '', 'name': 'Bill Oliver', 'role': 'mid'}

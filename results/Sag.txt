@@ -1,0 +1,1 @@
+{'hero': 'Earthshaker', 'dotabuff': '89296893', 'hero2': 'Shadow Demon', 'id': 'Sag', 'romanized_name': 'Li Guo', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'hero3': 'Rubick', 'country': 'China', 'birth_date': '{{Birth date and age|1987|12|07}} ', 'role2': 'support', 'ids': 'SagM, NEO, Key', 'team': 'Newbee', 'name': '李果', 'role': 'coach'}

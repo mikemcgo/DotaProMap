@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'country': 'China', 'hero2': 'Lion', 'id': 'Sayaka', 'romanized_name': 'Mao Mingyuan', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': '', 'team': '', 'name': '毛明远', 'role': 'support'}

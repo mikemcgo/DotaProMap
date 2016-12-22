@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'Ukraine', 'hero2': '', 'id': 'KSi', 'image': 'PlayerImagePlaceholder.png', 'twitter': 'ksiodua', 'status': 'Inactive', 'hero3': '', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Sergey Kuzin', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '225582809', 'country': 'Philippines', 'datdota': '', 'hero2': '', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'id': 'Gobas', 'birth_date': '', 'ids': '', 'team': 'Acion Arena', 'name': 'Angelo Victoria  ', 'role': 'support'}

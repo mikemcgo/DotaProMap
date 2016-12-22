@@ -1,0 +1,1 @@
+{'hero': 'lion', 'dotabuff': '109512357', 'country': 'Denmark', 'datdota': '', 'hero2': 'visage', 'mmr': '7306', 'mmrdate': '2016-11-14', 'twitter': '', 'image': 'Biver picture.png', 'status': 'Active', 'twitch': '', 'hero3': 'oracle', 'id': 'Biver', 'birth_date': '', 'ids': '', 'team': 'Prodota Gaming', 'facebook': '', 'name': 'Malthe Winther', 'role': 'support'}

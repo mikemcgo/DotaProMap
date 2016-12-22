@@ -1,0 +1,1 @@
+{'hero': 'Slardar', 'dotabuff': '323792491', 'country': 'Philippines', 'datdota': '1051', 'hero2': 'Tidehunter', 'mmr': '7425', 'mmrdate': '2016-11-24', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Beastmaster', 'id': 'RR', 'birth_date': '', 'ids': '', 'team': 'Mineski', 'name': 'Ralph Richard Peñano', 'role': 'offlane'}

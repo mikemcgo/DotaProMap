@@ -1,0 +1,1 @@
+{'hero': 'Winter Wyvern', 'dotabuff': '103578570', 'country': 'Brazil', 'hero2': 'Rubick', 'id': 'Lil_kin6', 'twitter': 'Rmarcio_', 'image': 'lil.jpg', 'twitch': 'Lil_kin6', 'status': 'Active', 'hero3': 'Lion', 'birth_date': '{{Birth date and age|1995|10|04}}', 'team': '', 'facebook': 'Lilkin6', 'name': 'Marcio Rodrigues', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': 'abaddon', 'country': 'Singapore', 'site': '', 'hero2': 'mirana', 'id': 'Hecate', 'twitter': '', 'image': '', 'twitch': '', 'hero3': 'invoker', 'sponsor': '', 'birth_date': '', 'ids': 'Hecunt', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Zackery Wong', 'role': 'offlane'}

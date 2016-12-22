@@ -1,0 +1,1 @@
+{'hero': 'Lion', 'country': 'Latvia', 'hero2': 'Earthshaker', 'id': 'GetBack', 'twitter': '', 'romanized_name': 'Evgeniy Ivanov', 'image': 'PlayerImagePlaceholder.png', 'twitch': '', 'hero3': 'Lich', 'birth_date': '', 'team': 'TBA', 'vk': '', 'name': 'Евгений Иванов', 'role': 'Full-Support'}

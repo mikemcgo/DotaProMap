@@ -1,0 +1,1 @@
+{'hero': 'magnus', 'dotabuff': '90159486', 'country': 'Romania', 'datdota': '', 'hero2': 'storm_spirit', 'mmr': '7512', 'mmrdate': '2016-08-25', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'twitch': '', 'hero3': 'qop', 'id': 'KeyaNo', 'birth_date': '', 'ids': 'Puscariash', 'team': '', 'name': 'Grigorie Andrei ', 'role': 'carry'}

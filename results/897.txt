@@ -1,0 +1,1 @@
+{'hero': 'Shadow Fiend', 'dotabuff': '139174891', 'datdota': '', 'hero2': 'Invoker', 'mmr': '8073', 'id': '897', 'romanized_name': 'Tang Zhirui', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Queen of Pain', 'mmrdate': '2016-11-30', 'country': 'China', 'ids': '', 'team': 'FTD club A', 'name': '唐智睿', 'role': 'mid'}

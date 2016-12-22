@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'dotabuff': '74702596', 'hero2': 'Undying', 'id': 'ACC', 'image': '', 'status': 'Active', 'ids': 'Sóley', 'team': 'Team Innova', 'country': ' Brazil', 'facebook': 'soleydota', 'name': 'Antônio Carlos Cunha', 'role': 'support'}

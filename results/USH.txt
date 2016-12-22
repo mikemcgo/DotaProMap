@@ -1,0 +1,1 @@
+{'hero': 'Storm Spirit', 'dotabuff': '115975133', 'country': 'USA', 'datdota': '1024', 'hero2': 'Shadow Fiend', 'mmr': '6600', 'mmrdate': '2016-12-15', 'twitter': 'archonush', 'fanpage': '', 'image': 'USHDota.jpeg  ', 'status': 'Active', 'twitch': 'ushhdota', 'hero3': 'Axe', 'id': 'USH', 'birth_date': '', 'youtube': '', 'team': '', 'name': 'Chris Usher', 'role': 'carry'}

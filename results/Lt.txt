@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '151550803', 'country': 'China', 'datdota': '3745', 'hero2': '', 'mmr': '6727', 'id': 'lt', 'twitter': '', 'romanized_name': 'Luo Tao', 'image': 'lt-EHOME.X.jpg', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-11-30', 'birth_date': '', 'ids': '', 'team': 'EHOME.X', 'name': '罗涛', 'role': 'support'}

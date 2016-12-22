@@ -1,0 +1,1 @@
+{'hero': 'Nyx Assassin', 'dotabuff': '92127891', 'country': 'Singapore', 'hero2': '', 'id': 'Kai', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': 'kana, Meen, teppei', 'team': 'First Departure', 'name': 'Teo Kai Sheng', 'role': 'support'}

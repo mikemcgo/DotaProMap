@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '121833213', 'country': 'Philippines', 'datdota': '', 'hero2': '', 'mmr': '', 'id': 'Rapy', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '', 'birth_date': '', 'role2': 'support', 'ids': '', 'team': 'Execration', 'name': 'Rafael Sicat Palo ', 'role': 'offlane'}

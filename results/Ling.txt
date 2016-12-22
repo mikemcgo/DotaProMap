@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'dotabuff': '89268488', 'country': 'Malaysia', 'datdota': '217', 'hero2': 'Chen', 'id': 'ling', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Lina', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Sim Woi Cheong', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'dotabuff': '92588070', 'country': 'China', 'datdota': '', 'hero2': 'Ancient Apparition', 'mmr': '', 'id': 'DreamyU', 'romanized_name': 'Xue Zhuorui', 'image': 'PlayerImagePlaceholder.png', 'status': '', 'weibo': '', 'hero3': '', 'mmrdate': '', 'tencent': '', 'ids': 'Sheezry, 酔木鱼', 'team': '', 'name': '薛卓睿', 'role': 'support'}

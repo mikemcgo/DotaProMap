@@ -1,0 +1,1 @@
+{'hero': 'Phantom Lancer', 'dotabuff': '114852327', 'country': 'Philippines', 'datdota': '114852327', 'hero2': 'Anti Mage', 'id': 'Boombacs', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Enigma', 'birth_date': '', 'ids': 'BB, NivraM', 'team': '', 'name': 'Marvin Rushton', 'role': 'carry'}

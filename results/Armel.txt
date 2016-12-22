@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '164532005', 'country': 'Philippines', 'datdota': '', 'hero2': '', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'id': 'Armel', 'birth_date': '', 'ids': '', 'team': 'Acion Arena', 'name': 'Armel Paul Tabios ', 'role': 'mid'}

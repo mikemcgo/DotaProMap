@@ -1,0 +1,1 @@
+{'hero': 'Disruptor', 'dotabuff': '137273293', 'country': 'China', 'datdota': '', 'hero2': 'Lion', 'mmr': '7272', 'id': 'Adong', 'twitter': '', 'romanized_name': 'Chen Yingdong', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-11-30', 'birth_date': '', 'ids': 'kirr', 'team': 'DUOBAO', 'facebook': '', 'name': '陈英东', 'role': 'support'}

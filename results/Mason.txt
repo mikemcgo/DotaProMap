@@ -1,0 +1,1 @@
+{'hero': 'Weaver', 'dotabuff': '121847953', 'country': 'United States', 'datdota': '2662', 'hero2': 'Mirana', 'id': 'mason', 'image': 'Mason.jpg', 'twitter': 'masondota', 'status': 'Active', 'twitch': 'masonmjw', 'hero3': 'Storm Spirit', 'team': '', 'askfm': 'masonxdxd', 'name': 'Mason Venne', 'role': 'carry'}

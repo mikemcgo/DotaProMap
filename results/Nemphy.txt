@@ -1,0 +1,1 @@
+{'hero': 'Shadow Fiend', 'dotabuff': '104744109', 'country': 'Finland', 'datdota': '5371', 'hero2': 'Storm Spirit', 'id': 'nemphy', 'twitter': 'nemphyDotA', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Magnus', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Sampsa Kutvonen', 'role': 'mid'}

@@ -1,0 +1,1 @@
+{'birth_date': '', 'country': 'Sweden', 'ids': 'Mawi', 'status': 'Active', 'id': 'Mawi', 'team': 'IKEA', 'image': 'PlayerImagePlaceholder.png', 'name': 'Martin Wieslander', 'role': 'Offlane'}

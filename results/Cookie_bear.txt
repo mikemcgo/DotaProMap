@@ -1,0 +1,1 @@
+{'hero': 'Dark Seer', 'dotabuff': '92855627', 'country': 'China', 'datdota': '', 'hero2': 'Tusk', 'mmr': '7020', 'mmrdate': '2016-10-18', 'twitter': '', 'romanized_name': 'Ai Xin', 'image': 'PlayerImagePlaceholder.png', 'status': '', 'hero3': 'Bounty Hunter', 'id': 'Cookie bear', 'birth_date': '', 'role2': 'support', 'ids': '', 'team': '', 'name': '艾欣', 'role': 'offlane'}

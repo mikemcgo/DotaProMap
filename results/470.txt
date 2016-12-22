@@ -1,0 +1,1 @@
+{'hero3': ' Dark_Seer', 'hero': ' Clockwerk ', 'dotabuff': '53575999', 'country': 'United States', 'hero2': ' Doom', 'country2': 'tt', 'id': '470', 'team': 'Rainbows and Sunshine', 'datdota': '4593', 'name': 'Ajai Pasupuleti', 'role': ' Offlane'}

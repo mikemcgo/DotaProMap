@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'Thailand', 'datdota': '620', 'hero2': '', 'id': 'KyT', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': '', 'team': 'iDeal eSports', 'name': 'Nitiphat Chutonganan', 'role': 'offlaner'}

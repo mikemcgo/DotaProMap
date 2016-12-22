@@ -1,0 +1,1 @@
+{'hero': 'Sand King', 'dotabuff': '93670407', 'country': 'Malaysia', 'datdota': '217', 'hero2': 'Leshrac', 'id': 'Ice', 'romanized_name': 'Chua Chee Cai', 'image': 'Ice.jpg', 'status': 'Active', 'hero3': 'Rubick', 'birth_date': ' ', 'ids': '', 'team': '', 'name': '蔡至财', 'role': 'support'}

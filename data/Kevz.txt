@@ -1,1 +1,31 @@
-[]
+{{Tabs static
+|name1=Overview
+|link1=Kevz
+|name2=Results
+|link2=Kevz/Results
+|This=1
+}}
+{{Infobox player
+|id=Kevz
+|image=PlayerImagePlaceholder.png
+|name=Kevin Edquilan
+|status=Active
+|role=mid
+|team=Rave
+|sponsor=
+|ids=
+|country=Philippines
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|stream=
+|twitter=
+|youtube=
+|fanpage=
+|history=
+{{TH|2014-08-13 — 2016-09-08|Skyville}}
+{{TH|2016-09-08 — '''Present'''|Rave}}
+}}
+
+Kevin "Kevz" Edquilan is a Dota 2 player currently playing for [[Rave]].

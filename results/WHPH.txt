@@ -1,0 +1,1 @@
+{'nicknames': '', 'country': 'Philippines', 'site': '', 'id': 'WHPH', 'twitter': '', 'fanpage': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'stream': '', 'tlpdid': '', 'birth_date': ' ', 'ids': '', 'youtube': '', 'sponsor': '', 'team': 'Rave', 'name': 'Dave Aldrin David', 'role': 'offlane'}

@@ -1,0 +1,1 @@
+{'hero': 'Doom', 'dotabuff': '124566285', 'country': 'China', 'hero2': 'Batrider', 'mmr': '6264', 'id': 'Red', 'romanized_name': 'Sun Youjia', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Gyrocopter', 'mmrdate': '2016-10-15', 'ids': 'SryFox, 小红, 水友', 'team': 'Brave Heart', 'name': '孙尤嘉', 'role': 'offlane'}

@@ -1,0 +1,1 @@
+{'hero': 'Shadow Fiend', 'dotabuff': '178771086', 'vk': 'yesdota2', 'datdota': '', 'hero2': 'Queen of Pain', 'id': 'Barash', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': 'Ember Spirit', 'other_ids': '', 'country': 'Russia', 'birth_date': '', 'team': '', 'name': 'Dmitry Lednikov ', 'role': 'mid'}

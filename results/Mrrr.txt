@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'dotabuff': '86861614', 'country': 'China', 'datdota': '', 'hero2': 'Earthshaker', 'id': 'Mrrr', 'romanized_name': 'Meng Rui', 'image': 'Mrrr frankfurt major 2015.jpg', 'status': 'Retired', 'hero3': 'Lion', 'birth_date': '', 'ids': '', 'team': '', 'name': '蒙睿', 'role': 'support'}

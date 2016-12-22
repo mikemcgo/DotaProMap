@@ -1,0 +1,1 @@
+{'hero': 'naga siren', 'dotabuff': '105001471', 'country': ' Brazil', 'hero2': 'Io', 'id': 'Gambling', 'image': '', 'status': 'Active', 'hero3': 'Rubick', 'ids': 'July, Gambling JK, zx', 'team': '', 'facebook': 'july', 'name': 'Fabio Fernandes Soares Sarellas', 'role': 'support'}

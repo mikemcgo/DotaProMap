@@ -1,0 +1,1 @@
+{'hero': 'kunkka', 'dotabuff': '117990312', 'country': 'China', 'datdota': '', 'hero2': 'rubick', 'mmr': '6822', 'mmrdate': '2016-09-23', 'romanized_name': 'Jiang Donghao', 'image': 'jdh-EHOME.Keen.jpg', 'status': 'Active', 'hero3': 'lion', 'id': 'jdh', 'birth_date': '', 'ids': 'hydsb', 'team': 'EHOME.Keen', 'name': '蒋东昊', 'role': 'support'}

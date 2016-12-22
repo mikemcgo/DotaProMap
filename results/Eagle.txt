@@ -1,0 +1,1 @@
+{'hero': 'Leshrac', 'dotabuff': '52191022', 'country': 'United States', 'datdota': '4697', 'hero2': 'Skywrath Mage', 'mmr': '6364', 'mmrdate': '2016-10-08', 'twitter': 'EagleDota', 'image': 'EaglePortrait.jpg', 'status': 'Active', 'hero3': 'Undying', 'id': 'Eagle', 'ids': 'The Big Bad Bird, Bird', 'team': 'Team Freedom', 'name': 'Shane Milke', 'role': 'support'}

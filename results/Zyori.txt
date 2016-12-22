@@ -1,0 +1,1 @@
+{'reddit': 'TheRealZyori', 'country': 'United States', 'site': 'http://www.zyori.tv/', 'id': 'Zyori', 'image': 'Zyori.png', 'twitter': 'ZyoriTV', 'twitch': 'ZyoriTV', 'birth_date': '{{Birth date and age|1989|16|10}}', 'role2': 'host', 'ids': 'Zyori, Winkz', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Andrew Campbell', 'role': 'caster'}

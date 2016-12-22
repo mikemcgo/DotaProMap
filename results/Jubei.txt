@@ -1,0 +1,1 @@
+{'hero': 'Io', 'dotabuff': '', 'country': 'Canada', 'datdota': '', 'hero2': 'Abaddon', 'mmr': '6568', 'mmrdate': '2016-11-05', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Dazzle', 'id': 'Jubei', 'birth_date': '', 'ids': '', 'team': 'Team Freedom', 'facebook': '', 'name': 'Andrew Evelynn', 'role': 'support'}

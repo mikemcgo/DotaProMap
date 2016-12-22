@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '157989498', 'country': 'Peru', 'hero2': '', 'mmr': '7676', 'id': 'Scofield', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': '', 'mmrdate': '2016-12-04', 'birth_date': '', 'role2': 'support', 'ids': '', 'team': '', 'facebook': '', 'name': 'Scofield Leches Gomez  ', 'role': 'mid'}

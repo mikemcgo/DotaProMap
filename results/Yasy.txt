@@ -1,0 +1,1 @@
+{'hero': 'Pudge', 'id2': 'Trash', 'dotabuff': '206144913', 'country': 'Vietnam', 'datdota': '', 'hero2': 'Bounty Hunter', 'mmr': '', 'id': 'Yasy', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': 'Tusk', 'mmrdate': '', 'birth_date': '', 'ids': 'Trash', 'team': 'Next Generation', 'facebook': '', 'name': 'Nguyễn Châu Lôi', 'role': 'support'}

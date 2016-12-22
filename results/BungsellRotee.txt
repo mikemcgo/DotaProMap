@@ -1,0 +1,1 @@
+{'hero3': 'timbersaw', 'hero': 'invoker', 'birth_date': '', 'country': 'Thailand', 'ids': 'GODBEAR, TELETUBBIE', 'hero2': 'queen of pain', 'id': 'BungsellRotee', 'team': 'Bangkok Dynamo', 'image': 'bungsellrotee.jpg', 'name': 'Thithat Tachawattanakul', 'role': 'Solo, Ganker'}

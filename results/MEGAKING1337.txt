@@ -1,0 +1,1 @@
+{'hero': 'Doom', 'vk': '', 'country': 'Czech Republic', 'site': '', 'hero2': 'Razor', 'id': 'MEGAKING1337', 'ldstream': '', 'image': '', 'twitch': 'megaking1337', 'twitter': '', 'hero3': 'Mirana', 'birth_date': '  ', 'ids': 'reejd, Megaking1337, Rejd', 'tlprofile': '', 'team': '', 'facebook': '', 'datdota': '', 'name': 'Karel Spěvák', 'dotabuff': '114213950', 'role': 'offlane'}

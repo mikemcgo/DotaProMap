@@ -1,0 +1,1 @@
+{'hero': 'Anti-Mage', 'dotabuff': '254223768', 'hero2': 'Clinkz', 'mmr': '', 'id': 'Firebird', 'romanized_name': 'Muhammad Shehwar', 'image': '', 'status': 'Active', 'hero3': 'Juggernaut', 'mmrdate': '', 'country': 'Pakistan', 'birth_date': '', 'ids': 'T1TAN', 'sponsor': '', 'team': '', 'country2': 'Malaysia', 'name': 'محمد شہوار', 'role': 'Carry'}

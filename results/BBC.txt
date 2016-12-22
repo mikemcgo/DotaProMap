@@ -1,0 +1,1 @@
+{'reddit': '', 'country': 'China', 'site': '', 'id': 'BBC', 'twitter': '', 'romanized_name': 'Zhang Hongsheng', 'image': '', 'twitch': '', 'birth_date': '', 'ids': 'BBC, 比比西, imbabbc', 'team': '', 'name': '张宏圣', 'role': 'caster'}

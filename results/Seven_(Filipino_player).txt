@@ -1,0 +1,1 @@
+{'hero': 'Vengeful_Spirit', 'country': 'Philippines', 'hero2': 'Earthshaker', 'id': 'Seven', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Witch_Doctor', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Jhonel Jay Maguddayao', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': 'io', 'dotabuff': '101356886', 'country': 'Lebanon', 'datdota': '', 'hero2': 'rubick', 'mmr': '9014', 'id': 'GH', 'twitter': 'GHGOD_DOTA', 'image': 'GHGod.jpg', 'status': 'Active', 'hero3': 'magnus', 'mmrdate': '2016-11-19', 'birth_date': '', 'ids': 'GH-GOD', 'team': '', 'facebook': '', 'name': 'Maroun Merhej', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': 'Disruptor', 'dotabuff': '116852311', 'country': 'China', 'datdota': '', 'hero2': 'Vengeful Spirit', 'mmr': '7593', 'id': '垃圾君', 'romanized_name': 'Lu Hao', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Witch Doctor', 'mmrdate': '2016-11-12', 'tencent': '', 'ids': 'Hitagi', 'team': 'FTD Club C', 'name': '卢昊', 'role': 'support'}

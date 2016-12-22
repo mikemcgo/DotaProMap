@@ -1,0 +1,1 @@
+{'hero': 'Witch Doctor', 'dotabuff': '71286125', 'country': 'Sweden', 'datdota': '2740', 'hero2': 'Vengeful Spirit', 'mmr': '6910', 'id': 'Sealkid', 'twitter': 'Sealkid1', 'image': 'Sealkid DHS 2015.jpg', 'status': 'Active', 'twitch': '', 'hero3': 'Dazzle', 'mmrdate': '2016-08-25', 'ids': '', 'team': 'SOLIDUDES', 'facebook': '', 'name': 'Elias Merta  ', 'role': 'support'}

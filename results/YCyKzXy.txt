@@ -1,0 +1,1 @@
+{'hero': 'Templar Assassin', 'dotabuff': '230617400', 'hero2': '', 'mmr': '7623', 'id': 'yChen', 'romanized_name': 'Pan Shuaifang', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-11-30', 'country': 'China', 'birth_date': '', 'ids': 'ycyk, yChen', 'team': 'Vici Gaming Potential', 'name': '潘帅方', 'role': 'mid'}

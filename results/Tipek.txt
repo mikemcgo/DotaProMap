@@ -1,0 +1,1 @@
+{'hero3': 'Invoker', 'hero': 'Faceless Void', 'birth_date': '', 'country': 'Czech Republic', 'ids': '', 'hero2': 'Tusk', 'id': 'Tipek', 'team': '', 'image': '', 'name': 'Marek Rytir', 'role': 'offlane'}

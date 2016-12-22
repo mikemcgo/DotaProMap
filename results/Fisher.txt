@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': 'November 22', 'country': 'Singapore', 'ids': '', 'hero2': '', 'id': 'Fisher', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Kiat En Chua', 'role': ''}

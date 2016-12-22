@@ -1,0 +1,1 @@
+{'hero': 'Mirana', 'country': 'Sweden', 'datdota': '215', 'hero2': 'Weaver', 'id': 'Strangby', 'twitter': 'Strangby', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': 'strangby', 'hero3': 'Kunkka', 'birth_date': '', 'ids': '', 'team': 'BIRAK', 'name': 'Carl-Philip Strängby', 'role': 'mid'}

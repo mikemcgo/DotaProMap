@@ -1,0 +1,1 @@
+{'hero': 'Natures Prophet', 'country': 'Singapore', 'datdota': '274', 'hero2': '', 'id': 'Hana', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': 'hanahfication, KaL', 'team': 'First Departure', 'name': 'Paul Tan Ke Da', 'role': 'offlane'}

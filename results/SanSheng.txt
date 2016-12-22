@@ -1,0 +1,1 @@
+{'hero': 'Rubick ', 'tencent': 'SanSheng3434', 'country': 'China', 'datdota': '75&amp;player', 'hero2': 'Visage', 'id': 'SanSheng', 'romanized_name': 'Wang Zhaohui', 'image': 'SanSheng.jpg', 'status': 'Retired', 'hero3': 'Shadow Demon', 'birth_date': ' ', 'ids': '', 'stream': 'http://www.zhanqi.tv/11468', 'team': 'Newbee', 'name': '王兆辉', 'role': 'support'}

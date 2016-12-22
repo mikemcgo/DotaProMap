@@ -1,0 +1,1 @@
+{'hero': 'Clockwerk', 'dotabuff': '25175582', 'country': 'Sweden', 'datdota': '358', 'hero2': 'Phoenix', 'mmr': '7259', 'id': 'Niqua', 'twitter': 'NiquaDota', 'image': 'niqua.png|300px', 'status': 'Active', 'hero3': 'Spirit Breaker', 'mmrdate': '2016-10-10', 'birth_date': '', 'country2': 'Finland', 'team': 'Memento Mori', 'name': 'Niclas Westergård', 'role': 'offlane'}

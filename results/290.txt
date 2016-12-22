@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '117587043', 'country': 'China', 'datdota': '', 'hero2': 'Templar Assassin', 'mmr': '7734', 'id': '290', 'romanized_name': 'Zeng Chen', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'puck', 'mmrdate': '2016-10-23', 'tencent': '', 'team': 'Newbee Young', 'name': '曾晨', 'role': 'mid'}

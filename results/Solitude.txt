@@ -1,0 +1,1 @@
+{'hero': 'Juggernaut', 'dotabuff': '11473065', 'country': 'Sweden', 'datdota': '', 'hero2': 'Morphling', 'mmr': '8700', 'mmrdate': '2016-11-23', 'twitter': 'SolitudeDota2', 'image': 'Solitude wesg profilepic.png', 'status': 'Active', 'hero3': 'Sven', 'id': 'Solitude', 'birth_date': '', 'team': 'SOLIDUDES', 'facebook': '', 'name': 'Yousif Kutaiba', 'role': 'carry'}

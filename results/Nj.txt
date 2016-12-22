@@ -1,0 +1,1 @@
+{'reddit': '', 'hero': '', 'dotabuff': '103126502', 'country': 'Malaysia', 'datdota': '', 'hero2': '', 'id': 'nj', 'twitter': '', 'tencent': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': 'pink', 'team': '90s Gaming', 'facebook': '', 'name': 'Law Chee Hoong', 'role': 'mid'}

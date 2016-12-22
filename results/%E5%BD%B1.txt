@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '168028715', 'country': 'China', 'datdota': '', 'hero2': 'Storm Spirit', 'mmr': '8743', 'id': '影', 'twitter': '', 'romanized_name': 'Jin Zhiyi', 'image': '影-EHOME.Keen.jpg', 'status': 'Active', 'hero3': 'Juggernaut', 'mmrdate': '2016-11-24', 'birth_date': '', 'ids': 'Ying, zhizhizhi', 'team': 'EHOME.Keen', 'name': '金志意', 'role': 'mid'}

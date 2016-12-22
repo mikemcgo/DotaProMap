@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'South Korea', 'datdota': '2084', 'hero2': '', 'id': 'Crio_J', 'twitter': 'Crio_J', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'country2': 'France', 'birth_date': '{{Birth date and age|1989|10|07}}', 'ids': '', 'team': 'Zero Respect', 'name': 'Choi Jong-Bin', 'role': 'support'}

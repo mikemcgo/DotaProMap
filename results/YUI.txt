@@ -1,0 +1,1 @@
+{'hero': 'Templar Assassin', 'dotabuff': '194027237', 'country': 'China', 'datdota': '', 'hero2': 'Invoker', 'mmr': '', 'mmrdate': '', 'twitter': '', 'romanized_name': 'Zhang Chaowen', 'image': 'PlayerImagePlaceholder.png', 'status': '', 'hero3': 'Shadow Fiend', 'id': 'YUI', 'birth_date': '', 'ids': 'Chao', 'team': '', 'name': '张超文', 'role': 'mid'}

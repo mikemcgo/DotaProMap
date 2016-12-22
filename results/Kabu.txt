@@ -1,0 +1,1 @@
+{'hero': 'Clockwerk', 'dotabuff': '88521435', 'hero2': 'Rubick', 'id': 'Kabu', 'romanized_name': 'Zhao Kai', 'image': 'Kabu-2012.jpg', 'status': 'Inactive', 'hero3': 'Lion', 'country': 'China', 'birth_date': '{{Birth date and age|1992|7|16}}', 'ids': '', 'team': 'TongFu', 'name': '赵凯', 'role': 'offlane'}

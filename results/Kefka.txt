@@ -1,0 +1,1 @@
+{'hero': 'Tidehunter', 'dotabuff': '31456357', 'country': 'Sweden', 'datdota': '', 'hero2': 'Faceless Void', 'mmr': '7663', 'mmrdate': '2016-11-17', 'twitter': 'KefkaDota', 'image': 'KefkaDota.jpg', 'status': 'Active', 'hero3': 'Sand King', 'id': 'Kefka', 'birth_date': '', 'ids': '', 'team': 'SOLIDUDES', 'facebook': '', 'name': 'Linus Bleckert', 'role': 'offlane'}

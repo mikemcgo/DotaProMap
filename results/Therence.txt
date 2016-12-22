@@ -1,0 +1,1 @@
+{'hero': 'Gyrocopter', 'dotabuff': '65674469', 'country': 'Brazil', 'hero2': 'Anti-Mage', 'id': 'Therence', 'image': '', 'status': 'Active', 'hero3': 'Alchemist', 'birth_date': '', 'team': 'T Show', 'name': 'Therence Ferreira', 'role': 'Carry'}

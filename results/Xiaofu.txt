@@ -1,0 +1,1 @@
+{'hero': 'Dark Seer', 'dotabuff': '135656964', 'datdota': '', 'hero2': 'Slardar', 'mmr': '7543', 'id': 'xiaofu', 'romanized_name': 'Zhuang Yongfu', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Tusk', 'mmrdate': '2016-11-30', 'country': 'China', 'ids': '', 'team': 'FTD club A', 'name': '庄永福', 'role': 'offlane'}

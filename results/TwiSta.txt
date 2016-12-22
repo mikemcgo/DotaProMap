@@ -1,0 +1,1 @@
+{'hero': 'Shadow Demon', 'dotabuff': '90793520', 'country': 'Albania', 'site': '', 'hero2': 'Leshrac', 'id': 'twiSta', 'twitter': '', 'image': 'PlayerImagePlaceholder.png ', 'status': 'Active', 'twitch': '', 'hero3': '', 'birth_date': '', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Visar Zymberi', 'role': 'support'}

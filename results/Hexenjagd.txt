@@ -1,0 +1,1 @@
+{'hero': 'Lion', 'dotabuff': '111051733', 'country2': 'United States', 'datdota': '', 'hero2': 'Witch Doctor', 'id': 'Hexenjagd', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'hero3': 'Spirit Breaker', 'birth_date': '', 'ids': '', 'team': '', 'country': 'China', 'facebook': '', 'name': 'Feng Xiaoyu', 'role': 'support'}

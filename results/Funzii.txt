@@ -1,0 +1,1 @@
+{'hero': 'OD', 'country': 'France', 'hero2': 'Lone Druid', 'mmr': '6831', 'mmrdate': '2016-04-25', 'image': 'Funzii.jpg', 'status': 'Inactive', 'hero3': 'Batrider', 'id': 'Funzii', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Thibault Calonne', 'role': 'mid'}

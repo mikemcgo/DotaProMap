@@ -1,0 +1,1 @@
+{'hero': 'Earthshaker', 'dotabuff': '85008179', 'country': ' Brazil', 'hero2': 'Visage', 'id': 'Bardo', 'image': 'Bardo_dota.jpg', 'status': 'Active', 'hero3': 'Skywrath Mage', 'ids': 'Peco', 'team': 'Midas Club Elite', 'name': 'Lucas Raphael', 'role': 'support'}

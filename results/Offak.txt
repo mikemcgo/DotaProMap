@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Czech Republic', 'ids': 'OFFak, offak', 'hero2': '', 'id': 'Offak', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Daniel Gorol', 'role': ''}

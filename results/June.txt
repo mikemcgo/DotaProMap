@@ -1,0 +1,1 @@
+{'hero': 'Clockwerk', 'dotabuff': '138885864', 'country': 'China', 'datdota': '2246', 'hero2': 'Batrider', 'mmr': '8403', 'mmrdate': '2016-12-17', 'romanized_name': 'Lin Shiyang', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '2028501225', 'hero3': 'Tidehunter', 'id': 'June', 'tencent': 'Red_Lsy', 'team': 'CDEC Gaming', 'name': '林诗洋', 'role': 'offlane'}

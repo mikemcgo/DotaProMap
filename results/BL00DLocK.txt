@@ -1,0 +1,1 @@
+{'hero': 'Vengeful Spirit', 'country': 'Australia', 'site': '', 'hero2': 'Rubick', 'id': 'BL00DLocK', 'twitter': 'BL00DLocK', 'image': 'Bl00dlock_profile_picture_new.jpg', 'status': 'Inactive', 'twitch': 'bl00dlock', 'hero3': 'Dazzle', 'birth_date': 'August 2nd, 1994 (Age 21)', 'team': ' InVidious', 'facebook': 'followbl00dlock', 'name': 'Jake McNamara', 'role': 'support'}

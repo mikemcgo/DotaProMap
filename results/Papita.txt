@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '28070572', 'country': ' Argentina', 'hero2': 'Ember Spirit', 'mmr': '6910', 'mmrdate': '2016-09-23', 'image': 'Papita.jpg', 'status': 'Active', 'twitch': 'p4pita', 'hero3': 'Queen of Pain', 'id': 'Papita', 'ids': ' P4pita', 'team': 'Vultur', 'facebook': 'p4pita', 'name': 'Mariano Caneda', 'role': 'mid'}

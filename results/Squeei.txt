@@ -1,0 +1,1 @@
+{'hero3': 'Pudge', 'hero': 'Storm Spirit', 'country': 'United States', 'hero2': 'Ursa', 'id': 'Squeei', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'George Uzcategui', 'status': 'Active', 'role': 'mid'}

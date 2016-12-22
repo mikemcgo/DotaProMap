@@ -1,0 +1,1 @@
+{'hero': 'Juggernaut', 'dotabuff': '87293485', 'country': 'Mexico', 'ids': 'Zyzzy', 'hero2': 'Phantom Lancer', 'mmr': '7335', 'id': 'Zyzz', 'image': 'Zyzz_Profile.png', 'status': 'Active', 'twitch': 'zyzzydota', 'hero3': 'Troll Warlord', 'mmrdate': '2016-11-05', 'country2': 'United States', 'team': 'Doo Wop', 'facebook': 'zyzzydota', 'name': 'Luis Perez', 'role': 'carry'}

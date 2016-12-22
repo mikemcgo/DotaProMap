@@ -1,0 +1,1 @@
+{'hero': 'Lina', 'dotabuff': '133084797', 'hero2': 'Ancient Apparition', 'mmr': '6829', 'id': 'DDR', 'romanized_name': 'Ruan Zhenghao', 'image': 'ddr-EHOME.X.jpg', 'status': 'Active', 'hero3': 'Dazzle', 'mmrdate': '2016-11-24', 'country': 'China', 'birth_date': '', 'ids': '', 'team': 'EHOME.X', 'name': '阮拯豪', 'role': 'support'}

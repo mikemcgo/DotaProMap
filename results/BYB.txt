@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '114980990', 'country': 'Philippines', 'datdota': '625', 'hero2': '', 'id': 'BYB', 'image': 'PlayerImagePlaceholder.png', 'status': 'Banned', 'hero3': '', 'birth_date': '', 'ids': 'Bayabas', 'team': 'Execration', 'name': 'Mark Adrian "Bayabas" Gavin', 'role': 'offlane'}

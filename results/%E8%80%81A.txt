@@ -1,0 +1,1 @@
+{'hero': 'Dazzle', 'dotabuff': '134903105', 'country': 'China', 'datdota': '', 'hero2': 'Earthshaker', 'mmr': '', 'id': '老A', 'twitter': '', 'romanized_name': 'Wang Xu', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '', 'birth_date': '', 'ids': 'Lao A, Sure', 'team': 'Brave Heart', 'name': '王旭', 'role': 'support'}

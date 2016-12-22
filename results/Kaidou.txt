@@ -1,0 +1,1 @@
+{'hero': 'Slardar', 'dotabuff': '119594755', 'country': 'China', 'datdota': '', 'hero2': 'Faceless Void', 'mmr': '7103', 'mmrdate': '2016-11-30', 'romanized_name': 'Tan Yunxi', 'image': 'PlayerImagePlaceholder.png', 'status': '', 'hero3': 'Ursa', 'id': 'kaidou', 'birth_date': '', 'ids': 'yyy', 'team': 'TongFu', 'name': '覃云溪', 'role': 'offlane'}

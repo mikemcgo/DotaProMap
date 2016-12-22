@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '', 'country': 'Philippines', 'datdota': '', 'hero2': '', 'id': 'PlayHard', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Prieme Ejay Banquil', 'role': 'mid'}

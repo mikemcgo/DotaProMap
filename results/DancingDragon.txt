@@ -1,0 +1,1 @@
+{'country': 'Sweden', 'datdota': '', 'id': 'DancingDragon', 'youtube': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'vk': '', 'birth_date': '', 'ids': 'DancingDragon', 'tlstream': '', 'team': 'IKEA', 'facebook': '', 'name': 'Josef Bernhardsson ', 'role': 'Support'}

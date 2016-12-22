@@ -1,0 +1,1 @@
+{'hero': 'Vengeful Spirit', 'dotabuff': '173476224', 'hero2': 'Bounty Hunter', 'mmr': '6427', 'mmrdate': '2016-11-11', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Phoenix ', 'id': 'eyyou', 'country': 'Philippines', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Nico Barcelon', 'role': 'support'}

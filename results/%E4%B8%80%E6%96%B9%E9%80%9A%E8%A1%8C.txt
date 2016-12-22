@@ -1,0 +1,1 @@
+{'hero': 'Bounty Hunter', 'dotabuff': '158847773', 'country': 'China', 'hero2': 'Earth Spirit', 'mmr': '7114', 'id': '佞臣', 'romanized_name': 'Jiang An', 'image': '佞臣-EHOME.Keen.jpg', 'status': 'Active', 'hero3': 'Night Stalker', 'mmrdate': '2016-12-07', 'birth_date': '', 'ids': '一方通行, yftx', 'team': 'EHOME.Keen', 'name': '姜岸', 'role': 'support'}

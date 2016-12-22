@@ -1,0 +1,1 @@
+{'hero': 'Slark', 'dotabuff': '194818271', 'country': 'Peru', 'datdota': '6324', 'hero2': 'Shadow Fiend', 'mmr': '8124', 'mmrdate': '2016-12-10', 'image': 'VaNn.jpg', 'status': 'Banned', 'twitch': 'vanndota', 'hero3': 'Storm Spirit', 'id': 'vanN', 'team': 'Elite Wolves', 'facebook': 'Dota.vanN', 'name': 'Juan Carlos Tito Carrizales', 'role': 'carry'}

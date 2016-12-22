@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '88153289', 'country': 'Brazil', 'hero2': '', 'mmr': '7010', 'mmrdate': '2016-11-29', 'twitter': '', 'image': '', 'status': 'Active', 'twitch': '', 'hero3': '', 'id': 'Cys', 'birth_date': '', 'ids': 'kaue', 'team': 'T Show', 'facebook': '', 'name': 'Kaue Camuci', 'role': 'mid'}

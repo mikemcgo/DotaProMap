@@ -1,0 +1,1 @@
+{'hero': 'Dazzle', 'dotabuff': '87423323', 'country': 'Vietnam', 'datdota': '', 'hero2': 'Bane', 'mmr': '7376', 'mmrdate': '2016-12-09', 'twitter': 'd47biryu', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': 'd47biryu', 'hero3': 'Winter Wyvern', 'id': 'Biryu', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Hà Quốc Đạt', 'role': 'support'}

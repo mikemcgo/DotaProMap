@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'Germany', 'site': '', 'hero2': '', 'id': 'RMC', 'twitter': '', 'fanpage': '', 'image': 'PlayerImagePlaceholder.png', 'twitch': '', 'team': '', 'tlstream': '', 'tlprofile': '', 'youtube': '', 'name': 'Philipp Pausewang', 'role': 'support'}

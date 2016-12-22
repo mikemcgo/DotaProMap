@@ -1,0 +1,1 @@
+{'hero': 'Brewmaster', 'country': 'Sweden', 'hero2': 'Shadow Fiend', 'id': 'Reelo', 'twitter': 'oscarljungberg', 'image': 'reelo_profile.jpeg', 'twitch': 'reelo1', 'hero3': 'Outworld Devourer', 'ids': 'reelo', 'team': '', 'facebook': 'oscarljungberg', 'name': 'Oscar Ljungberg ', 'role': 'mid'}

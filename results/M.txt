@@ -1,0 +1,1 @@
+{'hero': 'Queen of Pain', 'dotabuff': '216067541', 'country': 'China', 'datdota': '', 'hero2': 'Shadow Fiend', 'mmr': '7187', 'id': 'm', 'romanized_name': 'Yang Shihao', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-11-30', 'birth_date': '', 'ids': '456, Maomao', 'team': 'TongFu', 'name': '杨仕豪', 'role': 'mid'}

@@ -1,0 +1,1 @@
+{'hero': 'Bane', 'country': 'South Korea', 'site': '', 'hero2': '', 'id': 'MafiA', 'twitter': '', 'image': 'MVP_Mafia.jpg', 'twitch': '', 'hero3': '', 'birth_date': '', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Kim Byung Hoon ', 'role': 'support'}

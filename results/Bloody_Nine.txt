@@ -1,0 +1,1 @@
+{'hero': 'furion', 'country': 'United States', 'hero2': 'batrider', 'mmr': '6325', 'mmrdate': '2016-08-31', 'image': 'Bloodynine_profile.jpg', 'hero3': 'puck', 'id': 'Bloody Nine', 'birth_date': '{{birth date and age|1992|11|11}}', 'ids': 'BloodyNine, WorstAtHoN, WAH', 'team': 'END', 'role': 'offlane', 'name': 'Daniel Foster', 'dotabuff': '59752811'}

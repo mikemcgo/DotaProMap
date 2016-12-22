@@ -1,0 +1,1 @@
+{'country': 'USA', 'site': 'http://www.twitch.tv/draskyl', 'mmr': '5250', 'mmrdate': '2016-08-17', 'twitter': 'Draskyldotatwo', 'image': 'Draskyl.jpg', 'twitch': 'draskyl', 'id': 'Draskyl', 'birth_date': '{{Birth date and age|1988|01|19}}', 'ids': 'Andy', 'tlprofile': '', 'tlstream': 'draskyl', 'team': '', 'name': 'Andy Stiles', 'role': 'caster'}

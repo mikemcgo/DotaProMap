@@ -1,0 +1,1 @@
+{'hero': ' Earthshaker', 'dotabuff': '43589929', 'country': 'Japan', 'site': '', 'hero2': ' ', 'id': 'STABA', 'youtube': '', 'image': '', 'twitch': 'stabaaa', 'twitter': 'stabaaa', 'hero3': '', 'birth_date': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'facebook': '', 'name': 'Munehito Takekawa', 'role': 'support'}

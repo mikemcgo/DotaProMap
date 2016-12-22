@@ -1,0 +1,1 @@
+{'hero': 'Drow Ranger', 'dotabuff': '101908305', 'country': 'China', 'datdota': '', 'hero2': 'Shadow Fiend', 'mmr': '7752', 'id': 'Gintoki', 'romanized_name': 'Li Chunbo', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Lifestealer', 'mmrdate': '2016-11-12', 'ids': 'Wave', 'team': 'We Are Young', 'name': '李春波', 'role': 'carry'}

@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Denmark', 'ids': '', 'hero2': '', 'id': 'Buller', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Balder Jensen', 'role': '1/3'}

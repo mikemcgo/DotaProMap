@@ -1,0 +1,1 @@
+{'hero': 'Winter Wyvern', 'dotabuff': '94923783', 'country': 'Peru', 'datdota': '429', 'hero2': 'Visage', 'mmr': '6509', 'mmrdate': '2016-11-03', 'image': 'Dota2masoku.jpeg', 'status': 'Active', 'hero3': 'Mirana', 'id': 'Masoku', 'birth_date': '', 'team': 'Elite Wolves', 'Other_ids': '', 'name': 'Alex Dávila', 'role': 'support'}

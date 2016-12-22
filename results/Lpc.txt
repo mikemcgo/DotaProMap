@@ -1,0 +1,1 @@
+{'hero': 'Io', 'dotabuff': '136186119', 'country': 'China', 'hero2': 'Phoenix', 'mmr': '6706', 'id': 'Lpc', 'romanized_name': 'Luo Puchao', 'image': 'Lpc.jpg', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-11-27', 'birth_date': '{{birth date and age|1990|11|20}}', 'ids': 'MrLiukeAL', 'team': 'LGD.Forever Young', 'name': '罗蒲超', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': 'Lifestealer', 'tencent': 'a2390157', 'country': 'China', 'datdota': '907&amp;player', 'hero2': 'Gyrocopter', 'mmr': '7436', 'id': 'Rabbit', 'romanized_name': 'Wang Zhang', 'image': 'LGD_Rabbit.jpg', 'status': 'Active', 'hero3': 'Weaver', 'mmrdate': '2016-07-08', 'birth_date': '', 'role2': 'offlane', 'ids': 'Xiaotuji', 'team': '', 'name': '王章', 'role': 'carry'}

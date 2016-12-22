@@ -1,0 +1,1 @@
+{'hero': 'chen', 'dotabuff': '86664345', 'country': 'Sweden', 'datdota': '203', 'hero2': '', 'id': 'Steffstyle ', 'twitter': 'Steffstylee', 'image': 'Steffstyle TeamCoast 2014.jpg', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': '', 'team': 'IKEA', 'name': 'Staffan Solin', 'role': 'support'}

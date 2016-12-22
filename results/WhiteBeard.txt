@@ -1,0 +1,1 @@
+{'hero': 'Disruptor', 'country': 'United States', 'datdota': '448', 'hero2': 'Mirana', 'id': 'whiteBeard', 'ldstream': '', 'image': 'WhiteBeard.jpeg', 'twitch': 'whitestbeardest', 'status': 'Active', 'hero3': 'Undying', 'twitter': 'whiteBeardDotA', 'team': '|role', 'name': 'Bryant Lehwald', 'dotabuff': '21604967'}

@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Philippines', 'ids': '', 'hero2': '', 'id': 'Mr.Swish', 'team': 'Neolution.int', 'image': 'PlayerImagePlaceholder.png', 'name': 'Marc Parasadas', 'role': ''}

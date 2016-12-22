@@ -1,0 +1,1 @@
+{'hero': 'Weaver', 'country': 'Philippines', 'datdota': '1012', 'hero2': 'Brewmaster', 'id': 'Doc', 'image': 'XctNDoc.jpg', 'twitter': '', 'hero3': '', 'birth_date': '', 'team': '', 'name': 'Angelo Docosin', 'role': 'Carry'}

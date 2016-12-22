@@ -1,0 +1,1 @@
+{'hero': 'Pudge', 'dotabuff': '66620961', 'country': 'Ukraine', 'hero2': 'Earthshaker', 'id': 'Ecnart', 'romanized_name': 'Sergey Slobodyanyk', 'image': 'EcNart.jpg', 'hero3': 'Witch Doctor', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Сергій Слободяник', 'role': 'support'}

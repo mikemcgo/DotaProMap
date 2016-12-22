@@ -1,0 +1,1 @@
+{'hero': 'Outworld Devourer', 'dotabuff': '71869498', 'country': 'Germany', 'datdota': '', 'hero2': 'Doom', 'mmr': '7164', 'mmrdate': '2016-08-25', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Windrunner', 'id': 'Luft', 'birth_date': '', 'ids': '', 'team': 'Valkyrie eSports', 'facebook': '', 'name': 'Merlin Seibel', 'role': 'mid'}

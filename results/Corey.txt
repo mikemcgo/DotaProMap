@@ -1,0 +1,1 @@
+{'hero': ' Morphling', 'country': 'USA', 'hero2': ' Slark', 'id': 'Corey', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'hero3': 'mirana', 'birth_date': '', 'ids': '', 'team': '', 'name': ' Corey Wright', 'role': 'carry'}

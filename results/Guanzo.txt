@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '39173624', 'country': 'USA', 'datdota': '777', 'hero2': '', 'id': 'guanzo', 'ldstream': 'guanzo91', 'image': 'PlayerImagePlaceholder.png', 'twitch': 'guanzo91', 'hero3': '', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Eric Guan', 'role': 'offlane'}

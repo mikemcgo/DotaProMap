@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': 'Juggernaut', 'birth_date': '', 'country': 'Philippines', 'ids': '', 'hero2': 'Alchemist', 'id': 'Yani', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Raniel Ogdol', 'role': '1/2/3'}

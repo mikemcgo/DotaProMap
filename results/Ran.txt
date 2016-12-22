@@ -1,0 +1,1 @@
+{'hero': 'Faceless Void', 'dotabuff': '117197143', 'country': 'China', 'datdota': '', 'hero2': 'Clockwerk', 'mmr': '7167', 'id': 'Ran', 'romanized_name': 'Fang Xu', 'image': 'Ran-EHOME.Luminous.jpg', 'status': 'Active', 'weibo': '', 'hero3': 'Centaur', 'mmrdate': '2016-11-30', 'tencent': '', 'birth_date': '', 'ids': '', 'team': 'EHOME.Luminous', 'name': '方旭', 'role': 'offlane'}

@@ -1,0 +1,1 @@
+{'hero': 'Tidehunter', 'dotabuff': '182113992', 'country': 'Philippines', 'datdota': '5091', 'hero2': 'Invoker', 'id': 'Yaj', 'twitter': '', 'image': 'XctNYaj.jpg', 'status': 'Active', 'hero3': 'Doom', 'birth_date': '', 'team': 'S1 Lykos', 'name': 'Jayjay Garan', 'role': 'offlane'}

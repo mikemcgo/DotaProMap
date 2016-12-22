@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Sweden', 'ids': '', 'hero2': '', 'id': 'Matrim', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Sebastian Sundström', 'role': ''}

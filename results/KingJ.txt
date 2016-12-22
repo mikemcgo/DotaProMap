@@ -1,0 +1,1 @@
+{'hero': 'Morphling', 'country': 'China', 'hero2': 'Venomancer', 'id': 'KingJ', 'romanized_name': 'Zhou Yang', 'image': 'WIH-KingJ-RFLMZ.jpg', 'status': 'Active', 'hero3': 'Visage', 'birth_date': ' ', 'team': '', 'name': '周扬', 'role': 'offlane'}

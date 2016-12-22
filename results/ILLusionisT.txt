@@ -1,0 +1,1 @@
+{'hero': 'Earthshaker', 'dotabuff': '37399177', 'country': 'Romania', 'datdota': '', 'hero2': 'Sand King', 'id': 'iLLusionisT', 'twitter': '', 'romanized_name': 'Razvan Borceanu', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Ancient Apparition', 'ids': 'LoLOmGS, iLLusionisT, Spammerino', 'team': '', 'facebook': '', 'role': 'support'}

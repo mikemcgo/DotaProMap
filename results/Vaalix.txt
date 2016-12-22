@@ -1,0 +1,1 @@
+{'hero': 'Lion', 'dotabuff': '36864918', 'country': 'Finland', 'datdota': '2262', 'hero2': 'Skywrath Mage', 'id': 'Vaalix', 'twitter': 'VaalixDota', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Keeper of the Light', 'ids': 'Valix', 'birth date': '{{Birth date and age|1996|1|29}}', 'team': '', 'name': 'Mikko Ristimäki', 'role': 'support'}

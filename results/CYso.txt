@@ -1,0 +1,1 @@
+{'hero': 'Kunkka', 'country': 'Sweden', 'site': '', 'hero2': 'Mirana', 'id': 'cYso', 'image': 'PlayerImagePlaceholder.png', 'hero3': 'Windrunner', 'birth_date': '{{Birth date and age|1992|4|28}}', 'ids': 'cYso', 'team': '', 'name': 'Julius Åberg', 'role': 'mid'}

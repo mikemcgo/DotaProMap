@@ -1,0 +1,1 @@
+{'country': ' Chile', 'site': '', 'id': 'kErUbA ', 'twitter': '', 'fanpage': '', 'image': ' ', 'nicknames': '', 'stream': '', 'tlpdid': '', 'birth_date': ' ', 'race': '', 'ids': 'kErUbA', 'youtube': '', 'sponsor': '', 'team': ' Sad Voids', 'name': ' Alan Manríquez', 'role': 'mid'}

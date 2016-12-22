@@ -1,0 +1,1 @@
+{'hero': 'Juggernaut', 'dotabuff': '103275898', 'country': 'China', 'datdota': '5202', 'hero2': 'Lifestealer', 'mmr': '7433', 'id': 'JiaJia', 'romanized_name': 'Tan Lijia', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Slark', 'mmrdate': '2016-11-30', 'birth_date': '', 'ids': '嘉嘉\u200e', 'team': 'TongFu', 'name': '谭力嘉', 'role': 'carry'}

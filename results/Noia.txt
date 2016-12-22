@@ -1,0 +1,1 @@
+{'hero': 'Earth Spirit', 'dotabuff': '23883296', 'country': 'Denmark', 'hero2': 'Keeper of the Light', 'mmr': '7004', 'mmrdate': '2016-08-25', 'twitter': 'NoiADJ', 'image': 'Noia_DHW_2016.jpg', 'status': 'Active', 'twitch': 'djnoia', 'hero3': 'Tusk', 'id': 'Noia', 'birth_date': '', 'ids': 'NoiA', 'team': '', 'facebook': 'NoiADJ', 'name': 'Danny Mørch Junget', 'role': 'support'}

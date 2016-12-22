@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'dotabuff': '163555221', 'country': 'China', 'datdota': '', 'hero2': 'Skywrath Mage', 'mmr': '', 'id': 'Fyms', 'romanized_name': 'Wu Junying', 'image': 'Fyms-EHOME.Keen.jpg', 'status': 'Active', 'hero3': 'Crystal Maiden', 'mmrdate': '', 'tencent': '', 'birth_date': '', 'role2': 'support', 'ids': '风月墨色', 'team': 'EHOME.Keen', 'name': '吴军英', 'role': 'coach'}

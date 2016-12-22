@@ -1,0 +1,1 @@
+{'hero': 'Shadow Fiend', 'dotabuff': '194710965', 'country': 'China', 'datdota': '', 'hero2': 'Templar Assassin', 'mmr': '7434', 'id': 'Yin', 'romanized_name': 'Fan Qihua', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Dragon Knight', 'mmrdate': '2016-11-30', 'tencent': '', 'ids': '', 'team': '', 'name': '樊启华', 'role': 'mid'}

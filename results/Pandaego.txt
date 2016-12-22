@@ -1,0 +1,1 @@
+{'hero': 'Shadow Demon', 'dotabuff': '7910302', 'country': 'United States', 'hero2': 'Treant', 'mmr': '6389', 'id': 'Pandaego', 'twitter': 'Pandaegodota', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': 'pandaego', 'hero3': 'AA', 'mmrdate': '2016-06-28', 'role2': 'coach', 'team': '', 'name': 'Jared Fletcher', 'role': 'support'}

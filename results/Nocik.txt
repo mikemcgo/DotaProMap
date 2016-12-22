@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '130435807', 'vk': 'yesdota2', 'datdota': '', 'hero2': '', 'id': 'Nocik', 'image': 'PlayerImagePlaceholder.png', 'twitter': '', 'twitch': '', 'hero3': '', 'other_ids': '', 'country': 'Russia', 'birth_date': '', 'team': '', 'name': 'Sergey Kleshukov', 'role': ''}

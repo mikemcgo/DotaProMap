@@ -1,0 +1,1 @@
+{'hero': 'Chen', 'dotabuff': '91162296', 'country': 'Philippines', 'site': '', 'hero2': 'Witch Doctor', 'id': 'Cast', 'twitter': 'CaastDotA', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': '', 'birth_date': '{{Birth date and age|1987|5|12}}', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Mark Pilar', 'role': 'support'}

@@ -1,6 +1,9 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
+# Should do data cleanup in this file
+# Change "—" to '-'
+
 html = urlopen("http://wiki.teamliquid.net/dota2/Players_(all)")
 
 line_list = str(html.read()).split("\\n")

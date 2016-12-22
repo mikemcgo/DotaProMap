@@ -1,0 +1,1 @@
+{'hero': 'Clockwerk', 'country': 'Brazil', 'hero2': 'Earthshaker', 'Other_ids': '', 'id': 'Dudu', 'twitch': 'duduzeraxd', 'hero3': 'Brewmaster', 'birth_date': '{{Birth date and age|1991|05|02}}', 'team': '', 'facebook': 'azduduq', 'name': 'Eduardo Petrone', 'role': 'Offlane'}

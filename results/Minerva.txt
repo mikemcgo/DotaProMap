@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'dotabuff': '108383863', 'country': 'Indonesia', 'datdota': '', 'hero2': 'Dazzle', 'id': 'Minerva', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Winter Wyvern', 'birth_date': '', 'ids': 'Resonance', 'team': '', 'name': 'Rene Michael Halim', 'role': 'support'}

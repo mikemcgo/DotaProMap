@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '92266340', 'country': 'Romania', 'hero2': '', 'id': 'Bufni', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Alexandru Palievici', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': 'axe', 'dotabuff': '101525357', 'country': 'Malaysia', 'datdota': '', 'hero2': 'dark seer', 'mmr': '7507', 'mmrdate': '2016-08-24', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'timbersaw', 'id': 'KaNG', 'ids': 'Kangaroo', 'team': 'WarriorsGaming.Unity', 'name': 'Chua Soon Khong', 'role': 'offlane'}

@@ -1,0 +1,1 @@
+{'hero': 'Furion', 'dotabuff': '86785102', 'country': 'Peru', 'datdota': '562', 'hero2': 'Mirana', 'Other_ids': 'NiHawk', 'id': 'MiHawk', 'image': 'PlayerImagePlaceholder.png', 'status': 'Retired', 'hero3': 'Clockwerk', 'birth_date': '', 'team': '', 'facebook': 'MiHawkDota', 'name': 'Leonardo Astete', 'role': 'offlane'}

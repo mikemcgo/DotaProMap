@@ -1,0 +1,1 @@
+{'hero': 'Dazzle', 'dotabuff': '256269737', 'country': 'Philippines', 'datdota': '591', 'hero2': 'Winter Wyvern', 'mmr': '6759', 'mmrdate': '2016-08-25', 'image': 'Julz_frankfurt_major_2015.jpg', 'status': 'Active', 'hero3': 'Disruptor', 'id': ' Julz', 'birth_date': '', 'ids': 'KACL ', 'team': 'Mineski', 'name': 'Julius De Leon', 'role': 'support'}

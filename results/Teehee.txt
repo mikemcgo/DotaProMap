@@ -1,0 +1,1 @@
+{'hero': 'Gyrocopter', 'dotabuff': '110759067', 'hero2': 'Phantom Lancer', 'mmr': '7237', 'mmrdate': '2016-08-06', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Juggernaut', 'id': 'Teehee', 'country': 'Philippines', 'birth_date': '', 'ids': '', 'team': '', 'name': 'John Linuel Abanto', 'role': 'carry'}

@@ -1,0 +1,1 @@
+{'hero': 'gyro', 'dotabuff': '95439451', 'vk': '', 'datdota': '', 'hero2': 'jugg', 'mmr': '7115', 'mmrdate': '2016-08-25', 'twitter': '', 'other_ids': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': 'slark', 'id': 'Gedrox', 'country': 'Ukraine', 'birth_date': '', 'team': 'Team Bad English', 'name': 'Vladislav Kozak', 'role': 'carry'}

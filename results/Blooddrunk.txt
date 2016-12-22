@@ -1,0 +1,1 @@
+{'hero': 'Clockwerk', 'country': 'Australia', 'hero2': 'Shadow Fiend', 'site': '', 'id': 'Blooddrunk', 'twitter': '', 'image': 'Blooddrunk_image.JPG', 'hero3': 'Anti Mage', 'birth_date': '', 'team': 'InVidious', 'name': 'Michael Johnson', 'role': 'Mid, Utility'}

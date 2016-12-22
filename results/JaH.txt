@@ -1,0 +1,1 @@
+{'hero': 'silencer', 'dotabuff': '5571849', 'country': 'United States', 'datdota': '', 'hero2': 'lion', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': 'crystal maiden', 'id': 'jaH', 'birth_date': '', 'ids': '', 'team': 'Team Leviathan', 'facebook': '', 'name': 'Matthew Penaroza', 'role': 'support'}

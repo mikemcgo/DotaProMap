@@ -1,0 +1,1 @@
+{'hero': ' Dazzle', 'dotabuff': '116201886', 'datdota': '4647', 'hero2': ' Crystal_Maiden', 'id': ' Chrysalid', 'status': 'Active', 'hero3': ' Skywrath_Mage', 'ids': ' baby g, keppa g', 'team': '', 'country': 'United States', 'name': ' Chris', 'role': 'support'}

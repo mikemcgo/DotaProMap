@@ -1,0 +1,1 @@
+{'hero': 'Vengeful Spirit', 'dotabuff': '101598503', 'country': 'Malaysia', 'datdota': '', 'hero2': 'Lion', 'mmr': '6274', 'id': 'Zacky', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-06-09', 'birth_date': '', 'ids': 'JJt', 'team': '', 'facebook': '', 'name': 'Tui Jun Jie', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Slovak Republic', 'ids': '', 'hero2': '', 'id': 'Tulex', 'team': 'Team BlackKingBar', 'image': 'PlayerImagePlaceholder.png', 'name': 'Michal Zima', 'role': ''}

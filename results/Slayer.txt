@@ -1,0 +1,1 @@
+{'hero': 'Ember Spirit', 'dotabuff': '122445696', 'country': 'USA', 'datdota': '', 'hero2': 'Shadow Fiend', 'mmr': '6556', 'mmrdate': '2016-10-07', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Windranger', 'id': 'Slayer', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Scott Palmer', 'role': 'mid'}

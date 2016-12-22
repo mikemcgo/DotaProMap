@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '116514161', 'country': ' Brazil', 'hero2': 'Shadow Fiend', 'mmr': '7177', 'id': 'Sooths', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Storm Spirit', 'mmrdate': '2016-05-06', 'team': 'Midas Club Elite', 'facebook': 'soothsdota', 'name': 'Pedro Luiz', 'role': 'mid'}

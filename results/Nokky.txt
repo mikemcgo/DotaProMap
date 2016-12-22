@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '102085684', 'country': 'Thailand', 'datdota': '1134', 'hero2': '', 'id': 'Nokky', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': 'Vyper', 'team': 'iDeal eSports', 'name': 'Attawat Teephom', 'role': 'support'}

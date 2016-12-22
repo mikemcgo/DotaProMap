@@ -1,0 +1,1 @@
+{'country': 'Sweden', 'datdota': '', 'id': 'Ash', 'youtube': '', 'twitter': 'AshDota2', 'twitch': '', 'vk': '', 'birth_date': '', 'image': 'PlayerImagePlaceholder.png', 'tlstream': '', 'team': '', 'facebook': '', 'role': 'Carry', 'name': 'Kevin Zetterlind', 'dotabuff': '87557623'}

@@ -1,0 +1,1 @@
+{'hero': 'Skywrath Mage', 'dotabuff': '90031225', 'country': 'China', 'datdota': '4960', 'hero2': 'Ancient Apparition', 'id': 'chisbug', 'romanized_name': 'Li Chen', 'image': 'Chisbug_frankfurt_major_2015.jpg', 'status': 'Active', 'hero3': 'Rubick', 'ids': 'ch, CHisbug, 321', 'team': 'White Fries Gaming', 'name': '李晨', 'role': 'support'}

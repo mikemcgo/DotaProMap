@@ -1,0 +1,1 @@
+{'hero': 'Lycan', 'dotabuff': '138154666', 'country': 'China', 'datdota': '', 'hero2': 'Morphling', 'mmr': '7019', 'id': 'NeaR', 'romanized_name': 'Lu Guangkun', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Rubick', 'mmrdate': '2016-11-30', 'role2': 'support', 'tencent': '', 'team': 'CAVALRY', 'name': '卢广坤', 'role': 'carry'}

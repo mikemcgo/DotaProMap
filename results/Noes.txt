@@ -1,0 +1,1 @@
+{'hero': ' Templar Assassin', 'country': 'Bulgaria', 'hero2': ' Invoker', 'id': 'Noes', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': ' Shadow Fiend', 'birth_date': '{{Birth date and age|1992|2|16}}', 'team': 'Patenca', 'facebook': 'pages/Noes/330239517073098?ref', 'name': 'Georgi Shushev', 'role': 'mid'}

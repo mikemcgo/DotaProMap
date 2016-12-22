@@ -1,0 +1,1 @@
+{'hero': 'Clockwerk', 'country': 'United States', 'status': 'Inactive', 'id': 'Cak3z', 'team': '', 'image': 'Cak3z_2013_MLG_Fall_Invitational.jpg', 'name': 'Clay Winkler', 'role': 'offlane'}

@@ -1,0 +1,1 @@
+{'hero': 'mirana', 'dotabuff': '56939869', 'country': 'Sweden', 'datdota': '', 'hero2': 'morphling', 'mmr': '7474', 'mmrdate': '2016-11-25', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'juggernaut', 'id': 'Gorgc', 'birth_date': 'October 28th, 1992', 'team': 'Horde', 'facebook': '', 'name': 'Janne Stefanovski', 'role': 'carry'}

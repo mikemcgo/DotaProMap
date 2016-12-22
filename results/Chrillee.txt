@@ -1,0 +1,1 @@
+{'hero': 'Lone Druid', 'dotabuff': '27738470', 'country': 'Sweden', 'datdota': '197', 'hero2': 'Furion', 'id': 'Chrillee', 'twitter': 'ChrilleeSYLLA', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'hero3': 'Batrider', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Christopher Wåhlin', 'role': 'offlane'}

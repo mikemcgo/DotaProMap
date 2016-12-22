@@ -1,0 +1,1 @@
+{'hero': 'Ember Spirit', 'dotabuff': '186627166', 'country': 'China', 'datdota': '', 'hero2': 'Lycan', 'mmr': '7906', 'mmrdate': '2016-11-30', 'romanized_name': 'Su Lei', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Tiny', 'id': 'Flyby', 'role2': 'support', 'tencent': '', 'team': 'CDEC Gaming', 'name': '苏磊', 'role': 'carry'}

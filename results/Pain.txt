@@ -1,0 +1,1 @@
+{'hero': 'Earth Spirit', 'dotabuff': '182331313', 'hero2': 'Lion', 'mmr': '7556', 'id': 'Pain', 'romanized_name': 'Pan Yi', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-11-30', 'country': 'China', 'birth_date': '', 'ids': '乌龙院, Fade', 'team': 'Vici Gaming Potential', 'name': '潘义', 'role': 'support'}

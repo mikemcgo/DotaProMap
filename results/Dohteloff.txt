@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '94636963', 'country': 'Japan', 'site': '', 'hero2': 'Tinker', 'id': 'Dohteloff', 'youtube': '', 'image': 'Dohte600-2.jpg', 'twitch': '', 'twitter': '', 'hero3': 'Rubick', 'birth_date': '', 'tlprofile': '', 'tlstream': '', 'team': 'DeToNator', 'facebook': '', 'name': '', 'role': 'Carry'}

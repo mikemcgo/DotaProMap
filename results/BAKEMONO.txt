@@ -1,0 +1,1 @@
+{'hero': 'Anti-Mage', 'dotabuff': '171775246', 'country': 'Jordan', 'datdota': '', 'hero2': 'Slark', 'mmr': '7755', 'mmrdate': '2016-10-04', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Ember Spirit', 'id': 'BAKEMONO', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Feras Hroob', 'role': 'carry'}

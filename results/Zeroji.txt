@@ -1,0 +1,1 @@
+{'hero': 'Earthshaker', 'dotabuff': '140746', 'country': 'Sweden', 'datdota': '', 'hero2': 'Rubick', 'id': 'Zeroji', 'twitter': '', 'romanized_name': 'Filip Erlandsson', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Witch Doctor', 'ids': 'zeroji, GoL.zeroji', 'team': '', 'facebook': '', 'role': 'support'}

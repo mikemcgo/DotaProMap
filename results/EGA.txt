@@ -1,0 +1,1 @@
+{'hero': ' Invoker', 'dotabuff': '44039249', 'country2': 'Albania', 'datdota': '4589', 'hero2': ' Lina', 'id': 'EGA', 'twitter': 'egamitna', 'twitch': 'egamitna', 'hero3': ' Lycan', 'ids': 'EGAMITNA', 'country': 'United States', 'name': ' Dardan', 'role': ' Solo Mid, Carry'}

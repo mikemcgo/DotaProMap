@@ -1,0 +1,1 @@
+{'hero': 'Tusk', 'dotabuff': '', 'country': 'United States', 'datdota': '', 'hero2': 'Axe', 'mmr': '6289', 'mmrdate': '2016-07-15', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Venomancer', 'id': 'Jeppins', 'birth_date': '', 'ids': '', 'team': 'Perky Pepperonis', 'facebook': '', 'name': 'Jared Perkin', 'role': 'offlane'}

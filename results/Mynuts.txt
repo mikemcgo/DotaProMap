@@ -1,0 +1,1 @@
+{'hero': 'Tusk', 'dotabuff': '61284613', 'country': 'Sweden', 'datdota': '4710', 'hero2': 'Io', 'id': 'Mynuts', 'twitter': 'MynutsDOTA', 'image': 'Mynuts frankfurt major 2015.jpg', 'status': 'Active', 'hero3': 'Ogre Magi', 'birth_date': '', 'ids': 'Nuts', 'team': '', 'name': 'Johan Andersson', 'role': 'support'}

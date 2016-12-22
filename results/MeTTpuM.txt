@@ -1,0 +1,1 @@
+{'hero': 'Lion', 'dotabuff': '123444610', 'country': 'Russia', 'datdota': '', 'hero2': 'Witch Doctor', 'mmr': '6702', 'mmrdate': '2016-12-18', 'twitter': 'mettpum', 'image': 'MeTTpuM_dota2.jpg', 'status': 'Active', 'hero3': 'Dazzle', 'id': 'MeTTpuM', 'birth_date': '', 'ids': '', 'team': 'GO2OLYMP', 'facebook': '', 'name': 'Daniil Gilev', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': 'Vengeful spirit', 'country': 'Brazil', 'hero2': 'Elder Titan', 'id': 'Sono', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Mirana', 'birth_date': '', 'ids': 'vSw', 'team': 'Team Innova', 'facebook': 'vSw.dota', 'name': 'Victor Weichert', 'role': 'support'}

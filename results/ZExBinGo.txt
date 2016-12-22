@@ -1,0 +1,1 @@
+{'hero': 'batrider', 'dotabuff': '93289364', 'country': 'China', 'datdota': '', 'hero2': 'dark seer', 'mmr': '7378', 'id': 'zExBinGo', 'romanized_name': 'Zeng Cong', 'image': 'BinGo-EHOME.X.jpg', 'status': 'Active', 'hero3': 'clockwerk', 'mmrdate': '2016-12-07', 'birth_date': '', 'ids': 'BinGo', 'team': 'EHOME.X', 'name': '曾聪', 'role': 'offlane'}

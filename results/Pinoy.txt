@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Sweden', 'ids': '', 'hero2': '', 'id': 'PiNoY', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Alexander Pettersson', 'role': ''}

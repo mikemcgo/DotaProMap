@@ -1,0 +1,1 @@
+{'hero': 'Dark Seer', 'country': 'Malaysia', 'datdota': '2165', 'hero2': 'Rubick', 'id': 'xiangzai', 'image': '', 'status': 'Banned', 'hero3': 'Slark', 'ids': 'XiangZai', 'team': '', 'facebook': 'xiang.lolx', 'name': 'Chiok Soon Siang', 'role': 'offlane'}

@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'dotabuff': '107081378', 'country': 'China', 'datdota': '', 'hero2': 'Phoenix', 'mmr': '7689', 'mmrdate': '2016-11-24', 'romanized_name': 'Chen Guanhong', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '1107888450', 'hero3': 'Dazzle', 'id': 'Victoria', 'ids': 'M99_JY', 'team': 'LGD Gaming', 'name': '陈冠宏', 'role': 'support'}

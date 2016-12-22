@@ -1,0 +1,1 @@
+{'hero': 'sven', 'dotabuff': '177416702', 'country': 'China', 'datdota': '7175', 'hero2': 'lycan', 'mmr': '9016', 'mmrdate': '2016-09-28', 'romanized_name': 'Wang Chunyu', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '5695452105', 'hero3': 'juggernaut', 'id': 'Ame', 'ids': '', 'team': 'LGD Gaming', 'name': '王淳煜', 'role': 'carry'}

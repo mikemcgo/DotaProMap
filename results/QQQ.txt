@@ -1,0 +1,1 @@
+{'hero': 'Chen', 'country': 'China', 'hero2': 'Visage', 'id': 'QQQ', 'romanized_name': 'Yao Yi', 'image': 'WIH-QQQ-7JHNL.jpg', 'status': 'Retired', 'hero3': 'Crystal Maiden', 'birth_date': '', 'role2': 'coach', 'ids': '357', 'team': 'LGD.Forever Young', 'name': '姚羿', 'role': 'support'}

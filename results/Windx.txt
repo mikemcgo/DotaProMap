@@ -1,0 +1,1 @@
+{'hero': 'Dazzle', 'dotabuff': '124049453', 'country': 'Russia', 'datdota': '2104', 'hero2': 'Rubick', 'id': 'Windx', 'twitter': '', 'romanized_name': 'Yevgeny Vlasenko', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Enchantress', 'birth_date': '', 'ids': 'Sakura', 'team': 'cascade', 'facebook': '', 'name': 'Евгений Власенко', 'vk': '', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': 'Dazzle', 'dotabuff': '86747351', 'country': 'USA', 'datdota': '483', 'hero2': 'Skywrath Mage', 'mmr': '6237', 'mmrdate': '2016-11-05', 'twitter': 'JSNDota', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Witch Doctor', 'id': 'Jason', 'birth_date': '', 'ids': 'JSNDota, Fun', 'team': 'Doo Wop', 'name': 'Jason Teodosio', 'role': 'support'}

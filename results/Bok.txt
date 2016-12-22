@@ -1,0 +1,1 @@
+{'hero': 'Beastmaster', 'dotabuff': '113874152', 'country': 'Philippines', 'hero2': 'Tidehunter', 'mmr': '7273', 'mmrdate': '2016-06-28', 'twitter': '', 'image': '', 'status': 'Active', 'hero3': 'Axe', 'id': 'Bok', 'birth_date': '', 'ids': 'Bokerino', 'team': '', 'name': 'Jun Kanehara', 'role': 'offlane'}

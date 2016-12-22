@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'country': 'South Korea', 'site': '', 'hero2': 'Wraith King', 'id': 'JesusSt1ck', 'twitter': '', 'image': '', 'twitch': '', 'hero3': 'Elder Titan', 'birth_date': '', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Park Yoon-Soo', 'role': 'support'}

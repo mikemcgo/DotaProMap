@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Brazil', 'ids': '', 'hero2': '', 'id': 'Darky', 'team': 'Luccini', 'image': 'PlayerImagePlaceholder.png', 'name': 'Bruno Vieira', 'role': ''}

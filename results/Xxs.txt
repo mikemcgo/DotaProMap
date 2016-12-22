@@ -1,0 +1,1 @@
+{'hero': 'Tusk', 'dotabuff': '129958758', 'country': 'China', 'datdota': '', 'hero2': 'Night Stalker', 'mmr': '8190', 'id': 'Xxs', 'romanized_name': 'Lin Jing', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Phoenix', 'mmrdate': '2016-11-24', 'tencent': '', 'ids': '', 'team': 'Invictus Gaming', 'name': '林靖', 'role': 'offlane'}

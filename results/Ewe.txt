@@ -1,0 +1,1 @@
+{'hero': 'Faceless Void', 'dotabuff': '164685813', 'country': 'Philippines', 'datdota': '3502', 'hero2': 'Centaur', 'id': 'Ewe', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'team': '', 'name': 'Earlwin Libre ', 'role': 'offlane'}

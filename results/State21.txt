@@ -1,0 +1,1 @@
+{'hero': 'Storm Spirit', 'dotabuff': '93944475', 'country': 'Ukraine', 'hero2': 'Zeus', 'id': 'State21', 'romanized_name': 'Vladislav Galushko', 'image': 'State21.jpg', 'hero3': 'Omniknight', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Владислав Галушко', 'role': 'mid'}

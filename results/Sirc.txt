@@ -1,0 +1,1 @@
+{'hero': 'Shadow Fiend', 'country': 'Philippines', 'datdota': '7155', 'hero2': 'Puck', 'id': 'Sirc', 'twitter': '', 'image': 'Sirc.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'team': 'Skyville', 'name': 'Cris Lachica', 'role': 'mid'}

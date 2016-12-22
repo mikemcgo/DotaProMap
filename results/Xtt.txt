@@ -1,0 +1,1 @@
+{'hero': 'Weaver', 'dotabuff': '111533846', 'country': 'China', 'datdota': '543', 'hero2': 'Lone Druid', 'id': 'Xtt', 'romanized_name': 'Xu Xuntao', 'image': 'PlayerImagePlaceholder.png', 'status': '', 'hero3': 'Dark Seer', 'birth_date': '', 'ids': 'Westbrook', 'stream': 'http://www.douyutv.com/54063', 'team': '', 'name': '许迅涛', 'role': 'offlane'}

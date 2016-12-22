@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Czech Republic', 'ids': '', 'hero2': '', 'id': 'lacek', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Jan Hruza', 'role': ''}

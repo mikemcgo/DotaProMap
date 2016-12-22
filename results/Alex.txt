@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'Germany', 'site': '', 'hero2': '', 'id': 'Alex', 'twitter': 'Alex_dota2', 'fanpage': '', 'image': 'Alex-dh.jpg', 'twitch': '', 'status': 'Retired', 'birth_date': '{{Birth date and age|1991|9|7}}', 'tlprofile': '', 'tlstream': '', 'team': '', 'facebook': 'mouzAlex', 'youtube': '', 'datdota': '136', 'name': 'Alexander Reinhardt ', 'role': 'coach'}

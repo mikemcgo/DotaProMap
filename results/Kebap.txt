@@ -1,0 +1,1 @@
+{'hero': 'Lich', 'dotabuff': '', 'country': 'Germany', 'datdota': '', 'hero2': 'Chen', 'id': 'Kebap', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'hero3': 'Dazzle', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Rene Warner', 'role': 'support'}

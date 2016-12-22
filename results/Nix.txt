@@ -1,0 +1,1 @@
+{'hero': 'Slark', 'dotabuff': '11865327', 'country': 'Russia', 'datdota': '', 'hero2': 'Tinker', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Timbersaw', 'id': 'Nix', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Alexander Levin', 'role': 'mid'}

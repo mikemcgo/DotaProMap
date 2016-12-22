@@ -1,0 +1,1 @@
+{'hero': 'Storm Spirit', 'dotabuff': '75028116', 'country': 'Japan', 'site': '', 'hero2': 'Invoker', 'id': 'Heromu', 'youtube': '', 'image': 'Heromu.jpg', 'twitch': 'heromuu', 'twitter': 'Det_heromu', 'hero3': 'Shadow Fiend', 'birth_date': '', 'tlprofile': '', 'tlstream': '', 'team': 'DeToNator', 'facebook': '', 'name': 'Hiromu Hosoya', 'role': 'Solo Mid, Carry'}

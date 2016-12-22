@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'France', 'datdota': '2335', 'hero2': '', 'id': 'Joraal', 'twitter': 'JoraalDoto', 'image': 'PlayerImagePlaceholder.png', 'hero3': '', 'birth_date': '{{Birth date and age|1993|11|07}}', 'ids': '', 'team': 'Denial eSports', 'name': 'Sullivan Carlotti', 'role': 'carry'}

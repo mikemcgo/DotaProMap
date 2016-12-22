@@ -1,0 +1,1 @@
+{'hero': 'Gyrocopter', 'dotabuff': '244825713', 'country': 'Russia', 'hero2': 'Anti-Mage', 'mmr': '7297', 'id': 'TpoH', 'romanized_name': 'Maxim Vernikov', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Slark', 'mmrdate': '2016-04-09', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Максим Верников', 'role': 'carry'}

@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'United Kingdom', 'site': '', 'hero2': '', 'id': '142', 'twitter': '@142dota', 'image': 'PlayerImagePlaceholder.png', 'twitch': 'viazu', 'hero3': '', 'sponsor': ' ', 'birth_date': '{{Birth date and age|1990|12|19}}', 'ids': 'Viazu, Tuba', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Adam Cooper', 'role': 'Offlane'}

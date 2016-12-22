@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '96708830', 'hero2': '', 'id': 'FzFz', 'image': 'fzfz.png', 'status': 'Active', 'hero3': '', 'country': 'Malaysia', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Cheng Hor Siew', 'role': 'mid'}

@@ -1,0 +1,1 @@
+{'reddit': 'mautdota2', 'country': 'United States', 'site': '', 'id': 'Maut', 'twitter': 'MautDota', 'image': 'Travis.png', 'twitch': 'Mautdota2', 'birth_date': '{{Birth date and age|1990|12|25}}', 'role2': 'observer', 'team': '', 'facebook': 'MautDota2', 'name': 'Travis Bueno', 'role': 'caster'}

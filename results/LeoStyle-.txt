@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '59463394', 'country': 'Peru', 'hero2': '', 'mmr': '7441', 'mmrdate': '2016-12-04', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'id': 'LeoStyle-', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Leonardo Sifuentes ', 'role': 'mid'}

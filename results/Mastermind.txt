@@ -1,0 +1,1 @@
+{'hero': 'invoker', 'dotabuff': '92477990', 'country': 'Bulgaria', 'datdota': '', 'hero2': 'qop', 'mmr': '7263', 'mmrdate': '2016-09-05', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': 'puck', 'id': 'Mastermind', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Ivaylo Petkov', 'role': 'mid'}

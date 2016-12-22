@@ -1,0 +1,1 @@
+{'reddit': 'arrowddz', 'hero': 'Invoker', 'dotabuff': '104963314', 'country': 'Malaysia', 'datdota': '2167', 'hero2': 'Tinker', 'mmr': '8520', 'mmrdate': '2016-10-14', 'other_ids': '', 'image': 'Ddzvinnfiergiveaway.jpg', 'status': 'Banned', 'hero3': 'Brewmaster', 'id': 'ddz', 'team': 'Power Gaming', 'facebook': 'ddzai', 'name': 'Kok Yi Liong', 'role': 'mid'}

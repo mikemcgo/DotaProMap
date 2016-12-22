@@ -1,0 +1,1 @@
+{'hero': 'Meepo', 'dotabuff': '87040694', 'country': 'Mexico', 'datdota': '770', 'hero2': 'Storm Spirit', 'mmr': '7193', 'mmrdate': '2016-11-19', 'image': 'Dota2ifrit.png', 'status': 'Active', 'hero3': 'Ember Spirit', 'id': 'Ifrit', 'team': '', 'facebook': 'pages/Ifrit/407393842756429?fref', 'name': 'Jesús Valencia', 'role': 'mid'}

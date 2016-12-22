@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Argentina', 'ids': '', 'hero2': '', 'id': 'EkToPlazM', 'team': '', 'image': '', 'name': 'Bernardo Martinelli', 'role': ''}

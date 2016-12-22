@@ -1,0 +1,1 @@
+{'hero': 'Tinker', 'dotabuff': '100471531', 'country': 'Thailand', 'hero2': 'Invoker', 'mmr': '7845', 'mmrdate': '2016-12-06', 'romanized_name': 'Anucha Jirawong', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Templar Assassin', 'id': 'Jabz', 'birth_date': '', 'ids': 'Jabbb, Kaneki, NAGATO', 'team': 'Team Faceless', 'facebook': 'Jal3zz', 'role': 'mid'}

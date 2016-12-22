@@ -1,0 +1,1 @@
+{'hero': 'Vengeful Spirit', 'dotabuff': '91443418', 'country': 'Philippines', 'hero2': 'Jakiro', 'mmr': '7115', 'id': 'ninjaboogie', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-11-24', 'country2': 'United States', 'birth_date': '', 'role2': 'captain', 'ids': 'nb', 'team': 'Mineski', 'name': 'Michael Ross Jr.', 'role': 'support'}

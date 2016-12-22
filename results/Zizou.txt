@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Romania', 'ids': '', 'hero2': '', 'id': 'Zizou', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Andrei Zisu', 'role': ''}

@@ -1,0 +1,1 @@
+{'hero': 'Gyrocopter', 'dotabuff': '109758944', 'country': 'China', 'datdota': '3195', 'hero2': 'Storm Spirit', 'mmr': '7111', 'id': 'FaN', 'romanized_name': 'Fan Yixuan', 'image': 'FaN-EHOME.Luminous.jpg', 'status': 'Active', 'hero3': 'Sven', 'mmrdate': '2016-11-30', 'birth_date': '', 'ids': 'BooM', 'team': 'EHOME.Luminous', 'name': '范逸轩', 'role': 'carry'}

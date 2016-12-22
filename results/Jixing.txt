@@ -1,0 +1,1 @@
+{'hero': 'Dark Seer', 'dotabuff': '92590479', 'country': 'China', 'datdota': '', 'hero2': 'Slardar', 'mmr': '7076', 'id': 'Jixing', 'romanized_name': 'Xiao Zihao', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '2361834552', 'hero3': '', 'mmrdate': '2016-11-30', 'ids': '爆炸气', 'team': 'LGD Gaming', 'name': '肖子豪', 'role': 'offlane'}

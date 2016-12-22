@@ -1,0 +1,1 @@
+{'hero': 'Puck', 'dotabuff': '86750050', 'country': 'Argentina', 'hero2': ' Storm Spirit', 'id': 'DDX-', 'twitter': '10ddx', 'image': 'ddx.png', 'status': 'Retired', 'twitch': '10ddx', 'hero3': ' Invoker', 'birth_date': '{{Birth date and age|1990|12|18}}', 'ids': 'Gambeta, DDX-,10', 'team': '', 'facebook': 'ddx.gambEta', 'name': 'Alan Salvati', 'role': 'mid'}

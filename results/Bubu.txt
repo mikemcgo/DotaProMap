@@ -1,0 +1,1 @@
+{'hero3': 'Shadow Shaman', 'hero': 'Visage', 'birth_date': '{{Birth date and age|1993|10|23}}', 'country': 'Indonesia', 'ids': 'bubu:3', 'hero2': 'Skywrath Mage', 'id': 'bubu', 'team': '', 'image': '482675 503102556403486 794636387 n.jpg', 'name': 'Muhammad Damar', 'role': 'Support'}

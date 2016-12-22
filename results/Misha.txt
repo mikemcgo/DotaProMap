@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '90125566', 'country': 'Russia', 'hero2': '', 'mmr': '', 'id': 'Misha', 'twitter': '', 'romanized_name': 'Mihail Agatov', 'image': '', 'status': 'Active', 'twitch': '', 'hero3': '', 'mmrdate': '', 'birth_date': '', 'team': 'Comanche', 'vk': '', 'name': 'Михаил Агатов', 'role': 'support'}

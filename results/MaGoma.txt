@@ -1,0 +1,1 @@
+{'hero': 'tusk', 'dotabuff': '114672220', 'country': 'Germany', 'datdota': '', 'hero2': 'earth spirit', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': 'aa', 'id': 'MaGoma', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Andreas Ramljak', 'role': 'support'}

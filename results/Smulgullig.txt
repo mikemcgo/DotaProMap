@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '65782028', 'datdota': '149', 'hero2': '', 'id': 'smulgullig', 'image': 'PlayerImagePlaceholder.png', 'twitter': 'smulgullig', 'status': 'Inactive', 'hero3': '', 'country': 'Sweden', 'birth_date': '', 'ids': 'smulg', 'team': '', 'name': 'Johan Gidmark', 'role': 'offlane'}

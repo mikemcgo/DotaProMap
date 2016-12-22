@@ -1,0 +1,1 @@
+{'hero': 'Gyrocopter', 'dotabuff': '16769223', 'country': 'France', 'datdota': '59', 'hero2': 'Batrider', 'id': 'PARIS', 'twitter': 'FollowSockshka', 'image': 'Sockshka_2013DHS.jpg', 'status': 'Active', 'hero3': 'Clockwerk', 'birth_date': '{{birth date and age|1992|8|19}}', 'ids': 'Sockshka', 'team': '', 'name': 'Titouan Merloz', 'role': 'carry'}

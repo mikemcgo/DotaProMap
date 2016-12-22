@@ -1,0 +1,1 @@
+{'hero': 'Ogre Magi', 'dotabuff': '205662271', 'country': 'USA', 'site': '', 'hero2': 'Vengeful Spirit', 'mmr': '6178', 'mmrdate': '2016-04-29', 'twitter': 'FROZENdotaa', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Dazzle', 'id': 'fROZEN', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'datdota': '', 'name': 'Ryan Davis', 'role': 'support'}

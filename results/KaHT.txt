@@ -1,0 +1,1 @@
+{'hero': 'Io', 'dotabuff': '105939162', 'vk': 'yesdota2', 'datdota': '', 'hero2': 'Shadow Demon', 'mmr': '7015', 'mmrdate': '2016-09-08', 'twitter': '', 'other_ids': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': 'Earthshaker', 'id': 'KaHT', 'country': 'Russia', 'birth_date': '', 'team': 'Enso', 'name': 'Andrey Shulgin ', 'role': 'support'}

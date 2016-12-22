@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Bulgaria', 'ids': '', 'hero2': '', 'id': 'Kikoni', 'team': 'KomandaMinus', 'image': 'PlayerImagePlaceholder.png', 'name': 'Kiril Minkov', 'role': 'offlane'}

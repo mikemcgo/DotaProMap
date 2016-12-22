@@ -1,0 +1,1 @@
+{'hero': 'Gyrocopter', 'dotabuff': '86724433', 'country': 'Peru', 'datdota': '428', 'hero2': 'Morphling', 'mmr': '7855', 'mmrdate': '2016-10-25', 'image': 'PlayerImagePlaceholder.png', 'status': 'Banned', 'hero3': 'Phantom assassin', 'id': 'i w o', 'birth_date': '', 'ids': 'Iwo, iwobeka', 'team': 'Elite Wolves', 'facebook': 'IwoDotA', 'name': 'Iwo Bejar', 'role': 'carry'}

@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '89166519', 'datdota': '1151', 'hero2': '', 'id': 'PrettyHaw', 'romanized_name': 'Zhao Jiabin', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': '', 'country': 'China', 'ids': '', 'team': 'FTD club A', 'name': '赵嘉彬', 'role': 'support'}

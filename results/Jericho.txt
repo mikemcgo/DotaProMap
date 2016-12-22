@@ -1,0 +1,1 @@
+{'hero': 'Earthshaker', 'dotabuff': '99672424', 'country': 'Peru', 'datdota': '', 'hero2': 'Rubick', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Disruptor', 'id': 'Jericho', 'birth_date': '', 'ids': 'J3R1CHO', 'team': '', 'facebook': '', 'name': 'Diego Rivera', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': 'clockwerk', 'dotabuff': '91191651', 'country': 'Thailand', 'hero2': 'dragon knight', 'mmr': '6206', 'mmrdate': '2016-08-06', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'id': 'aabBAA', 'birth_date': '', 'ids': '', 'team': 'Signature.Trust', 'name': 'Chanon Chiwpreecha', 'role': 'offlane'}

@@ -1,0 +1,1 @@
+{'hero': 'Alchemist', 'dotabuff': '186977347', 'country': 'China', 'hero2': 'queen of pain', 'mmr': '8587', 'id': 'ghost', 'romanized_name': 'Zheng Jie', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'weibo': '', 'hero3': 'juggernaut', 'mmrdate': '2016-11-28', 'tencent': '', 'birth_date': '', 'ids': '', 'team': 'Vici Gaming', 'name': '郑杰', 'role': 'mid'}

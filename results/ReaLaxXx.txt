@@ -1,0 +1,1 @@
+{'hero': 'Broodmother', 'dotabuff': '98609497', 'country': 'Greece', 'datdota': '5382', 'hero2': 'Dark Seer', 'id': 'ReaLaxXx', 'youtube': '', 'romanized_name': 'Nikos Kiazolis', 'image': 'ReaLaxXx DHS 2015.jpg', 'status': 'Active', 'hero3': 'Timbersaw', 'site': '', 'birth_date': '', 'ids': 'Reconstruct', 'team': 'BrooDMotherS', 'name': 'Νίκος Κιαζόλης', 'role': 'offlane'}

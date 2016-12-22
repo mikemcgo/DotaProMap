@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '247607981', 'country': 'China', 'datdota': '', 'hero2': '', 'mmr': '', 'id': 'yxb', 'romanized_name': 'Hu Zhiyi', 'image': 'yxb-EHOME.Luminous.jpg', 'status': 'Active', 'weibo': '', 'hero3': '', 'mmrdate': '', 'tencent': '', 'ids': 'Ainiyo,夜小白', 'team': 'EHOME.Luminous', 'name': '胡志毅', 'role': 'support'}

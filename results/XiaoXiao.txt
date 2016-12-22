@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '133705802', 'country': 'China', 'datdota': '', 'hero2': '', 'mmr': '', 'id': 'XiaoXiao', 'romanized_name': 'Ma Junju', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '', 'birth_date': '', 'ids': 'XiaoXiaoSala', 'team': 'TongFu', 'name': '马骏驹', 'role': 'support'}

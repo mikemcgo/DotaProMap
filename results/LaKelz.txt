@@ -1,0 +1,1 @@
+{'hero': 'Morphling', 'dotabuff': '91191397', 'country': 'Thailand', 'datdota': '246', 'hero2': 'Anti Mage', 'id': 'LaKelz', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Spectre', 'birth_date': '{{birth date and age|1989|10|26}}', 'role2': 'captain', 'ids': 'Lk', 'team': 'Signature.Trust', 'name': 'Pipat Prariyachat', 'role': 'carry'}

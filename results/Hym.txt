@@ -1,0 +1,1 @@
+{'hero': 'earth spirit', 'dotabuff': '135384059', 'country': 'China', 'datdota': '', 'hero2': 'bounty hunter', 'mmr': '7731', 'id': 'Hym', 'romanized_name': 'Xu Zhi', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'lion', 'mmrdate': '2016-11-16', 'tencent': '', 'birth_date': '', 'ids': '', 'team': 'Team VG.J', 'name': '徐帜', 'role': 'support'}

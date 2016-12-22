@@ -1,0 +1,1 @@
+{'hero': 'Enigma', 'dotabuff': '86919603', 'country': 'Brazil', 'datdota': '1221', 'hero2': 'Sand King', 'id': 'Baga', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Doom', 'birth_date': '', 'team': 'T Show', 'facebook': 'Bagadota', 'name': 'Thárcio Medeiros ', 'role': 'support'}

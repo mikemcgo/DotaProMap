@@ -1,0 +1,1 @@
+{'hero': 'Dark Seer', 'dotabuff': '121917409', 'country': 'Malaysia', 'datdota': '', 'hero2': 'Beastmaster', 'mmr': '7411', 'id': 'Wenn', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': 'Clockwerk', 'mmrdate': '2016-08-17', 'ids': '', 'team': '', 'facebook': '', 'name': 'Neng Ee Wooi', 'role': 'offlane'}

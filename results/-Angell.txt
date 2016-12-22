@@ -1,0 +1,1 @@
+{'country': ' Chile', 'site': '', 'id': '-Angell', 'twitter': '', 'fanpage': '', 'image': ' ', 'nicknames': '', 'stream': '', 'tlpdid': '', 'birth_date': ' ', 'race': '', 'ids': 'Angel, -Angell', 'youtube': '', 'sponsor': '', 'team': ' Sad Voids', 'name': ' Miguel Nuñez'}

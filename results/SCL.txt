@@ -1,0 +1,1 @@
+{'hero': 'Earthshaker', 'country': 'Indonesia', 'hero2': 'Bristleback', 'id': 'SCL', 'twitter': '', 'image': 'SCLPP.jpg', 'twitch': '', 'status': 'Active', 'hero3': 'Queen Of Pain', 'ids': '', 'team': '', 'facebook': '', 'name': 'Ruby Gunawan', 'role': 'offlane'}

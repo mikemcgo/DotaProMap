@@ -1,0 +1,1 @@
+{'hero': 'treant', 'dotabuff': '86740536', 'vk': '', 'datdota': '', 'hero2': 'bane', 'mmr': '6739', 'mmrdate': '2016-08-25', 'twitter': '', 'other_ids': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': 'dazzle', 'id': 'Zenigata', 'country': 'Italy', 'birth_date': '', 'team': '', 'name': 'Tilen Simcic', 'role': 'support'}

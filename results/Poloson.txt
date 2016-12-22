@@ -1,0 +1,1 @@
+{'hero': 'Magnus', 'country': 'Singapore', 'datdota': '271&amp;player', 'hero2': 'Puck', 'mmr': '6188', 'mmrdate': '2016-07-15', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Invoker', 'id': 'Poloson', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Wilson Koh Chin Wei', 'role': 'mid'}

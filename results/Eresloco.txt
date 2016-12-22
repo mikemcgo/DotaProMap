@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '102732874', 'country': 'Sweden', 'datdota': '2163', 'hero2': 'Ember Spirit', 'id': 'eresloco', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'hero3': 'Puck', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Tobias Everhorn', 'role': 'mid'}

@@ -1,0 +1,1 @@
+{'hero': 'ember spirit', 'dotabuff': '311360822', 'country': 'Australia', 'hero2': 'morphling', 'mmr': '7814', 'mmrdate': '2016-12-09', 'image': 'AnaOG2016.jpg', 'status': 'Active', 'hero3': 'anti-mage', 'id': 'ana', 'ids': '', 'team': 'OG', 'name': 'Anathan Pham', 'role': 'mid'}

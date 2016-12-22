@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '', 'country': 'Brazil', 'hero2': '', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': '', 'status': 'Active', 'twitch': '', 'hero3': '', 'id': 'FuckinEh', 'birth_date': '', 'ids': '', 'team': 'Midas Club Elite', 'facebook': '', 'name': 'Guilherme Silva', 'role': 'carry'}

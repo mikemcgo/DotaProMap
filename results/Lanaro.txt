@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '94120026', 'country': 'Brazil', 'hero2': 'Storm Spirit', 'mmr': '7757', 'mmrdate': '2016-10-30', 'image': 'LANARO.jpg', 'status': 'Active', 'twitch': 'lanarinho', 'hero3': 'am', 'id': 'Lanaro', 'birth_date': '', 'role2': 'carry', 'ids': 'Lanarinho', 'team': 'VINCE TE IPSUM', 'facebook': 'lanarinho', 'name': 'João Pedro Lanaro', 'role': 'mid'}

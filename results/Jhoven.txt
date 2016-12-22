@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': 'Magnus', 'birth_date': '', 'country': 'Philippines', 'ids': '', 'hero2': '', 'id': 'Jhoven', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Jhoven Pancho', 'role': 'mid'}

@@ -1,0 +1,1 @@
+{'dotabuff': '102250219', 'mmr': '6473', 'mmrdate': '2016-08-06', 'image': '', 'twitter': 'weddingcrashhh', 'status': 'Active', 'id': 'weddingcrash', 'country': 'Singapore', 'ids': '', 'team': '', 'name': 'Wong Wei Quan', 'role': 'mid'}

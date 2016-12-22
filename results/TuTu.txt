@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'China', 'datdota': '532', 'hero2': '', 'id': 'TuTu', 'romanized_name': 'Bai Fan', 'image': 'Tutu.JPG', 'status': 'Retired', 'hero3': '', 'birth_date': '', 'ids': 'AABF', 'team': '', 'name': '白帆', 'role': 'carry'}

@@ -1,0 +1,1 @@
+{'hero': '', 'country': 'Malaysia', 'datdota': '219', 'hero2': '', 'Other_ids': '', 'id': 'Sharky', 'image': 'RaymondSharky.png', 'status': 'Deceased', 'hero3': '', 'birth_date': 'May 10, 1990', 'death_date': '{{death date and age|2014|12|22|1990|05|10}}', 'name': 'Raymond Wong Kie Yong', 'role': 'carry'}

@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'country': 'Australia', 'datdota': '242', 'hero2': 'Ancient Apparition', 'id': 'r1sk', 'twitter': 'r1skAU', 'image': 'r1sk_profile.jpg', 'status': 'Active', 'hero3': 'Lich', 'birth_date': '', 'ids': '', 'team': '', 'name': 'David Arnous', 'role': 'support'}

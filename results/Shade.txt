@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '139822354', 'country': 'China', 'datdota': '', 'hero2': 'queen of pain', 'mmr': '6762', 'mmrdate': '2016-11-24', 'romanized_name': 'Gao Zhenxiong', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'puck', 'id': 'Shade', 'tencent': '', 'team': 'CDEC Gaming', 'name': '高振雄', 'role': 'mid'}

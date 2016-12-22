@@ -1,0 +1,1 @@
+{'hero': 'Slark', 'birth_date': '{{Birth date and age|1995|10|05}}', 'country': 'Australia', 'hero2': 'Ember Spirit', 'id': 'Jellysickle', 'team': 'Freelance', 'image': '', 'name': 'Daniel Novina', 'role': 'mid'}

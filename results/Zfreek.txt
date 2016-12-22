@@ -1,0 +1,1 @@
+{'hero': 'Chen', 'dotabuff': '50828662', 'country': 'United States', 'hero2': 'Enigma', 'id': 'Zfreek', 'twitter': 'coL_zfreek', 'image': 'Zfreek ESL One Manila 2016.jpeg', 'status': 'Active', 'twitch': 'zfreek', 'hero3': 'Io', 'ids': 'Lightning, ZFreeK', 'team': 'compLexity Gaming', 'facebook': 'ZFreek94', 'name': 'Zakari Freedman', 'role': 'support'}

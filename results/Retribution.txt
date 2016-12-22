@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '106204137', 'country': 'Mongolia', 'datdota': '', 'hero2': '', 'mmr': '7287', 'mmrdate': '2016-07-14', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'twitch': '', 'hero3': '', 'id': 'Retribution', 'birth_date': '', 'team': 'The Mongolz', 'facebook': '', 'name': 'Temuulen Amarsaikhan', 'role': 'carry'}

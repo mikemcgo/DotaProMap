@@ -1,0 +1,1 @@
+{'hero': 'Phantom Lancer', 'dotabuff': '100630244', 'country': 'Ukraine', 'hero2': 'Medusa', 'id': 'QwisTa', 'romanized_name': 'Mikhail Ilyashenko', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': '', 'team': 'Enso', 'name': 'Михайло Ілляшенко', 'role': 'carry'}

@@ -1,0 +1,1 @@
+{'hero': 'Crystal Maiden', 'country': 'South Korea', 'site': '', 'hero2': '', 'id': 'pYung', 'twitter': '', 'romanized_name': 'Gwon Pyeong', 'image': 'PlayerImagePlaceholder.png', 'twitch': '', 'hero3': '', 'birth_date': '', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': '권평', 'role': 'support'}

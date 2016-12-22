@@ -1,0 +1,1 @@
+{'hero': 'Alchemist', 'dotabuff': '103099205', 'country': 'Argentina', 'hero2': 'Phantom Lancer', 'mmr': '6574', 'mmrdate': '2016-07-01', 'image': '', 'status': 'Active', 'twitch': '/algodaochin/', 'hero3': 'Morphling', 'id': 'Algodonchin', 'ids': 'Algodon, Algodonchin', 'team': 'Vultur', 'facebook': '/AlGoDonChin/?fref', 'name': 'Julian Palermo', 'role': 'carry'}

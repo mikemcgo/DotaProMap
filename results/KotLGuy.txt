@@ -1,0 +1,1 @@
+{'reddit': 'KOTLGuy', 'country': 'United States', 'site': 'http://www.beyondthesummit.tv', 'id': 'KotLGuy', 'image': 'Kotlguy ti6.jpg', 'twitter': 'KotLguy', 'twitch': 'kotlguy', 'birth_date': '{{Birth date and age|1984|11|16}}', 'role2': 'host', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Dakota Cox', 'role': 'caster'}

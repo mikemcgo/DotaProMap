@@ -1,0 +1,1 @@
+{'hero3': 'Leshrac', 'hero': 'Rubick', 'birth_date': '', 'country': 'Philippines', 'ids': '', 'hero2': 'Keeper of the Light', 'id': 'Gio', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Jose Ramolete', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero': 'puck', 'vk': '', 'country': 'Sweden', 'datdota': '', 'hero2': 'batrider', 'mmr': '7293', 'id': 'Etakaka', 'youtube': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'mirana', 'mmrdate': '2016-10-07', 'birth_date': '', 'ids': 'Eta', 'tlstream': '', 'team': 'IKEA', 'facebook': '', 'name': 'Alexander Lindström ', 'role': 'Mid'}

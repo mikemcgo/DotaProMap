@@ -1,0 +1,1 @@
+{'hero': 'outworld devourer', 'country': 'United States', 'hero2': 'puck', 'mmr': '7333', 'mmrdate': '2016-11-05', 'image': 'PlayerImagePlaceholder.png', 'hero3': 'nyx assassin ', 'id': 'WwD', 'birth_date': '{{birth date and age|1996|1|21}}', 'team': '', 'name': 'Will Davis', 'role': 'mid'}

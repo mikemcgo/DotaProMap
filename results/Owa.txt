@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': 'Nyx Assassin', 'birth_date': '', 'country': 'Philippines', 'ids': '', 'hero2': 'Sand King', 'id': 'Owa', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Joshua Dela Serna', 'role': 'support'}

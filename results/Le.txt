@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'dotabuff': '135726105', 'country': 'China', 'datdota': '3217', 'hero2': 'Io', 'id': 'le', 'twitter': '', 'romanized_name': 'Zhang Xuanhao', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Earthshaker', 'birth_date': '{{Birth date and age|1993|8|8}}', 'ids': 'Happy', 'team': 'Newbee Young', 'name': '张轩昊', 'role': 'support'}

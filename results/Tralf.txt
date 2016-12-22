@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '86828698', 'country': 'Usa', 'datdota': '', 'hero2': '', 'id': 'Tralf', 'twitter': '', 'image': '', 'status': 'Active', 'twitch': '', 'hero3': '', 'site': '', 'birth_date': '', 'youtube': '', 'sponsor': '', 'team': 'END', 'facebook': '', 'name': 'Mark Seidl ', 'role': 'support'}

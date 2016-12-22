@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Sweden', 'ids': '', 'hero2': '', 'id': 'Reesion', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'David Siekas', 'role': ''}

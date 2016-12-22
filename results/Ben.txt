@@ -1,0 +1,1 @@
+{'hero': 'Juggernaut', 'dotabuff': '', 'country': 'Malaysia', 'datdota': '', 'hero2': 'Phantom Lancer', 'id': 'Ben', 'romanized_name': 'Benjamin Yi Cheong Lim', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Slark', 'birth_date': '', 'ids': 'ahbenLIM', 'team': 'Fire Dragoon E-sports', 'role': 'carry'}

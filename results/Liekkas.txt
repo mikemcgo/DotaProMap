@@ -1,0 +1,1 @@
+{'hero': 'Timbersaw', 'dotabuff': '125576983', 'country': 'China', 'datdota': '', 'hero2': 'Faceless Void', 'mmr': '', 'id': 'Liekkas', 'romanized_name': 'Wang Yutian', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Batrider', 'mmrdate': '', 'tencent': '', 'ids': 'Seven, Wyt, 333', 'team': 'FTD Club C', 'name': '王昱添', 'role': 'offlane'}

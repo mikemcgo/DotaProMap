@@ -1,0 +1,1 @@
+{'hero': 'Alchemist', 'dotabuff': '83867257', 'country': 'Slovenia', 'datdota': '', 'hero2': 'Invoker', 'mmr': '7038', 'mmrdate': '2016-09-02', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Ember Spirit', 'id': 'Pingvincek', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Jure Plešej', 'role': 'mid'}

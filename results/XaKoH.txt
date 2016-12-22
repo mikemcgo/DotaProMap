@@ -1,0 +1,1 @@
+{'hero': 'Clockwerk', 'country': 'Russia', 'hero2': 'Batrider', 'mmr': '7241', 'id': 'XaKoH', 'twitter': 'xXaKoHx', 'romanized_name': 'Evgeny Kochetov', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': 'xakoh', 'hero3': 'Slardar', 'mmrdate': '2016-06-28', 'birth_date': '', 'team': 'Comanche', 'vk': 'follow.xakoh', 'name': 'Евгений Кочетов', 'role': 'offlane'}

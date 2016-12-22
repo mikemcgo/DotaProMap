@@ -1,0 +1,1 @@
+{'hero': 'Queen of Pain', 'dotabuff': '136575603', 'country': 'China', 'hero2': 'Invoker', 'mmr': '7219', 'id': 'Waixi', 'romanized_name': 'Yan Chao', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'mmrdate': '2016-11-30', 'birth_date': '{{Birth date and age|1996|11|12}}', 'role2': 'mid', 'ids': 'yc', 'team': 'Brave Heart', 'name': '阎超', 'role': 'carry'}

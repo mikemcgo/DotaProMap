@@ -1,0 +1,1 @@
+{'hero': 'Gyrocopter', 'dotabuff': '130921377', 'country': 'China', 'datdota': '', 'hero2': 'Slark', 'mmr': '7665', 'id': 'destiny', 'romanized_name': 'Huang Hao', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': '', 'mmrdate': '2016-11-30', 'tencent': '', 'ids': 'nai, destiny samaQAQ', 'team': '', 'name': '黄浩', 'role': 'support'}

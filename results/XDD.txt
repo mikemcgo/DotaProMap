@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'dotabuff': '113070925', 'country': 'China', 'datdota': '906', 'hero2': 'Bane', 'id': 'XDD', 'romanized_name': 'Liu Silong', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Nyx', 'birth_date': '', 'ids': '', 'team': '', 'name': '刘思龙', 'role': 'support'}

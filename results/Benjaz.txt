@@ -1,0 +1,1 @@
+{'hero': 'Juggernaut', 'dotabuff': '194521913', 'country': 'Peru', 'hero2': 'Slark', 'mmr': '7945', 'mmrdate': '2016-11-03', 'image': 'Dota2benjaz.jpeg', 'status': 'Active', 'hero3': 'Huskar', 'id': 'Benjaz', 'birth_date': '', 'ids': '', 'team': 'Infamous', 'name': 'Benjamin Lanao Barrios', 'role': 'carry'}

@@ -1,0 +1,1 @@
+{'hero': 'Shadow Shaman', 'country': 'South Korea', 'site': '', 'hero2': '', 'id': 'Sky', 'twitter': '', 'image': 'Sky.jpg', 'twitch': '', 'hero3': '', 'birth_date': '', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Park Yongkyu', 'role': 'support'}

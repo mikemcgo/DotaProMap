@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '113995822', 'country': 'Russia', 'hero2': '', 'mmr': '7208', 'id': 'iLTW', 'twitter': '', 'romanized_name': 'Igor Filatov', 'image': '', 'status': 'Active', 'twitch': '', 'hero3': '', 'mmrdate': '2016-11-25', 'birth_date': '{{Birth date and age|1999|10|29}}', 'team': 'Comanche', 'vk': 'iltwdota', 'name': 'Игорь Филатов', 'role': 'mid'}

@@ -1,0 +1,1 @@
+{'hero3': 'Mirana', 'hero': 'Sand King', 'birth_date': '{{birth date and age|1989|05|08}}', 'country': 'United States', 'ids': 'Bendi', 'hero2': 'Earthshaker', 'id': 'Bkid', 'image': 'Bkid_profile.jpg', 'name': 'Josh Choi', 'status': 'Retired', 'role': 'support'}

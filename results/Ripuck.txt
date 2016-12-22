@@ -1,0 +1,1 @@
+{'hero': 'Dark Seer', 'dotabuff': '173812218', 'datdota': '', 'hero2': 'Slardar', 'mmr': '6551', 'id': 'ripuck', 'romanized_name': 'Zhou Shengchao', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Tusk', 'mmrdate': '2016-10-18', 'country': 'China', 'ids': 'shaker, ukulele', 'team': 'FTD club A', 'name': '周晟超', 'role': 'offlane'}

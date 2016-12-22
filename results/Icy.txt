@@ -1,0 +1,1 @@
+{'hero': 'Earthshaker', 'tencent': 'we_icy__', 'country': 'China', 'datdota': '78', 'hero2': 'Rubick', 'mmr': '6769', 'id': 'Icy', 'romanized_name': 'Wang Peng', 'image': 'Icy-2013.jpg', 'status': 'Active', 'hero3': 'Dazzle', 'mmrdate': '2016-08-06', 'birth_date': '{{Birth date and age|1991|01|24}}', 'ids': '', 'team': '', 'name': '王鹏', 'dotabuff': '120569619', 'role': 'support'}

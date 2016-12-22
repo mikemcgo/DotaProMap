@@ -1,0 +1,1 @@
+{'hero': 'Vengeful Spirit', 'dotabuff': '103729052', 'country': 'China', 'datdota': '', 'hero2': 'Earthshaker', 'mmr': '', 'id': 'MKSos', 'romanized_name': 'Liu Yufeng', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Tusk', 'mmrdate': '', 'tencent': '', 'ids': 'MK, 876', 'team': 'Rampage Gaming', 'name': '刘玉峰', 'role': 'support'}

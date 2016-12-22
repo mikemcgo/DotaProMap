@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Philippines', 'ids': '', 'hero2': '', 'id': 'Yoshi', 'team': 'Ledion DreamZ', 'image': 'PlayerImagePlaceholder.png', 'name': 'Hiroshi Yoshimoto', 'role': '5'}

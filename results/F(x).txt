@@ -1,0 +1,1 @@
+{'hero': 'Crystal Maiden', 'country': 'South Korea', 'site': '', 'hero2': '', 'id': 'f(x)', 'twitter': '', 'image': '5inQ_f(x).jpg', 'twitch': '', 'hero3': '', 'birth_date': '', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': 'Betboys', 'name': '', 'role': 'Carry, Support, Utility'}

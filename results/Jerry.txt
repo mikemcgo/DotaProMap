@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '192319592', 'country': 'Peru', 'hero2': '', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': '', 'id': 'Jerry', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Jerry Isidro  ', 'role': 'support'}

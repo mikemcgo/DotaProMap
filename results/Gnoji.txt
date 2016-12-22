@@ -1,0 +1,1 @@
+{'hero': 'Drow', 'birth_date': '', 'country': 'Philippines', 'hero2': 'Gyrocopter', 'status': 'Active', 'id': 'gnoji', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Ceejay Pelagio', 'ids': '', 'role': 'carry'}

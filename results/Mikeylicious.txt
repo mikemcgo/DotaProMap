@@ -1,0 +1,1 @@
+{'reddit': 'FACEIT_Mikey', 'hero': 'Earth Spirit', 'country': 'Serbia', 'site': 'http://play.faceit.com', 'hero2': 'Sand King', 'id': 'Mikeylicious', 'twitter': 'FACEIT_Mikey', 'twitch': 'Mikeylicious', 'hero3': 'Lion', 'birth_date': '{{Birth date and age|1993|10|01}}', 'tlprofile': '2PMikey', 'team': 'FACEIT.com', 'name': 'Milos Nedeljkovic', 'role': 'Support'}

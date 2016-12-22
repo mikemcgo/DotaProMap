@@ -1,0 +1,1 @@
+{'hero': 'Lion', 'dotabuff': '268411420', 'country': 'Brazil  ', 'datdota': '', 'hero2': 'Shadow Fiend', 'id': 'Sune', 'image': 'Sune.jpg', 'status': 'Active', 'twitch': '', 'hero3': 'Lina', 'azubu': '', 'birth_date': '{{Birth date and age|1991|06|16}}                   ', 'ids': '', 'team': '', 'facebook': 'dota2sune', 'name': 'José Freitas Pereira', 'role': 'mid'}

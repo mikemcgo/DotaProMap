@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '113175114', 'country': 'China', 'datdota': '1149', 'hero2': '', 'id': 'Li', 'romanized_name': 'Peng Li', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': 'Li.-_-!, -_-!\u200e, Sgua_Li', 'team': '', 'name': '彭立', 'role': 'offlane'}

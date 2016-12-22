@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Philippines', 'ids': '', 'hero2': '', 'id': 'Owey', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Joshua dela Cruz', 'role': '3'}

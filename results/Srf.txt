@@ -1,0 +1,1 @@
+{'hero': 'Dark Seer', 'dotabuff': '156662698', 'country': 'China', 'datdota': '', 'hero2': 'Slardar', 'mmr': '8074', 'id': 'Srf', 'romanized_name': 'Sun Runfa', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Axe', 'mmrdate': '2016-11-30', 'tencent': '', 'ids': 'Reol', 'team': 'Vici Gaming Potential', 'name': '孙润发', 'role': 'offlane'}

@@ -1,0 +1,1 @@
+{'hero': 'Tidehunter', 'country': 'Brazil', 'datdota': '473&amp;player', 'hero2': 'centaur', 'id': 'grentxd', 'image': 'PlayerImagePlaceholder.png', 'hero3': 'Batrider', 'birth_date': '', 'team': '', 'facebook': 'grentxd', 'name': 'Mariano Lages\t', 'role': 'Offlane'}

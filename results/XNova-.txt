@@ -1,0 +1,1 @@
+{'hero': 'Night Stalker', 'dotabuff': '94296097', 'country': 'Malaysia', 'hero2': 'Tusk', 'mmr': '6987', 'id': 'xNova-', 'romanized_name': 'Yap Jian Wei', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Visage', 'mmrdate': '2016-11-27', 'ids': '', 'team': 'WarriorsGaming.Unity', 'name': '叶建暐', 'role': 'support'}

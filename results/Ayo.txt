@@ -1,0 +1,1 @@
+{'hero': 'Ancient Apparition', 'dotabuff': '110228930', 'country': 'China', 'datdota': '3741', 'hero2': 'Mirana', 'mmr': '7011', 'id': 'ayo', 'romanized_name': 'Fan Tianyou', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Rubick', 'mmrdate': '2016-11-30', 'tencent': 'fk13771999071', 'team': 'Vici Gaming Potential', 'name': '范天佑', 'role': 'support'}

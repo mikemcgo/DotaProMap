@@ -1,0 +1,1 @@
+{'hero': 'Brewmaster', 'dotabuff': '134566957', 'country': 'USA', 'datdota': '', 'hero2': 'Tidehunter', 'mmr': '7076', 'mmrdate': '2016-11-05', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'hero3': 'Undying', 'id': 'LokarN', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Andy Ordonez', 'role': 'offlane'}

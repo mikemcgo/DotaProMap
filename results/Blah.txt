@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Singapore', 'ids': '', 'hero2': '', 'id': 'Blah', 'team': 'Neolution.int', 'image': 'PlayerImagePlaceholder.png', 'name': 'Teh Yuan Hing', 'role': ''}

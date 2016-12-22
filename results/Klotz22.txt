@@ -1,0 +1,1 @@
+{'hero': 'Weaver', 'dotabuff': '118212190', 'country': 'Brazil', 'hero2': 'Lifestealer', 'id': 'Klotz22', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Luna', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Paulo Nóbrega', 'role': 'carry'}

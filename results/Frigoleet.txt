@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '81150290', 'country': 'Sweden', 'datdota': '201&amp;player', 'hero2': '', 'id': 'Frigoleet ', 'twitter': 'Frigoleet', 'image': 'Frigoleet TeamCoast 2014.jpg', 'hero3': '', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Jesper Göthe', 'role': 'support'}

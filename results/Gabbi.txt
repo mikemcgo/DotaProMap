@@ -1,0 +1,1 @@
+{'hero': 'jugg', 'dotabuff': '152545459', 'country': 'Philippines', 'datdota': '', 'hero2': 'sven', 'mmr': '7121', 'mmrdate': '2016-11-26', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'drow', 'id': 'Gabbi', 'birth_date': '', 'ids': '', 'team': 'Execration', 'name': 'Khim Villafuerte', 'role': 'carry'}

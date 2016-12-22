@@ -1,0 +1,1 @@
+{'hero': 'Juggernaut', 'dotabuff': '113272381', 'country': 'Mongolia', 'datdota': '', 'hero2': 'Tinker', 'mmr': '6614', 'id': 'SANKE', 'twitter': '', 'romanized_name': 'Enkh-Od Nergui', 'image': 'PlayerImagePlaceholder.png', 'twitch': '', 'hero3': 'Mirana', 'mmrdate': '2016-09-02', 'birth_date': '', 'team': 'The Mongolz', 'facebook': '', 'name': 'Энх-Од Нэргүй', 'role': 'mid'}

@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': 'March 25', 'country': 'Singapore', 'ids': '', 'hero2': '', 'id': 'MrKio', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Wei Han Su', 'role': ''}

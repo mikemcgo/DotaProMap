@@ -1,0 +1,1 @@
+{'hero': 'Winter Wyvern', 'dotabuff': '163587550', 'country': 'China', 'hero2': 'Skywrath Mage', 'mmr': '7375', 'id': 'James', 'romanized_name': 'Zhou Yifu ', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Lion', 'mmrdate': '2016-11-30', 'birth_date': '', 'ids': 'Devastating, xiaogongzhu, xy, freedom', 'team': 'FTD club C', 'name': '周一夫', 'role': 'support'}

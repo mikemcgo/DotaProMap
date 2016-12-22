@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '82659961', 'vk': '', 'datdota': '6520', 'hero2': '', 'id': 'At The Speed Of Life', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': '', 'country': 'Serbia', 'birth_date': '', 'ids': 'Justice', 'team': '', 'name': 'Vladimir Stojakovic', 'role': 'mid'}

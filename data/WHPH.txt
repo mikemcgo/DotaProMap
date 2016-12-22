@@ -1,1 +1,29 @@
-[]
+[{{Tabs static
+|name1=Overview
+|link1=WHPH
+|name2=Results
+|link2=WHPH/Results
+|This=1
+}}
+{{Infobox player
+|id=WHPH
+|image=PlayerImagePlaceholder.png
+|name=Dave Aldrin David
+|status=Active
+|role=offlane
+|team=Rave
+|sponsor=
+|ids=
+|country=Philippines
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|stream=
+|twitter=
+|youtube=
+|fanpage=
+|history={{TH|2016-09-08 — '''Present'''|Rave}}
+}}
+
+Dave Aldrin "WHPH" David is a Dota 2 player currently playing for [[Rave]].]

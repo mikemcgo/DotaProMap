@@ -1,0 +1,1 @@
+{'hero': 'Tusk', 'dotabuff': '34322358', 'country': 'Russia', 'datdota': '333', 'hero2': 'Night Stalker', 'id': 'sQreen', 'romanized_name': 'Khaled El-Khabbash', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Spirit Breaker', 'birth_date': '', 'ids': '', 'team': 'GO2OLYMP', 'vk': 'sqreenfanpage', 'name': 'Халед Эль-Хаббаш', 'role': 'support'}

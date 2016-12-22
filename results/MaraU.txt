@@ -1,0 +1,1 @@
+{'reddit': '', 'hero': ' Lich', 'dotabuff': '', 'country': 'Brazil', 'datdota': '', 'hero2': ' Phoenix', 'id': 'MaraU', 'twitter': '', 'fanclub': '', 'tencent': '', 'image': '', 'twitch': '', 'sponsor': '', 'birth_date': '', 'ids': 'Marau, Suport@ndo', 'tlprofile': '', 'tlstream': '', 'team': 'Pleaze Gaming', 'facebook': '', 'name': 'Felipe Marau Soares', 'role': 'support'}

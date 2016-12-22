@@ -1,0 +1,1 @@
+{'hero': 'Chen', 'dotabuff': '8363146', 'country': 'Germany', 'datdota': 'Amoment', 'hero2': 'Dazzle', 'id': 'amoment', 'twitter': 'amomentforever', 'status': 'Active', 'twitch': '', 'hero3': 'Bane', 'ids': '', 'team': 'Samurai Champloo', 'facebook': '', 'name': 'Michael German', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'country': 'Norway', 'site': 'http://aposis.com/', 'id': 'Slovpeis', 'twitter': 'AposisSlovpeis', 'fanpage': '', 'image': 'PlayerImagePlaceholder.png', 'twitch': 'slovpeis', 'nicknames': '', 'birth_date': '{{Birth date and age|1990|09|06}}', 'ids': '', 'youtube': '', 'sponsor': 'Host1.no', 'team': 'Aposis Gaming', 'name': ''}

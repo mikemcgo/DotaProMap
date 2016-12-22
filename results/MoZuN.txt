@@ -1,0 +1,1 @@
+{'hero': 'Rubick', 'dotabuff': '131380551', 'country': 'Malaysia', 'datdota': '2178', 'hero2': 'Dazzle', 'id': ' MoZuN-', 'image': ' ', 'status': 'Banned', 'hero3': 'Enchantress', 'ids': 'MoZuN-', 'team': 'Power Gaming', 'facebook': 'profile.php?id', 'name': 'Goh Choo Jian', 'role': 'support'}

@@ -1,0 +1,1 @@
+{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Singapore', 'ids': '', 'hero2': '', 'id': 'LeiAiSher', 'team': 'Neolution.int', 'image': 'PlayerImagePlaceholder.png', 'name': 'Chester Lum', 'role': ''}

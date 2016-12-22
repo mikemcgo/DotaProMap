@@ -1,0 +1,1 @@
+{'reddit': 'ewic13', 'achievements': '', 'country': 'USA', 'site': 'http://www.TeamLeviathan.com', 'id': 'Shredder', 'youtube': 'TeamLeviathan', 'image': 'Shredder.jpg', 'status': 'Retired', 'twitch': 'shreddersdota', 'birth_date': '', 'twitter': 'shredderdota', 'tlstream': '', 'team': '', 'facebook': '', 'name': 'Eric Sheeder', 'role': 'carry'}

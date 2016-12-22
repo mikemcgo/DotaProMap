@@ -1,0 +1,1 @@
+{'hero': 'Outworld Devourer', 'dotabuff': '177085220', 'country': 'Philippines', 'datdota': '', 'hero2': 'Alchemist', 'mmr': '6491', 'mmrdate': '2016-08-06', 'twitter': '', 'image': '', 'status': 'Active', 'hero3': 'Invoker', 'id': 'Benhur', 'birth_date': '', 'ids': 'Ben', 'team': '', 'facebook': '', 'name': 'Benhur Lawis', 'role': 'mid'}

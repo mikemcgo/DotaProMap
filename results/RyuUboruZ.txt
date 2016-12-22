@@ -1,0 +1,1 @@
+{'hero': 'Pudge', 'country': 'United States', 'datdota': '1220', 'hero2': 'Storm Spirit', 'mmr': '6837', 'id': 'Ryuu', 'twitter': 'RyuuDotA', 'image': 'RyuUboruZ.jpg', 'status': 'Inactive', 'hero3': 'Invoker', 'mmrdate': '2016-07-15', 'role2': 'caster', 'dotabuff': '86743641', 'name': 'Alan Andersen', 'role': 'mid'}

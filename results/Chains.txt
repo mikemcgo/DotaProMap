@@ -1,0 +1,1 @@
+{'hero': 'Tinker', 'country': 'Singapore', 'datdota': '', 'hero2': 'Sniper', 'id': 'Chains', 'twitter': '', 'romanized_name': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': 'Invoker', 'birth_date': '', 'ids': '', 'team': 'SG Rejects', 'vk': '', 'name': 'Wei Sheng Tan', 'role': 'mid'}

@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '192914280', 'country': 'Philippines', 'datdota': '5021', 'hero2': 'Anti-Mage', 'mmr': '7307', 'mmrdate': '2016-11-24', 'image': 'Bimbo frankfurt major 2015.jpg', 'status': 'Active', 'hero3': 'Meepo', 'id': 'Bimbo', 'birth_date': '', 'ids': 'Jay, raging-_-potato, Raging Potato', 'team': 'Mineski', 'name': 'Ryan Jay Qui', 'role': 'mid'}

@@ -1,0 +1,1 @@
+{'hero': '', 'dotabuff': '8591574', 'country': 'Us', 'hero2': '', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': '', 'status': 'Active', 'twitch': '', 'hero3': '', 'id': 'DurpDurp', 'birth_date': '', 'ids': '', 'team': 'Hard Question', 'facebook': '', 'name': 'Erik Kamerling ', 'role': 'support'}

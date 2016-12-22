@@ -1,0 +1,1 @@
+{'hero': 'Queen of Pain', 'dotabuff': '137925613', 'country': 'China', 'datdota': '', 'hero2': 'Shadow Fiend', 'mmr': '6946', 'id': 'qianqian', 'romanized_name': 'Li Wenyao', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'weibo': '', 'hero3': 'Batrider', 'mmrdate': '2016-11-30', 'tencent': '', 'ids': 'qian', 'team': '', 'name': '李文尧', 'role': 'mid'}

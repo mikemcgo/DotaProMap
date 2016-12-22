@@ -1,0 +1,1 @@
+{'hero': 'Invoker', 'dotabuff': '111189717', 'country': 'China', 'datdota': '3742', 'hero2': 'Shadow Fiend', 'mmr': '6941', 'mmrdate': '2016-11-30', 'romanized_name': 'He Yongzheng', 'image': 'Inflame.jpg', 'status': 'Active', 'hero3': 'Queen of Pain', 'id': 'Inflame', 'tencent': 'wange1', 'stream': 'http://www.huomaotv.com/live/634', 'team': '', 'name': '何雍正', 'role': 'mid'}

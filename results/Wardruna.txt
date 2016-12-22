@@ -1,0 +1,1 @@
+{'hero': 'Keeper Of The Light', 'country': 'Bulgaria', 'hero2': 'Dark Seer', 'id': 'Wardruna', 'twitter': '', 'fanpage': '', 'image': '', 'nicknames': 'Wardruna, Sungrief', 'twitch': 'sungrief', 'hero3': 'Furion', 'tlpdid': '', 'race': '', 'ids': 'Wardruna, Sungrief', 'youtube': 'sungrief', 'sponsor': '', 'team': 'Siberian Wild', 'name': 'Wardruna', 'role': 'Support, Off-laner'}

@@ -1,0 +1,1 @@
+{'hero': 'Enchantress', 'dotabuff': '86767849', 'country': 'New Zealand', 'site': '', 'hero2': 'Dazzle', 'id': 'CyNiCaL', 'twitter': '', 'image': 'PFCynical.jpg', 'twitch': '', 'hero3': 'Ancient Apparition', 'birth_date': '', 'ids': 'CyNiCaL-', 'tlprofile': '', 'tlstream': '', 'country2': 'South Korea', 'datdota': '1110', 'name': 'Stephen Jung Dongsuk', 'role': 'support'}

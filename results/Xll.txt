@@ -1,0 +1,1 @@
+{'hero': 'Gyrocopter', 'dotabuff': '182325064', 'country': 'China', 'hero2': 'Queen of Pain', 'mmr': '8259', 'id': 'sss', 'romanized_name': 'Huo Xiaole', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Juggernaut', 'mmrdate': '2016-11-30', 'birth_date': '', 'ids': 'Xll', 'team': 'FTD club C', 'name': '霍晓磊', 'role': 'carry'}

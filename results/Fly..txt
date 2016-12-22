@@ -1,0 +1,1 @@
+{'hero': 'Earthshaker', 'dotabuff': '91981924', 'country': 'United States', 'datdota': '', 'hero2': 'Vengeful Spirit', 'id': 'Fly.', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Witch Doctor', 'country2': 'China', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Yao Linhui', 'role': 'support'}

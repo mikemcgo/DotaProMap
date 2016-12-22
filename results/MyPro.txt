@@ -1,0 +1,1 @@
+{'hero': 'Storm Spirit', 'dotabuff': '101208242', 'country': 'Thailand', 'datdota': '926', 'hero2': 'Queen Of Pain', 'mmr': '7247', 'mmrdate': '2016-11-24', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Windranger', 'id': 'MyPro', 'birth_date': '', 'ids': 'Mypro', 'team': 'Signature.Trust', 'name': 'Kittikorn Inngoen', 'role': 'mid'}

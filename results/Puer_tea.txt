@@ -1,0 +1,1 @@
+{'hero': 'juggernaut', 'dotabuff': '134683396', 'country': 'China', 'datdota': '', 'hero2': 'gyrocopter', 'mmr': '7605', 'mmrdate': '2016-12-07', 'twitter': '', 'romanized_name': 'Xiang Xin', 'image': 'Puer tea-EHOME.X.jpg', 'status': 'Active', 'hero3': 'ursa', 'id': 'Puer tea', 'birth_date': '', 'ids': '', 'team': 'EHOME.X', 'name': '向鑫', 'role': 'carry'}

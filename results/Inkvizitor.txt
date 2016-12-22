@@ -1,0 +1,1 @@
+{'hero': 'Earthshaker', 'dotabuff': '93736444', 'country': 'Russia', 'datdota': '', 'hero2': 'Sand King', 'id': 'Inkvizitor', 'twitter': '', 'romanized_name': 'Sergey Kaluzhniy', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Ancient Apparition', 'ids': 'Inkvizitor', 'team': '', 'facebook': '', 'role': 'support'}

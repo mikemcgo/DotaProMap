@@ -1,0 +1,1 @@
+{'hero': 'Chaos Knight', 'country': 'Russia', 'hero2': 'Puck', 'mmr': '7165', 'mmrdate': '2016-07-16', 'romanized_name': 'Leonard Urich', 'image': 'PlayerImagePlaceholder.png', 'hero3': 'Lion', 'id': 'Massacre', 'birth_date': '{{Birth date and age|1992|02|17}}', 'dotabuff': '68308368', 'vk': 'id186924275', 'name': 'Леонард Урих', 'role': 'mid'}
