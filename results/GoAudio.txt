@@ -1,1 +1,1 @@
-{'hero': '', 'country': 'Sweden', 'hero2': '', 'Other_ids': '', 'id': 'GoAudio', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'twitch': 'goaudio', 'hero3': '', 'birth_date': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Tobi Strand', 'role': 'carry'}
+{'name': 'Tobi Strand', 'history': [('2012-??-??', '2013-01-27', 'Svenhunterz'), ('2013-01-27', '2013-08-29', 'TCM-Gaming'), ('2013-08-30', '2013-10-??', 'aSpera')], 'role': 'carry', 'country': 'Sweden', 'status': 'Inactive', 'image': 'PlayerImagePlaceholder.png', 'id': 'GoAudio', 'twitch': 'goaudio'}

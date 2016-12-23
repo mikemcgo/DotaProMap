@@ -1,1 +1,1 @@
-{'hero': 'Outworld Destroyer', 'country': 'South Korea', 'site': '', 'hero2': '', 'id': 'PLZDunKilme', 'twitter': '', 'image': '5inQ_PLZDunKilme.jpg', 'twitch': '', 'hero3': '', 'birth_date': '', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': '', 'role': 'mid'}
+{'history': [('???', '2014-01-17', '5inQ')], 'hero': 'Outworld Destroyer', 'role': 'mid', 'country': 'South Korea', 'image': '5inQ_PLZDunKilme.jpg', 'id': 'PLZDunKilme'}

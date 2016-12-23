@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'China', 'ids': '', 'hero2': '', 'id': 'Mofi', 'team': '', 'image': '', 'name': 'Rong Yao', 'role': ''}
+{'name': 'Rong Yao', 'history': [('2013-03-21', '2013-07-09', 'RisingStars')], 'id': 'Mofi', 'country': 'China'}

@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': 'November 17', 'country': 'Singapore', 'ids': '', 'hero2': '', 'id': 'Alanter', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Alan Ter', 'role': ''}
+{'name': 'Alan Ter', 'history': [('2013-04-28', '2013-08-17', 'Flash eSports ')], 'country': 'Singapore', 'birth_date': 'November 17', 'image': 'PlayerImagePlaceholder.png', 'id': 'Alanter'}

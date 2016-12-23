@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Czech Republic', 'ids': 'OFFak, offak', 'hero2': '', 'id': 'Offak', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Daniel Gorol', 'role': ''}
+{'name': 'Daniel Gorol', 'history': [('2012-03-21', '2012-09-23', 'SGC'), ('2013-05-15', '2014-??-??', 'iNfernity Gaming ')], 'country': 'Czech Republic', 'image': 'PlayerImagePlaceholder.png', 'id': 'Offak', 'ids': 'OFFak, offak'}

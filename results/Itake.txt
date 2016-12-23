@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Finland', 'ids': '', 'hero2': '', 'id': 'itake', 'team': 'Rat in the dark', 'image': 'PlayerImagePlaceholder.png', 'name': 'Antti Mäkinen', 'role': ''}
+{'name': 'Antti Mäkinen', 'history': [('2013-03-04', '2013-05-??', 'Rat in the dark')], 'team': 'Rat in the dark', 'country': 'Finland', 'image': 'PlayerImagePlaceholder.png', 'id': 'itake'}

@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Czech Republic', 'ids': '', 'hero2': '', 'id': 'profheadshot', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Martin Hála', 'role': ''}
+{'name': 'Martin Hála', 'history': [('2012-03-21', '2012-09-23', 'SGC'), ('2013-05-15', '2014-??-??', 'iNfernity Gaming ')], 'image': 'PlayerImagePlaceholder.png', 'id': 'profheadshot', 'country': 'Czech Republic'}

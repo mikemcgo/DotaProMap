@@ -1,0 +1,1 @@
+{'name': 'Igor Kalnysh', 'history': [('2015-02-11', '2015-??-??', 'eHug'), ('2015-07-02', '2015-??-??', "Champions of Summer's Rift"), ('2015-08-24', '2016-03-26', 'Digital Chaos'), ('2016-03-26', '2016-05-15', 'EverNovaS'), ('2016-05-15', '2016-06-15', 'Views 6')], 'hero': 'Tinker', 'country': 'Russia', 'hero2': 'Morphling', 'image': 'WIH-BEYlT.jpg', 'id': 'Admiration'}

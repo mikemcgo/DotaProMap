@@ -1,1 +1,1 @@
-{'hero': 'Crystal Maiden', 'country': 'South Korea', 'site': '', 'hero2': '', 'id': 'pYung', 'twitter': '', 'romanized_name': 'Gwon Pyeong', 'image': 'PlayerImagePlaceholder.png', 'twitch': '', 'hero3': '', 'birth_date': '', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': '권평', 'role': 'support'}
+{'name': '권평', 'history': [('2013-11-29', '2014-05-04', 'EoT Hammer'), ('2014-05-04', '2014-??-??', 'Rave')], 'romanized_name': 'Gwon Pyeong', 'role': 'support', 'country': 'South Korea', 'hero': 'Crystal Maiden', 'image': 'PlayerImagePlaceholder.png', 'id': 'pYung'}

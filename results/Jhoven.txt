@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': 'Magnus', 'birth_date': '', 'country': 'Philippines', 'ids': '', 'hero2': '', 'id': 'Jhoven', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Jhoven Pancho', 'role': 'mid'}
+{'name': 'Jhoven Pancho', 'history': [('2013-03-??', '????-??-??', 'Mineski'), ('2014-08-14', '2014-10-16', 'Mineski')], 'hero': 'Magnus', 'role': 'mid', 'country': 'Philippines', 'image': 'PlayerImagePlaceholder.png', 'id': 'Jhoven'}

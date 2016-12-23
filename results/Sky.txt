@@ -1,1 +1,1 @@
-{'hero': 'Shadow Shaman', 'country': 'South Korea', 'site': '', 'hero2': '', 'id': 'Sky', 'twitter': '', 'image': 'Sky.jpg', 'twitch': '', 'hero3': '', 'birth_date': '', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Park Yongkyu', 'role': 'support'}
+{'name': 'Park Yongkyu', 'history': [('2014-04-27', '2015-??-??', 'Pokerface')], 'hero': 'Shadow Shaman', 'role': 'support', 'country': 'South Korea', 'image': 'Sky.jpg', 'id': 'Sky'}

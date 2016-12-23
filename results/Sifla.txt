@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Finland', 'ids': '', 'hero2': '', 'id': 'Sifla', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Olli Vidberg', 'role': ''}
+{'name': 'Olli Vidberg', 'history': [('2012-??-??', '2013-07-17', 'Rat in the dark'), ('2013-07-17', '2014-01-01', 'Team Menace.fi')], 'image': 'PlayerImagePlaceholder.png', 'id': 'Sifla', 'country': 'Finland'}

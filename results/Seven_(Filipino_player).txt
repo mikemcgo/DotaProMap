@@ -1,1 +1,1 @@
-{'hero': 'Vengeful_Spirit', 'country': 'Philippines', 'hero2': 'Earthshaker', 'id': 'Seven', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Witch_Doctor', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Jhonel Jay Maguddayao', 'role': 'support'}
+{'name': 'Jhonel Jay Maguddayao', 'history': [('2015-01-22', '2015-08-21', 'TnC Gaming')], 'hero': 'Vengeful_Spirit', 'role': 'support', 'country': 'Philippines', 'status': 'Active', 'hero3': 'Witch_Doctor', 'hero2': 'Earthshaker', 'image': 'PlayerImagePlaceholder.png', 'id': 'Seven'}

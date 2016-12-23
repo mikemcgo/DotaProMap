@@ -1,1 +1,1 @@
-{'hero': '', 'dotabuff': '211531481', 'country': 'Philippines', 'datdota': '', 'hero2': '', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': '', 'id': 'Ab1ng', 'birth_date': '', 'ids': '', 'team': 'Rave', 'facebook': '', 'name': 'Avelino Parungao', 'role': 'carry'}
+{'name': 'Avelino Parungao', 'country': 'Philippines', 'role': 'carry', 'team': 'Rave', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'history': [], 'id': 'Ab1ng', 'dotabuff': '211531481'}

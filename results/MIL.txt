@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Argentina', 'ids': '', 'hero2': '', 'id': 'MIL', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Milton Peña', 'role': ''}
+{'name': 'Milton Peña', 'history': [('2013-05-20 ', '2014-01-10', 'paiN Gaming ')], 'image': 'PlayerImagePlaceholder.png', 'id': 'MIL', 'country': 'Argentina'}

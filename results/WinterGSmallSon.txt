@@ -1,1 +1,1 @@
-{'hero': '', 'dotabuff': '', 'country': 'Philippines', 'datdota': '', 'hero2': '', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': '', 'id': 'WinterGSmallSon', 'birth_date': '', 'ids': '', 'team': 'Rave', 'facebook': '', 'name': 'Gio De Ocampo ', 'role': 'support'}
+{'name': 'Gio De Ocampo ', 'country': 'Philippines', 'role': 'support', 'team': 'Rave', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'history': [], 'id': 'WinterGSmallSon'}

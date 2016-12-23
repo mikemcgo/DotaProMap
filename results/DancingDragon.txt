@@ -1,1 +1,1 @@
-{'country': 'Sweden', 'datdota': '', 'id': 'DancingDragon', 'youtube': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'vk': '', 'birth_date': '', 'ids': 'DancingDragon', 'tlstream': '', 'team': 'IKEA', 'facebook': '', 'name': 'Josef Bernhardsson ', 'role': 'Support'}
+{'name': 'Josef Bernhardsson ', 'history': [('2016-09-13', "'''Present'''", 'IKEA')], 'ids': 'DancingDragon', 'team': 'IKEA', 'country': 'Sweden', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'id': 'DancingDragon', 'role': 'Support'}

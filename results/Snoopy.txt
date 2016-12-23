@@ -1,1 +1,1 @@
-{'hero': '', 'country': 'Australia', 'hero2': '', 'id': 'Snoopy', 'image': 'WIH-Snoopey-FaLSe.jpg', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Trong Truong', 'role': 'support'}
+{'name': 'Trong Truong', 'history': [('2011-11-02', '2012-01-21', 'Natural 9'), ('2012-01-21', '2012-08-09', 'Absolute Legends'), ('2012-09-08', '2013-02-11', 'Natural 9')], 'role': 'support', 'country': 'Australia', 'status': 'Active', 'image': 'WIH-Snoopey-FaLSe.jpg', 'id': 'Snoopy'}

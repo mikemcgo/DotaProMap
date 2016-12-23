@@ -1,1 +1,1 @@
-{'hero3': 'Earthshaker', 'hero': 'Rubick', 'country': 'Serbia', 'hero2': 'Vengeful Spirit', 'ids': 'El Doctore', 'id': 'Fany', 'team': 'Dream Destroyers', 'image': 'PlayerImagePlaceholder.png', 'name': 'Nikola Radisavljevic', 'role': 'Support'}
+{'name': 'Nikola Radisavljevic', 'history': [('2014-08-26', '2014-09-??', 'Dream Destroyers')], 'hero': 'Rubick', 'country': 'Serbia', 'team': 'Dream Destroyers', 'role': 'Support', 'hero3': 'Earthshaker', 'hero2': 'Vengeful Spirit', 'image': 'PlayerImagePlaceholder.png', 'id': 'Fany', 'ids': 'El Doctore'}

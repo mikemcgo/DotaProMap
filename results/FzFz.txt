@@ -1,1 +1,1 @@
-{'hero': '', 'dotabuff': '96708830', 'hero2': '', 'id': 'FzFz', 'image': 'fzfz.png', 'status': 'Active', 'hero3': '', 'country': 'Malaysia', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Cheng Hor Siew', 'role': 'mid'}
+{'name': 'Cheng Hor Siew', 'history': [('2013-03-07', '2013-03-13', 'ABC'), ('2013-03-13', '201?-??-??', 'MUFC '), ('201?-??-??', '2015-04-02', 'Invasion e-Sports'), ('2015-04-02', '2016-??-??', 'Underminer')], 'role': 'mid', 'country': 'Malaysia', 'status': 'Active', 'image': 'fzfz.png', 'id': 'FzFz', 'dotabuff': '96708830'}

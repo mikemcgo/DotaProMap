@@ -1,0 +1,1 @@
+{'youtube': 'dotaland', 'history': [('2016-06-10', "'''Present'''", 'Comanche')], 'image': 'AutumnWindz.jpg', 'twitter': 'Dotaland', 'birth_date': ' ', 'status': 'Active', 'ids': 'Josh, Joshua', 'name': 'Joshua Lee', 'site': 'https://dotaland.net/', 'country': 'China', 'reddit': 'AutumnWindz', 'id': 'AutumnWindz'}

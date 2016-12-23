@@ -1,1 +1,1 @@
-{'country': 'Sweden', 'datdota': '', 'id': 'Ash', 'youtube': '', 'twitter': 'AshDota2', 'twitch': '', 'vk': '', 'birth_date': '', 'image': 'PlayerImagePlaceholder.png', 'tlstream': '', 'team': '', 'facebook': '', 'role': 'Carry', 'name': 'Kevin Zetterlind', 'dotabuff': '87557623'}
+{'name': 'Kevin Zetterlind', 'history': [('2015-10-17', '2015-12-01', 'Ancient Warriors'), ('2015-12-16', '2016-01-13', 'COOKISS')], 'role': 'Carry', 'country': 'Sweden', 'twitter': 'AshDota2', 'image': 'PlayerImagePlaceholder.png', 'id': 'Ash', 'dotabuff': '87557623'}

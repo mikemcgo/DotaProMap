@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Czech Republic', 'ids': '', 'hero2': '', 'id': 'lacek', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Jan Hruza', 'role': ''}
+{'name': 'Jan Hruza', 'history': [('2012-03-21', '2012-09-23', 'SGC')], 'image': 'PlayerImagePlaceholder.png', 'id': 'lacek', 'country': 'Czech Republic'}

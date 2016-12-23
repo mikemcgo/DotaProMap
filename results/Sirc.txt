@@ -1,1 +1,1 @@
-{'hero': 'Shadow Fiend', 'country': 'Philippines', 'datdota': '7155', 'hero2': 'Puck', 'id': 'Sirc', 'twitter': '', 'image': 'Sirc.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'team': 'Skyville', 'name': 'Cris Lachica', 'role': 'mid'}
+{'name': 'Cris Lachica', 'country': 'Philippines', 'hero': 'Shadow Fiend', 'role': 'mid', 'team': 'Skyville', 'status': 'Active', 'hero2': 'Puck', 'image': 'Sirc.png', 'datdota': '7155', 'id': 'Sirc', 'history': [('2015-09-20', '2015-10-?? ', 'Execration'), ('2016-07-22 ', "'''Present'''", 'Skyville')]}

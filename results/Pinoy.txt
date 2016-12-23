@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Sweden', 'ids': '', 'hero2': '', 'id': 'PiNoY', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Alexander Pettersson', 'role': ''}
+{'name': 'Alexander Pettersson', 'history': [('2012-02-02', '2012-03-02', 'Counter Logic Gaming'), ('2012-03-18', '2012-??-??', 'Keita Gaming'), ('2012-09-12', '2012-10-18', 'Skånes Elit'), ('2012-10-18', '2013-01-07', 'Pulse eSports')], 'image': 'PlayerImagePlaceholder.png', 'id': 'PiNoY', 'country': 'Sweden'}

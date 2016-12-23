@@ -1,1 +1,1 @@
-{'country': 'South Africa', 'site': '', 'id': 'Basskip', 'image': 'Basskip.jpg', 'twitter': 'Basskip', 'twitch': '', '&lt;!-- tlpdid': '1361--&gt;', 'birth_date': '{{Birth date and age|1993|05|09}}', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Cameron Scott'}
+{'name': 'Cameron Scott', 'history': [], 'country': 'South Africa', 'twitter': 'Basskip', '&lt;!-- tlpdid': '1361--&gt;', 'birth_date': '{{Birth date and age|1993|05|09}}', 'image': 'Basskip.jpg', 'id': 'Basskip'}

@@ -1,1 +1,1 @@
-{'nicknames': '', 'country': 'Philippines', 'site': '', 'id': 'Kevz', 'twitter': '', 'fanpage': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'stream': '', 'tlpdid': '', 'birth_date': ' ', 'ids': '', 'youtube': '', 'sponsor': '', 'team': 'Rave', 'name': 'Kevin Edquilan', 'role': 'mid'}
+{'name': 'Kevin Edquilan', 'country': 'Philippines', 'role': 'mid', 'team': 'Rave', 'status': 'Active', 'birth_date': ' ', 'image': 'PlayerImagePlaceholder.png', 'history': [('2014-08-13', '2016-09-08', 'Skyville'), ('2016-09-08', "'''Present'''", 'Rave')], 'id': 'Kevz'}

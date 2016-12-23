@@ -1,1 +1,1 @@
-{'hero': '', 'country': 'Netherlands', 'hero2': '', 'id': 'Dutch_Freak', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'hero3': '', 'birth_date': '', 'ids': '', 'team': '', 'name': 'Hugo Bos', 'role': 'support'}
+{'name': 'Hugo Bos', 'history': [('2011', '2012', 'LowLandLions'), ('2012-10-31', '2013-01-19', 'mTw'), ('2013-01-19', '2013-02-26', 'Re-defining Madness ')], 'role': 'support', 'country': 'Netherlands', 'status': 'Inactive', 'image': 'PlayerImagePlaceholder.png', 'id': 'Dutch_Freak'}

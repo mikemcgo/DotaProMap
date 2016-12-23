@@ -1,1 +1,1 @@
-{'hero': '', 'country': 'Germany', 'site': '', 'hero2': '', 'id': 'Crydasia', 'twitter': '', 'fanpage': '', 'image': 'Cryasia-dh.jpg', 'twitch': '', 'team': '', 'tlstream': '', 'tlprofile': '', 'youtube': '', 'name': 'David Landmesser ', 'role': ''}
+{'name': 'David Landmesser ', 'history': [('2012-??-??', '2012-11-13', 'WhA'), ('2012-11-13', '2012-11-16', 'H2k'), ('2012-11-16', '2013-01-03', 'WhA')], 'image': 'Cryasia-dh.jpg', 'id': 'Crydasia', 'country': 'Germany'}

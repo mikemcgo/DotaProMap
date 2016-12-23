@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': 'Storm Spirit', 'birth_date': '', 'country': 'Czech Republic', 'ids': '', 'hero2': 'Shadow Fiend', 'id': 'craNich', 'team': '', 'image': 'MJbMJ1gUYSs.jpg', 'name': 'Petr Meluzin', 'role': 'mid'}
+{'name': 'Petr Meluzin', 'history': [('2012-03-21', '2012-09-23', 'SGC'), ('2013-05-15', '2014-06-27', 'iNfernity Gaming'), ('2014-09-19', '2015-04-26', 'Futile '), ('2015-04-26', '2015-??-??', 'Epidemic!')], 'hero': 'Storm Spirit', 'role': 'mid', 'country': 'Czech Republic', 'hero2': 'Shadow Fiend', 'image': 'MJbMJ1gUYSs.jpg', 'id': 'craNich'}

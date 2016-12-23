@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Singapore', 'ids': '', 'hero2': '', 'id': 'Hachiko', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Shawn Ng', 'role': ''}
+{'name': 'Shawn Ng', 'history': [('2013-01-09', '2013-??-??', 'Neolution.int ')], 'image': 'PlayerImagePlaceholder.png', 'id': 'Hachiko', 'country': 'Singapore'}

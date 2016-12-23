@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Argentina', 'ids': '', 'hero2': '', 'id': 'zurdo', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Rodrigo Lorenzatto', 'role': ''}
+{'name': 'Rodrigo Lorenzatto', 'history': [('2013-05-20 ', '2014-01-10', 'paiN Gaming ')], 'image': 'PlayerImagePlaceholder.png', 'id': 'zurdo', 'country': 'Argentina'}

@@ -1,1 +1,1 @@
-{'country': 'Argentina', 'site': 'http://dota-academy.com/', 'id': 'Bruno', 'image': 'Bruno.jpg', 'twitter': 'StatsmanBruno', 'twitch': 'thegdstudio', 'birth_date': '', 'ids': 'Statsman, Wicked', 'tlprofile': '', 'tlstream': 'thegdstudio', 'team': '', 'name': 'Bruno Carlucci ', 'role': 'analyst'}
+{'name': 'Bruno Carlucci ', 'history': [], 'site': 'http://dota-academy.com/', 'role': 'analyst', 'twitch': 'thegdstudio', 'country': 'Argentina', 'twitter': 'StatsmanBruno', 'image': 'Bruno.jpg', 'tlstream': 'thegdstudio', 'id': 'Bruno', 'ids': 'Statsman, Wicked'}

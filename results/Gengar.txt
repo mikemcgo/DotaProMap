@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Argentina', 'ids': '', 'hero2': '', 'id': 'Gengar', 'team': '', 'image': '', 'name': 'Matias Kees', 'role': ''}
+{'name': 'Matias Kees', 'history': [('2013-05-20 ', '2014-01-10', 'paiN Gaming ')], 'id': 'Gengar', 'country': 'Argentina'}

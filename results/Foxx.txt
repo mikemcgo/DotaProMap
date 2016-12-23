@@ -1,1 +1,1 @@
-{'hero': 'Razor', 'dotabuff': '92704330', 'country': 'Philippines', 'datdota': '282', 'hero2': 'Weaver', 'id': 'Foxx', 'image': 'FoxxxNew.png', 'twitter': 'XctNfoxx', 'hero3': '', 'birth_date': '', 'team': '', 'name': 'Jeffrey Fortunato ', 'role': 'Carry'}
+{'name': 'Jeffrey Fortunato ', 'history': [('2014-06-01', '2015-11-?? ', 'Execration')], 'hero': 'Razor', 'role': 'Carry', 'country': 'Philippines', 'twitter': 'XctNfoxx', 'hero2': 'Weaver', 'image': 'FoxxxNew.png', 'datdota': '282', 'id': 'Foxx', 'dotabuff': '92704330'}

@@ -17,7 +17,7 @@
 |tlpdid=
 |birth_date= 
 |nicknames=JJ
-|ask.fm=PimpmuckL
+|askfm=PimpmuckL
 |dotabuff=21867523
 |twitch=pimpmuckl
 |hitbox=pimpmuckl

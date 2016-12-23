@@ -1,1 +1,1 @@
-{'hero': 'Drow', 'birth_date': '', 'country': 'Philippines', 'hero2': 'Gyrocopter', 'status': 'Active', 'id': 'gnoji', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Ceejay Pelagio', 'ids': '', 'role': 'carry'}
+{'name': 'Ceejay Pelagio', 'history': [('2015-01-22', '2015-10-??', 'TnC Gaming')], 'hero': 'Drow', 'role': 'carry', 'country': 'Philippines', 'status': 'Active', 'hero2': 'Gyrocopter', 'image': 'PlayerImagePlaceholder.png', 'id': 'gnoji'}

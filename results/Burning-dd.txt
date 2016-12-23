@@ -1,1 +1,1 @@
-{'hero3': 'Ember Spirit', 'hero': 'Shadow Fiend', 'birth_date': '', 'country': 'China', 'hero2': 'Slark', 'id': 'burning-dd', 'team': 'Tongfu.NA', 'image': 'PlayerImagePlaceholder.png', 'name': 'Zhao Jundi', 'role': 'Carry'}
+{'name': 'Zhao Jundi', 'history': [('2015-02-25', "'''Present'''", 'Tongfu.NA')], 'hero': 'Shadow Fiend', 'team': 'Tongfu.NA', 'country': 'China', 'hero3': 'Ember Spirit', 'hero2': 'Slark', 'image': 'PlayerImagePlaceholder.png', 'id': 'burning-dd', 'role': 'Carry'}

@@ -1,1 +1,1 @@
-{'hero': 'Witch Doctor', 'country': 'Singapore', 'site': '', 'hero2': 'Bane', 'id': 'Kqt', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': 'Vengeful Spirit', 'birth_date': '{{birth date and age|1990|11|3}}', 'team': '', 'name': 'Kash Lagad', 'role': 'support'}
+{'name': 'Kash Lagad', 'history': [], 'hero': 'Witch Doctor', 'role': 'support', 'country': 'Singapore', 'status': 'Active', 'hero3': 'Vengeful Spirit', 'hero2': 'Bane', 'birth_date': '{{birth date and age|1990|11|3}}', 'image': 'PlayerImagePlaceholder.png', 'id': 'Kqt'}

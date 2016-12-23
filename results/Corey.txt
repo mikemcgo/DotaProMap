@@ -1,1 +1,1 @@
-{'hero': ' Morphling', 'country': 'USA', 'hero2': ' Slark', 'id': 'Corey', 'image': 'PlayerImagePlaceholder.png', 'status': 'Inactive', 'hero3': 'mirana', 'birth_date': '', 'ids': '', 'team': '', 'name': ' Corey Wright', 'role': 'carry'}
+{'name': ' Corey Wright', 'history': [('????-??-??', '2014-01-03', 'Stay Free'), ('2014-01-03', '2015-01-13', 'Team Zephyr')], 'hero': ' Morphling', 'role': 'carry', 'country': 'USA', 'status': 'Inactive', 'hero3': 'mirana', 'hero2': ' Slark', 'image': 'PlayerImagePlaceholder.png', 'id': 'Corey'}

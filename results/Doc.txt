@@ -1,1 +1,1 @@
-{'hero': 'Weaver', 'country': 'Philippines', 'datdota': '1012', 'hero2': 'Brewmaster', 'id': 'Doc', 'image': 'XctNDoc.jpg', 'twitter': '', 'hero3': '', 'birth_date': '', 'team': '', 'name': 'Angelo Docosin', 'role': 'Carry'}
+{'name': 'Angelo Docosin', 'history': [('2014-??-??', '2014-11-04', 'Skyville'), ('2014-11-04', '2015-01-01', 'Execration')], 'hero': 'Weaver', 'role': 'Carry', 'country': 'Philippines', 'hero2': 'Brewmaster', 'image': 'XctNDoc.jpg', 'datdota': '1012', 'id': 'Doc'}

@@ -1,1 +1,1 @@
-{'hero': '', 'dotabuff': '254013249', 'country': 'China', 'datdota': '', 'hero2': '', 'mmr': '', 'id': 'noble', 'romanized_name': 'Lan Gaochong', 'image': 'PlayerImagePlaceholder.png', 'status': '', 'weibo': '', 'hero3': '', 'mmrdate': '', 'tencent': '', 'ids': '02goddess', 'team': '', 'name': '兰高崇', 'role': 'support'}
+{'name': '兰高崇', 'history': [('2016-03-15', '2016-05-??', 'FTD Club C')], 'dotabuff': '254013249', 'romanized_name': 'Lan Gaochong', 'role': 'support', 'country': 'China', 'image': 'PlayerImagePlaceholder.png', 'id': 'noble', 'ids': '02goddess'}

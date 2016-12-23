@@ -1,1 +1,1 @@
-{'hero': '', 'country': 'South Korea', 'site': '', 'hero2': '', 'id': 'AdaM', 'twitter': '', 'image': 'MVP_AdaM.jpg', 'twitch': '', 'hero3': '', 'birth_date': '', 'ids': '', 'tlprofile': '', 'tlstream': '', 'team': '', 'name': 'Kim Yun Sik ', 'role': ''}
+{'name': 'Kim Yun Sik ', 'history': [('2013-11-29', '2014-01-14', 'MVP')], 'image': 'MVP_AdaM.jpg', 'id': 'AdaM', 'country': 'South Korea'}

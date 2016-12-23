@@ -1,1 +1,1 @@
-{'country': ' Chile', 'site': '', 'id': 'kErUbA ', 'twitter': '', 'fanpage': '', 'image': ' ', 'nicknames': '', 'stream': '', 'tlpdid': '', 'birth_date': ' ', 'race': '', 'ids': 'kErUbA', 'youtube': '', 'sponsor': '', 'team': ' Sad Voids', 'name': ' Alan Manríquez', 'role': 'mid'}
+{'name': ' Alan Manríquez', 'history': [('2014-??-??', '2014-12-13', "Immortal Fire GamingTH|2014-12-14 — '''Present'''|Sad Voids")], 'country': ' Chile', 'team': ' Sad Voids', 'role': 'mid', 'birth_date': ' ', 'image': ' ', 'id': 'kErUbA ', 'ids': 'kErUbA'}

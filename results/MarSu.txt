@@ -1,1 +1,1 @@
-{'hero3': 'Bounty Hunter', 'hero': 'Viper', 'birth_date': '{{Birth date and age|1989|07|01}} ', 'country': 'France', 'hero2': 'Dazzle', 'id': 'marSu', 'team': 'Sigma.fr', 'image': 'PlayerImagePlaceholder.png', 'name': 'Charlie Lelievre', 'role': 'offlane'}
+{'name': 'Charlie Lelievre', 'country': 'France', 'hero': 'Viper', 'role': 'offlane', 'team': 'Sigma.fr', 'hero3': 'Bounty Hunter', 'hero2': 'Dazzle', 'birth_date': '{{Birth date and age|1989|07|01}} ', 'image': 'PlayerImagePlaceholder.png', 'history': [], 'id': 'marSu'}

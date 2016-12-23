@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': 'November 29', 'country': 'Singapore', 'ids': '', 'hero2': '', 'id': 'Bouncy', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Zhi Ren Lin', 'role': ''}
+{'name': 'Zhi Ren Lin', 'history': [('2013-04-28', '2013-08-17', 'Flash eSports ')], 'country': 'Singapore', 'birth_date': 'November 29', 'image': 'PlayerImagePlaceholder.png', 'id': 'Bouncy'}

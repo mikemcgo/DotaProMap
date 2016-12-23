@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': 'Juggernaut', 'birth_date': '', 'country': 'Philippines', 'ids': '', 'hero2': 'Alchemist', 'id': 'Yani', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Raniel Ogdol', 'role': '1/2/3'}
+{'name': 'Raniel Ogdol', 'history': [('2013-02', '2013-05-29', 'Mineski')], 'hero': 'Juggernaut', 'role': '1/2/3', 'country': 'Philippines', 'hero2': 'Alchemist', 'image': 'PlayerImagePlaceholder.png', 'id': 'Yani'}

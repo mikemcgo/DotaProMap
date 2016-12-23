@@ -1,1 +1,1 @@
-{'hero': 'Leshrac', 'country': 'Singapore', 'hero2': '', 'id': 'Lubby', 'romanized_name': 'Chan Jun Jie', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'hero3': '', 'birth_date': '', 'ids': '', 'team': 'First Departure', 'role': 'support'}
+{'hero': 'Leshrac', 'country': 'Singapore', 'romanized_name': 'Chan Jun Jie', 'role': 'support', 'team': 'First Departure', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'history': [('2012-10-03', '2013-05-27', 'First Departure'), ('2014-08-10', "'''Present'''", 'First Departure')], 'id': 'Lubby'}

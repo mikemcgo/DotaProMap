@@ -1,1 +1,1 @@
-{'hero': '', 'dotabuff': '192319592', 'country': 'Peru', 'hero2': '', 'mmr': '', 'mmrdate': '', 'twitter': '', 'image': 'PlayerImagePlaceholder.png', 'status': 'Active', 'twitch': '', 'hero3': '', 'id': 'Jerry', 'birth_date': '', 'ids': '', 'team': '', 'facebook': '', 'name': 'Jerry Isidro  ', 'role': 'support'}
+{'name': 'Jerry Isidro  ', 'history': [('2015-12-07', '2016-??-??', 'Not Today'), ('2016-09-15', '2016-12-14', 'Not Today')], 'role': 'support', 'country': 'Peru', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'id': 'Jerry', 'dotabuff': '192319592'}

@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Philippines', 'ids': '', 'hero2': '', 'id': 'LA', 'team': '', 'image': 'PlayerImagePlaceholder.png', 'name': 'Lloyd Alfred', 'role': 'mid'}
+{'name': 'Lloyd Alfred', 'history': [('2013-01-28', '2013-06-07', 'Ledion DreamZ')], 'role': 'mid', 'country': 'Philippines', 'image': 'PlayerImagePlaceholder.png', 'id': 'LA'}

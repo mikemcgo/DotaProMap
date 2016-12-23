@@ -1,0 +1,1 @@
+{'youtube': 'dotacinema', 'history': [], 'role': 'caster', 'twitter': 'SUNSfanTV', 'birth_date': '{{Birth date and age|1985|08|14}}', 'image': 'Sunsfan.jpg', 'name': 'Shannon Scotten', 'site': 'http://www.dotacinema.com', 'country': 'USA', 'reddit': 'SUNSfan', 'facebook': 'DotaCinema', 'id': 'SUNSfan', 'twitch': 'dotacinema'}

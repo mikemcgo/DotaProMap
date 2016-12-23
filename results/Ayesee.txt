@@ -1,1 +1,1 @@
-{'reddit': 'Ayesee', 'birth_date': '{{Birth date and age|1984|12|05}}', 'country': 'United States', 'site': 'http://www.facebook.com/AyeseeTV', 'twitter': 'ayesee', 'id': 'Ayesee', 'team': '', 'twitch': 'AyeseeTV', 'image': 'Ayesee.jpeg', 'name': 'Aaron Chambers', 'role': 'caster'}
+{'name': 'Aaron Chambers', 'twitter': 'ayesee', 'site': 'http://www.facebook.com/AyeseeTV', 'role': 'caster', 'country': 'United States', 'reddit': 'Ayesee', 'birth_date': '{{Birth date and age|1984|12|05}}', 'image': 'Ayesee.jpeg', 'history': [], 'id': 'Ayesee', 'twitch': 'AyeseeTV'}

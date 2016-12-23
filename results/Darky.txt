@@ -1,1 +1,1 @@
-{'hero3': '', 'hero': '', 'birth_date': '', 'country': 'Brazil', 'ids': '', 'hero2': '', 'id': 'Darky', 'team': 'Luccini', 'image': 'PlayerImagePlaceholder.png', 'name': 'Bruno Vieira', 'role': ''}
+{'name': 'Bruno Vieira', 'history': [('2012-??-??', '2012-12-??', 'CNB e-Sports Club '), ('2012-12-??', '2013-??-??', 'Nex Impetus '), ('2014-09-16', '2015-??-??', 'CNB e-Sports Club '), ('2015-??-??', "'''Present'''", 'Luccini ')], 'team': 'Luccini', 'country': 'Brazil', 'image': 'PlayerImagePlaceholder.png', 'id': 'Darky'}
