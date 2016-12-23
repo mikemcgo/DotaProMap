@@ -1,1 +1,0 @@
-{'history': [('2014-04-16', '2014-08-20', 'talent'), ('2014-09-18', '2016-07-08', 'Newbee Young')], 'hero': 'Rubick', 'role': 'support', 'status': 'Retired', 'image': 'Mrrr frankfurt major 2015.jpg', 'name': '蒙睿', 'country': 'China', 'hero3': 'Lion', 'hero2': 'Earthshaker', 'romanized_name': 'Meng Rui', 'id': 'Mrrr', 'dotabuff': '86861614'}

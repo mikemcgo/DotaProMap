@@ -30,13 +30,13 @@
 |twitter=alohad4nce
 |dotabuff=123051238
 |history='''Dota 2:'''&lt;br&gt;	 
-{{TH|2013-10-22 — 2014-02-01|Flip.Sid3.ru}}
-{{TH|2014-08-29 — 2014-09-15|HellRaisers}}
-{{TH|2014-09-15 — 2014-??-??|Album Sheets}}
-{{TH|2014-12-31 — 2016-03-25|Team Empire}}
-{{TH|2016-03-25 — 2016-06-30|Virtus.Pro}}
-{{TH|2016-07-15 — 2016-09-12|F.R.I.E.N.D.S.}}
-{{TH|2016-09-12 — 2016-11-11|Team Empire}}
+{{TH|2013-10-22 - 2014-02-01|Flip.Sid3.ru}}
+{{TH|2014-08-29 - 2014-09-15|HellRaisers}}
+{{TH|2014-09-15 - 2014-??-??|Album Sheets}}
+{{TH|2014-12-31 - 2016-03-25|Team Empire}}
+{{TH|2016-03-25 - 2016-06-30|Virtus.Pro}}
+{{TH|2016-07-15 - 2016-09-12|F.R.I.E.N.D.S.}}
+{{TH|2016-09-12 - 2016-11-11|Team Empire}}
 }}
 
 Ilya '''"ALOHADANCE"''' Korobkin is a Ukranian professional Dota 2 player who is currently teamless.

@@ -1,1 +1,0 @@
-{'history': [('\t2016-07-08', '2016-10-22', 'Comanche')], 'hero': 'juggernaut', 'role': 'carry', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'name': 'Владимир Кузьменко', 'mmr': '8037', 'mmrdate': '2016-11-28', 'country': 'Russia', 'hero3': 'lone druid', 'hero2': 'anti-mage', 'romanized_name': 'Vladimir Kuzmenko', 'id': 'Chappie', 'dotabuff': '132739889'}

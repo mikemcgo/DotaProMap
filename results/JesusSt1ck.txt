@@ -1,1 +1,0 @@
-{'name': 'Park Yoon-Soo', 'history': [('2014-08-06', "2014-10-26'", 'Pokerface'), ('2014-10-26', '2014-??-??', 'Monkey Spanner')], 'hero': 'Rubick', 'role': 'support', 'country': 'South Korea', 'hero3': 'Elder Titan', 'hero2': 'Wraith King', 'id': 'JesusSt1ck'}

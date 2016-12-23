@@ -1,1 +1,0 @@
-{'history': [('2015-08-29', '2016-??-?? ', 'E-LAB')], 'twitter': 'GHGOD_DOTA', 'hero': 'io', 'role': 'support', 'status': 'Active', 'mmrdate': '2016-11-19', 'ids': 'GH-GOD', 'name': 'Maroun Merhej', 'mmr': '9014', 'country': 'Lebanon', 'image': 'GHGod.jpg', 'hero3': 'magnus', 'hero2': 'rubick', 'id': 'GH', 'dotabuff': '101356886'}

@@ -1,1 +1,0 @@
-{'history': [('2014-06-28', '2015-01-05', 'AffectioN!'), ('2015-01-05', "'''Present'''", 'DeToNator')], 'hero': 'Storm Spirit', 'role': 'Solo Mid, Carry', 'twitter': 'Det_heromu', 'image': 'Heromu.jpg', 'name': 'Hiromu Hosoya', 'dotabuff': '75028116', 'country': 'Japan', 'hero2': 'Invoker', 'hero3': 'Shadow Fiend', 'team': 'DeToNator', 'id': 'Heromu', 'twitch': 'heromuu'}

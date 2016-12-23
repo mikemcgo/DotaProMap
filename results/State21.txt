@@ -1,1 +1,0 @@
-{'name': 'Владислав Галушко', 'history': [('2012-??-??', '2013-10-03', 'ScaryFaceZ'), ('2014-??-??', '2016-??-??', 'ScaryFaceZ')], 'romanized_name': 'Vladislav Galushko', 'role': 'mid', 'country': 'Ukraine', 'hero': 'Storm Spirit', 'hero3': 'Omniknight', 'hero2': 'Zeus', 'image': 'State21.jpg', 'id': 'State21', 'dotabuff': '93944475'}

@@ -1,1 +1,0 @@
-{'history': [('2016-03-09', '2016-09-03', 'g3nerationX')], 'hero': 'Enigma', 'role': 'support', 'status': 'Active', 'mmrdate': '2016-06-08', 'name': 'Sergio Gonçalves', 'mmr': '6000', 'country': ' Brazil', 'image': '10337750 587057154776181 5825247465407754852 n.jpg', 'facebook': 'rzsdota2', 'id': 'rZs', 'dotabuff': '124438626'}

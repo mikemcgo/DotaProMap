@@ -1,1 +1,0 @@
-{'name': 'Mariano Lages\t', 'history': [('2014-10-07', '2014-12-15', 'paiN Gaming'), ('2015-06-15', '2015-06-26', 'INTZ eSports')], 'hero': 'Tidehunter', 'role': 'Offlane', 'country': 'Brazil', 'hero3': 'Batrider', 'hero2': 'centaur', 'image': 'PlayerImagePlaceholder.png', 'facebook': 'grentxd', 'id': 'grentxd', 'datdota': '473&amp;player'}

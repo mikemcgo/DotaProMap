@@ -1,1 +1,0 @@
-{'name': 'Muhammad Damar', 'history': [], 'hero': 'Visage', 'role': 'Support', 'country': 'Indonesia', 'hero3': 'Shadow Shaman', 'hero2': 'Skywrath Mage', 'birth_date': '{{Birth date and age|1993|10|23}}', 'image': '482675 503102556403486 794636387 n.jpg', 'id': 'bubu', 'ids': 'bubu:3'}

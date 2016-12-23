@@ -26,11 +26,11 @@
 |twitch=adriano_dpm
 |ids=ADR
 |history=
-{{TH|2014-01-03 — 2014-03-11|Swagenteiger}}
-{{TH|2014-03-11 — 2014-09-09|CNB e-Sports Club}}
-{{TH|2014-09-09 — 2016-10-19|paiN Gaming}}
-{{TH|2014-10-19 — 2016-11-13|Kingao+4}}
-{{TH|2016-11-13 — '''Present'''|SG e-sports}}
+{{TH|2014-01-03 - 2014-03-11|Swagenteiger}}
+{{TH|2014-03-11 - 2014-09-09|CNB e-Sports Club}}
+{{TH|2014-09-09 - 2016-10-19|paiN Gaming}}
+{{TH|2014-10-19 - 2016-11-13|Kingao+4}}
+{{TH|2016-11-13 - '''Present'''|SG e-sports}}
 }}
 
 Adriano '''"4dr"''' Machado is a [[:Category:Brazil|Brazilian]] professional DotA player who is currently playing for [[SG e-sports]].

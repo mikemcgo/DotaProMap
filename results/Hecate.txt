@@ -1,1 +1,0 @@
-{'name': 'Zackery Wong', 'history': [], 'hero': 'abaddon', 'role': 'offlane', 'country': 'Singapore', 'hero3': 'invoker', 'hero2': 'mirana', 'id': 'Hecate', 'ids': 'Hecunt'}

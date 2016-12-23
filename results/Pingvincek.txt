@@ -1,1 +1,0 @@
-{'history': [('2016-02-??', '2016-06-03', 'Danish Bears'), ('2016-09-09', '2016-11-23', 'Prodota Gaming')], 'hero': 'Alchemist', 'role': 'mid', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'name': 'Jure Plešej', 'mmr': '7038', 'mmrdate': '2016-09-02', 'country': 'Slovenia', 'hero3': 'Ember Spirit', 'hero2': 'Invoker', 'id': 'Pingvincek', 'dotabuff': '83867257'}

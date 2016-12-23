@@ -1,1 +1,0 @@
-{'history': [('???', '2014-01-17', '5inQ')], 'hero': 'Outworld Destroyer', 'role': 'mid', 'country': 'South Korea', 'image': '5inQ_PLZDunKilme.jpg', 'id': 'PLZDunKilme'}

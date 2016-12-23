@@ -1,1 +1,0 @@
-{'name': 'Vladimir Stojakovic', 'history': [('2015-09-??', '2015-12-08', 'Team Bad English'), ('2015-12-08', '2016-01-27', 'PRIES')], 'dotabuff': '82659961', 'role': 'mid', 'country': 'Serbia', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'datdota': '6520', 'id': 'At The Speed Of Life', 'ids': 'Justice'}

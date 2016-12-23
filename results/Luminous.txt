@@ -1,1 +1,0 @@
-{'history': [], 'role': 'caster', 'twitter': 'LuminousInverse', 'birth_date': '{{Birth date and age|1988|08|04}}', 'image': 'LuminousInverse.jpg', 'dotabuff': '82202389', 'ids': 'Luminous, LuminousInverse, Lumi', 'name': 'David Zhang', 'site': 'http://www.dotacommentaries.com/', 'country': 'United States', 'id': 'Luminous', 'twitch': 'luminousinverse'}

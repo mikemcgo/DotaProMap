@@ -1,1 +1,0 @@
-{'name': 'Gabriele Giganti', 'history': [('2015-09-??', '2015-12-08', 'Team Bad English'), ('2015-12-08', '2016-02-25', 'PRIES')], 'role': 'support', 'country': 'Italy', 'status': 'Active', 'birth_date': '??.??.1992.', 'image': 'PlayerImagePlaceholder.png', 'id': 'GiGA', 'dotabuff': '56025217'}

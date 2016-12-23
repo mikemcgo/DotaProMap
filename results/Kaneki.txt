@@ -1,1 +1,0 @@
-{'history': [('2013-08-14', '2014-12-10', 'Union Gaming'), ('2015-??-??', "'''Present'''", 'Team Jayce')], 'mmr': '6476', 'fanpage': 'https://www.facebook.com/SiDeRaLLLL', 'status': 'Active', 'mmrdate': '2016-12-17', 'ids': ' Logan, labeba', 'name': 'Jesus Andres Carrion', 'country': 'Peru', 'image': 'PlayerImagePlaceholder.png', 'team': 'Jayce', 'id': 'SiDeRaL', 'role': 'mid'}

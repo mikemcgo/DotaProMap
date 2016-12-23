@@ -1,1 +1,0 @@
-{'name': 'Alexandru Palievici', 'history': [('2015-08-29', '2016-03-26', 'Kaipi')], 'role': 'support', 'country': 'Romania', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'id': 'Bufni', 'dotabuff': '92266340'}

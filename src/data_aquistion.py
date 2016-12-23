@@ -25,7 +25,8 @@ for suffix in soup.find_all('a'):
 	info_block = parsed.find_all(id='wpTextbox1')
 
 	player_file = open("data/" + player_name + ".txt", 'w')
-	player_file.write(str(info_block))
+	# Standardize hyphens into dashes
+	player_file.write(str(info_block).replace('—', '-'))
 	player_file.close()
 	print(player_name + " download complete")
 

@@ -1,1 +1,0 @@
-{'name': 'Leonardo Sifuentes ', 'history': [('2015-07-31', '2015-12-07', 'Team DileCom'), ('2015-12-07', '2016-09-15', 'Not Today')], 'mmr': '7441', 'role': 'mid', 'country': 'Peru', 'status': 'Active', 'mmrdate': '2016-12-04', 'image': 'PlayerImagePlaceholder.png', 'id': 'LeoStyle-', 'dotabuff': '59463394'}

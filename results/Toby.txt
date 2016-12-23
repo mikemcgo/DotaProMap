@@ -1,1 +1,0 @@
-{'name': 'Ровоам Гаврилов', 'country': 'Latvia', 'romanized_name': 'Rovoam Gavrilov', 'role': 'carry', 'team': 'Valor Gaming', 'hero': 'Gyrocopter', 'hero3': 'Razor', 'hero2': 'Juggernaut', 'image': 'PlayerImagePlaceholder.png', 'history': [('2015-10-25', '2014-11-18', 'Valor Gaming'), ('2014-11-18', "'''Present'''", 'Valor Gaming (standin) ')], 'id': 'Toby'}

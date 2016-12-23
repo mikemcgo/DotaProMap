@@ -1,1 +1,0 @@
-{'name': 'Temuulen Amarsaikhan', 'history': [('2015-10-10', "'''Present'''", 'The Mongolz')], 'dotabuff': '106204137', 'mmr': '7287', 'team': 'The Mongolz', 'country': 'Mongolia', 'mmrdate': '2016-07-14', 'image': 'PlayerImagePlaceholder.png', 'id': 'Retribution', 'role': 'carry'}

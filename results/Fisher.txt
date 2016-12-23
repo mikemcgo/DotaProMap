@@ -1,1 +1,0 @@
-{'name': 'Kiat En Chua', 'history': [('2013-04-28', '2013-08-17', 'Flash eSports ')], 'country': 'Singapore', 'birth_date': 'November 22', 'image': 'PlayerImagePlaceholder.png', 'id': 'Fisher'}

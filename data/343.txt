@@ -27,14 +27,14 @@
 |facebook=343Dota
 |dotabuff=111034589
 |history=
-{{TH|2013-12-09 — 2014-03-19|Duskbin e-Sports}}
-{{TH|2014-04-07 — 2014-10-14|Nara Stacks}}
-{{TH|2014-12-09 — 2015-01-02|GeNySis}}
-{{TH|2015-02-02 — 2015-05-31|Can't Say Wips}}
-{{TH|2015-06-23 — 2015-12-13|Team 123}}
-{{TH|2015-12-13 — 2016-03-19|Taring}}
-{{TH|2016-03-19 — 2016-08-24|Fnatic}}
-{{TH|2016-11-03 — Present|Execration}}
+{{TH|2013-12-09 - 2014-03-19|Duskbin e-Sports}}
+{{TH|2014-04-07 - 2014-10-14|Nara Stacks}}
+{{TH|2014-12-09 - 2015-01-02|GeNySis}}
+{{TH|2015-02-02 - 2015-05-31|Can't Say Wips}}
+{{TH|2015-06-23 - 2015-12-13|Team 123}}
+{{TH|2015-12-13 - 2016-03-19|Taring}}
+{{TH|2016-03-19 - 2016-08-24|Fnatic}}
+{{TH|2016-11-03 - Present|Execration}}
 }}
 
 Adam Erwann Shah '''"343"''' bin Akhtar Hussein is a professional Dota 2 player who currently plays for [[Execration]]

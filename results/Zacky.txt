@@ -1,1 +1,0 @@
-{'history': [('2015-02-10', '2016-03-09', 'Ice'), ('2016-03-09', '2016-08-01', 'WarriorsGaming.Unity')], 'hero': 'Vengeful Spirit', 'role': 'support', 'status': 'Active', 'mmrdate': '2016-06-09', 'ids': 'JJt', 'name': 'Tui Jun Jie', 'mmr': '6274', 'country': 'Malaysia', 'image': 'PlayerImagePlaceholder.png', 'hero2': 'Lion', 'id': 'Zacky', 'dotabuff': '101598503'}

@@ -1,1 +1,0 @@
-{'name': 'Kim Yun Sik ', 'history': [('2013-11-29', '2014-01-14', 'MVP')], 'image': 'MVP_AdaM.jpg', 'id': 'AdaM', 'country': 'South Korea'}

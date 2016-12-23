@@ -52,15 +52,15 @@ for file_name in os.listdir(DATA_DIRECTORY):
 		# http://stackoverflow.com/questions/11844986/convert-string-to-variables-like-format-but-in-reverse-in-python
 		if "{{TH|" in line:
 			line = line.replace('{', '').replace('}', '')
-			history_element = parse("TH|{} — {}|{}", line)
+			history_element = None
+			if '—' in line:
+				history_element = parse("TH|{} — {}|{}", line)
+			else:
+				history_element = parse("TH|{} - {}|{}", line)
 			if history_element:
 				player_attrs['history'].append((history_element[0], history_element[1], history_element[2]))
 			else:
 				history_error_pages.write(file_name + ":" + line + "\n")
-		
-	output_file = open(RESULTS_DIRECTORY + file_name, 'w')
-	output_file.write(str(player_attrs))
-	output_file.close()
 
 	db.players.insert(player_attrs)
 

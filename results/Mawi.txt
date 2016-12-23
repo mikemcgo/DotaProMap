@@ -1,1 +1,0 @@
-{'name': 'Martin Wieslander', 'history': [('2014-12-09', '2015-08-30', 'ForLove.int'), ('2015-08-30', '2016-05-07', "EE's disciples"), ('2016-05-07', '2016-09-13', '4 Vikings + Dane'), ('2016-09-13', "'''Present'''", 'IKEA')], 'ids': 'Mawi', 'team': 'IKEA', 'country': 'Sweden', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'id': 'Mawi', 'role': 'Offlane'}

@@ -1,1 +1,0 @@
-{'name': 'Marek Rytir', 'history': [], 'hero': 'Faceless Void', 'role': 'offlane', 'country': 'Czech Republic', 'hero3': 'Invoker', 'hero2': 'Tusk', 'id': 'Tipek'}

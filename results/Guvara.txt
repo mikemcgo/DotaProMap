@@ -1,1 +1,0 @@
-{'country': 'China', 'hero': 'Slardar', 'role': 'offlane', 'status': 'Active', 'mmrdate': '2016-11-30', 'history': [('2016-04-??', "'''Present'''", 'EHOME.Luminous')], 'ids': 'Sen', 'name': '胡森', 'mmr': '7808', 'team': 'EHOME.Luminous', 'image': 'Guvara-EHOME.Luminous.jpg', 'romanized_name': 'Hu Sen', 'id': 'Guvara', 'dotabuff': '253962772'}

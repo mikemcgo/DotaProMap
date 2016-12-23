@@ -1,1 +1,0 @@
-{'name': 'Jeffrey Fortunato ', 'history': [('2014-06-01', '2015-11-?? ', 'Execration')], 'hero': 'Razor', 'role': 'Carry', 'country': 'Philippines', 'twitter': 'XctNfoxx', 'hero2': 'Weaver', 'image': 'FoxxxNew.png', 'datdota': '282', 'id': 'Foxx', 'dotabuff': '92704330'}

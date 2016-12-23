@@ -1,1 +1,0 @@
-{'history': [('2015-08-29', '2015-09-14', 'GOD BLESS')], 'hero': ' Invoker', 'role': ' Solo Mid, Carry', 'country2': 'Albania', 'twitter': 'egamitna', 'datdota': '4589', 'ids': 'EGAMITNA', 'name': ' Dardan', 'dotabuff': '44039249', 'country': 'United States', 'hero3': ' Lycan', 'hero2': ' Lina', 'id': 'EGA', 'twitch': 'egamitna'}

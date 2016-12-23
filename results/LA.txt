@@ -1,1 +1,0 @@
-{'name': 'Lloyd Alfred', 'history': [('2013-01-28', '2013-06-07', 'Ledion DreamZ')], 'role': 'mid', 'country': 'Philippines', 'image': 'PlayerImagePlaceholder.png', 'id': 'LA'}

@@ -1,1 +1,0 @@
-{'name': 'Peter Bondal', 'history': [('2014-??-??', '2014-11-04', 'Skyville'), ('2014-11-04', '2015-11-??', 'Execration')], 'hero': 'Ember Spirit', 'role': 'mid', 'country': 'Philippines', 'status': 'Active', 'hero2': 'Templar Assassin', 'image': 'Primo.png', 'datdota': '884', 'id': 'Primo', 'dotabuff': '112172688'}

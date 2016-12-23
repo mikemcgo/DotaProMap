@@ -1,1 +1,0 @@
-{'name': 'Ruby Gunawan', 'history': [], 'hero': 'Earthshaker', 'role': 'offlane', 'country': 'Indonesia', 'status': 'Active', 'hero3': 'Queen Of Pain', 'hero2': 'Bristleback', 'image': 'SCLPP.jpg', 'id': 'SCL'}

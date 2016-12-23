@@ -1,1 +1,0 @@
-{'name': 'Bruno Carlucci ', 'history': [], 'site': 'http://dota-academy.com/', 'role': 'analyst', 'twitch': 'thegdstudio', 'country': 'Argentina', 'twitter': 'StatsmanBruno', 'image': 'Bruno.jpg', 'tlstream': 'thegdstudio', 'id': 'Bruno', 'ids': 'Statsman, Wicked'}

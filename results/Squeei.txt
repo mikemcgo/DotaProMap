@@ -1,1 +1,0 @@
-{'name': 'George Uzcategui', 'history': [('2014-09-04', '2014-??-??', 'Dream Destroyers')], 'hero': 'Storm Spirit', 'role': 'mid', 'country': 'United States', 'status': 'Active', 'hero3': 'Pudge', 'hero2': 'Ursa', 'image': 'PlayerImagePlaceholder.png', 'id': 'Squeei'}

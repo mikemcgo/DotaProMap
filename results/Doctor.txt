@@ -1,1 +1,0 @@
-{'country': 'South Korea', 'hero': 'Death Prophet', 'role': 'mid', 'status': 'Active', 'mmrdate': '2016-08-25', 'history': [('2015-09-01', "'''Present'''", 'MVP HOT6ix')], 'ids': 'D', 'name': 'Son Kyung-il', 'mmr': '6605', 'team': 'MVP HOT6ix', 'image': 'PlayerImagePlaceholder.png', 'hero3': 'Lina', 'hero2': 'Shadow Fiend', 'id': 'Doctor', 'dotabuff': '86761912'}

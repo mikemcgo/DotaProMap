@@ -1,1 +1,0 @@
-{'history': [('2015-01-01', '2015-02-17', 'Execration')], 'hero': 'Meepo', 'role': 'carry', 'status': 'Active', 'birth_date': '{{birth date and age|1988|10|1}}', 'image': 'PlayerImagePlaceholder.png', 'datdota': '5370', 'name': 'Jed Bautista', 'country': 'Philippines', 'hero2': 'Tinker', 'hero3': 'Viper', 'team': 'Pacific eSports', 'id': 'Jed'}

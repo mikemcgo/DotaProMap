@@ -1,1 +1,0 @@
-{'youtube': 'joinDOTA', 'history': [], 'image': 'Gareth_Bateson.jpeg', 'role': 'caster', 'twitter': 'GarethCasts', 'birth_date': '{{Birth date and age|1989|06|06}}', 'status': 'Active', 'ids': 'Durka, Gareth', 'name': 'Gareth Bateson', 'site': 'http://www.joindota.com', 'country': 'United Kingdom', 'facebook': 'GarethCasts', 'id': 'Gareth', 'twitch': 'Gareth'}

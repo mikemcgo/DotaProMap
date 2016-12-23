@@ -1,1 +1,0 @@
-{'name': 'Jose Ramolete', 'history': [('2013-02', '2014-06-10', 'Mineski'), ('2015-04-10', '2015-08-28', 'Mineski')], 'hero': 'Rubick', 'role': 'support', 'country': 'Philippines', 'hero3': 'Leshrac', 'hero2': 'Keeper of the Light', 'image': 'PlayerImagePlaceholder.png', 'id': 'Gio'}

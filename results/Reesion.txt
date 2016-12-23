@@ -1,1 +1,0 @@
-{'name': 'David Siekas', 'history': [('2011-12-21', '2012-09-12', 'Team Infused'), ('2012-09-12', '2012-10-18', 'Skånes Elit'), ('2012-10-18', '2013-01-07', 'Pulse eSports')], 'image': 'PlayerImagePlaceholder.png', 'id': 'Reesion', 'country': 'Sweden'}

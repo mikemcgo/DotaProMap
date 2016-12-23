@@ -1,1 +1,0 @@
-{'name': 'Hiroshi Yoshimoto', 'country': 'Philippines', 'role': '5', 'team': 'Ledion DreamZ', 'image': 'PlayerImagePlaceholder.png', 'history': [('2013-01-28', '2014-04-29', 'Ledion DreamZ')], 'id': 'Yoshi'}

@@ -1,1 +1,0 @@
-{'name': 'Clay Winkler', 'history': [('2013-??-??', '2014-01-20', 'Pretty Boy Swag'), ('2014-01-20', '2014-05-31', 'Team eHug')], 'hero': 'Clockwerk', 'role': 'offlane', 'country': 'United States', 'status': 'Inactive', 'image': 'Cak3z_2013_MLG_Fall_Invitational.jpg', 'id': 'Cak3z'}

@@ -1,1 +1,0 @@
-{'name': 'Kang Taeyeong', 'history': [('2013-10-11', '2014-01-07', 'StarTale'), ('2014-01-07', '2014-04-27', 'BirdGang'), ('2014-04-27', '2015-??-??', 'Pokerface')], 'hero': 'Puck', 'role': 'offlane', 'country': 'South Korea', 'hero3': 'Viper', 'hero2': 'Doom', 'image': 'PlayerImagePlaceholder.png', 'id': 'JyU'}

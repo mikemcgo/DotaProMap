@@ -1,1 +1,0 @@
-{'name': 'Balder Jensen', 'history': [('2013', '2013-04-03', '3DMAX ')], 'role': '1/3', 'country': 'Denmark', 'image': 'PlayerImagePlaceholder.png', 'id': 'Buller'}

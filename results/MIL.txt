@@ -1,1 +1,0 @@
-{'name': 'Milton Peña', 'history': [('2013-05-20 ', '2014-01-10', 'paiN Gaming ')], 'image': 'PlayerImagePlaceholder.png', 'id': 'MIL', 'country': 'Argentina'}

@@ -1,1 +1,0 @@
-{'country': 'China', 'hero': 'Juggernaut', 'dotabuff': '51684352', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'history': [('2015-11-01', "'''Present'''", 'Brave Heart')], 'name': '殷嘉骏', 'mmr': '6763', 'role2': 'mid', 'team': 'Brave Heart', 'mmrdate': '2016-10-08', 'romanized_name': 'Yin Jiajun', 'id': 'LuLu^^', 'role': 'carry'}

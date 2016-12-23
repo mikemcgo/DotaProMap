@@ -1,1 +1,0 @@
-{'name': 'Максим Лабецкий', 'country': 'Latvia', 'romanized_name': 'Maxim Labecky', 'role': 'Support', 'team': 'Valor Gaming', 'hero': 'Ancient_Apparition', 'hero3': 'Spirit_Breaker', 'hero2': 'Tusk', 'image': 'PlayerImagePlaceholder.png', 'history': [('2015-10-25', "'''Present'''", 'Valor Gaming')], 'id': 'Electro'}

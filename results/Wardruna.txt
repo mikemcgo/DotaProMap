@@ -1,1 +1,0 @@
-{'youtube': 'sungrief', 'history': [], 'hero': 'Keeper Of The Light', 'country': 'Bulgaria', 'ids': 'Wardruna, Sungrief', 'name': 'Wardruna', 'nicknames': 'Wardruna, Sungrief', 'team': 'Siberian Wild', 'hero3': 'Furion', 'hero2': 'Dark Seer', 'twitch': 'sungrief', 'id': 'Wardruna', 'role': 'Support, Off-laner'}

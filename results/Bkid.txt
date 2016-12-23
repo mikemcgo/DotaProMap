@@ -1,1 +1,0 @@
-{'history': [('2014-05-01', '2014-??-??', 'Dream Destroyers')], 'hero': 'Sand King', 'role': 'support', 'status': 'Retired', 'birth_date': '{{birth date and age|1989|05|08}}', 'image': 'Bkid_profile.jpg', 'ids': 'Bendi', 'name': 'Josh Choi', 'country': 'United States', 'hero3': 'Mirana', 'hero2': 'Earthshaker', 'id': 'Bkid'}

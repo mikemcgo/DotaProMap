@@ -1,1 +1,0 @@
-{'name': 'Tobi Strand', 'history': [('2012-??-??', '2013-01-27', 'Svenhunterz'), ('2013-01-27', '2013-08-29', 'TCM-Gaming'), ('2013-08-30', '2013-10-??', 'aSpera')], 'role': 'carry', 'country': 'Sweden', 'status': 'Inactive', 'image': 'PlayerImagePlaceholder.png', 'id': 'GoAudio', 'twitch': 'goaudio'}

@@ -1,1 +1,0 @@
-{'name': 'Jan Hruza', 'history': [('2012-03-21', '2012-09-23', 'SGC')], 'image': 'PlayerImagePlaceholder.png', 'id': 'lacek', 'country': 'Czech Republic'}

@@ -1,1 +1,0 @@
-{'youtube': 'channel/UC5iwG4dCIghdKbBfqfyxIdQ', 'twitter': 'slahserdota', 'dotabuff': '166119739', 'role': 'support', 'country': 'Denmark', 'status': 'Retired', 'reddit': 'slahser', 'facebook': 'slahserdota', 'id': 'slahser', 'history': [('2007', '?', 'Meet Your Makers')], 'twitch': 'slahserdota'}

@@ -1,1 +1,0 @@
-{'history': [('2016-09-04', "'''Present'''", 'FDL')], 'hero': 'wisp', 'role': 'support', 'twitter': 'sdran06', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'name': 'Terry Wong', 'dotabuff': '11929046', 'country': 'United States', 'hero2': 'riki', 'hero3': 'pudge', 'team': 'FDL', 'id': '04', 'twitch': 'sdran06'}

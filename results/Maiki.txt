@@ -1,1 +1,0 @@
-{'history': [('2014-06-28', '2015-01-05', 'AffectioN!'), ('2015-01-05', '2015-09-02', 'DeToNator'), ('2015-10-15', "'''Present'''", 'DeToNator')], 'country': 'Japan', 'hero': 'Vengeful Spirit', 'role': 'support', 'team': 'DeToNator', 'hero3': 'Witch Doctor', 'hero2': 'Dazzle', 'image': 'Maiki600-1.jpg', 'id': 'maiki', 'dotabuff': '63067747'}

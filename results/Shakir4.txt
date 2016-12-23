@@ -1,1 +1,0 @@
-{'name': 'Bruno Sato', 'history': [('2012 ', '2013 ', 'Nex Impetus '), ('2016-03-04 ', '2016-08-19', 'CNB e-Sports Club ')], 'role': 'offlane', 'country': 'Brazil', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'id': 'Shakir4', 'ids': 'Shakir4xd'}

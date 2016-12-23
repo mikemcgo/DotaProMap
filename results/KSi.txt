@@ -1,1 +1,0 @@
-{'name': 'Sergey Kuzin', 'history': [('2012-??-??', '2012-09-16', 'zNation'), ('2012-09-16', '2013-08-15', 'Virtus.pro'), ('2013-08-30', '2013-12-01', 'Poseidon'), ('2013-12-01', '2014-02-14', 'Relax'), ('2014-12-03', '2015-??-??', 'aSpera')], 'twitter': 'ksiodua', 'role': 'support', 'country': 'Ukraine', 'status': 'Inactive', 'image': 'PlayerImagePlaceholder.png', 'id': 'KSi'}

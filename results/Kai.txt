@@ -1,1 +1,0 @@
-{'name': 'Teo Kai Sheng', 'country': 'Singapore', 'dotabuff': '92127891', 'hero': 'Nyx Assassin', 'role': 'support', 'team': 'First Departure', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'history': [('2012-10', '2013-03', 'First Departure'), ('2012-09-01', "'''Present'''", 'First Departure')], 'id': 'Kai', 'ids': 'kana, Meen, teppei'}

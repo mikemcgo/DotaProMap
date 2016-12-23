@@ -1,1 +1,0 @@
-{'name': ' Corey Wright', 'history': [('????-??-??', '2014-01-03', 'Stay Free'), ('2014-01-03', '2015-01-13', 'Team Zephyr')], 'hero': ' Morphling', 'role': 'carry', 'country': 'USA', 'status': 'Inactive', 'hero3': 'mirana', 'hero2': ' Slark', 'image': 'PlayerImagePlaceholder.png', 'id': 'Corey'}

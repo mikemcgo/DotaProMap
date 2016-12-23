@@ -1,1 +1,0 @@
-{'history': [], 'twitter': 'koaladoto', 'hero': 'Faceless Void', 'country': 'Indonesia', 'status': 'Active', 'image': 'KoaLaPP.jpg', 'name': 'Farand Kowara', 'dotabuff': '90547237', 'role2': 'captain', 'team': 'Rex Regum', 'hero3': 'Slardar', 'hero2': 'Drow Ranger', 'facebook': 'farand.kowara', 'id': 'Koala', 'role': 'carry'}

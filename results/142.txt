@@ -1,1 +1,0 @@
-{'name': 'Adam Cooper', 'history': [], 'ids': 'Viazu, Tuba', 'role': 'Offlane', 'country': 'United Kingdom', 'twitter': '@142dota', 'sponsor': ' ', 'birth_date': '{{Birth date and age|1990|12|19}}', 'image': 'PlayerImagePlaceholder.png', 'id': '142', 'twitch': 'viazu'}

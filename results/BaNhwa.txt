@@ -1,1 +1,0 @@
-{'name': 'Yoon Deok Soo', 'history': [('2013-??-??', '2013-07-16', 'Eyes of Tiger Hammer'), ('2013-09-01', '2014-10-26', 'MVP HOT6ix')], 'hero': 'Weaver', 'role': 'carry', 'country': 'South Korea', 'hero3': 'Lifestealer', 'hero2': 'Mirana', 'image': 'MVP_banHwa.jpg', 'id': 'baNhwA'}

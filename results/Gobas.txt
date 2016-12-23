@@ -1,1 +1,0 @@
-{'name': 'Angelo Victoria  ', 'country': 'Philippines', 'role': 'support', 'team': 'Acion Arena', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'history': [('2016-09-15', "'''Present'''", 'Acion Arena')], 'id': 'Gobas', 'dotabuff': '225582809'}

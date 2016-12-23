@@ -1,1 +1,0 @@
-{'name': 'Aaron Chambers', 'twitter': 'ayesee', 'site': 'http://www.facebook.com/AyeseeTV', 'role': 'caster', 'country': 'United States', 'reddit': 'Ayesee', 'birth_date': '{{Birth date and age|1984|12|05}}', 'image': 'Ayesee.jpeg', 'history': [], 'id': 'Ayesee', 'twitch': 'AyeseeTV'}

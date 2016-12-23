@@ -1,1 +1,0 @@
-{'name': 'Nattapong Petkong', 'history': [('2011-09-??', '2012-12-??', 'iDeal'), ('2012-12-??', '2013-09-03', 'MiTH')], 'hero': 'Earthshaker', 'role': 'support', 'country': 'Thailand', 'status': 'Retired', 'hero3': 'Rubick', 'hero2': 'Sand King', 'image': 'PlayerImagePlaceholder.png', 'id': 'r5r5'}

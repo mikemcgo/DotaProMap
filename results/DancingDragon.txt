@@ -1,1 +1,0 @@
-{'name': 'Josef Bernhardsson ', 'history': [('2016-09-13', "'''Present'''", 'IKEA')], 'ids': 'DancingDragon', 'team': 'IKEA', 'country': 'Sweden', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'id': 'DancingDragon', 'role': 'Support'}

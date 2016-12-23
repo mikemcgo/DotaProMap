@@ -1,1 +1,0 @@
-{'name': '兰高崇', 'history': [('2016-03-15', '2016-05-??', 'FTD Club C')], 'dotabuff': '254013249', 'romanized_name': 'Lan Gaochong', 'role': 'support', 'country': 'China', 'image': 'PlayerImagePlaceholder.png', 'id': 'noble', 'ids': '02goddess'}

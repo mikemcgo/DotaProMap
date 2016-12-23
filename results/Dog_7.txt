@@ -1,1 +1,0 @@
-{'country': 'China', 'hero': 'Dark Seer', 'role': 'support', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'history': [('2014-12-01', "'''Present'''", 'Brave Heart')], 'name': '王振洲', 'mmr': '7114', 'mmrdate': '2016-11-30', 'team': 'Brave Heart', 'hero2': 'Doom', 'romanized_name': 'Wang Zhenzhou', 'id': 'Dog_7', 'dotabuff': '134679634'}

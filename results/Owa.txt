@@ -1,1 +1,0 @@
-{'name': 'Joshua Dela Serna', 'history': [('2011-09', '2015-08-28', 'Mineski')], 'hero': 'Nyx Assassin', 'role': 'support', 'country': 'Philippines', 'hero2': 'Sand King', 'image': 'PlayerImagePlaceholder.png', 'id': 'Owa'}

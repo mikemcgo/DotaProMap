@@ -1,1 +1,0 @@
-{'history': [('2016-03-27', '2016-08-19', 'Mineski')], 'hero': 'Outworld Devourer', 'role': 'mid', 'status': 'Active', 'mmrdate': '2016-08-06', 'ids': 'Ben', 'name': 'Benhur Lawis', 'mmr': '6491', 'country': 'Philippines', 'hero3': 'Invoker', 'hero2': 'Alchemist', 'id': 'Benhur', 'dotabuff': '177085220'}

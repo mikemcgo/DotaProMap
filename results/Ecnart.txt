@@ -1,1 +1,0 @@
-{'name': 'Сергій Слободяник', 'history': [('2014-11-29', '2015-10-11', 'ScaryFaceZ')], 'romanized_name': 'Sergey Slobodyanyk', 'role': 'support', 'country': 'Ukraine', 'hero': 'Pudge', 'hero3': 'Witch Doctor', 'hero2': 'Earthshaker', 'image': 'EcNart.jpg', 'id': 'Ecnart', 'dotabuff': '66620961'}

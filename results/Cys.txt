@@ -1,1 +1,0 @@
-{'name': 'Kaue Camuci', 'country': 'Brazil', 'dotabuff': '88153289', 'mmr': '7010', 'role': 'mid', 'team': 'T Show', 'status': 'Active', 'mmrdate': '2016-11-29', 'history': [('2015-07-14', '2015-09-02', 'INTZ eSports'), ('2015-09-02', '2015-12-22', 'T Show'), ('2016-02-10', '2016-03-12', 'T Show'), ('2016-06-16', "'''Present'''", 'T Show')], 'id': 'Cys', 'ids': 'kaue'}

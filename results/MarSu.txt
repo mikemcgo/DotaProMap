@@ -1,1 +1,0 @@
-{'name': 'Charlie Lelievre', 'country': 'France', 'hero': 'Viper', 'role': 'offlane', 'team': 'Sigma.fr', 'hero3': 'Bounty Hunter', 'hero2': 'Dazzle', 'birth_date': '{{Birth date and age|1989|07|01}} ', 'image': 'PlayerImagePlaceholder.png', 'history': [], 'id': 'marSu'}

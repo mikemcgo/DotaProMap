@@ -1,1 +1,0 @@
-{'history': [('2014-01-30', "'''Present'''", 'The Mongolz')], 'image': 'PlayerImagePlaceholder.png', 'dotabuff': '86992358', 'mmrdate': '2016-11-25', 'ids': 'Crystal, ariukaa, STARK', 'name': 'Ариунболор Алтанцэцэг', 'mmr': '6729', 'country': 'Mongolia', 'team': 'The Mongolz', 'romanized_name': 'Ariunbolor Altantsetseg', 'id': 'Ariunbolor', 'role': 'support'}

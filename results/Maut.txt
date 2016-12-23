@@ -1,1 +1,0 @@
-{'history': [], 'role': 'caster', 'twitter': 'MautDota', 'birth_date': '{{Birth date and age|1990|12|25}}', 'image': 'Travis.png', 'name': 'Travis Bueno', 'role2': 'observer', 'country': 'United States', 'reddit': 'mautdota2', 'facebook': 'MautDota2', 'id': 'Maut', 'twitch': 'Mautdota2'}

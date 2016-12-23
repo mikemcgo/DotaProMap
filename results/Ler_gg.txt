@@ -1,1 +1,0 @@
-{'name': 'Евгений Макаров', 'country': 'Russia', 'role': 'support', 'team': 'Comanche', 'status': 'Active', 'romanized_name': 'Evgeniy Makarov', 'history': [('2016-06-10', "'''Present'''", 'Comanche')], 'id': 'Chuvash'}

@@ -1,1 +1,0 @@
-{'history': [], 'mmr': '5250', 'tlstream': 'draskyl', 'twitter': 'Draskyldotatwo', 'birth_date': '{{Birth date and age|1988|01|19}}', 'mmrdate': '2016-08-17', 'ids': 'Andy', 'name': 'Andy Stiles', 'site': 'http://www.twitch.tv/draskyl', 'role': 'caster', 'country': 'USA', 'image': 'Draskyl.jpg', 'id': 'Draskyl', 'twitch': 'draskyl'}

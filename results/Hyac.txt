@@ -1,1 +1,0 @@
-{'name': 'Per Schmidt', 'history': [('2012-06-12', '2012-11-13', 'Gamer University'), ('2012-11-13', '2013-04-03', '3DMAX ')], 'role': 'support', 'country': 'Denmark', 'status': 'Inactive', 'image': 'PlayerImagePlaceholder.png', 'id': 'Hyac'}

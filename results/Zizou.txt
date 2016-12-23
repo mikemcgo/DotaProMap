@@ -1,1 +1,0 @@
-{'name': 'Andrei Zisu', 'history': [('2011-12-23', '2012-05-08', 'Dignitas'), ('2012-??-??', '2013-04-29', 'Kaipi '), ('2013-08-30', '2013-10-??', 'aSpera '), ('2013-??-??', '2014-??-??', 'Cede Nullis')], 'image': 'PlayerImagePlaceholder.png', 'id': 'Zizou', 'country': 'Romania'}

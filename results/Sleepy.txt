@@ -1,1 +1,0 @@
-{'history': [('???', '2014-01-17', '5inQ')], 'country': 'South Korea', 'hero': 'Alchemist', 'role': 'support', 'team': '5inQ', 'image': 'PlayerImagePlaceholder.png', 'id': 'Sleepy'}

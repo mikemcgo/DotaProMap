@@ -1,1 +1,0 @@
-{'name': 'Sergey Kleshukov', 'history': [('2015-06-12', '2015-08-27', 'Yellow Submarine'), ('2015-08-??', '2016-??-??', 'Siberian Valenki White'), ('2016-03-27', '2016-04-07', 'Yellow Submarine')], 'dotabuff': '130435807', 'country': 'Russia', 'vk': 'yesdota2', 'image': 'PlayerImagePlaceholder.png', 'id': 'Nocik'}

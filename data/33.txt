@@ -26,9 +26,9 @@
 |facebook=
 |twitter=33Dota
 |history=
-{{TH|2015-12-19 — 2016-02-01|No Logic Gaming}}
-{{TH|2016-06-13 — 2016-10-28|Kaipi}}
-{{TH|2016-11-11 — '''Present'''|Prodota Gaming}}
+{{TH|2015-12-19 - 2016-02-01|No Logic Gaming}}
+{{TH|2016-06-13 - 2016-10-28|Kaipi}}
+{{TH|2016-11-11 - '''Present'''|Prodota Gaming}}
 }}
 
 Neta '''"33"''' Shapira is a professional Dota 2 player who is currently playing for [[Prodota Gaming]].

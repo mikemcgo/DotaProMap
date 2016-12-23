@@ -1,1 +1,0 @@
-{'name': '白帆', 'history': [('2013-07-03', '2013-10-31', 'Vici Gaming')], 'romanized_name': 'Bai Fan', 'role': 'carry', 'country': 'China', 'status': 'Retired', 'image': 'Tutu.JPG', 'datdota': '532', 'id': 'TuTu', 'ids': 'AABF'}

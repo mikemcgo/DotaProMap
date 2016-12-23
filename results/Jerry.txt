@@ -1,1 +1,0 @@
-{'name': 'Jerry Isidro  ', 'history': [('2015-12-07', '2016-??-??', 'Not Today'), ('2016-09-15', '2016-12-14', 'Not Today')], 'role': 'support', 'country': 'Peru', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'id': 'Jerry', 'dotabuff': '192319592'}

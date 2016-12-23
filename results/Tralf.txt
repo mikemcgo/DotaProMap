@@ -1,1 +1,0 @@
-{'name': 'Mark Seidl ', 'history': [('2013-??-??', '2015-??-?? ', 'Stay Free'), ('2015-02-11', '2015-??-?? ', 'Team eHug'), ('2015-05-20', '2015-06-?? ', "Champions of Summer's Rift"), ('2016-11-??', "'''Present'''", 'END|link=END (Team)')], 'dotabuff': '86828698', 'team': 'END', 'country': 'Usa', 'status': 'Active', 'id': 'Tralf', 'role': 'support'}

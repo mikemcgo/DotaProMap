@@ -1,1 +1,0 @@
-{'history': [('2014-01-30', "'''Present'''", 'The Mongolz')], 'hero': 'Juggernaut', 'team': 'The Mongolz', 'image': 'PlayerImagePlaceholder.png', 'name': 'Энх-Од Нэргүй', 'dotabuff': '113272381', 'mmr': '6614', 'mmrdate': '2016-09-02', 'country': 'Mongolia', 'hero3': 'Mirana', 'hero2': 'Tinker', 'romanized_name': 'Enkh-Od Nergui', 'id': 'SANKE', 'role': 'mid'}

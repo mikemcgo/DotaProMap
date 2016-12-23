@@ -1,1 +1,0 @@
-{'country': ' Brazil', 'hero': 'Dazzle', 'role': 'support', 'status': 'Retired', 'birth_date': '{{Birth date and age|1988|09|01}}', 'image': 'PAADA.jpg', 'history': [], 'ids': 'PPPPP, Paadão, emPAADA', 'name': 'Arthur Zarzur Curiati', 'role2': 'coach', 'team': 'paiN Gaming', 'hero2': 'Kunkka', 'facebook': 'ArthurPAADA', 'id': 'PAADA', 'dotabuff': '16317795'}

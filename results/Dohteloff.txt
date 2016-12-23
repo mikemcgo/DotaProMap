@@ -1,1 +1,0 @@
-{'history': [('2014-06-28', '2015-01-05', 'AffectioN!'), ('2015-01-05', "'''Present'''", 'DeToNator')], 'country': 'Japan', 'hero': 'Invoker', 'role': 'Carry', 'team': 'DeToNator', 'hero3': 'Rubick', 'hero2': 'Tinker', 'image': 'Dohte600-2.jpg', 'id': 'Dohteloff', 'dotabuff': '94636963'}

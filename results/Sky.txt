@@ -1,1 +1,0 @@
-{'name': 'Park Yongkyu', 'history': [('2014-04-27', '2015-??-??', 'Pokerface')], 'hero': 'Shadow Shaman', 'role': 'support', 'country': 'South Korea', 'image': 'Sky.jpg', 'id': 'Sky'}

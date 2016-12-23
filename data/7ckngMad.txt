@@ -31,22 +31,22 @@
 |datdota=56
 |dotabuff=88271237
 |history='''Dota2:'''&lt;br&gt;
-{{TH|2011-??-?? — 2012-01-12|Team Shakira}}
-{{TH|2012-01-13 — 2012-04-15|Western Wolves}}
-{{TH|2012-04-15 — 2012-09-18|mTw}}
-{{TH|2012-11-17 — 2013-06-04|DD.Dota}}
-{{TH|2013-06-04 — 2013-09-10|Quantic}}
-{{TH|2013-09-10 — 2013-10-22|DD.Dota}}
-{{TH|2013-10-22 — 2014-04-11|Sigma.int}}
-{{TH|2014-08-12 — 2014-08-16|Terra Firma eSports}}
-{{TH|2014-08-16 — 2015-01-05|Denial eSports}}
-{{TH|2015-01-05 — 2015-02-06|Basically Unknown}}
-{{TH|2015-02-06 — 2015-02-20|FIRE}}
-{{TH|2015-02-20 — 2015-03-06|Champions of Summer's Rift}}
-{{TH|2015-03-06 — 2015-08-27|Alliance}}
-{{TH|2015-08-22 — 2015-10-08|Monkey Freedom Fighters}}
-{{TH|2015-12-07 — 2016-04-28|Kaipi}}
-{{TH|2016-05-?? — '''Present'''|OG|coach}}
+{{TH|2011-??-?? - 2012-01-12|Team Shakira}}
+{{TH|2012-01-13 - 2012-04-15|Western Wolves}}
+{{TH|2012-04-15 - 2012-09-18|mTw}}
+{{TH|2012-11-17 - 2013-06-04|DD.Dota}}
+{{TH|2013-06-04 - 2013-09-10|Quantic}}
+{{TH|2013-09-10 - 2013-10-22|DD.Dota}}
+{{TH|2013-10-22 - 2014-04-11|Sigma.int}}
+{{TH|2014-08-12 - 2014-08-16|Terra Firma eSports}}
+{{TH|2014-08-16 - 2015-01-05|Denial eSports}}
+{{TH|2015-01-05 - 2015-02-06|Basically Unknown}}
+{{TH|2015-02-06 - 2015-02-20|FIRE}}
+{{TH|2015-02-20 - 2015-03-06|Champions of Summer's Rift}}
+{{TH|2015-03-06 - 2015-08-27|Alliance}}
+{{TH|2015-08-22 - 2015-10-08|Monkey Freedom Fighters}}
+{{TH|2015-12-07 - 2016-04-28|Kaipi}}
+{{TH|2016-05-?? - '''Present'''|OG|coach}}
 }}
 
 Sébastien '''"7ckingMad"''' Debs is a professional Dota 2 player, who last played for [[Kaipi]]. As of late, he has stepped into a coaching position and is now coaching [[OG]].

@@ -1,1 +1,0 @@
-{'name': 'Mark Louise Reyes', 'history': [('2014-06-07', '2014-10-16', 'MSI-EvoGT'), ('2015-02-02', '2016-01-??', 'TnC Gaming')], 'role': 'carry', 'country': 'Philippines', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'id': 'xLucky', 'dotabuff': '117262984'}

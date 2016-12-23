@@ -1,1 +1,0 @@
-{'name': 'Angelo Docosin', 'history': [('2014-??-??', '2014-11-04', 'Skyville'), ('2014-11-04', '2015-01-01', 'Execration')], 'hero': 'Weaver', 'role': 'Carry', 'country': 'Philippines', 'hero2': 'Brewmaster', 'image': 'XctNDoc.jpg', 'datdota': '1012', 'id': 'Doc'}

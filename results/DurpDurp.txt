@@ -1,1 +1,0 @@
-{'name': 'Erik Kamerling ', 'country': 'Us', 'role': 'support', 'team': 'Hard Question', 'status': 'Active', 'history': [('2014-11-01 ', '2014-11-01 ', 'Wheel Whreck While Whistling'), ('2015-09-02', '2015-11-??  ', 'ROOT Gaming'), ('2015-12-06', '2016-??-??  ', 'EverNova'), ('2016-11-01', "'''Present'''", 'Hard Question')], 'id': 'DurpDurp', 'dotabuff': '8591574'}

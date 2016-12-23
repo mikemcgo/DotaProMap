@@ -1,1 +1,0 @@
-{'name': '彭立', 'history': [('2013-03-14', '2013-06-03', 'Vici Gaming  '), ('2015-09-04', '2016-03-22', 'Newbee Young')], 'dotabuff': '113175114', 'romanized_name': 'Peng Li', 'role': 'offlane', 'country': 'China', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'datdota': '1149', 'id': 'Li', 'ids': 'Li.-_-!, -_-!\u200e, Sgua_Li'}

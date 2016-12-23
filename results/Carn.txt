@@ -1,1 +1,0 @@
-{'history': [('2013-12-26', '2014-01-27', "Don't Die ReM1kZ\t"), ('2014-02-16', '2014-04-12', 'Monkey Spanner\t'), ('2014-08-03', '2014-??-??', 'Team Muhan')], 'hero': 'Clinkz', 'role': 'carry', 'twitter': 'CARNDARAK', 'status': 'Inactive', 'datdota': '3352', 'ids': 'cArn, cArn-', 'name': 'Souaib Hanaf ', 'country': 'France', 'tlprofile': 'cArn-', 'id': 'Carn', 'twitch': 'carn_'}

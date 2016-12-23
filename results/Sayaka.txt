@@ -1,1 +1,0 @@
-{'name': '毛明远', 'country': 'China', 'romanized_name': 'Mao Mingyuan', 'role': 'support', 'hero': 'Rubick', 'status': 'Active', 'hero2': 'Lion', 'image': 'PlayerImagePlaceholder.png', 'history': [('2015-03-12', '2015-09-17', 'TongFu.WanZhou')], 'id': 'Sayaka'}

@@ -1,1 +1,0 @@
-{'name': 'Baek Ji Hoon ', 'country': 'South Korea', 'hero': 'witch doctor', 'role': 'support', 'team': 'MVP HOT6ix', 'status': 'Active', 'hero3': 'phoenix', 'hero2': 'Vengeful Spirit', 'image': 'MVP_HooNji.jpg', 'history': [('2013-09-01', '2014-01-14', 'MVP'), ('2016-06-21', "'''Present'''", 'MVP HOT6ix')], 'id': 'HooNji'}

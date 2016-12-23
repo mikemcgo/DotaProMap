@@ -29,12 +29,12 @@
 |hero2=Centaur Warrunner
 |hero3=Clockwerk
 |dotabuff=92423451
-|history={{TH|2013-01-?? — 2014-11-??|UrsaStroitHram}}
-{{TH|2014-11-?? — 2014-11-24|BUHLO-UroPb}}
-{{TH|2014-11-24 — 2016-03-22|Vega Squadron}}
-{{TH|2016-03-25 — 2016-06-05|Polarity}}
-{{TH|2016-07-29 — 2016-08-04|Fantastic Five}}
-{{TH|2016-08-04 — '''Present'''|Virtus.pro}}
+|history={{TH|2013-01-?? - 2014-11-??|UrsaStroitHram}}
+{{TH|2014-11-?? - 2014-11-24|BUHLO-UroPb}}
+{{TH|2014-11-24 - 2016-03-22|Vega Squadron}}
+{{TH|2016-03-25 - 2016-06-05|Polarity}}
+{{TH|2016-07-29 - 2016-08-04|Fantastic Five}}
+{{TH|2016-08-04 - '''Present'''|Virtus.pro}}
 }}
 Pavel '''"9pasha"''' (pronounced ya-pasha) Khvastunov is a Russian Dota 2 player who is currently playing for [[Virtus.pro]]. He formerly played offlane on team "UrsaStroitHram" (rus. Ursa builds a temple) and carry on [[Vega Squadron]].
 </textarea>]

@@ -1,1 +1,0 @@
-{'name': 'Michael Johnson', 'history': [], 'hero': 'Clockwerk', 'team': 'InVidious', 'country': 'Australia', 'hero3': 'Anti Mage', 'hero2': 'Shadow Fiend', 'image': 'Blooddrunk_image.JPG', 'id': 'Blooddrunk', 'role': 'Mid, Utility'}

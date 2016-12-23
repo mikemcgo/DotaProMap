@@ -1,1 +1,0 @@
-{'name': '邹倚天', 'country': 'China', 'ids': '820, EH.820.GIGABYTE, EH.GIGABYTE.820, EHOME.820.CN', 'role': 'support', 'team': 'Old Boys', 'status': 'Retired', 'birth_date': ' 13.04.1990 ', 'romanized_name': 'Zou Yitian', 'history': [], 'id': '820', 'role2': 'coach'}

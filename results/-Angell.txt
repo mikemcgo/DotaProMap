@@ -1,1 +1,0 @@
-{'name': ' Miguel Nuñez', 'history': [('2014-??-??', '2014-12-13', 'Immortal Fire Gaming'), ('2014-12-14', '2015-??-??', 'Sad Voids'), ('2015-??-??', '2015-03-10', "Don't Dive Again"), ('2015-03-10', "'''Present'''", 'Sad Voids')], 'country': ' Chile', 'team': ' Sad Voids', 'birth_date': ' ', 'image': ' ', 'id': '-Angell', 'ids': 'Angel, -Angell'}

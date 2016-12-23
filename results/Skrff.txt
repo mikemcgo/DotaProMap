@@ -1,1 +1,0 @@
-{'name': 'Rikard Holm Melin', 'history': [], 'twitter': 'skrff', 'role': 'observer', 'country': 'Sweden', 'status': 'Active', 'twitch': 'skrff', 'birth_date': '{{Birth date and age|1988|10|18}} ', 'image': 'Skrff thumb.jpg', 'id': 'skrff', 'ids': 'skrff'}

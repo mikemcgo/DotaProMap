@@ -17,9 +17,9 @@
 |role= Offlane
 |dotabuff=53575999
 |datdota=4593
-|history={{TH|2014-10-08 — 2015-01-25|Boreal eSports}}
-{{TH|2015-01-25 — 2015-02-21|ROOT Gaming}}
-{{TH|2015-08-29 — 2016-??-??|GOD BLESS}}
-{{TH|2016-??-?? — '''Present'''|Rainbows and Sunshine}}
+|history={{TH|2014-10-08 - 2015-01-25|Boreal eSports}}
+{{TH|2015-01-25 - 2015-02-21|ROOT Gaming}}
+{{TH|2015-08-29 - 2016-??-??|GOD BLESS}}
+{{TH|2016-??-?? - '''Present'''|Rainbows and Sunshine}}
 }}&lt;br&gt;
 </textarea>]

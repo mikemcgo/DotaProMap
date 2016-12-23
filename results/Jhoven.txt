@@ -1,1 +1,0 @@
-{'name': 'Jhoven Pancho', 'history': [('2013-03-??', '????-??-??', 'Mineski'), ('2014-08-14', '2014-10-16', 'Mineski')], 'hero': 'Magnus', 'role': 'mid', 'country': 'Philippines', 'image': 'PlayerImagePlaceholder.png', 'id': 'Jhoven'}

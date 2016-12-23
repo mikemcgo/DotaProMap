@@ -1,1 +1,0 @@
-{'name': 'Raniel Ogdol', 'history': [('2013-02', '2013-05-29', 'Mineski')], 'hero': 'Juggernaut', 'role': '1/2/3', 'country': 'Philippines', 'hero2': 'Alchemist', 'image': 'PlayerImagePlaceholder.png', 'id': 'Yani'}

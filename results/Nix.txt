@@ -1,1 +1,0 @@
-{'name': 'Alexander Levin', 'history': [('2016-04-26', '2016-05-19', 'Enso'), ('2016-05-20', '2016-08-22', 'Comanche')], 'hero': 'Slark', 'role': 'mid', 'country': 'Russia', 'status': 'Active', 'hero3': 'Timbersaw', 'hero2': 'Tinker', 'image': 'PlayerImagePlaceholder.png', 'id': 'Nix', 'dotabuff': '11865327'}

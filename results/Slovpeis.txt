@@ -1,1 +1,0 @@
-{'history': [], 'site': 'http://aposis.com/', 'team': 'Aposis Gaming', 'country': 'Norway', 'twitter': 'AposisSlovpeis', 'sponsor': 'Host1.no', 'birth_date': '{{Birth date and age|1990|09|06}}', 'image': 'PlayerImagePlaceholder.png', 'id': 'Slovpeis', 'twitch': 'slovpeis'}

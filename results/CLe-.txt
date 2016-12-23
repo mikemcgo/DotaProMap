@@ -1,1 +1,0 @@
-{'history': [('??-??-??', '2016-??-??', 'Booyakaa'), ('2016-??-??', '2016-04-28', 'Power Gaming')], 'hero': 'Skywrath Mage', 'dotabuff': '127019228', 'status': 'Active', 'mmrdate': '2016-07-01', 'name': 'Clement Teoh', 'mmr': '6819', 'country': 'Malaysia', 'hero3': 'Dark Seer', 'hero2': 'earthshaker', 'id': 'CLe-', 'role': 'support'}

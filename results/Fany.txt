@@ -1,1 +1,0 @@
-{'name': 'Nikola Radisavljevic', 'history': [('2014-08-26', '2014-09-??', 'Dream Destroyers')], 'hero': 'Rubick', 'country': 'Serbia', 'team': 'Dream Destroyers', 'role': 'Support', 'hero3': 'Earthshaker', 'hero2': 'Vengeful Spirit', 'image': 'PlayerImagePlaceholder.png', 'id': 'Fany', 'ids': 'El Doctore'}

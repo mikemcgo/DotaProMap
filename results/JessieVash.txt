@@ -1,1 +1,0 @@
-{'country': 'Philippines', 'hero': 'Dark Seer', 'role': 'offlane', 'status': 'Active', 'image': 'Jessievash_frankfurt_major_2015.jpg', 'history': [('2015-03-05', "'''Present'''", 'Mineski')], 'name': 'Jessie Cristy Cuyco', 'mmr': '6314', 'mmrdate': '2016-04-29', 'team': 'Mineski', 'hero3': 'Night Stalker', 'hero2': 'Clockwerk', 'id': 'JessieVash', 'dotabuff': '86772934'}

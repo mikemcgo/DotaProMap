@@ -27,7 +27,7 @@
 |dotabuff=11929046
 |birth_date=
 |history=
-{{TH|2016-09-04 — '''Present'''|FDL}}
+{{TH|2016-09-04 - '''Present'''|FDL}}
 }}
 
 Terry '''"04"''' Wong is an American professional Dota 2 player who is currently playing support for [[FDL]].

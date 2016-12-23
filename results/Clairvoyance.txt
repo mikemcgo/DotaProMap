@@ -1,1 +1,0 @@
-{'history': [], 'hero': 'Bane', 'role': 'support', 'country2': 'South Korea', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'ids': 'jalesh', 'name': 'Aaron Kim', 'mmr': '6998', 'mmrdate': '2016-05-05', 'country': 'Canada', 'hero3': 'Crystal Maiden', 'hero2': 'Witch Doctor', 'id': 'Clairvoyance', 'dotabuff': '102119379'}

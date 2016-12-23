@@ -1,1 +1,0 @@
-{'name': 'Shane Clarke', 'youtube': 'user/shaneomad', 'ids': ' Shane, Shaneomad, Member of "BaldBoys Studios"', 'role': 'analyst', 'country': 'Ireland', 'twitter': 'shaneomad', 'twitch': 'Shaneomad', 'image': 'Shaneomad ti6.jpg', 'history': [('2015-03-05', '2015-05-25', 'rizegaming'), ('2015-05-25', '2015-06-10', 'druidz')], 'id': 'Shaneomad', 'role2': 'caster'}

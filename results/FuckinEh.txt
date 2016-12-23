@@ -1,1 +1,0 @@
-{'name': 'Guilherme Silva', 'country': 'Brazil', 'role': 'carry', 'team': 'Midas Club Elite', 'status': 'Active', 'history': [('2016-03-04', '2016-08-19', ' CNB e-Sports Club'), ('2016-08-15', '2016-09-05', 'G3nerationX'), ('2016-09-05', '2016-11-02', 'Keyd Stars'), ('2016-11-01', "'''Present'''", 'Midas Club Elite')], 'id': 'FuckinEh'}

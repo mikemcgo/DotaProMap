@@ -1,1 +1,0 @@
-{'country': 'Vietnam', 'hero': 'Meepo', 'role': 'mid', 'image': 'PlayerImagePlaceholder.png', 'history': [], 'ids': 'The Liar, Dr.Durex', 'name': 'Trịnh Văn Thọ', 'mmr': '7934', 'mmrdate': '2016-08-10', 'team': 'Next Generation', 'hero3': 'Invoker', 'hero2': 'Alchemist', 'facebook': 'btn1412', 'id': 'DifferentHeaven', 'dotabuff': '196931374'}

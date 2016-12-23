@@ -1,1 +1,0 @@
-{'history': [('2015-??-??', '2015-??-??', 'Team Lunatic'), ('2015-08-13', '2016-07-01', 'Power Gaming')], 'hero': 'Anti-Mage', 'role': 'Carry', 'country2': 'Malaysia', 'status': 'Active', 'ids': 'T1TAN', 'name': 'محمد شہوار', 'country': 'Pakistan', 'hero3': 'Juggernaut', 'hero2': 'Clinkz', 'romanized_name': 'Muhammad Shehwar', 'id': 'Firebird', 'dotabuff': '254223768'}

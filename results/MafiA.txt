@@ -1,1 +1,0 @@
-{'name': 'Kim Byung Hoon ', 'history': [('2013-??-??', '2013-07-16', 'Eyes of Tiger Hammer'), ('2013-09-01', '2014-??-??', 'MVP HOT6ix')], 'hero': 'Bane', 'role': 'support', 'country': 'South Korea', 'image': 'MVP_Mafia.jpg', 'id': 'MafiA'}

@@ -25,8 +25,8 @@
 |mmrdate=2016-11-30
 |country=China
 |history=
-{{TH|2016-10-?? — 2015-11-??|FTD club C}}
-{{TH|2016-06-19 — '''Present'''|FTD club A}}
+{{TH|2016-10-?? - 2015-11-??|FTD club C}}
+{{TH|2016-06-19 - '''Present'''|FTD club A}}
 }}
 
 Tang '''"897"''' Zhirui is a professional Dota 2 player who is currently playing for [[FTD club A]].

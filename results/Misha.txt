@@ -1,1 +1,0 @@
-{'name': 'Михаил Агатов', 'country': 'Russia', 'role': 'support', 'team': 'Comanche', 'status': 'Active', 'romanized_name': 'Mihail Agatov', 'history': [('2015-08-29', '2016-02-10', 'Enso'), ('2016-04-26', '2016-05-19', 'Enso'), ('2016-05-20', "'''Present'''", 'Comanche')], 'id': 'Misha', 'dotabuff': '90125566'}

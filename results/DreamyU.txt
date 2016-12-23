@@ -1,1 +1,0 @@
-{'name': '薛卓睿', 'history': [('2013-09-25', '2014-06-28', 'DT^Club'), ('2014-09-13', '2015-04-28', 'Team DK')], 'dotabuff': '92588070', 'romanized_name': 'Xue Zhuorui', 'role': 'support', 'country': 'China', 'hero': 'Rubick', 'hero2': 'Ancient Apparition', 'image': 'PlayerImagePlaceholder.png', 'id': 'DreamyU', 'ids': 'Sheezry, 酔木鱼'}

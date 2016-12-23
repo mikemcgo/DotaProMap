@@ -1,1 +1,0 @@
-{'history': [], 'twitter': 'followEGM', 'hero': 'Io', 'country': 'Sweden', 'status': 'Active', 'image': 'EGM.jpg', 'datdota': '184', 'ids': 'EnterGodMode, Doney, Doni, Potato', 'name': 'Jerry Lundkvist', 'dotabuff': '3916428', 'mmr': '7217', 'mmrdate': '2016-09-08', 'team': 'Alliance', 'hero3': 'Shadow Demon', 'hero2': 'Rubick', 'twitch': 'egm', 'id': 'EGM', 'role': 'support'}

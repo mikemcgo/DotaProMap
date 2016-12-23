@@ -1,1 +1,0 @@
-{'history': [('2014-01-25', '2014-10-21', 'Arrow Gaming'), ('2015-01-09', '2016-04-06', 'Team Redemption')], 'hero': 'Dark Seer', 'role': 'offlane', 'status': 'Banned', 'datdota': '2165', 'ids': 'XiangZai', 'name': 'Chiok Soon Siang', 'country': 'Malaysia', 'hero3': 'Slark', 'hero2': 'Rubick', 'facebook': 'xiang.lolx', 'id': 'xiangzai'}

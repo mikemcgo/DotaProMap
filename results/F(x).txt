@@ -1,1 +1,0 @@
-{'history': [('???', '2014-04-12', '5 in QO'), ('2014-08-03', "'''Present'''", 'Betboys')], 'country': 'South Korea', 'hero': 'Crystal Maiden', 'role': 'Carry, Support, Utility', 'team': 'Betboys', 'image': '5inQ_f(x).jpg', 'id': 'f(x)'}

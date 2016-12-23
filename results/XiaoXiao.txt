@@ -1,1 +1,0 @@
-{'name': '马骏驹', 'country': 'China', 'dotabuff': '133705802', 'romanized_name': 'Ma Junju', 'role': 'support', 'team': 'TongFu', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'history': [('2016-09-17', "'''Present'''", 'TongFu')], 'id': 'XiaoXiao', 'ids': 'XiaoXiaoSala'}

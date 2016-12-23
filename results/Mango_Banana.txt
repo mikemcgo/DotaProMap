@@ -1,1 +1,0 @@
-{'name': 'Toufic Yaktine', 'history': [('2012', '2013-05-06', 'Eosin + 4'), ('2013-05-06', '2013-06-??', 'Denial eSports'), ('2014-??-??', '2014-??-??', 'House of Gamers'), ('2014-??-??', '2014-??-??', 'Wired Gaming'), ('2015-??-??', '2015-??-??', 'E-LAB')], 'role': 'offlane', 'country': 'Lebanon', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'id': 'Mango_Banana'}

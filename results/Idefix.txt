@@ -1,1 +1,0 @@
-{'name': 'Martin Čada', 'history': [('2013-05-15', '2014-??-??', 'iNfernity Gaming ')], 'country': 'Czech Republic', 'image': 'PlayerImagePlaceholder.png', 'id': 'idefix', 'ids': 'idef!x'}

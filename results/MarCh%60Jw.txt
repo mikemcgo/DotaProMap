@@ -1,1 +1,0 @@
-{'history': [('2016-04-11', '2016-04-??', 'Power Gaming')], 'hero': 'Outworld Destroyer', 'role': 'mid', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'ids': 'MarCh`Jw, `Mithril.Jw-', 'name': 'Thiay Jun Wen', 'mmr': '7003', 'mmrdate': '2016-07-01', 'country': 'Malaysia', 'hero3': 'Spectre', 'hero2': 'Invoker', 'id': 'MarCh`Jw', 'dotabuff': '138857296'}

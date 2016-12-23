@@ -1,1 +1,0 @@
-{'history': [], 'role': 'caster', 'twitter': 'ZyoriTV', 'birth_date': '{{Birth date and age|1989|16|10}}', 'image': 'Zyori.png', 'ids': 'Zyori, Winkz', 'name': 'Andrew Campbell', 'site': 'http://www.zyori.tv/', 'role2': 'host', 'country': 'United States', 'reddit': 'TheRealZyori', 'id': 'Zyori', 'twitch': 'ZyoriTV'}

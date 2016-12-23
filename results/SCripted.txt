@@ -1,1 +1,0 @@
-{'name': 'Jonathan Lee Wen Jun', 'history': [('2013-03-17', '2014-01-21', 'First Departure'), ('2014-01-21', '2014-03-05', 'Scythe Gaming'), ('2014-??-??', '2014-05-27', 'First Departure ')], 'role': 'support', 'country': 'Singapore', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'id': 'SCripted', 'ids': 'atjy1314'}

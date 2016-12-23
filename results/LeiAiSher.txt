@@ -1,1 +1,0 @@
-{'name': 'Chester Lum', 'history': [('2013-01-09', "'''Present'''", 'Neolution.int ')], 'team': 'Neolution.int', 'country': 'Singapore', 'image': 'PlayerImagePlaceholder.png', 'id': 'LeiAiSher'}

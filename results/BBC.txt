@@ -1,1 +1,0 @@
-{'name': '张宏圣', 'history': [], 'role': 'caster', 'country': 'China', 'romanized_name': 'Zhang Hongsheng', 'id': 'BBC', 'ids': 'BBC, 比比西, imbabbc'}

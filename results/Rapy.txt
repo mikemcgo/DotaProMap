@@ -1,1 +1,0 @@
-{'name': 'Rafael Sicat Palo ', 'country': 'Philippines', 'dotabuff': '121833213', 'role': 'offlane', 'team': 'Execration', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'history': [('2015-11-27', '2016-08-19', 'Rave'), ('2016-09-13', "'''Present'''", 'Execration')], 'id': 'Rapy', 'role2': 'support'}

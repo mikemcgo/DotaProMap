@@ -1,1 +1,0 @@
-{'name': 'Munehito Takekawa', 'history': [('2014-06-28', '2015-01-05', 'AffectioN!'), ('2015-01-05', '2015-09-02', 'DeToNator')], 'dotabuff': '43589929', 'hero': ' Earthshaker', 'role': 'support', 'country': 'Japan', 'twitter': 'stabaaa', 'hero2': ' ', 'id': 'STABA', 'twitch': 'stabaaa'}

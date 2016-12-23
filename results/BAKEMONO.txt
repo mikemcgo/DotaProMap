@@ -1,1 +1,0 @@
-{'history': [('2015-10-??', '2016-03-24', 'Boreal eSports'), ('2016-03-24', '2016-09-??', 'Perky Pepperonis')], 'hero': 'Anti-Mage', 'role': 'carry', 'status': 'Active', 'image': 'PlayerImagePlaceholder.png', 'name': 'Feras Hroob', 'mmr': '7755', 'mmrdate': '2016-10-04', 'country': 'Jordan', 'hero3': 'Ember Spirit', 'hero2': 'Slark', 'id': 'BAKEMONO', 'dotabuff': '171775246'}

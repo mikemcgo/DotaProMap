@@ -25,9 +25,9 @@
 |dotabuff=182439266
 |datdota=
 |history=
-{{TH|2015-12-01 — 2016-05-28|Brave Heart}}
-{{TH|2015-06-?? — 2015-09-17|EHOME.Keen}}
-{{TH|2016-09-17 — '''Present'''|FTD club C}}
+{{TH|2015-12-01 - 2016-05-28|Brave Heart}}
+{{TH|2015-06-?? - 2015-09-17|EHOME.Keen}}
+{{TH|2016-09-17 - '''Present'''|FTD club C}}
 }}
 
 Chen '''"86"''' Yuxuan is a professional Dota 2 player who is currently playing for [[FTD Club C]].

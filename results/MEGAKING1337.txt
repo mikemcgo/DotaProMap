@@ -1,1 +1,0 @@
-{'history': [], 'hero': 'Doom', 'dotabuff': '114213950', 'birth_date': '  ', 'ids': 'reejd, Megaking1337, Rejd', 'name': 'Karel Spěvák', 'country': 'Czech Republic', 'hero3': 'Mirana', 'hero2': 'Razor', 'twitch': 'megaking1337', 'id': 'MEGAKING1337', 'role': 'offlane'}

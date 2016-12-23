@@ -1,1 +1,0 @@
-{'history': [], 'country': 'USA', 'askfm': 'lddota', 'twitter': 'LDdota', 'birth_date': '{{Birth date and age|1986|06|03}}', 'image': 'LD frankfurt major 2015.jpg', 'ids': 'LD, David', 'name': 'David Gorman', 'site': 'http://www.beyondthesummit.tv/', 'team': 'BeyondTheSummit', 'reddit': 'ldDOTA', 'tlprofile': 'LDdota', 'twitch': 'beyondthesummit', 'id': 'LD', 'role': 'caster'}

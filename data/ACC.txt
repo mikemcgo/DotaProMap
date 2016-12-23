@@ -19,10 +19,10 @@
 |dotabuff=74702596
 |facebook=soleydota
 |history=
-{{TH|2013-09-15 — 2014-11-17|semXorah}}	
-{{TH|2014-11-17 — 2015-07-14|INTZ eSports}}
-{{TH|2014-07-14 — 2015-08-27|T Show}}
-{{TH|2015-08-27 — 2015-10-19|Artyk Gaming}}
+{{TH|2013-09-15 - 2014-11-17|semXorah}}	
+{{TH|2014-11-17 - 2015-07-14|INTZ eSports}}
+{{TH|2014-07-14 - 2015-08-27|T Show}}
+{{TH|2015-08-27 - 2015-10-19|Artyk Gaming}}
 {{TH|2015-10-23 – 2015-11-05 |paiN Gaming}}
 {{TH|2016-01-?? – '''Present'''|Team Innova}}
 }}

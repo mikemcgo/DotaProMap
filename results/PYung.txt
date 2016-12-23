@@ -1,1 +1,0 @@
-{'name': '권평', 'history': [('2013-11-29', '2014-05-04', 'EoT Hammer'), ('2014-05-04', '2014-??-??', 'Rave')], 'romanized_name': 'Gwon Pyeong', 'role': 'support', 'country': 'South Korea', 'hero': 'Crystal Maiden', 'image': 'PlayerImagePlaceholder.png', 'id': 'pYung'}

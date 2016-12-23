@@ -1,1 +1,0 @@
-{'history': [('2013-12-20', "'''Present'''", 'The Mongolz')], 'hero': 'beastmaster', 'country': 'Mongolia', 'image': 'PlayerImagePlaceholder.png', 'ids': 'Masquerino', 'name': 'Enkhbayar Batsukh', 'dotabuff': '39256913', 'mmr': '6299', 'mmrdate': '2016-09-10', 'team': 'The Mongolz', 'hero3': 'batrider', 'hero2': 'broodmother', 'id': 'Masquerade', 'role': 'offlane'}
