@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:uuu9}}
+{{Tabs static
+|name1=Overview
+|link1=Uuu9
+|name2=Results
+|link2=Uuu9/Results
+|This=1
+}}
+{{Infobox player
+|id=uuu9
+|image=Uuu9 Newbee.jpg
+|name=徐翰
+|romanized_name=Xu Han
+|team=Newbee
+|birth_date={{birth date and age|1994|04|19}}
+|country=China
+|role=carry
+|status=Active
+|hero=viper
+|hero2=lifestealer
+|hero3=juggernaut
+|dotabuff=117281554
+|mmr=8055
+|mmrdate=2016-12-04
+|history=
+{{TH|2013-10-03 — 2015-03-12|TongFu.WanZhou}}
+{{TH|2015-03-12 — 2016-09-04|TongFu}}
+{{TH|2016-09-17 — '''Present'''|Newbee}}
+}}
+
+Xu '''"uuu9"''' Han is a professional Dota 2 player who is currently a member of [[Newbee]].
+</textarea>]

@@ -1,0 +1,25 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=470
+|name2=Results
+|link2=470/Results
+|This=1
+}}
+{{Infobox player
+|id=470
+|name=Ajai Pasupuleti
+|team=Rainbows and Sunshine
+|country=United States
+|country2=tt
+|hero= Clockwerk 
+|hero2= Doom
+|hero3= Dark_Seer
+|role= Offlane
+|dotabuff=53575999
+|datdota=4593
+|history={{TH|2014-10-08 - 2015-01-25|Boreal eSports}}
+{{TH|2015-01-25 - 2015-02-21|ROOT Gaming}}
+{{TH|2015-08-29 - 2016-??-??|GOD BLESS}}
+{{TH|2016-??-?? - '''Present'''|Rainbows and Sunshine}}
+}}&lt;br&gt;
+</textarea>]

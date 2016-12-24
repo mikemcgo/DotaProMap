@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Awoke
+|name2=Results
+|link2=Awoke/Results
+|This=1
+}}
+{{Infobox player
+|id=Awoke
+|image=Awoke.jpg
+|name=叶靓
+|romanized_name=Ye Jing
+|team=
+|role=support
+|status=Retired
+|hero=Enigma
+|hero2=Visage
+|hero3=Enchantress
+|ids=Qeki, haAaDes
+|country=China
+|birth_date={{Birth date and age|1987|11|30}}
+|history=
+{{TH|2009-??-?? — 2009-??-??|IFNT}}
+{{TH|2009-??-?? — 2009-??-??|CYC}}
+{{TH|2009-??-?? — 2010-??-??|G5}}
+{{TH|2011-06-16  — 2011-08-28|TyLoo}}
+{{TH|2012-05-12 — 2012-10-24|Tongfu}}
+}}
+Ye '''"Awoke"''' Jing is a retired Dota 2 player.
+</textarea>]

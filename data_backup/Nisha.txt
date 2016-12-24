@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Nisha}}
+{{Tabs static
+|name1=Overview
+|link1=Nisha
+|name2=Results
+|link2=Nisha/Results
+|This=1
+}}
+{{Infobox player
+|id=Nisha
+|image=Nisha_attaxshooting.jpg
+|name=Michał Jankowski
+|romanized_name=
+|team=Alternate aTTaX
+|birth_date={{Birth date and age|2000|9|28}}
+|country=Poland
+|hero=Slardar
+|hero2=Dark seer
+|hero3=Furion
+|mmr=7711
+|mmrdate=2016-10-07
+|role=offlane
+|status=Active
+|twitch=
+|tlstream=
+|tlprofile=
+|vk=
+|ids=
+|sponsor=[https://www.alternate.de/ Alternate]&lt;br /&gt;[http://www.qpad.com/ QPAD]&lt;br /&gt;[http://www.sharkoon.com/?q=de/ Sharkoon]&lt;br /&gt;[https://www.ckras.com/ CKRAS]&lt;br /&gt;[http://www.beyerdynamic.de/ beyerdynamic]&lt;br /&gt;[http://akracingeurope.eu/ AKRacing]&lt;br /&gt;[http://www.spreadshirt.de/ spreadshirt]
+|website=http://www.alternate-attax.de/
+|twitter=
+|facebook=Michał-Nisha-Jankowski-1555358894753102
+|dotabuff=121769650
+|history=
+{{TH|2014-??-?? — 2015-03-20|Let's Do It}}
+{{TH|2015-03-20 — '''Present'''|Alternate aTTaX}}
+|videoarchive=
+|youtube=
+}}
+
+Michał '''"Nisha"''' Jankowski is a professional Dota 2 player currently playing for [[Alternate aTTaX]].
+</textarea>]

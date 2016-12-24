@@ -1,0 +1,49 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Fogged
+|name2=Results
+|link2=Fogged/Results
+|name3=Broadcasts
+|link3=Fogged/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Fogged
+|image=Fogged DHW 2016.jpg
+|name=Ioannis Loucas
+|team=
+|role=support
+|role2=analyst
+|status=Inactive
+|hero=Rubick
+|hero2=Jakiro
+|hero3=io
+|mmr=6759
+|mmrdate=2016-08-30
+|ids=
+|country=United States
+|birth_date={{Birth date and age|1989|12|12}}
+|site=
+|twitch=Fogged
+|tlstream=Fogged
+|tlprofile=Fogged
+|twitter=FoggedDota
+|datdota=173
+|dotabuff=5448108
+|history=
+{{TH|2012-??-?? — 2012-09-22|PotM Bottom}}
+{{TH|2013-01-06 — 2013-09-19|Team Dignitas}}
+{{TH|2013-09-19 — 2014-02-16|Evil Geniuses}}
+{{TH|2014-02-16 — 2014-04-07|Team Dog}}
+{{TH|2014-04-11 — 2014-06-03|North American Rejects}}
+{{TH|2014-06-03 — 2014-12-05|Na'Vi North America|link=Natus Vincere/Natus_Vincere_North_America}}
+{{TH|2014-12-20 — 2015-02-06|Team FIRE}}
+{{TH|2015-02-25 — 2015-03-20|Monib Baray}}
+{{TH|2015-03-24 — 2015-07-03|North American Rejects}}
+{{TH|2015-07-03 — 2015-08-30|Team Archon}}
+{{TH|2015-08-30 — 2015-10-25|High Council of Wizards&amp;Priests}}
+{{TH|2015-12-02 — 2016-??-??|Steak Gaming}}
+}}
+
+Ioannis '''"Fogged"''' Loucas is a Dota 2 player who most recently played at a professional level for [[Steak Gaming]]. He is currently a member of the semi-professional team [[Vegetables Esports Club]]. He has also been a broadcaster at many prestigious tournament such as [[Manila Major/2016|The Manila Major]], [[The Summit/5|The Summit 5]], and the [[StarLadder/i-League_Invitational/1|StarLadder i-League Invitational]].
+</textarea>]

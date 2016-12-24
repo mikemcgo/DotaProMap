@@ -1,0 +1,45 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Blitz
+|name2=Results
+|link2=Blitz/Results
+|name3=Broadcasts
+|link3=Blitz/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Blitz
+|image=Blitz ESL Frankfurt 2015.jpg
+|name=William Lee
+|team=Digital Chaos
+|role=caster
+|role2=coach
+|status=Inactive
+|hero=Storm Spirit
+|hero2=Timbersaw
+|hero3=Queen of Pain
+|mmr=6713
+|mmrdate=2016-08-15
+|ids=Blitz, Halcyon
+|country=USA
+|birth_date={{Birth date and age|1990|05|21}}
+|twitter=Blitz_DotA
+|dotabuff=106781506
+|twitch=Blitzdota
+|tlstream=Blitz
+|tlprofile=Blitz
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-05-12 — 2012-10-20|ROOT Gaming}}
+{{TH|2012-12-05 — 2013-02-01|Turtle Masters}}
+{{TH|2013-10-13 — 2013-10-27|Team Dignitas}}
+{{TH|2013-11-17 — 2013-12-03|For Our Utopia}}
+{{TH|2014-01-03 — 2015-01-13|Team Zephyr}}
+{{TH|2015-08-23 — 2015-10-02|FIRE|sub}}
+{{TH|2016-??-?? — 2016-07-27|Team Liquid|coach}}
+{{TH|2016-08-25 — '''Present'''|Digital Chaos|coach}}
+|datdota=443
+}}
+
+William '''"Blitz"''' Lee is an ex-professional Dota 2 player and coach for [[Digital Chaos]]. He is also one of the most popular Dota 2 streamers.
+</textarea>]

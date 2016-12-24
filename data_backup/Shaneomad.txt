@@ -1,0 +1,21 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|linke1=Shaneomad
+|name2=Broadcasts
+|link2=Shaneomad/Broadcasts
+|This=1
+}}
+{{Infobox player
+|role=analyst
+|role2=caster
+|id=Shaneomad
+|image=Shaneomad ti6.jpg
+|name=Shane Clarke
+|country=Ireland
+|twitter=shaneomad
+|ids= Shane, Shaneomad, Member of "BaldBoys Studios"
+|twitch=Shaneomad
+|youtube=user/shaneomad
+}}
+</textarea>]

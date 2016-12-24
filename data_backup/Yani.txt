@@ -1,0 +1,19 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Yani
+|image=PlayerImagePlaceholder.png
+|name=Raniel Ogdol
+|team=
+|role=1/2/3
+|hero=Juggernaut
+|hero2=Alchemist
+|hero3=
+|ids=
+|country=Philippines
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-02 — 2013-05-29|Mineski}}
+}}
+
+Raniel '''"Yani"''' Ogdol is a Dota 2 player who is currently teamless.
+</textarea>]

@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Eosin
+|image=Eosin.jpeg
+|name= Steven Cheng
+|team=
+|role=support
+|status=Active
+|hero=sand king
+|hero2=io
+|hero3=
+|ids=
+|country=USA
+|birth_date=
+|twitch=eosintrash
+|tlstream=eosintrash
+|youtube=stevenc1023
+|twitter=EosinDota
+|datdota=774
+|dotabuff=20796460
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-??-?? — 2013-05-06|Eosin + 4}}
+{{TH|2013-05-06 — 2013-06-??|Denial eSports}}
+{{TH|2014-01-03 — 2015-01-13|Team Zephyr}}
+}}
+
+Steven '''"Eosin"''' Cheng is a professional Dota 2 player who most recently played for [[Team Zephyr]].
+</textarea>]

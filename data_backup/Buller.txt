@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Buller
+|name2=Results
+|link2=Buller/Results
+|This=1
+}}
+{{Infobox player
+|id=Buller
+|image=PlayerImagePlaceholder.png
+|name=Balder Jensen
+|team=
+|role=1/3
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Denmark
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013 — 2013-04-03|3DMAX}} 
+}}
+
+Balder '''"Buller"''' Jensen is a professional Dota 2 player who currently is without a team.
+</textarea>]

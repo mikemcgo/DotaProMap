@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ecnart
+|name2=Results
+|link2=Ecnart/Results
+|This=1
+}}
+{{Infobox player
+|id=Ecnart
+|image=EcNart.jpg
+|name=Сергій Слободяник
+|romanized_name=Sergey Slobodyanyk
+|team=
+|role=support
+|hero=Pudge
+|hero2=Earthshaker
+|hero3=Witch Doctor
+|ids=
+|country=Ukraine
+|birth_date=
+|dotabuff=66620961
+|history='''Dota 2'''&lt;br&gt;
+{{TH|2014-11-29 — 2015-10-11|ScaryFaceZ}}
+}}
+
+Sergey "'''Ecnart'''" Slobodyanyk is a professional Dota 2 player who last played for [[ScaryFaceZ]].
+</textarea>]

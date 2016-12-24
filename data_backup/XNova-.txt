@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub|no-cat=false}}
+{{Tabs static
+|name1=Overview
+|link1=xNova-
+|name2=Results
+|link2=xNova-/Results
+|This=1
+}}
+{{Infobox player
+|id=xNova-
+|image=PlayerImagePlaceholder.png
+|name=叶建暐
+|romanized_name=Yap Jian Wei
+|team=WarriorsGaming.Unity
+|ids=
+|country=Malaysia
+|role=support
+|status=Active
+|hero=Night Stalker
+|hero2=Tusk
+|hero3=Visage
+|mmr=6987
+|mmrdate=2016-11-27
+|dotabuff=94296097
+|history=
+{{TH|2015-01-01 — 2016-03-20|Who2Bet}} 
+{{TH|2016-03-20 — 2016-08-19|Mineski-X}}
+{{TH|2016-09-17 — '''Present'''|WarriorsGaming.Unity}}
+}}
+
+Jian Wei '''"xNova-"''' Yap is a professional Dota 2 player who playing support for [[WarriorsGaming.Unity]].
+</textarea>]

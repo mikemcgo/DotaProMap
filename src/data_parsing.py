@@ -16,27 +16,35 @@ def fix_history(history):
 	history_list = []
 	# This could be more pythonic
 	for entry in history:
-		history_list.extend(entry[:1])
+		history_list.extend(entry[:2])
 	history_list.reverse()
 	# Since history list is reversed (most recent at the beginning)
+	print("history object: " + str(history))
+	print("history_list: " + str(history_list))
+	end_list = []
 	for index, date in enumerate(history_list):
+		print(str(index) + " " + str(date))
 		if '?' in date:
 			if index == 0:
-				history_list[index] = round_date(date, "2017-12-31", False)
+				print("First date has ambiguity")
+				end_list.append(round_date(date, "2017-12-31", False))
 			elif index == len(history_list) - 1:
-				history_list[index] = round_date(date, "2010-01-01", True)
+				print("Final date has ambiguity")
+				end_list.append(round_date(date, "2010-01-01", True))
 			else:
 				# examine surrounding dates and put into that context
-				history_list[index] = date_context(history_list[index - 1: index + 2], index % 2 == 0)
-	history_list.reverse()
+				end_list.append(date_context(history_list[index - 1: index + 2], index % 2 == 0))
+		else:
+			end_list.append(date)
+
+	end_list.reverse()
 	# Read data back into history object
-	for index in range(len(history_list)):
-		print(str(index // 2) + " " + str(index% 2))
-		history[index // 2][index % 2] = history_list[index]
+	for index in range(len(end_list)):
+		history[index // 2][index % 2] = end_list[index]
 	# Appears that no entries are added to history list after '?' is encountered
-	print(history_list)
-	print(history)
-	return history
+	print("end_list" + str(end_list))
+	print("history_final:" + str(history))
+	print("\n\n\n")
 
 # reverse the history
 # ensure the most recent team end date is properly formatted
@@ -112,12 +120,12 @@ def round_date(date, target, up):
 	target = target.split('-')
 	date_separated = date.replace('??', '99').split('-')
 	try:
-		return "{}-{}-{}".format(rounder(int(target[0]), int(date_separated[0])), rounder(int(target[1]), int(date_separated[1])), rounder(int(target[2]), int(date_separated[2])))
+		ret_date = "{}-{}-{}".format(rounder(int(target[0]), int(date_separated[0])), rounder(int(target[1]), int(date_separated[1])), rounder(int(target[2]), int(date_separated[2])))
 	except:
 		# Create proper exception handling format here
-		print("date:" + str(date))
-		print("target" + str(target))
+		print("Error in rounding date, target:" + str(date) + ", " + str(target))
 		raise
+	return ret_date
 
 db_client = MongoClient()
 db = db_client.dota
@@ -129,10 +137,11 @@ RESULTS_DIRECTORY = "results/"
 
 # Establish a file for tracking pages that cause issues, mostly personalities
 nil_history_pages = open(RESULTS_DIRECTORY + "0_error_pages.txt", 'w')
-history_error_pages = open(RESULTS_DIRECTORY + "0_noneerror_pages.txt", 'w')
-malformed_date_players = open(RESULTS_DIRECTORY + "0_invalid_history_format", 'w')
+history_error_pages = open(RESULTS_DIRECTORY + "0_history_error_pages.txt", 'w')
 
 for file_name in os.listdir(DATA_DIRECTORY):
+	# If an error is detected, do not add to the databse
+	error = False
 	try:
 		# Read incoming data
 		input_file = open(DATA_DIRECTORY + file_name)
@@ -145,6 +154,7 @@ for file_name in os.listdir(DATA_DIRECTORY):
 		history = removed_top[1].rpartition("}}")[0]
 	except IndexError:
 		# These files had no history listed
+		error = True
 		nil_history_pages.write(file_name + "\n")
 
 	# Retrieve the key value pairs in the nonstandard data format
@@ -158,31 +168,34 @@ for file_name in os.listdir(DATA_DIRECTORY):
 	player_attrs['history'] = []
 	# Obtain the history of the players, using parse to retrieve the data
 	# This method is not robust, but I don't feel like learning regex at the moment
-	# A number of None entries are appearing, due to nonstandard data formats (270/3972 lines are bad)
+	# A number of None entries are appearing, due to nonstandard data formats
 	for line in history.split("\n"):
-		# http://stackoverflow.com/questions/11844986/convert-string-to-variables-like-format-but-in-reverse-in-python
 		if "{{TH|" in line:
 			line = line.replace('{', '').replace('}', '')
 			history_element = None
+			# Account for hypen dash discrepencies
 			if '—' in line:
+				# http://stackoverflow.com/questions/11844986/convert-string-to-variables-like-format-but-in-reverse-in-python
 				history_element = parse("TH|{} — {}|{}", line)
 			else:
 				history_element = parse("TH|{} - {}|{}", line)
 			if history_element:
 				# Replace the string present in the history tuple with the current date
-				player_attrs['history'].append([history_element[0], history_element[1] if not 'present' in history_element[1].lower() else time.strftime("%Y-%m-%d") , history_element[2], '?' in history_element[0], '?' in history_element[1]])
+				entry = [history_element[0], history_element[1] if not 'present' in history_element[1].lower() else time.strftime("%Y-%m-%d") , history_element[2], '?' in history_element[0], '?' in history_element[1]]
+				if not True in entry:
+					player_attrs['history'].append(entry)
+				else:
+					# If there is ambiguity in the dates, then simply ignore them for now
+					# There is logic at the top of this file to try to fix it but I am ignoring it for now
+					history_error_pages.write("single line error in " + file_name + ":" + line + "\n")
 			else:
-				history_error_pages.write(file_name + ":" + line + "\n")
+				# Does not appear to be activated in the dataset, but going to keep
+				history_error_pages.write(file_name + " no history element:" + line + "\n")
+				error = True
 
-	try:
-		player_attrs['history'] = fix_history(player_attrs['history'])
-	except:
-		malformed_date_players.write(str(player_attrs['id']) + "\n")
-
-	db.players.insert(player_attrs)
+	if not error:
+		db.players.insert(player_attrs)
+		print(player_attrs['history'])
 
 history_error_pages.close()
 nil_history_pages.close()
-malformed_date_players.close()
-
-

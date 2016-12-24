@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Atze
+|image=PlayerImagePlaceholder.png
+|name=Marcel Binz 
+|team=
+|birth_date
+|country=Germany
+|hero=
+|hero2=
+|role=5
+|twitch=
+|tlstream=
+|tlprofile=
+|site=
+|twitter=atze_dota
+|youtube=
+|fanpage=
+|history=
+{{TH|2012-10-01 — 2012-11-17|Meet Your Makers}}
+{{TH|2012-12-08 — 2013-01-03|We haz Asian}}
+{{TH|2013-??-?? — 2013-08-29|TCM-Gaming}}
+}}
+
+Marcel '''"Atze"'''  Binz is a professional Dota 2 player who is currently teamless.
+</textarea>]

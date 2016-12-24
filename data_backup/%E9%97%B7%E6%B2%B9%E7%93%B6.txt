@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=闷油瓶
+|name2=Results
+|link2=闷油瓶/Results
+|This=1
+}}
+{{Infobox player
+|id=闷油瓶
+|image=PlayerImagePlaceholder.png
+|ids=
+|name=王亮
+|romanized_name=Wang Liang
+|team=Avalon Club
+|role=support
+|status=Active
+|mmr=6067
+|mmrdate=2016-10-25
+|hero=Rubick
+|hero2=Lion
+|hero3=
+|country=China
+|datdota=
+|dotabuff=167072778
+|twitter=
+|birth_date={{Birth date and age|1994|11|30}}
+|history=
+{{TH|2015-07-?? — 2015-12-??|E-Sports Dream}}
+{{TH|2016-07-?? — 2016-10-03|BraveHeart.Zombie}}
+{{TH|2016-10-18 — '''Present'''|Avalon Club}}
+}}
+
+Wang '''"闷油瓶"'''' Liang is a professional Chinese Dota 2 player who currently playing for [[Avalon Club]].
+</textarea>]

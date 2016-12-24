@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Masquerade
+|name2=Results
+|link2=Masquerade/Results
+|This=1
+}}
+{{Infobox player
+|id=Masquerade
+|image=PlayerImagePlaceholder.png
+|name=Enkhbayar Batsukh
+|team=The Mongolz
+|birth_date=
+|country=Mongolia
+|hero=beastmaster
+|hero2=broodmother
+|hero3=batrider
+|mmr=6299
+|mmrdate=2016-09-10
+|role=offlane
+|ids=Masquerino
+|datdota=
+|twitch=
+|twitter=
+|facebook=
+|dotabuff=39256913
+|history=
+{{TH|2013-12-20 — '''Present'''|The Mongolz}}
+}}
+
+Enkhbayar '''"Masquerade"''' Batsukh is a professional Dota 2 player currently playing for [[The Mongolz]].
+</textarea>]

@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Aui_2000}}
+{{Tabs static
+|name1=Overview
+|link1=Aui_2000
+|name2=Results
+|link2=Aui_2000/Results
+|This=1
+}}
+{{Infobox player
+|id=Aui_2000
+|image=Aui 2000 ESL Frankfurt 2015.jpg
+|name=Kurtis Daniel Ling
+|team=Team NP
+|country=Canada
+|hero=Morphling
+|hero2=Tiny
+|hero3=Lone Druid
+|mmr=8191
+|mmrdate=2016-12-05
+|role=carry
+|role2=support
+|status=Active
+|birth_date={{Birth date and age|1992|10|2}}
+|site=
+|twitch=aui_2000
+|tlstream=Aui_2000
+|tlprofile=Aui_2000
+|twitter=Aui_2000
+|facebook=Aui2000dota
+|datdota=176
+|dotabuff=40547474
+|fanclub=http://www.liquiddota.com/forum/players-and-teams/471218-aui_2000-discussion
+|history=
+{{TH|2012-??-?? — 2012-09-22|PotM Bottom}}
+{{TH|2012-09-22 — 2013-09-18|Team Dignitas}}
+{{TH|2013-09-19 — 2013-10-09|RSnake.int}}
+{{TH|2013-10-09 — 2014-02-09|Speed.int|link=Speed Gaming.int}}
+{{TH|2014-02-09 — 2015-01-05|Cloud9}}
+{{TH|2015-01-05 — 2015-08-14|Evil Geniuses}}
+{{TH|2015-08-24 — 2016-03-25|Digital Chaos}}
+{{TH|2016-03-25 — 2016-06-13|Evil Geniuses}}
+{{TH|2016-06-13 — 2016-08-19|Team Secret|coach}}
+{{TH|2016-09-08 — '''Present'''|Team NP}}
+}}
+
+Kurtis '''"Aui_2000"''' Ling, often pronounced by spelling the name, is a Canadian player from Vancouver, Canada. Kurtis was a support player for [[Evil Geniuses]], [[Cloud9]], and [[Digital Chaos]]. He also previously played carry for [[Evil Geniuses]] and [[Team Dignitas]]. He is currently playing carry for [[Team NP]].
+</textarea>]

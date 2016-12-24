@@ -1,0 +1,58 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=ComeWithMe
+|name2=Results
+|link2=ComeWithMe/Results
+|This=1
+}}
+{{Infobox player
+|id=ComeWithMe
+|image=PlayerImagePlaceholder.png
+|name=Alexandru Craciunescu
+|team=
+|role=support
+|status=Active
+|hero=Visage
+|hero2=Vengeful Spirit
+|hero3=Rubick
+|mmr=7596
+|mmrdate=2016-10-07
+|ids=CWM
+|country=Romania
+|birth_date={{Birth date and age|1992|11|4}}
+|facebook=DotaComeWithMe
+|datdota=143
+|site=
+|twitch=ComeWithMe
+|tlstream=
+|tlprofile=
+|twitter=cwmdota
+|dotabuff=85375207
+|history='''Dota:'''&lt;br&gt;
+{{TH|2008|neXt!Please}}
+{{TH|2009|diXi}}
+{{TH|2009|Wait 4 Team}}
+{{TH|2009|AirWalk}}
+{{TH|2010|neXt!Please}}
+{{TH|2010—2011|The Elder Gods}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-08-11 — 2011-11-23|Online Kingdom}}
+{{TH|2011-??-?? — 2011-12-??|The Elder Gods}}
+{{TH|2011-12-?? — 2011-12-23|Poor Happy Guys}}
+{{TH|2011-12-23 — 2012-05-08|Team Dignitas}}
+{{TH|2012-04-09 — 2012-05-24|Darer}}
+{{TH|2012-05-17 — 2012-09-16|mousesports}}
+{{TH|2012-09-24 — 2012-12-12|Absolute Legends}}
+{{TH|2013-02-01 — 2013-02-21|QPAD Red Pandas}}
+{{TH|2013-04-29 — 2013-07-21|Kaipi}}
+{{TH|2013-09-05 — 2013-12-23|Super Strong Dinosaurs}}
+{{TH|2014-12-01 — 2015-01-09|hehe united}}
+{{TH|2015-02-21 — 2015-06-27|Burden United}}
+{{TH|2015-09-24 — 2015-11-07|Kaipi}}
+{{TH|2016-01-02 — 2016-01-??|Burden United}}
+{{TH|2016-03-14 — 2016-07-01|Kaipi}} 
+{{TH|2016-09-08 — 2016-11-02|Prodota Gaming}}
+}}
+
+Alexandru "'''ComeWithMe'''" Craciunescu is a professional Dota 2 player who is currently teamless
+</textarea>]

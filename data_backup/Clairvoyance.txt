@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Clairvoyance}}
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Clairvoyance
+|name2=Results
+|link2=Clairvoyance/Results
+|This=1
+}}
+{{Infobox player
+|id=Clairvoyance
+|image=PlayerImagePlaceholder.png
+|name=Aaron Kim
+|birth_date=
+|country=Canada
+|country2=South Korea
+|hero=Bane
+|hero2=Witch Doctor
+|hero3=Crystal Maiden
+|role=support
+|status=Active
+|team=
+|ids=jalesh
+|mmr=6998
+|mmrdate=2016-05-05
+|twitter=
+|facebook=
+|dotabuff=102119379
+|datdota=
+|history=
+{{TH|2013-02-28 - 2013-03-21|To Inphinity and Beyond}}
+{{TH|2015-02-26 - 2015-03-21|Monib Baray}}
+{{TH|2015-09-02 - 2015-09-17|High Council of Wizards&amp;Priests}}
+{{TH|2016-05-01 - 2016-06-??|Dragneel}}
+{{TH|2016-06-?? - 2016-09-??|Void Boys}}
+}}
+
+Aaron '''"Clairvoyance"''' Kim is a Canadian professional Dota 2 player who is currently teamless. He has previously been a caster with joinDota, and acted as a coach for [[Cloud9]] at [[TI4]].&lt;ref&gt;http://www.joindota.com/en/news/19541-ti4-coach-presentation&lt;/ref&gt;
+</textarea>]

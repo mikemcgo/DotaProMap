@@ -1,0 +1,16 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Infobox player 
+|id=Cyborgmatt
+|image=PlayerImagePlaceholder.png
+|name=Matthew Bailey
+|team=Team Secret
+|country=United Kingdom
+|reddit=Cyborgmatt
+|twitch=cyborgmatt
+|facebook=cyborgmatt
+|site=http://www.cyborgmatt.com/
+|twitter=cyborgmatt
+|youtube=Cyborgmatt
+}}
+{{player-stub}}
+Matthew '''"Cyborgmatt"''' Bailey is a popular community figure in Dota community, getting his start by analysis of Dota 2 patch content. He is now the manager of [[Team Secret]].
+</textarea>]

@@ -1,0 +1,27 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:gnoji}}
+{{Tabs static
+|name1=Overview
+|link1=Gnoji
+|name2=Results
+|link2=Gnoji/Results
+|This=1
+}}
+{{Infobox player
+|id=gnoji
+|image=PlayerImagePlaceholder.png
+|name=Ceejay Pelagio
+|team=
+|role=carry
+|status=Active
+|hero=Drow
+|hero2=Gyrocopter
+|ids=
+|country=Philippines
+|birth_date=
+|history='''Dota 2'''&lt;br&gt;
+{{TH|2015-01-22 — 2015-10-??|TnC Gaming}}
+}}
+
+Ceejay '''"gnoji"''' Pelagio is a professional Dota 2 player who is currently teamless.
+</textarea>]

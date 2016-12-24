@@ -1,0 +1,25 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:MafiA}}
+{{Infobox player
+|id=MafiA
+|image=MVP_Mafia.jpg
+|name=Kim Byung Hoon 
+|team=
+|role=support
+|hero=Bane
+|hero2=
+|hero3=
+|ids=
+|country=South Korea
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-??-?? — 2013-07-16|Eyes of Tiger Hammer}}
+{{TH|2013-09-01 — 2014-??-??|MVP HOT6ix}}
+}}
+
+Kim Byung '''"MafiA"''' Hoon is a professional Dota 2 player that is currently teamless.
+</textarea>]

@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}} 
+{{Tabs static
+|name1=Overview
+|link1=Admiration
+|name2=Results
+|link2=Admiration/Results
+|This=1
+}}
+{{Infobox player
+|id=Admiration
+|image=WIH-BEYlT.jpg
+|name=Igor Kalnysh
+|team=
+|role=
+|hero=Tinker
+|hero2=Morphling
+|hero3=
+|ids=
+|country=Russia
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+}}
+
+Igor "'''Admiration'''" Kalnysh is a professional Dota 2 player who is currently teamless.
+</textarea>]

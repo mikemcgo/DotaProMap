@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Godot
+|name2=Results
+|link2=Godot/Results
+|This=1
+}}
+{{Infobox player
+|id=Godot
+|image=Godot_profile.jpg
+|name=Darcy Milho Jose
+|team=Arcanys
+|role=offlane
+|status=Active
+|hero=Furion
+|hero2=Sand King
+|hero3=Mirana
+|ids=
+|mmr=6416
+|mmrdate=2016-11-14
+|country=Australia
+|birth_date={{Birth date and age|1991|09|28}}
+|datdota=2
+|dotabuff=34726076
+|facebook=Godot.au
+|twitch=Godot
+|twitter=GodotAU
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011-11-02 — 2012-01-21|Natural 9}}
+{{TH|2012-01-21 — 2012-08-09|Absolute Legends}}
+{{TH|2012-09-08 — 2013-02-11|Natural 9}}
+{{TH|2014-04-08 — 2014-09-26|Team Immunity}}
+{{TH|2014-09-26 — 2015-05-30|Can't Say Wips}}
+{{TH|2015-06-17 — 2015-??-??|Can't Say Wips}}
+{{TH|2015-10-05 — 2016-??-??|Spac_ Creators}}
+{{TH|2015-02-02 — 2016-08-15|Can't Say Wips}}
+{{TH|2016-08-15 — 2016-10-22|Arcanys Gaming}}
+}}
+
+Darcy '''"Godot"''' Jose is a professional Australian Dota 2 player who plays for [[Arcanys Gaming]].
+</textarea>]

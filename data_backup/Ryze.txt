@@ -1,0 +1,49 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ryze
+|name2=Results
+|link2=Ryze/Results
+|This=1
+}}
+{{Infobox player
+|id=Ryze
+|image=Ryze_DHW_2016.jpg
+|name=Christoffer Winther
+|team=
+|role=support
+|status=Active
+|hero=Shadow Demon
+|hero2=Crystal Maiden
+|hero3=Skywrath Mage
+|ids=
+|country=Denmark
+|birth_date=
+|site=
+|twitch=ryzedota
+|tlstream=
+|tlprofile=
+|twitter=ryzedota
+|facebook=RyzeDota-1310611562312705
+|datdota=125
+|dotabuff=26682464
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-01-30 — 2012-02-21|DD.Dota}}
+{{TH|2012-02-21 — 2012-04-29|Quantic Gaming}}
+{{TH|2012-04-29 — 2012-05-03|Eclypsia}}
+{{TH|2012-09-16 — 2012-09-22|Copenhagen Wolves}}
+{{TH|2012-09-22 — 2012-11-17|Team Shakira}}
+{{TH|2012-11-17 — 2012-02-04|DD.Dota}}
+{{TH|2013-02-10 — 2013-06-02|Absolute Legends}}
+{{TH|2013-06-02 — 2013-06-06|Space}}
+{{TH|2013-06-06 — 2013-10-16|Flip.sid3 Tactics}}
+{{TH|2013-10-16 — 2014-01-23|Mousesports}}
+{{TH|2014-03-31 — 2014-09-30|Meet Your Makers}}
+{{TH|2014-11-26 — 2015-03-09|Lianghao}}
+{{TH|2015-03-09 — 2015-04-29|Flipside Tactics}}
+{{TH|2015-08-31 — 2015-06-24|Danish Bears}}
+{{TH|2015-06-24 — 2016-12-09|The Imperial}}
+}}
+
+Christopher '''"Ryze"''' Winther is a professional Dota 2 player who last played for [[The Imperial]].
+</textarea>]

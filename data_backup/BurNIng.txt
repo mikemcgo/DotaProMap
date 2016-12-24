@@ -1,0 +1,45 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=BurNIng
+|name2=Results
+|link2=BurNIng/Results
+|This=1
+}}
+{{Infobox player
+|id=BurNIng
+|image=WIH-Burning-RnWt7.jpg
+|name=徐志雷
+|romanized_name=Xu Zhilei
+|team=Invictus Gaming
+|role=carry
+|status=Active
+|hero=Anti-Mage
+|hero2=Morphling
+|hero3=Luna
+|mmr=8185
+|mmrdate=2016-11-24
+|country=China
+|tencent=Burning
+|facebook=DK.BurningAAA
+|stream=http://www.zhanqi.tv/burning
+|datdota=21
+|dotabuff=90892734
+|birth_date={{Birth date and age|1988|2|16}}
+|ids=AAA
+|history='''DotA:'''&lt;br&gt;
+{{TH|2008-10-01 — 2008-11-01|CaNt}}
+{{TH|2008-11-28 — 2009-04-20|7L}}
+{{TH|2009-05-01 — 2009-11-09|Ks.cn}}
+{{TH|2009-11-09 — 2009-12-31|CityHunter}}
+{{TH|2010-01-01 — 2011-01-14|EHOME}}
+{{TH|2011-01-14 — 2014-08-17|Team DK}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-01-14 — 2014-08-17|Team DK}}
+{{TH|2014-12-31 — 2015-03-05|Big God}}
+{{TH|2015-03-05 — 2015-09-03|Invictus Gaming}}
+{{TH|2015-09-03 — 2016-09-14|Vici Gaming}}
+{{TH|2016-09-17 — '''Present'''|Invictus Gaming}}
+}}
+Xu '''"BurNIng"''' Zhilei is a professional Dota 2 player who is currently playing for [[Invictus Gaming]].&lt;br /&gt;
+He is regarded as one of the best and most experienced carry players in the world, winning several carry awards and international championships throughout the years.
+</textarea>]

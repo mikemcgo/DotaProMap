@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Vaalix
+|name2=Results
+|link2=Vaalix/Results
+|This=1
+}}
+{{Infobox player
+|id=Vaalix
+|image=PlayerImagePlaceholder.png
+|name=Mikko Ristimäki
+|team=
+|country=Finland
+|birth date={{Birth date and age|1996|1|29}}
+|hero=Lion
+|hero2=Skywrath Mage
+|hero3=Keeper of the Light
+|ids=Valix
+|role=support
+|status=Active
+|datdota=2262
+|dotabuff=36864918
+|twitter=VaalixDota
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-06-24 — 2014-08-30|Veni,Vidi,Vici}}
+{{TH|2014-09-30 — 2015-09-28|4 Anchors + Sea Captain}}
+{{TH|2015-09-28 — 2016-03-02|STARK eSports}}
+}}
+
+Mikko "'''Vaalix'''" Ristimäki is a professional Dota player who last played for [[STARK eSports]]. He was also formerly a professional League of Legends player.
+</textarea>]

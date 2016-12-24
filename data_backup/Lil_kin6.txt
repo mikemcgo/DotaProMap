@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Lil_kin6}}
+
+{{Tabs static
+|name1=Overview
+|link1=Lil kin6
+|name2=Results
+|link2=Lil kin6/Results
+|This=1
+}}
+{{Infobox player
+|id=Lil_kin6
+|team=
+|image=lil.jpg
+|name=Marcio Rodrigues
+|birth_date={{Birth date and age|1995|10|04}}
+|country=Brazil
+|hero=Winter Wyvern
+|hero2=Rubick
+|hero3=Lion
+|twitch=Lil_kin6
+|role=support
+|status=Active
+|facebook=Lilkin6
+|twitter=Rmarcio_
+|dotabuff=103578570
+|history=
+{{TH|2015-06-14 — 2015-07-22|semXorah}}
+{{TH|2015-09-06 — 2015-10-16|T Show}}
+{{TH|2015-10-28 — 2015-11-15|Puck You}}
+{{TH|2015-11-15 — 2015-12-20|Marcha Funebre}}
+{{TH|2016-03-07 — 2016-10-19|paiN Gaming}}
+{{TH|2016-10-19 — 2016-11-14|Kingao+4}}
+}}
+
+Marcio '''"Lil_kin6"''' Rodrigues is a brazilian professional DotA 2 player from Rio de Janeiro.
+</textarea>]

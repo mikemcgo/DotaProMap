@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=KingJ
+|name2=Results
+|link2=KingJ/Results
+|This=1
+}}
+{{Infobox player
+|id=KingJ
+|image=WIH-KingJ-RFLMZ.jpg
+|name=周扬
+|romanized_name=Zhou Yang
+|team=
+|role=offlane
+|status=Active
+|hero=Morphling
+|hero2=Venomancer
+|hero3=Visage
+|country=China
+|birth_date= 
+|history='''DotA:'''&lt;br&gt;
+{{TH|2010-??-?? — 2011-01-14|EHOME}}
+{{TH|2011-01-16 — 2011-08-10|Team DK}}
+{{TH|2011-08-?? — 2012-01-??|Nirvana.cn}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2012-04-27 — 2012-04-27|EHOME}}
+{{TH|2013-03-20 — 2013-04-16|For.Love}}
+{{TH|2013-04-16 — 2013-09-09|TongFu}}
+{{TH|2013-09-09 — 2013-11-27|RisingStars}}
+{{TH|2014-02-23 — 2015-03-12|Newbee}}
+{{TH|2015-03-12 — 2015-04-13|TongFu}}
+{{TH|2016-03-25 — 2016-??-??|FTD club A}}
+}}
+
+Zhou '''"KingJ"''' Yang is a professional Dota 2 player who last played for [[FTD club A]].
+</textarea>]

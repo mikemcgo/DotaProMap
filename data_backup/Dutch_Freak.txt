@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:Dutch_Freak}}
+{{Tabs static
+|name1=Overview
+|link1=Dutch Freak
+|name2=Results
+|link2=Dutch Freak/Results
+|This=1
+}}
+{{Infobox player
+|id=Dutch_Freak
+|image=PlayerImagePlaceholder.png
+|name=Hugo Bos
+|team=
+|role=support
+|status=Inactive
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Netherlands
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011 — 2012|LowLandLions}}
+{{TH|2012-10-31 — 2013-01-19|mTw}}
+{{TH|2013-01-19 — 2013-02-26|Re-defining Madness}} 
+}}
+
+Hugo '''"Dutch_Freak"''' Bos is a professional Dota 2 player who is currently without a team.
+</textarea>]

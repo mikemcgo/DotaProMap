@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Klotz22
+|name2=Results
+|link2=Klotz22/Results
+|This=1
+}}
+{{Infobox player
+|id=Klotz22
+|image=PlayerImagePlaceholder.png
+|name=Paulo Nóbrega
+|team=
+|role=carry
+|status=Active
+|hero=Weaver
+|hero2=Lifestealer
+|hero3=Luna
+|ids=
+|country=Brazil
+|dotabuff=118212190
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-12-?? — 2013-??-??|Nex Impetus}}
+{{TH|2013-08-07 — 2013-12-05|Keyd Stars}}
+{{TH|2014-01-03 — 2014-03-11|Swagenteiger}}
+{{TH|2014-03-11 — 2014-04-07|CNB e-Sports Club}}
+{{TH|2014-08-21 — 2014-09-09|CNB e-Sports Club}}
+{{TH|2014-09-09 — 2014-10-01|paiN Gaming}}
+{{TH|2014-10-27 — 2015-03-??|INTZ eSports}}
+{{TH|2015-03-?? — 2015-04-28|Swagenteiger}}
+{{TH|2015-09-08 — 2015-10-22|Artyk Gaming}}
+{{TH|2016-05-30 — 2015-08-06|Swagenteiger}}
+}}
+
+Paulo '''"Klotz22"''' Nóbrega is a professional DotA player who is currently teamless.
+</textarea>]

@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=TpoH
+|name2=Results
+|link2=TpoH/Results
+|This=1
+}}
+{{Infobox player
+|id=TpoH
+|image=PlayerImagePlaceholder.png
+|name=Максим Верников
+|romanized_name=Maxim Vernikov
+|team=
+|role=carry
+|status=Active
+|hero=Gyrocopter
+|hero2=Anti-Mage
+|hero3=Slark
+|mmr=7297
+|mmrdate=2016-04-09
+|ids=
+|country=Russia
+|dotabuff=244825713
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-06-24 — 2013-09-04|RoX}}
+{{TH|2013-09-04 — 2013-??-??|Oslik Gaming}}
+{{TH|2014-??-?? — 2014-03-15|Phoenix Rising}}
+{{TH|2014-03-15 — 2014-04-12|Flipside Tactics}}
+{{TH|2014-08-08 — 2014-11-21|Moscow Five}}
+{{TH|2015-02-01 — 2015-03-10|Vega Squadron}}
+{{TH|2015-03-25 — 2015-??-??|Moscow Five}}
+{{TH|2015-08-31 — 2015-09-01|Yellow Submarine}}
+{{TH|2015-09-01 — 2015-09-28|PRIES}}
+{{TH|2015-09-28 — 2015-??-??|Arcade.PowerRangers}}
+{{TH|2015-12-08 — 2016-02-04|Prodota Gaming}}
+{{TH|2016-02-04 — 2016-03-26|RoX}}
+}}
+Maxim '''"TpoH"''' Vernikov (pronounced "'''Tron'''") is a professional Dota 2 player who most recently played for [[RoX]]. He is currently teamless.
+</textarea>]

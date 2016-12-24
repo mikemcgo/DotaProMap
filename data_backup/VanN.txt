@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:vanN}}
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=vanN
+|name2=Results
+|link2=vanN/Results
+|This=1
+}}
+{{Infobox player
+|id=vanN
+|image=VaNn.jpg
+|name=Juan Carlos Tito Carrizales
+|team=Elite Wolves
+|role=carry
+|status=Banned
+|hero=Slark
+|hero2=Shadow Fiend
+|hero3=Storm Spirit
+|mmr=8124
+|mmrdate=2016-12-10
+|country=Peru
+|facebook=Dota.vanN
+|twitch=vanndota
+|datdota=6324
+|dotabuff=194818271
+|history={{TH|2015-02-02 — 2015-08-29|Not Today}}
+{{TH|2015-08-29 — 2015-09-30|Sector V}}
+{{TH|2015-09-30 — 2015-12-03|Elite Wolves}}
+{{TH|2015-12-06 — 2015-12-16|Artyk Gaming}}
+{{TH|2015-12-16 — 2015-12-25|Slayers of Gods}}
+{{TH|2015-12-25 — '''Present'''|Elite Wolves}}
+}}
+
+Juan Carlos '''"vanN"''' Tito is a Peruvian professional Dota 2 player who currently plays for [[Elite Wolves]].
+</textarea>]

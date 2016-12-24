@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Zfreek
+|name2=Results
+|link2=Zfreek/Results
+|This=1
+}}
+{{Infobox player
+|id=Zfreek
+|image=Zfreek ESL One Manila 2016.jpeg
+|name=Zakari Freedman
+|country=United States
+|team=compLexity Gaming
+|role=support
+|status=Active
+|hero=Chen
+|hero2=Enigma
+|hero3=Io
+|ids=Lightning, ZFreeK
+|twitch=zfreek
+|twitter=coL_zfreek
+|facebook=ZFreek94
+|dotabuff=50828662
+|history=
+{{TH|2014-??-?? — 2014-08-27|stayGreen}}
+{{TH|2014-08-27 — '''Present'''|compLexity Gaming}}
+}}
+
+Zakari "'''Zfreek'''" Freedman is an American former professional Heroes of Newerth player who switched full time to Dota 2 in mid-2014. He is currently playing for [[compLexity Gaming]].
+</textarea>]

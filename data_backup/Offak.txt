@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Offak
+|name2=Results
+|link2=Offak/Results
+|This=1
+}}
+{{Infobox player
+|id=Offak
+|image=PlayerImagePlaceholder.png
+|name=Daniel Gorol
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=OFFak, offak
+|country=Czech Republic
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-03-21 — 2012-09-23|SGC}}
+{{TH|2013-05-15 — 2014-??-??|iNfernity Gaming}} 
+}}
+Daniel '''"Offak"''' Gorol is a former professional Dota 2 player, who currently does commentaries for professional Dota 2 games.
+</textarea>]

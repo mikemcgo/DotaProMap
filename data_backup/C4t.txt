@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{lowercase}}
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=C4t
+|name2=Results
+|link2=C4t/Results
+|This=1
+}}
+
+{{Infobox player
+|id=c4t
+|image=paiN.C4t.jpg
+|name=Emilano Ito Gerotto Yamakawa
+|birth_date={{Birth date and age|1993|02|12}}
+|country= Brazil
+|hero=Dazzle
+|hero2=Winter Wyvern
+|hero3=Crystal Maiden
+|role=support
+|status=Active
+|team=SG e-sports
+|mmr=6000
+|mmrdate=2016-06-02
+|twitter=
+|facebook=c4tdota
+|dotabuff=37658157
+|history=
+{{TH|Unknown|CNB e-Sports Club}}
+{{TH|2015-06-30 — 2015-12-24|paiN Gaming}}
+{{TH|2016-02-10 — 2016-06-06|T Show}}
+{{TH|2016-06-06 — 2016-10-19|paiN Gaming}}
+{{TH|2016-10-19 — 2016-11-13|Kingao+4}}
+{{TH|2016-11-13 — '''Present'''|SG e-sports}}
+}}
+
+Emilano '''"c4t"''' Ito is a [[:Category:Brazil|Brazilian]] player currently playing for [[SG e-sports]].
+</textarea>]

@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=RR
+|name2=Results
+|link2=RR/Results
+|This=1
+}}
+{{Infobox player
+|id=RR
+|image=PlayerImagePlaceholder.png
+|name=Ralph Richard Peñano
+|team=Mineski
+|role=offlane
+|status=Active
+|hero=Slardar
+|hero2=Tidehunter
+|hero3=Beastmaster
+|mmr=7425
+|mmrdate=2016-11-24
+|ids=
+|country=Philippines
+|birth_date=
+|datdota=1051
+|dotabuff=323792491
+|history='''Dota2:'''&lt;br&gt;
+{{TH|201?-??-?? — 2012-10-??|Mineski}}
+{{TH|2012-10-?? — 2013-??-??|MSI-EvoGT}}
+{{TH|2013-05-?? — 2013-07-??|Mineski}}
+{{TH|2013-09-?? — ????-??-??|MSI-evoGT.TnC}}
+{{TH|2014-06-01 — ????-??-??|Execration}}
+{{TH|2014-11-08 — 2015-??-??|Mineski}}
+{{TH|2015-06-11 — 2015-06-16|Rave}}
+{{TH|2015-11-10 — 2016-08-18|Execration}}
+{{TH|2016-08-25 — '''Present'''|Mineski}}
+}}
+
+Ralph Richard "'''RR'''" Peñano is a Filipino professional Dota 2 player who currently plays for [[Mineski]].
+</textarea>]

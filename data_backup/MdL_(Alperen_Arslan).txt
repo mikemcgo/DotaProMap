@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+''For the series of Chinese Dota 2 leagues, see [[MarsTV Dota 2 League]]''
+{{Tabs static
+|name1=Overview
+|link1=mdL (Alperen Arslan)
+|name2=Results
+|link2=mdL (Alperen Arslan)/Results
+|This=1
+}}
+{{Infobox player
+|id=mdL
+|ids=MyDreamLife
+|image=MdL.jpg
+|name=Alperen Arslan
+|team=
+|birth_date={{Birth date and age|1995|08|13}}
+|country=Turkey
+|hero=wisp
+|hero2=rubick
+|hero3=tusk
+|mmr=7200
+|mmrdate=2016-09-30
+|role=support
+|status=Active
+|twitch=Mydreamlife
+|twitter=mdldota
+|facebook=mdLDotA
+|dotabuff=114817642
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2015-09-04 — 2015-09-22|Walrus Punch!|link=Walrus Punch! (Team)}}
+{{TH|2016-01-04 — 2016-0?-??|HWA Gaming}}
+{{TH|2016-04-06 — 2016-??-??|E-LAB}}
+{{TH|2016-??-?? — 2016-??-??|HWA Gaming}}
+{{TH|2016-09-01 — 2016-09-13|Kaipi}}
+}}&lt;br&gt;
+
+Alperen '''"mdL"''' Arslan is a Turkish professional Dota 2 player who is currently teamless.
+</textarea>]

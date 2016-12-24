@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Mu
+|name2=Results
+|link2=Mu/Results
+|This=1
+}}
+{{Infobox player
+|id=Mu
+|image=Mu_frankfurt_major_2015.jpg
+|name=张盼
+|romanized_name=Zhang Pan
+|team=
+|role=mid
+|status=Retired
+|hero=Dragon Knight
+|hero2=Templar Assassin
+|hero3=Invoker
+|mmr=7371
+|mmrdate=2016-04-09
+|ids=
+|country=China
+|birth_date= {{Birth date and age|1989|12|24}}
+|datdota=74&amp;player=Mu
+|dotabuff=89157606
+|stream=http://www.zhanqi.tv/11465
+|tencent=a9017456
+|history='''DotA:'''&lt;br&gt;
+{{TH|2011 — 2012-03-??|PanDarea}}
+'''Dota2:'''&lt;br&gt;
+{{TH|2012-04-01 — 2014-02-19|TongFu}}
+{{TH|2014-02-23 — 2016-09-14|Newbee}}
+}}
+
+Zhang '''"Mu"''' Pan is a Chinese retired professional Dota 2 player. He played with [[Tongfu]] at the [[The International 2012]] and [[The International 2013]], securing a top eight and top four finish respectively. He joined [[Newbee]] in early 2014 and won [[The International 2014]], while also attending [[The International 2015]] and the [[The International 2016]] as a member of the team. He retired on August 14th, 2016.
+</textarea>]

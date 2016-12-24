@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Eagle
+|name2=Results
+|link2=Eagle/Results
+|This=1
+}}
+{{Infobox player
+|id=Eagle
+|image=EaglePortrait.jpg
+|name=Shane Milke
+|team=Team Freedom
+|country=United States
+|ids=The Big Bad Bird, Bird
+|hero=Leshrac
+|hero2=Skywrath Mage
+|hero3=Undying
+|mmr=6364
+|mmrdate=2016-10-08
+|role=support
+|status=Active
+|datdota=4697
+|dotabuff=52191022
+|twitter=EagleDota
+|history={{TH|2015-01-25 — 2015-02-21|ROOT Gaming}}
+{{TH|2015-08-29 — 2016-??-??|GOD BLESS}}
+{{TH|2016-01-25 — 2016-02-??|Team Leviathan}}
+{{TH|2016-02-?? — 2016-06-22|Team Freedom}}
+{{TH|2016-09-17 — '''Present'''|Team Freedom}}
+}}
+
+Shane '''"Eagle"''' Milke is an American professional Dota 2 player who is currently a member of [[Team Freedom]].
+</textarea>]

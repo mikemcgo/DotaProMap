@@ -7,9 +7,16 @@ Thoughts on what needs to be done
  - Code only runs on full version of ubuntu 16.04 in virtualbox for some reason
  - Pimpmuckl's askfm link is formatted as ask.fm, which cannot be inserted into mongo as a field name, so it has been edited manually
  - On machine restart, be sure to restart mongod service
+ - Throw out all bad dates and record them
 
- LOOK AT THE FUCKING paS file becuase fuck that guy. fucking ?? going into the db becuase fuck me
-
+# Data Quality is very very hard
+ - Need to throw out all dates before 2010 in some way
+ - Need to verify the format of all dates
+ - 1128/(5734/2+1128) = 28.2% of history entries are unreadable, ie bad formatting or ??
+ 
+ - Establish lists of files that are a problem
+ - Not sure why MoonMeander DC line does not parse
+ 
  # Immediate Concerns 
  - Establish convention for ?? in data before database entry (this is some bad stuff)
  - Improve data quality/robustness of parsing logic

@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=VANSKOR
+|name2=Results
+|link2=VANSKOR/Results
+|This=1
+}}
+{{Infobox player
+|id=VANSKOR
+|image=vanskor.jpg
+|name=Иван Скороход
+|romanized_name=Ivan Skorokhod 
+|team=Team Spirit
+|role=support
+|role2=captain
+|status=Active
+|hero=Rubick
+|hero2=Dazzle
+|hero3=Vengeful Spirit
+|mmr=7740
+|mmrdate=2016-11-29
+|ids=
+|country=Russia
+|birth_date={{birth date and age|1995|01|20}}
+|twitter=true_vanskor
+|vk=vanskorfan
+|twitch=vanskor
+|datdota=909
+|dotabuff=11550182
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-03-27 — 2013-08-05|RoX}}
+{{TH|2013-08-30 — 2014-08-24|Empire}}
+{{TH|2014-08-25 — 2015-08-26|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2015-05-03 — 2015-08-19|4 Clover &amp; Lepricon}}
+{{TH|2015-09-03 — 2015-10-17|CIS Rejects}}
+{{TH|2015-10-31 — 2015-11-22|Prodota Gaming X}}
+{{TH|2015-11-22 — 2016-01-30|Prodota Gaming}}
+{{TH|2016-03-22 — 2016-03-25|Avengers}}
+{{TH|2016-03-26 — 2016-05-22|Rebels}}
+{{TH|2016-05-22 — 2016-10-??|FlipSid3 Tactics}}
+{{TH|2016-10-?? — 2016-11-13|Skorokhod+4}}
+{{TH|2016-12-15 — '''Present'''|Team Spirit}}
+}}
+
+Ivan '''"VANSKOR"''' Skorokhod is a Russian professional Dota 2 player who currently playing for [[Team Spirit]].
+</textarea>]

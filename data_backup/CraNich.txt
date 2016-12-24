@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:craNich}}
+{{Tabs static
+|name1=Overview
+|link1=CraNich
+|name2=Results
+|link2=CraNich/Results
+|This=1
+}}
+{{Infobox player
+|id=craNich
+|image=MJbMJ1gUYSs.jpg
+|name=Petr Meluzin
+|team=
+|role=mid
+|hero=Storm Spirit
+|hero2=Shadow Fiend
+|hero3=
+|ids=
+|country=Czech Republic
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-03-21 — 2012-09-23|SGC}}
+{{TH|2013-05-15 — 2014-06-27|iNfernity Gaming}}
+{{TH|2014-09-19 — 2015-04-26|Futile}} 
+{{TH|2015-04-26 — 2015-??-??|Epidemic!}}
+}}
+Petr '''"craNich"''' Meluzin is a Czech professional Dota 2 player who is currently teamless.
+</textarea>]

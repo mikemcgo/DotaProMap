@@ -1,0 +1,23 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Cak3z
+|name2=Results
+|link2=Cak3z/Results
+|This=1
+}}
+{{Infobox player
+|id=Cak3z
+|image=Cak3z_2013_MLG_Fall_Invitational.jpg
+|name=Clay Winkler
+|team=
+|country=United States
+|hero=Clockwerk
+|role=offlane
+|status=Inactive
+|history=
+{{TH|2013-??-?? — 2014-01-20|Pretty Boy Swag}}
+{{TH|2014-01-20 — 2014-05-31|Team eHug}}
+}}
+
+Clay '''"Cak3z"''' Winkler is an American player who most recently played for [[Team eHug]].
+</textarea>]

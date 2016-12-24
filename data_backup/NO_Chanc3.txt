@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=NO_Chanc3
+|name2=Results
+|link2=NO_Chanc3/Results
+|This=1
+}}
+{{Infobox player
+|id=NO_Chanc3
+|image=NO_Chanc3.jpg
+|name=Moin Ejaz
+|team=ENTiTy eSports
+|country=India
+|hero=Chen
+|hero2=Earthshaker
+|hero3=Dark Seer
+|mmr=7322
+|mmrdate=2016-11-11
+|role=support
+|status=Active
+|birth_date={{Birth date and age|1992|10|2}}
+|site=
+|twitch=no_chanc3
+|tlstream=
+|tlprofile=
+|twitter=
+|facebook=NOCHANCEDOTA
+|datdota=
+|dotabuff=107227595
+|fanclub=
+|history=
+{{TH|??-??-?? — 2016-??-??|Team Elunes}}
+{{TH|2016-04-13 — 2016-09-08|Beyond Infinity}}
+{{TH|2016-09-08 — '''Present'''|ENTiTy eSports}}
+}}
+
+
+Moin '''"NO_Chanc3"''' Ejaz is an Indian player from Kolkata, India. Moin was a support player for [[Team Elunes]]. He currently plays the support position for [[ENTiTy eSports]].
+</textarea>]

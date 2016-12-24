@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=wejustzik
+|name2=Results
+|link2=wejustzik/Results
+|This=1
+}}
+{{Infobox player
+|id=wejustzik
+|image=PlayerImagePlaceholder.png
+|name=Алег Зіновенка
+|romanized_name=Oleg Zinovenko
+|team=
+|role=support
+|status=Active
+|hero=Visage
+|hero2=Bane
+|hero3=Chen
+|ids=
+|country=Belarus
+|birth_date=02.09.1991
+|site=http://vk.com/wejustzik_fanpage
+|youtube=http://youtube.com/wejustzikk
+|twitch=http://twitch.tv/wejustzik
+|tlstream=
+|tlprofile=
+|twitter=https://twitter.com/wejustzik
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-11-10 — 2013-08-16|iCCup}}
+{{TH|2013-08-16 — 201?-??-??|Terrible Terrible Damage}}
+{{TH|2014-08-01 — 2014-08-18|Special Reaction Team}} 
+{{TH|2015-12-06 — 2013-05-??|Prodota Gaming}}
+}}
+
+Oleg '''"Wejustzik"''' Zinovenko is a professional Dota 2 player who last played for [[Prodota Gaming]].
+</textarea>]

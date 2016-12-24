@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Bufni
+|name2=Results
+|link2=Bufni/Results
+|This=1
+}}
+{{Infobox player
+|id=Bufni
+|image=PlayerImagePlaceholder.png
+|name=Alexandru Palievici
+|team=
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Romania
+|birth_date=
+|dotabuff=92266340
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2015-08-29 — 2016-03-26|Kaipi}}
+}}
+
+Alexandru '''"Bufni"''' Palievici is a professional Dota 2 player who last played for [[Kaipi]].
+</textarea>]

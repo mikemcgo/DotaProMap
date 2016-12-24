@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=MotPax
+|name2=Broadcasts
+|link2=MotPax/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=MotPax
+|image=Motpax.jpg
+|name=Trent MacKenzie
+|status=Active
+|role=caster
+|team=
+|sponsor=
+|ids=
+|country=Canada
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=http://moonduck.tv/
+|twitch=motpax
+|twitter=MotPax
+|youtube=channel/UCFja4PgS9ETCC7-V_wyuv5w
+}}
+
+Trent "MotPax" MacKenzie is a Dota 2 caster and statistican for [http://moonduck.tv/ Moonduck.Tv].
+</textarea>]

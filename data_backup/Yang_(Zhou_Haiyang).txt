@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Yang}}{{player-stub}}
+:''For the [[Vici Gaming]] player Yang Pu, see [[END]] (Zyf).''
+{{Tabs static
+|name1=Overview
+|link1=Yang (Zhou Haiyang)
+|name2=Results
+|link2=Yang (Zhou Haiyang)/Results
+|This=1
+}}
+{{Infobox player
+|id=Yang
+|image=PlayerImagePlaceholder.png
+|name=周海洋
+|romanized_name=Zhou Haiyang
+|team=Vici Gaming
+|role=offlane
+|status=Active
+|hero=Clockwerk
+|hero2=Dark Seer
+|hero3=Beastmaster
+|mmr=8350
+|mmrdate=2016-11-30
+|ids=
+|country=China
+|birth_date=
+|dotabuff=139937922
+|datdota=
+|history=
+{{TH|2015-03-14 — 2016-03-19|Vici Gaming Potential}}
+{{TH|2016-03-19 — 2016-08-23|Vici Gaming Reborn}}
+{{TH|2016-09-14 — '''Present'''|Vici Gaming}}
+}}
+
+Zhou '''"Yang"''' Haiyang is a professional Dota 2 player currently playing for [[Vici Gaming]].
+</textarea>]

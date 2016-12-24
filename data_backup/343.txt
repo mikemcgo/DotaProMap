@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=343
+|name2=Results
+|link2=343/Results
+|This=1
+}}
+{{Infobox player
+|id=343
+|image=343 ESL One Manila 2016.jpg
+|name=Adam Erwann Shah bin Akhtar Hussein
+|team=Execration
+|role=support
+|status=Active
+|hero=Earthshaker
+|hero2=Phoenix
+|hero3=Treant Protector
+|mmr=6334
+|mmrdate=2016-11-26
+|ids=Flyy
+|country=Malaysia
+|birth_date=
+|datdota=
+|twitter=_343Dota
+|twitch=343Dota
+|facebook=343Dota
+|dotabuff=111034589
+|history=
+{{TH|2013-12-09 - 2014-03-19|Duskbin e-Sports}}
+{{TH|2014-04-07 - 2014-10-14|Nara Stacks}}
+{{TH|2014-12-09 - 2015-01-02|GeNySis}}
+{{TH|2015-02-02 - 2015-05-31|Can't Say Wips}}
+{{TH|2015-06-23 - 2015-12-13|Team 123}}
+{{TH|2015-12-13 - 2016-03-19|Taring}}
+{{TH|2016-03-19 - 2016-08-24|Fnatic}}
+{{TH|2016-11-03 - Present|Execration}}
+}}
+
+Adam Erwann Shah '''"343"''' bin Akhtar Hussein is a professional Dota 2 player who currently plays for [[Execration]]
+</textarea>]

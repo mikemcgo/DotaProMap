@@ -1,0 +1,51 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Goblak
+|name2=Results
+|link2=Goblak/Results
+|This=1
+}}
+{{Infobox player
+|id=Goblak
+|image=PlayerImagePlaceholder.png
+|name=Артур Костенко
+|romanized_name=Artur Kostenko
+|team=
+|role=support
+|role2=captain
+|status=Active
+|hero=Abaddon
+|hero2=Treant Protector
+|hero3=Bane
+|ids=Goblin
+|country=Ukraine
+|birth_date={{birth date and age|1988|12|4}}
+|vk=id8444132
+|datdota=19
+|dotabuff=89137399
+|twitter=arturfisura666
+|history='''DotA:'''&lt;br&gt;
+{{TH|2007-10-15 — 2008|Wolker Gaming}}
+{{TH|2008-11-21 — 2009|DTS}}
+{{TH|2010-10-22 — 2011-06-17|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2012-05-24 — 2012-09-12|Darer}}
+{{TH|2012-09-13 — 2013-04-16|Team Empire}}
+{{TH|2013-04-29 — 2013-06-04|DD.Dota}}
+{{TH|2013-06-04 — 2013-08-29|Quantic Gaming}}
+{{TH|2013-08-29 — 2013-10-08|Virtus.pro}}
+{{TH|2013-25-10 — 2014-05-31|RoX}}
+{{TH|2014-08-07 — 2014-09-18|NVMI}}
+{{TH|2014-09-18 — 2014-11-01|Virtus.pro Polar}}
+{{TH|2014-11-01 — 2015-03-25|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2015-03-?? — 2015-05-03|4 Clover &amp; Lepricon}}
+{{TH|2015-05-16 — 2015-05-17|Dota AllStars}}
+{{TH|2015-08-20 — 2015-10-06|newteam123123}}
+{{TH|2015-10-06 — 2015-10-??|PRIES Gaming}}
+{{TH|2015-11-04 — 2015-12-06|CIS Rejects}}
+{{TH|2015-12-06 — 2016-08-01|Team Spirit}}
+}}
+
+Artur '''"Goblak"''' Kostenko is a professional Ukrainian Dota 2 player who is currently teamless. He has played for many CIS teams such as [[Natus Vincere/Natus Vincere|Na`Vi]], [[Virtus.pro]] and [[Empire]].
+</textarea>]

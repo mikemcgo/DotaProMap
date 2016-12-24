@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:ghost}}
+{{Tabs static
+|name1=Overview
+|link1=ghost (player)
+|name2=Results
+|link2=ghost (player)/Results
+|This=1
+}}
+{{Infobox player
+|id=ghost
+|image=PlayerImagePlaceholder.png
+|team=Vici Gaming
+|name=郑杰
+|romanized_name=Zheng Jie
+|country=China
+|ids=
+|birth_date=
+|hero=Alchemist
+|hero2=queen of pain
+|hero3=juggernaut
+|mmr=8587
+|mmrdate=2016-11-28
+|role=mid
+|status=Inactive
+|dotabuff=186977347
+|tencent=
+|weibo=
+|history=
+{{TH|2015-12-08 — 2016-03-22|FTD Club B}}
+{{TH|2016-03-22 — 2016-09-04|FTD Club C}}
+{{TH|2016-09-17 — 2016-11-18|Vici Gaming}}
+{{TH|2016-11-18 — '''Present'''|Vici Gaming|inactive}}
+}}
+
+Zheng "'''ghost'''" Jie is a professional Dota 2 player currently subbing for [[Vici Gaming]].
+</textarea>]

@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Electro
+|name2=Results
+|link2=Electro/Results
+|This=1
+}}
+{{Infobox player
+|id=Electro
+|image=PlayerImagePlaceholder.png
+|name=Максим Лабецкий
+|romanized_name=Maxim Labecky
+|team=Valor Gaming
+|role=Support
+|hero=Ancient_Apparition
+|hero2=Tusk
+|hero3=Spirit_Breaker
+|country=Latvia
+|birth_date=
+|twitter=
+|twitch=
+|vk=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2015-10-25 — '''Present'''|Valor Gaming}}
+}}
+
+A professional Latvian Dota 2 player who is currently playing for [[Valor Gaming]].
+</textarea>]

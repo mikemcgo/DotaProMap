@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ChaoYue
+|name2=Results
+|link2=ChaoYue/Results
+|This=1
+}}
+{{Infobox player
+|id=ChaoYue
+|image=PlayerImagePlaceholder.png
+|name=曹氨
+|romanized_name=Cao An
+|team=To.be.or.not.to.be
+|role=carry
+|status=Active
+|hero=Lycan
+|hero2=Alchemist
+|hero3=Slark
+|ids=XL-TT
+|country=China
+|datdota=3222
+|dotabuff=129748056
+|mmr=7737
+|mmrdate=2016-11-30
+|twitter=
+|birth_date={{Birth date and age|1995|10|09}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-09-22 — 2015-04-??|Speed Gaming}}
+{{TH|2015-04-?? — 2015-05-??|Immortal Magneto Gaming}}
+{{TH|2015-??-?? — 2015-07-??|Victory O Lord}}
+{{TH|2015-07-?? — 2015-09-04|Team Braveheart}}
+{{TH|2015-09-?? — 2015-11-??|DK Renaissance}}
+{{TH|2016-04-01 — '''Present'''|To.be.or.not.to.be}}
+}}
+
+Cao '''"ChaoYue"''' An is a professional Chinese Dota 2 player, currently playing for [[To.be.or.not.to.be]].
+</textarea>]

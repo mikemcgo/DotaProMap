@@ -1,0 +1,22 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Infobox player
+|id=Mikeylicious
+|name=Milos Nedeljkovic
+|birth_date={{Birth date and age|1993|10|01}}
+|country=Serbia
+|team=FACEIT.com
+|hero=Earth Spirit
+|hero2=Sand King
+|hero3=Lion
+|role=Support
+|reddit=FACEIT_Mikey
+|twitch=Mikeylicious
+|tlprofile=2PMikey
+|site=http://play.faceit.com
+|twitter=FACEIT_Mikey
+|history=
+{{TH|2013 — 2015|17173 &amp; 2PDota}}
+{{TH|2015 — present|FACEIT}}
+}}
+
+Milos '''"Mikey"''' Nedeljkovic, is an ex-professional Serbian Dota player. He is currently Head of Games Department at FACEIT. He is a longtime member of the Dota and Dota2 community and has participated in many projects throughout the last decade.
+</textarea>]

@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=carrot
+|name2=Results
+|link2=carrot/Results
+|This=1
+}}
+{{Infobox player
+|id=carrot
+|image=PlayerImagePlaceholder.png
+|name=彭超
+|romanized_name=Peng Chao
+|team=TongFu
+|role=offlane
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=7131
+|mmrdate=2016-11-30
+|ids=Kubo
+|country=China
+|datdota=
+|dotabuff=130027499
+|birth_date=
+|history=
+{{TH|2014-11-?? — 2014-12-??|Brave Heart}}
+{{TH|2015-10-?? — 2015-12-??|E-Sports Dream}}
+{{TH|2016-05-?? — 2016-08-??|ToPower Gaming}}
+{{TH|2016-09-17 — '''Present'''|TongFu}}
+}}
+
+Peng '''"carrot"''' Chao is a professional Dota 2 player currently playing for [[TongFu]].
+</textarea>]

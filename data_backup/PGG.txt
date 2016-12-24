@@ -1,0 +1,55 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=PGG
+|name2=Results
+|link2=PGG/Results
+|This=1
+}}
+{{Infobox player
+|id=PGG
+|image=Pgg_main.jpg ‎
+|name=Владимир Аносов
+|romanized_name=Vladimir Anosov
+|birth_date= {{Birth date and age|1990|08|13}}
+|country=Russia
+|team=Fantastic Five
+|ids=plzgogame
+|role=support
+|status=Active
+|hero=enigma
+|hero2=vengeful spirit
+|hero3=tusk
+|site=
+|tlstream=PGG
+|twitch=pgg
+|stream=
+|youtube=
+|twitter=dotaPGG
+|facebook=
+|vk=public66958450
+|gplus=
+|tlprofile=
+|reddit=
+|datdota=48
+|dotabuff=87565571
+|fanclub=
+|history=
+{{TH|2011-08-29 — 2011-11-04|Moscow 5}}
+{{TH|2011-04-24 — 2011-??-??|The Retry}}
+{{TH|2012-01-09 — 2012-??-??|DTS Gaming}}
+{{TH|2012-03-26 — 2012-09-06|Moscow 5}} 
+{{TH|2012-09-16 — 2012-09-27|The Retry}}
+{{TH|2012-11-03 — 2012-12-15|iCCup}}
+{{TH|2013-02-27 — 2014-04-14|The Retry}}
+{{TH|2014-04-14 — 2014-04-22|Ahead Gaming}}
+{{TH|2014-04-22 — 2014-08-29|DreamTeam168}}
+{{TH|2014-08-29 — 2014-11-09|Moscow 5}}
+{{TH|2014-11-11 — 2015-02-15|Moscow 5 International}}
+{{TH|2015-02-28 — 2015-??-??|Elysium Gaming.int}}
+{{TH|2015-09-04 — 2015-12-??|NewAfkTeam}}
+{{TH|2015-12-?? — 2016-02-??'''|The Retry}}
+{{TH|2016-02-?? — '''Present'''| Fantastic Five|coach}}
+}}
+Vladimir "'''PGG'''" Anosov is a professional Dota 2 player and analitic who is currently coach in [[Fantastic Five]].
+</textarea>]

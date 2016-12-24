@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SCL
+|name2=Results
+|link2=SCL/Results
+|This=1
+}}
+{{Infobox player
+|id=SCL
+|image=SCLPP.jpg
+|name=Ruby Gunawan
+|team=
+|country=Indonesia
+|hero=Earthshaker
+|hero2=Bristleback
+|hero3=Queen Of Pain
+|role=offlane
+|status=Active
+|twitch=
+|twitter=
+|facebook=
+|ids=
+|history={{TH|2015-01-26 - 2015-06-01|The Prime}}
+{{TH|2015-06-01 - 2015-10-11|Rex Regum}}
+{{TH|2016-??-?? - 2016-08-30|Nas Ne Dogonyat}}
+}}
+
+Ruby '''"SCL"''' Gunawam is a Dota 2 player from Indonesia who last played for [[Nas Ne Dogonyat]].
+</textarea>]

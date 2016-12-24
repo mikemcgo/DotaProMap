@@ -1,0 +1,23 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Infobox player
+|id=Basskip
+|name=Cameron Scott
+|image=Basskip.jpg
+|team=
+|country=South Africa
+|birth_date={{Birth date and age|1993|05|09}}
+&lt;!-- |tlpdid=1361--&gt;
+|site=
+|twitter=Basskip
+|twitch=
+|tlstream=
+|tlprofile=
+|history=
+|role=caster
+|youtube=Basskip
+|facebook=Basskip
+|fanpage=
+}}
+
+Cameron '''"Basskip"''' Scott is a freelance Dota 2 commentator and analyst known for high quality coverage for DotaTalk and BeyondTheSummit.
+</textarea>]

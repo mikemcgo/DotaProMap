@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=XaKoH
+|name2=Results
+|link2=XaKoH/Results
+|This=1
+}}
+{{Infobox player
+|id=XaKoH
+|image=PlayerImagePlaceholder.png
+|name=Евгений Кочетов
+|romanized_name=Evgeny Kochetov
+|team=Comanche
+|role=offlane
+|status=Active
+|hero=Clockwerk
+|hero2=Batrider
+|hero3=Slardar
+|mmr=7241
+|mmrdate=2016-06-28
+|country=Russia
+|birth_date=
+|twitter=xXaKoHx
+|twitch=xakoh
+|vk=follow.xakoh
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013 — 2013|SWYC}}
+{{TH|2013 — 2013|Lions Pride}}
+{{TH|2013 — 2014|zRage}}
+{{TH|2014-03 — 2014-05|Cleave Gaming}}
+{{TH|2014-05 — 2014-06|Aware}}
+{{TH|2014-07 — 2015-01-16|Cleave Gaming}}
+{{TH|2015-01-16 — 2015-05-26|aSpera}}
+{{TH|2015-10-22 — 2016-05-??|Revival Gaming}}
+{{TH|2016-05-?? — 2016-08-21|Yellow Submarine}}
+{{TH|2016-08-23 — '''Present'''|Comanche}}
+}}
+
+Evgeny '''"XaKoH"''' (pronounced ha-kon) Kochetov  is a professional Russian Dota 2 player who is currently playing for [[Comanche]].
+</textarea>]

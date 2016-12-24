@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:j4}}
+{{Tabs static
+|name1=Overview
+|link1=J4
+|name2=Results
+|link2=J4/Results
+|This=1
+}}
+{{Infobox player
+|id=j4
+|image=PlayerImagePlaceholder.png
+|name=Аляксей Ліпай
+|romanized_name=Alexei Lipai 
+|team=
+|role=support
+|role2=captain
+|status=Active
+|hero=Earthshaker
+|hero2=Disruptor
+|hero3=Vengeful Spirit
+|mmr=7100
+|mmrdate=2016-10-13
+|country=Belarus
+|birth_date={{Birth date and age|1993|05|12}}
+|datdota=376
+|dotabuff=75750590
+|twitter=LipaiAliaksei
+|vk=j4page
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-08-31 — 2015-07-31|Power Rangers}}
+{{TH|2015-12-07 — 2015-12-28|Arcade.PowerRangers}}
+{{TH|2015-12-28 — 2016-11-14|Power Rangers}}
+}}
+Alexei '''"j4"''' Lipai is a professional Belarusian Dota 2 player who last played for [[Power Rangers]].
+</textarea>]

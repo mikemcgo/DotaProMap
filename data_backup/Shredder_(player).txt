@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:Shredder}}
+{{Tabs static
+|name1=Overview
+|link1=Shredder (player)
+|name2=Results
+|link2=Shredder (player)/Results
+|This=1
+}}
+{{Infobox player
+|id=Shredder
+|image=Shredder.jpg
+|name=Eric Sheeder
+|birth_date=
+|country=USA
+|team=
+|role=carry
+|status=Retired
+|site=http://www.TeamLeviathan.com
+|tlstream=
+|twitch=shreddersdota
+|youtube=TeamLeviathan
+|twitter=shredderdota
+|facebook=
+|reddit=ewic13
+|achievements=
+|history= '''Dota 2:'''&lt;br&gt;
+{{TH|2014-??-?? — 2014-06-06|Team Leviathan}}
+{{TH|2014-06-06 — 2014-10-??|Flipside Tactics}}
+{{TH|2014-10-15 — 2015-07-23|Team Leviathan}}
+}}
+Eric '''"Shredder"''' Sheeder is a professional Dota 2 player that formerly played for [[Team Leviathan]].
+</textarea>]

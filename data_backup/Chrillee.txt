@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Chrillee
+|name2=Results
+|link2=Chrillee/Results
+|This=1
+}}
+{{Infobox player
+|id=Chrillee
+|image=PlayerImagePlaceholder.png
+|name=Christopher Wåhlin
+|status=Inactive
+|role=offlane
+|team=
+|hero=Lone Druid
+|hero2=Furion
+|hero3=Batrider
+|ids=
+|country=Sweden
+|birth_date=
+|twitter=ChrilleeSYLLA
+|datdota=197
+|dotabuff=27738470
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-04-?? — 2015-04-13|4 Friends + Chrillee}}
+{{TH|2015-04-13 — 2015-12-??|Lemondogs}}
+}}
+
+Christopher '''"Chrillee"''' Wåhlin is a Swedish Dota 2 player who is currently teamless.
+</textarea>]

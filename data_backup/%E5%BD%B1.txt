@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=影
+|name2=Results
+|link2=影/Results
+|This=1
+}}
+{{Infobox player
+|id=影
+|image=影-EHOME.Keen.jpg
+|ids=Ying, zhizhizhi
+|name=金志意
+|romanized_name=Jin Zhiyi
+|team=EHOME.Keen
+|role=mid
+|status=Active
+|hero=Invoker
+|hero2=Storm Spirit
+|hero3=Juggernaut
+|country=China
+|mmr=8743
+|mmrdate=2016-11-24
+|datdota=
+|dotabuff=168028715
+|twitter=
+|birth_date=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-10-?? — 2015-01-??|Five Personal Beliefs}}
+{{TH|2015-04-03 — 2016-05-29|DUOBAO}}
+{{TH|2016-06-?? — '''Present'''|EHOME.Keen}}
+}}
+
+Jin '''"影"'''' Zhiyi is a professional Chinese Dota 2 player who currently plays for [[EHOME.Keen]]. "影" means "shadow" or "silhouette", and is pronounced as "Ying".
+</textarea>]

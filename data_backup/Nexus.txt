@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Nexus
+|name2=Results
+|link2=Nexus/Results
+|This=1
+}}
+{{Infobox player
+|id=Nexus
+|image=IgorNexusLisakovskiy1.jpg
+|name=Игорь Лысаковский
+|romanized_name=Igor Lisakovsky
+|team=GO2OLYMP
+|role=carry
+|status=Active
+|hero=Anti-Mage
+|hero2=Shadow Fiend
+|hero3=Spectre
+|ids=МЕГАПИХАРЬ, soska, ihar'
+|country=Russia
+|birth_date={{Birth date and age|1992|08|04}}
+|dotabuff=114118637
+|twitch=rxnexus
+|vk=nexusfan
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-01-31 — 2012-09-16|zNation}}
+{{TH|2012-06-19 — 2012-11-01|Moscow Five}}
+{{TH|2013-01-01 — 2013-01-18|XX5 Gaming}}
+{{TH|2013-01-18 — 2013-02-10|Ice Climbers}}
+{{TH|2013-02-10 — 2013-03-10|3D!Clan}}
+{{TH|2013-09-04 — 2013-10-25|RoX}}
+{{TH|2013-12-01 — 2014-01-20|Relax}}
+{{TH|2014-08-08 — 2014-10-04|M5}}
+{{TH|2015-01-25 — 2015-??-??|XX5 Gaming}}
+{{TH|2015-06-08 — 2015-08-??|sQreen's Squad}}
+{{TH|2015-09-04 — 2016-??-??|Vega Squadron|sub}}
+{{TH|2016-09-18 — '''Present'''|GO2OLYMP}}
+}}
+Igor '''"Nexus"''' Lisakovsky is a professional Russian Dota 2 player who is currently playing for [[GO2OLYMP]].
+</textarea>]

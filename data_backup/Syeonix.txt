@@ -1,0 +1,46 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Syeonix
+|name2=Results
+|link2=Syeonix/Results
+|This=1
+}}
+{{Infobox player
+|id=Syeonix
+|image=PlayerImagePlaceholder.png
+|name=Byron Young Meng Keen
+|team=90s Gaming
+|role=carry
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=6657
+|mmrdate=2016-07-08
+|ids=Byson
+|country=Malaysia
+|birth_date=
+|twitch=
+|twitter=syeonix
+|tencent=
+|facebook=
+|reddit=
+|datdota=6460
+|dotabuff=113825167
+|history=
+{{TH|2014-05-01 — 2014-06-07|Erudite}}
+{{TH|2015-02-21 — 2015-03-18|Natit Gaming}}
+{{TH|2015-03-18 — 2015-04-02|G Guard Esports}}
+{{TH|2015-06-23 — 2016-01-04|Assail}}
+{{TH|2016-01-04 — 2016-03-31|WarriorsGaming.Unity}}
+{{TH|2016-03-22 — 2016-04-11|Taring}}
+{{TH|2016-04-11 — 2016-08-31|Orange.Taring}}
+{{TH|2016-09-?? — 2016-??-??|Tangerine}}
+{{TH|2016-10-?? — 2016-??-??|90s Gaming}}
+{{TH|2016-10-?? — '''Present'''|Geek Fam}}
+
+}}
+
+Byron Young "'''Syeonix'''" Meng Keen is a professional Dota 2 player who currently plays for [[Geek Fam]].
+</textarea>]

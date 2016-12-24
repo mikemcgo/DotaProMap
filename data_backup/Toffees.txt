@@ -1,0 +1,27 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Toffees
+|This=1
+}}
+{{Infobox player
+|id=Toffees
+|image=Toffees.jpeg
+|name=Steve Pierce
+|status=Active
+|role=host
+|team=
+|sponsor=
+|ids=
+|country=United States
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|stream=
+|twitter=toffeestv
+|youtube=UC38iukM4g5jpGhpyaNa0_2Q/feed
+|fanpage=
+}}
+
+Steve "Toffees" Pierce is the host of Coffee w/ Toffees, a Dota 2 podcast talking about the latest news evolving around the game.
+</textarea>]

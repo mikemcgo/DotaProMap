@@ -1,0 +1,52 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Solo
+|name2=Results
+|link2=Solo/Results
+|This=1
+}}
+{{Infobox player
+|id=Solo
+|image=Solo vega 1.jpg
+|name=Алексей Березин
+|romanized_name=Alexei Berezin
+|team=Virtus.pro
+|role=support
+|role2=captain
+|status=Active
+|hero=Io
+|hero2=Chen
+|hero3=Rubick
+|mmr=7154
+|mmrdate=2016-11-07
+|ids=SoloLineAbuse
+|country=Russia
+|birth_date={{Birth date and age|1990|08|07}}
+|twitter=dotaSolo
+|vk=gogosolo
+|twitch=sololineabuse
+|youtube=SoloStreamVideos
+|datdota=168
+|dotabuff=134556694
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-09-16 — 2012-11-01|Moscow Five}}
+{{TH|2012-11-12 — 2012-12-12|Eclypsia}}
+{{TH|2012-12-12 — 2013-01-01|United Sexy Boys}}
+{{TH|2013-01-01 — 2013-01-18|XX5 Gaming}}
+{{TH|2013-01-18 — 2013-02-10|Ice Climbers}}
+{{TH|2013-02-10 — 2013-03-20|3D!Clan}}
+{{TH|2013-03-20 — 2013-06-21|RoX}}
+{{TH|2013-10-08 — 2013-10-25|RoX}}
+{{TH|2013-10-25 — 2013-11-04|Virtus.Pro}}
+{{TH|2013-11-05 — 2013-12-01|Poseidon}}
+{{TH|2013-12-01 — 2013-12-05|Relax}} 
+{{TH|2014-02-13 — 2014-05-31|Rox}}
+{{TH|2014-08-26 — 2014-12-10|Team Empire}}
+{{TH|2015-01-25 — 2015-03-??|XX5 Gaming}}
+{{TH|2015-04-25 — 2016-08-04|Vega Squadron}}
+{{TH|2016-08-04 — '''Present'''|Virtus.pro}}
+}}
+
+Alexei '''"Solo"''' Berezin is a professional Dota 2 player currently playing support for [[Virtus.pro]].
+</textarea>]

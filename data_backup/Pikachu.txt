@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Pikachu
+|name2=Results
+|link2=Pikachu/Results
+|This=1
+}}
+{{Infobox player
+|id=Pikachu
+|image=PlayerImagePlaceholder.png
+|name=Ярослав Василенко
+|romanized_name=Yaroslav Vasylenko
+|team=Comanche
+|ids=
+|role=mid
+|status=Active
+|hero=Invoker
+|hero2=Shadow Fiend
+|hero3=Alchemist
+|mmr=7542
+|mmrdate=2016-09-24
+|country=Ukraine
+|country2=Russia
+|birth_date=
+|datdota=
+|dotabuff=237238721
+|vk=
+|history=
+{{TH|2015-08-19 — 2015-??-??|Siberian Valenki Black}}
+{{TH|2016-06-03 — 2016-08-25|Elements Pro Gaming}}
+{{TH|2016-09-?? — 2016-10-??|Effect}}
+{{TH|2016-10-23 — '''Present'''|Comanche}}
+}}
+
+Yaroslav '''"Pikachu"''' Vasilenko is a professional Dota 2 player who is currently playing for [[Comanche]].
+</textarea>]

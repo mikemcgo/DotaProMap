@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Nafari
+|name2=Results
+|link2=Nafari/Results
+|This=1
+}}
+{{Infobox player
+|id=Nafari
+|image=Nafari.jpg
+|name=Azam Aljabar Nafari
+|team=The Prime
+|birth_date={{Birth date and age|1993|9|18}}
+|country=Indonesia
+|hero=Batrider
+|hero2=Windranger
+|hero3=Witch Doctor
+|mmr=6227
+|mmrdate=2016-07-01
+|role=support
+|status=Active
+|twitch=nafari_
+|twitter=azamilinka_
+|facebook=Azamilinka
+|ids=NFR
+|history={{TH|2013-11-07 - 2014-05-23|Rex Regum}}
+{{TH|2014-06-06 - 2015-06-01|The Prime}}
+{{TH|2015-06-01 - 2015-10-11|Rex Regum}}
+{{TH|2016-??-?? - 2016-08-31|Nas Ne Dogonyat}}
+{{TH|2016-09-?? - '''Present'''|The Prime}}
+}}
+
+Azam '''"Nafari"''' Aljabar is a Dota 2 player from Indonesia who last played for [[Nas Ne Dogonyat]].
+</textarea>]

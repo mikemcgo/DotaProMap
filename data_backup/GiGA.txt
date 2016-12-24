@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:GiGA}}
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=GiGA
+|name2=Results
+|link2=GiGA/Results
+|This=1
+}}
+{{Infobox player
+|id=GiGA
+|image=PlayerImagePlaceholder.png
+|name=Gabriele Giganti
+|team=
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|other_ids=
+|datdota=
+|twitter=
+|twitch=
+|vk=
+|dotabuff=56025217
+|country=Italy
+|birth_date=??.??.1992.
+|history=
+{{TH|2015-09-?? — 2015-12-08|Team Bad English}}
+{{TH|2015-12-08 — 2016-02-25|PRIES}}
+}}
+
+Gabriele "'''GiGA'''" Giganti is an Italian Dota 2 player who last played for [[PRIES]].
+</textarea>]

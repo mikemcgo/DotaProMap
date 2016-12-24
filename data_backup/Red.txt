@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Red
+|name2=Results
+|link2=Red/Results
+|This=1
+}}
+{{Infobox player
+|id=Red
+|image=PlayerImagePlaceholder.png
+|name=孙尤嘉
+|romanized_name=Sun Youjia
+|team=Brave Heart
+|role=offlane
+|status=Active
+|hero=Doom
+|hero2=Batrider
+|hero3=Gyrocopter
+|ids=SryFox, 小红, 水友
+|country=China
+|dotabuff=124566285
+|mmr=6264
+|mmrdate=2016-10-15
+|history=
+{{TH|2013-06-?? — 2014-02-??|HyperGloryTeam}}
+{{TH|2014-03-?? — 2015-06-??|TongFu}}
+{{TH|2015-04-?? — 2015-07-??|TongFu.WanZhou}}
+{{TH|2016-04-?? — 2016-07-??|BraveHeart.Zombie}}
+{{TH|2016-07-?? — '''Present'''|Brave Heart}}
+}}
+
+Sun '''"Red"''' Youjia is a Chinese professional Dota 2 player currently playing for [[Brave Heart]] as Sub.
+</textarea>]

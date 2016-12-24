@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ariunbolor
+|name2=Results
+|link2=Ariunbolor/Results
+|This=1
+}}
+{{Infobox player
+|id=Ariunbolor
+|image=PlayerImagePlaceholder.png
+|name=Ариунболор Алтанцэцэг
+|romanized_name=Ariunbolor Altantsetseg
+|team=The Mongolz
+|birth_date=
+|country=Mongolia
+|hero=
+|hero2=
+|hero3=
+|mmr=6729
+|mmrdate=2016-11-25
+|ids=Crystal, ariukaa, STARK
+|role=support
+|datdota=
+|twitch=
+|twitter=
+|facebook=
+|dotabuff=86992358
+|history=
+{{TH|2014-01-30 — '''Present'''|The Mongolz}}
+}}
+
+Ariunbolor '''"Ariunbolor"''' Altantsetseg is a professional Dota 2 player currently playing for [[The Mongolz]].
+</textarea>]

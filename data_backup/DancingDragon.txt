@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=DancingDragon
+|name2=Results
+|link2=DancingDragon/Results
+|This=1
+}}
+{{Infobox player
+|id=DancingDragon
+|image=PlayerImagePlaceholder.png
+|name=Josef Bernhardsson 
+|team=IKEA
+|birth_date=
+|country=Sweden
+|role=Support
+|status=Active
+|ids=DancingDragon
+|youtube=
+|facebook=
+|datdota=
+|tlstream=
+|vk=
+|history=
+{{TH|2016-09-13 — '''Present'''|IKEA}}
+}}
+
+Josef '''"Dancing Dragon"''' Bernhardsson is a Swedish Dota 2 player who is currently playing for [[IKEA]].
+</textarea>]

@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Retribution
+|name2=Results
+|link2=Retribution/Results
+|This=1
+}}
+{{Infobox player
+|id=Retribution
+|image=PlayerImagePlaceholder.png
+|name=Temuulen Amarsaikhan
+|team=The Mongolz
+|birth_date=
+|country=Mongolia
+|hero=
+|hero2=
+|hero3=
+|mmr=7287
+|mmrdate=2016-07-14
+|role=carry
+|datdota=
+|twitch=
+|twitter=
+|facebook=
+|dotabuff=106204137
+|history=
+{{TH|2015-10-10 — '''Present'''|The Mongolz}}
+}}
+
+Temuulen '''"Retribution"''' Amarsaikhan is a professional Dota 2 player currently playing for [[The Mongolz]].
+</textarea>]

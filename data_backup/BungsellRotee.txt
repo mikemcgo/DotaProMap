@@ -1,0 +1,24 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:BungsellRotee}}
+{{Infobox player
+|id=BungsellRotee
+|image=bungsellrotee.jpg
+|name=Thithat Tachawattanakul
+|team=Bangkok Dynamo
+|role=Solo, Ganker
+|hero=invoker
+|hero2=queen of pain
+|hero3=timbersaw
+|ids=GODBEAR, TELETUBBIE
+|country=Thailand
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|????-??-?? — 2013-04-06|Neolution.TH}}
+{{TH|2013-09-27 — 2014-01-10|MiTH}}
+{{TH|2014-01-10 — 2014-05-??|Everlast.GameFilling}}
+{{TH|2014-05-?? — 2014-11-01|Awake}}
+{{TH|2014-11-01 — 2015-01-31|Insidious Idol}}
+{{TH|2016-01-04 — '''Present'''|Bangkok Dynamo}}
+}}
+
+Thithat '''"BungsellRotee"''' Tachawattanakul is a professional Dota 2 player who is currently playing for [[Bangkok Dynamo]].
+</textarea>]

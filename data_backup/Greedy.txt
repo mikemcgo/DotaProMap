@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Greedy
+|name2=Results
+|link2=Greedy/Results
+|This=1
+}}
+{{Infobox player
+|id=Greedy
+|image=Greedy frankfurt major 2015.jpg
+|name=Alexis Ventura
+|team=
+|role=offlane
+|role2=carry
+|status=Active
+|hero=Clockwerk
+|hero2=Templar Assassin
+|hero3=Brewmaster
+|mmr=6509
+|mmrdate=2016-11-05
+|sponsor=
+|ids=
+|country=Peru
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|dotabuff=109455705
+|twitch=greedydota
+|stream=
+|twitter=
+|facebook=greedymon
+|youtube=
+|fanpage=
+|history={{TH|2014-12-10 — 2015-??-??|Union Gaming}}
+{{TH|2015-??-?? — 2015-12-06 |Team Unknown}}
+{{TH|2015-12-06 — 2015-12-16|Artyk Gaming}}
+{{TH|2015-12-16 — 2015-12-??|Slayers of Gods}}
+{{TH|2015-12-?? — 2016-07-08|Infamous}}
+{{TH|2016-09-15 — 2016-12-14|Not Today}}
+}}
+
+Alexis '''"Greedy"''' Ventura is a professional Dota 2 player.
+</textarea>]

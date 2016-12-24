@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=JerAx
+|name2=Results
+|link2=JerAx/Results
+|This=1
+}}
+{{Infobox player
+|id=JerAx
+|image=Jerax_profile.jpg
+|name=Jesse Vainikka
+|team=OG
+|ids=JerAx, jrx, Jeraxai
+|birth_date={{Birth date and age|1992|5|7}}
+|country=Finland
+|role=support
+|status=Active
+|hero=Earth Spirit
+|hero2=Rubick
+|hero3=Winter Wyvern
+|mmr=7257
+|mmrdate=2016-11-25
+|tlstream=JerAxai
+|twitch=JerAxai 
+|twitter=iamjerax
+|facebook=JerAxai
+|datdota=775
+|dotabuff=26771994
+|reddit=JerAxai1
+|history=
+{{TH|2012-??-?? — 2013-03-04|Rat in the dark}}
+{{TH|2013-03-04 — 2013-12-04|QPAD Red Pandas}}
+{{TH|2014-09-?? — 2015-01-12|4Anchors}}
+{{TH|2015-01-20 — 2015-03-06|Team Tinker}}
+{{TH|2015-03-06 — 2015-08-17|MVP HOT6ix}}
+{{TH|2015-08-28 — 2015-10-09|5Jungz}}
+{{TH|2015-10-09 — 2016-08-31|Team Liquid}}
+{{TH|2016-08-31 — '''Present'''|OG}}
+}}
+
+Jesse '''"JerAx"''' Vainikka is a professional Dota 2 player from Finland who currently plays for [[OG]].
+</textarea>]

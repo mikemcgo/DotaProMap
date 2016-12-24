@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ReaLaxXx
+|name2=Results
+|link2=ReaLaxXx/Results
+|This=1
+}}
+{{Infobox player
+|id=ReaLaxXx
+|image=ReaLaxXx DHS 2015.jpg
+|name=Νίκος Κιαζόλης
+|romanized_name=Nikos Kiazolis
+|team=BrooDMotherS
+|role=offlane
+|status=Active
+|hero=Broodmother
+|hero2=Dark Seer
+|hero3=Timbersaw
+|ids=Reconstruct
+|country=Greece
+|datdota=5382
+|dotabuff=98609497
+|birth_date=
+|site=
+|youtube=
+|history=
+{{TH|2014-05-?? — 2014-11-08|XtremeXPC International}}
+{{TH|2014-11-08 — 2015-05-06|London Conspiracy}}
+{{TH|2016-03-?? — '''Present'''|BrooDMotherS}}
+}}
+Nikos '''"ReaLaxXx"''' Kiazolis is a Greek Dota 2 player who is currently playing for [[BrooDMotherS]].
+</textarea>]

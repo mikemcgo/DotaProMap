@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Infobox player
+|id=Ler_GG
+|image=
+|name=Timo Waszek
+|race=Support
+|team=
+|sponsor=
+|ids=
+|country=Germany
+|role=support
+|status=Active
+|tlpdid=ler
+|tlprofile=ler
+|birth_date={{Birth date and age|1990|02|23}}
+|nicknames=Ler, Lerlol, GG_No.rE
+|hero=venge
+|hero2=treant
+|hero3=disruptor
+|tlstream=ler
+|reddit=ler_gg
+|twitch=gg_nore
+|twitter=ler_gg
+|dotabuff=115909501
+|history={{TH|2015-03-05 — 2015-05-25|rizegaming}}
+{{TH|2015-05-25 — 2015-06-10|druidz}}
+}}
+
+Timo "@Ler_GG" Waszek is a semi professional Dota 2 player who is currently teamless. He is known to be a support player with heart and soul which was shown when he released his "[http://www.liquiddota.com/forum/dota-2-strategy/470167-the-art-of-support-official-e-book-release Art of Support]" book.
+</textarea>]

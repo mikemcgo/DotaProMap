@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=JiaJia
+|name2=Results
+|link2=JiaJia/Results
+|This=1
+}}
+{{Infobox player
+|id=JiaJia
+|image=PlayerImagePlaceholder.png
+|name=谭力嘉
+|romanized_name=Tan Lijia
+|team=TongFu
+|role=carry
+|status=Active
+|hero=Juggernaut
+|hero2=Lifestealer
+|hero3=Slark
+|mmr=7433
+|mmrdate=2016-11-30
+|ids=嘉嘉‎
+|country=China
+|datdota=5202
+|dotabuff=103275898
+|birth_date=
+|history=
+{{TH|2014-??-?? — 2014-??-??|Five Personal Beliefs}}
+{{TH|2014-09-?? — 2014-10-24|SuperPlayer}}
+{{TH|2014-10-24 — 2015-04-02|Newbee Young}}
+{{TH|2015-09-02 — 2016-09-17|Newbee Young}}
+{{TH|2016-09-17 — '''Present'''|TongFu}}
+}}
+
+Tan '''"JiaJia"''' Lijia is a professional Dota 2 player currently playing for [[TongFu]].
+</textarea>]

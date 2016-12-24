@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Atun
+|name2=Results
+|link2=Atun/Results
+|This=1
+}}
+{{Infobox player
+|id=Atun
+|image=Atun frankfurt major 2015.jpg
+|name=Juan Ochoa
+|team=
+|role=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Queen of Pain
+|hero3=Alchemist
+|mmr=6706
+|mmrdate=2016-11-05
+|sponsor=
+|ids=AtuuuuuuN, Kohina, SORA
+|country=Peru
+|tlpdid=
+|birth_date= 
+|nicknames=
+|dotabuff=91364275
+|site=
+|stream=
+|twitch=atunxd
+|twitter=
+|youtube=
+|fanpage=
+|history=
+{{TH|2015-??-?? — 2015-12-08|Team Unknown}}
+{{TH|2015-12-08 — 2015-12-??|As1-}}
+{{TH|2015-12-?? — 2016-01-13|Infamous}}
+{{TH|2016-03-?? — 2016-05-13|Infamous}}
+{{TH|2016-09-15 — 2016-12-14|Not Today}}
+}}
+
+Juan '''"Atun"''' Ochoa is a Peruvian professional Dota 2 player. He has previously played for [[Not Today]], [[Team Unknown]] and [[Infamous]].
+</textarea>]

@@ -1,0 +1,25 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Burning-dd
+|name2=Results
+|link2=Burning-dd/Results
+|This=1
+}}
+{{Infobox player
+|id=burning-dd
+|image=PlayerImagePlaceholder.png
+|name=Zhao Jundi
+|team=Tongfu.NA
+|birth_date=
+|country=China
+|hero=Shadow Fiend
+|hero2=Slark
+|hero3=Ember Spirit
+|role=Carry
+|history=
+{{TH|2015-02-25 — '''Present'''|Tongfu.NA}}
+}}
+
+Zhao "burning-dd" Jundi is a professional Dota 2 player who is currently a member of [[Tongfu.NA]].
+</textarea>]

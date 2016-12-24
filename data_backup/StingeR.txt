@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=StingeR
+|name2=Results
+|link2=StingeR/Results
+|This=1
+}}
+{{Infobox player
+|id=StingeR
+|image=StingeR.jpg
+|name=Steven Vargas
+|team=Infamous
+|ids=2001, BanG
+|role=support
+|status=Active
+|hero=Tusk
+|hero2=Vengeful Spirit
+|hero3=Furion
+|Other_ids=
+|mmr=6875
+|mmrdate=2016-12-17
+|country=Peru
+|birth_date={{Birth date and age|1996|12|15}}
+|facebook=StingeRDota
+|datdota=3767
+|dotabuff=119631156
+|history={{TH|2015-03-21 — 2015-08-29|Not Today}}
+{{TH|2015-08-29 — 2015-09-30|Sector V}}
+{{TH|2015-09-30 — 2015-11-30|Elite Wolves}}
+{{TH|2015-12-06 — 2015-12-16|Artyk Gaming}}
+{{TH|2015-12-16 — 2015-??-??|Slayers of Gods}}
+{{TH|2016-01-?? — '''Present'''|Infamous}}
+}}
+
+Steven '''"StingeR"''' Vargas is a Peruvian professional Dota 2 player who is currently a member of [[Infamous]].
+</textarea>]

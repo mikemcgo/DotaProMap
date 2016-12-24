@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SiDeRaL
+|name2=Results
+|link2=SiDeRaL/Results
+|This=1
+}}
+{{Infobox player
+|id=SiDeRaL
+|image=PlayerImagePlaceholder.png
+|name=Jesus Andres Carrion
+|team=Jayce
+|ids= Logan, labeba
+|fanpage=https://www.facebook.com/SiDeRaLLLL
+|role=mid
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|Other_ids=
+|mmr=6476
+|mmrdate=2016-12-17
+|country=Peru
+|birth_date=
+|history=
+{{TH|2013-08-14 — 2014-12-10|Union Gaming}}
+{{TH|2015-??-?? — '''Present'''|Team Jayce}}
+}}
+Jesus Andres Carrion is a Peruvian Dota 2 player for [[Team Jayce]].
+</textarea>]

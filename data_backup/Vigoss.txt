@@ -1,0 +1,58 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}} 
+{{Tabs static
+|name1=Overview
+|link1=Vigoss
+|name2=Results
+|link2=Vigoss/Results
+|This=1
+}}
+{{Infobox player
+|id=Vigoss
+|image=WIH-wagzE.jpg
+|name=Иван Шинкарёв
+|romanized_name=Ivan Shinkarev
+|team=
+|teamlink=
+|role=mid
+|status=Active
+|hero=Queen Of Pain
+|hero2=Mirana
+|hero3=Puck
+|ids=V-God, Tratata
+|country=Russia
+|birth_date={{birth date and age|1987|10|31}}
+|vk=club133104509
+|twitch=vigoss
+|youtube=
+|tlstream=
+|tlprofile=
+|twitter=DotaVigoss
+|datdota=50
+|dotabuff=87219396
+|history=
+'''Dota 1:'''&lt;br&gt;
+{{TH|2006 - 2008|Virtus.pro}}
+{{TH|2008|Ks.int}}
+{{TH|2008|DTS}}
+{{TH|2008-2009|Ks.int}}
+{{TH|2009|Rush3d}}
+{{TH|2010-2011|Lost.eu}}
+{{TH|2011|A Team}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-08-29 — 2011-11-04|Moscow 5}}
+{{TH|2012-??-?? — 2012-??-??|DTS}}
+{{TH|2012-05-12 — 2012-09-06|Moscow 5}}
+{{TH|2012-??-?? — 2012-??-??|Team Y}}
+{{TH|2012-09-24 — 2012-11-13|Absolute Legends}}
+{{TH|2012-??-?? — 2013-02-15|Lions Pride}}
+{{TH|2013-03-19 — 2013-09-16|Team Empire}}
+{{TH|2014-01-15 — 2014-??-??|SQreen's Squad}}
+{{TH|2014-08-08 — 2014-11-21|Moscow 5}}
+{{TH|2015-02-09 — 2015-02-12|sQreen's Squad}}
+{{TH|2015-05-26 — 2015-06-08|Duza Gaming}}
+{{TH|2015-06-08 — 2015-09-03|sQreen's Squad}}
+{{TH|2015-09-03 — 2015-09-22|Walrus Punch!|link=Walrus Punch! (Team)}}
+}}
+
+Ivan '''"Vigoss"''' Shinkarev is a legendary professional Dota 2 player from Russia who last played for [[Walrus Punch! (Team)|Walrus Punch!]].
+</textarea>]

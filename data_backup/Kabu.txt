@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Kabu
+|name2=Results
+|link2=Kabu/Results
+|This=1
+}}
+{{Infobox player
+|id=Kabu
+|image=Kabu-2012.jpg
+|name=赵凯
+|romanized_name=Zhao Kai
+|team=TongFu
+|role=offlane
+|status=Inactive
+|hero=Clockwerk
+|hero2=Rubick
+|hero3=Lion
+|ids=
+|dotabuff=88521435
+|country=China
+|birth_date={{Birth date and age|1992|7|16}}
+|history=
+{{TH|2010-??-?? — 2010-??-??|ToT}}
+{{TH|2010-??-?? — 2010-??-??|Deity}}
+{{TH|2010-??-?? — 2011-??-??|Sunny}}
+{{TH|2011-06-16 — 2011-??-??|TyLoo}}
+{{TH|2011-09-30 — 2012-10-11|Tongfu}}
+{{TH|2013-01-18 — 2013-08-29|Rattlesnake}}
+{{TH|2013-12-08 — 2014-02-19|TongFu}}
+{{TH|2014-03-04 — 2015-03-12|TongFu.WanZhou}}
+{{TH|2015-04-13 — 2016-08-30|TongFu}}
+{{TH|2016-09-17 — '''Present'''|TongFu|coach}}
+}}
+
+Zhao '''"Kabu"''' Kai is a professional Dota player who is currently the coach for [[TongFu]].
+</textarea>]

@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=Yol
+|name2=Results
+|link2=Yol/Results
+|This=1
+}}
+{{Infobox player
+|id=yol
+|image=PlayerImagePlaceholder.png
+|name=Владимир Басов
+|romanized_name=Vladimir Basov
+|team=Fantastic Five 
+|role=support
+|role2=captain
+|status=Active
+|hero=Dazzle
+|hero2=Bane
+|hero3=Shadow Demon
+|mmr=6787
+|mmrdate=2016-08-06
+|ids=
+|country=Russia
+|birth_date=
+|vk=roxkisyol
+|twitch=roxkisyol
+|datdota=396
+|dotabuff=76600360
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-01-21 — 2014-05-31|RoX}}
+{{TH|2014-08-25 — 2015-03-11|Virtus.pro}}
+{{TH|2015-03-?? — 2015-05-17|4 Clover &amp; Lepricon}}
+{{TH|2015-05-24 — 2015-05-26|Dota AllStars}}
+{{TH|2015-08-20 — 2015-09-01|Teamless}}
+{{TH|2015-09-04 — 2016-01-06|Fantastic Five}}
+{{TH|2016-01-06 — 2016-03-26|RoX}}
+{{TH|2016-03-27 — '''Presnt'''|Fantastic Five}} 
+}}
+
+Vladimir '''"yol"''' Basov is a professional Dota 2 player who currently playing for [[Fantastic Five]].
+</textarea>]

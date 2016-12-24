@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=垃圾君
+|name2=Results
+|link2=垃圾君/Results
+|This=1
+}}
+{{Infobox player
+|id=垃圾君
+|image=PlayerImagePlaceholder.png
+|name=卢昊
+|romanized_name=Lu Hao
+|team=FTD Club C
+|ids=Hitagi
+|role=support
+|status=Active
+|hero=Disruptor
+|hero2=Vengeful Spirit
+|hero3=Witch Doctor
+|mmr=7593
+|mmrdate=2016-11-12
+|country=China
+|datdota=
+|dotabuff=116852311
+|tencent=
+|weibo=
+|history=
+{{TH|2015-09-14 — 2015-11-28|FTD Club B}}
+{{TH|2016-03-20 — '''Present'''|FTD Club C}}
+}}
+
+Lu '''"垃圾君"''' Hao is a professional Dota 2 player currently playing for [[FTD Club C]].
+</textarea>]

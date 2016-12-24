@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Benhur
+|name2=Results
+|link2=Benhur/Results
+|This=1
+}}
+{{Infobox player
+|id=Benhur
+|image=
+|name=Benhur Lawis
+|team=
+|role=mid
+|status=Active
+|hero=Outworld Devourer
+|hero2=Alchemist
+|hero3=Invoker
+|mmr=6491
+|mmrdate=2016-08-06
+|ids=Ben
+|country=Philippines
+|birth_date=
+|datdota=
+|dotabuff=177085220
+|twitter=
+|facebook=
+|history=
+{{TH|2016-03-27 — 2016-08-19|Mineski}}
+}}
+
+Benhur "'''Benhur'''" Lawis is a professional Dota 2 player who is currently teamless.
+</textarea>]

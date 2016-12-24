@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=一方通行
+|name2=Results
+|link2=一方通行/Results
+|This=1
+}}
+{{Infobox player
+|id=佞臣
+|image=佞臣-EHOME.Keen.jpg
+|ids=一方通行, yftx
+|name=姜岸
+|romanized_name=Jiang An
+|team=EHOME.Keen
+|role=support
+|status=Active
+|hero=Bounty Hunter
+|hero2=Earth Spirit
+|hero3=Night Stalker
+|country=China
+|mmr=7114
+|mmrdate=2016-12-07
+|dotabuff=158847773
+|birth_date=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-09-22 — 2015-04-??|Speed Gaming}}
+{{TH|2015-04-?? — 2015-11-??|EHOME.K}}
+{{TH|2015-11-?? — 2015-12-03|EHOME.Luminous}}
+{{TH|2015-12-03 — '''Present'''|EHOME.Keen}}
+}}
+
+Jiang '''"佞臣"'''' An is a professional Chinese Dota 2 player who currently plays for [[EHOME.Keen]]. "佞臣" means "crafty and fawning officials" and is pronounced as "Ning Chen".
+</textarea>]

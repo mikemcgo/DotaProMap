@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Beesa
+|name2=Results
+|link2=Beesa/Results
+|This=1
+}}
+{{Infobox player
+|id=Beesa
+|image=Backsidebeesa.jpg
+|name=Alder Beano
+|team=FDL
+|role=carry
+|status=Active
+|hero=Slark
+|hero2=Anti-Mage
+|hero3=Morphling
+|mmr=8022
+|mmrdate=2016-11-10
+|ids=Bean
+|country=United Kingdom
+|country2=Jordan
+|tlprofile=chunderboy
+|dotabuff=170532209
+|datdota=5462
+|twitch=Nurbika
+|twitter=
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2015-08-29 — 2015-11-07|Kaipi}}
+{{TH|2016-04-29 — '''Present'''|FDL}}
+}}
+
+Alder '''"Beesa"''' Beano is a professional Dota 2 player who is currently playing the carry for [[FDL]].
+</textarea>]

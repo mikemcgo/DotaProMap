@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Sag
+|name2=Results
+|link2=Sag/Results
+|This=1
+}}
+{{Infobox player
+|id=Sag
+|image=PlayerImagePlaceholder.png
+|name=李果
+|romanized_name=Li Guo
+|team=Newbee
+|role=coach
+|role2=support
+|status=Inactive
+|hero=Earthshaker
+|hero2=Shadow Demon
+|hero3=Rubick
+|ids=SagM, NEO, Key
+|dotabuff=89296893
+|country=China
+|birth_date={{Birth date and age|1987|12|07}} 
+|history='''Dota:'''&lt;br&gt;
+{{TH|2009-10-?? — 2010-04-??|xFy}}
+{{TH|2010-04-?? — 2010-07-??|CityHunter}}
+{{TH|2010-09-?? — 2010-11-??|Deity}}
+{{TH|2011-01-?? — 2011-06-??|Nirvana.cn}}
+{{TH|2012-02-?? — 2012-04-??|Lord of Host}}
+{{TH|2012-05-?? — 2013-02-??|Radiance}}
+'''Dota2:'''&lt;br&gt;
+{{TH|2011-03-02 — 2011-??-??|Online Kingdom}}
+{{TH|2013-02-01 — 2014-??-??|RaTtLeSnAkE}}
+{{TH|2015-09-02 — '''Present''' |Newbee.Young}}
+}}
+
+Li '''"Sag"''' Guo, also known as '''"Key"''', is currently a coach for [[Newbee]] teams.
+</textarea>]

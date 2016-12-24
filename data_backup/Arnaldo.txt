@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Infobox player
+|id=Arnaldo
+|image=Arnaldo.jpg
+|name=Breno de Castro
+|team=
+|birth_date={{birth date and age|1993|10|18}}
+|country=Brazil
+|hero= Dark Seer
+|hero2= Death Prophet
+|hero3= Tinker
+|ids=Arnaldo do Dota
+|role=caster
+|twitch=http://www.twitch.tv/coliseumtv
+|facebook=https://www.facebook.com/ColiseumTV
+|tencent=
+|datdota=
+|tlstream=
+|tlprofile=
+|sponsor=
+|fanclub=
+|twitter=
+|reddit=
+|history='''Caster:'''&lt;br&gt;
+{{TH|2014-03-15 — 2014-12-13 |Rede Globulo TV}}
+{{TH|2014-12-14 — current |Coliseum TV}}
+|videoarchive=
+|youtube=
+}}
+
+
+Breno "Arnaldo" Castro is a caster from Brazil. Currently, he is a "[[Coliseum TV]]" caster.
+</textarea>]

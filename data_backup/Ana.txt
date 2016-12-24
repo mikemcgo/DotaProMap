@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=ana
+|name2=Results
+|link2=ana/Results
+|This=1
+}}
+{{Infobox player
+|id=ana
+|name=Anathan Pham
+|image=AnaOG2016.jpg
+|team=OG
+|country=Australia
+|mmr=7814
+|mmrdate=2016-12-09
+|hero=ember spirit
+|hero2=morphling
+|hero3=anti-mage
+|role=mid
+|status=Active
+|ids=
+|dotabuff=311360822
+|history= 	
+{{TH|2013-09-20 — 2013-10-01|Mobility Gaming}}
+{{TH|2016-03-19 — 2016-08-31|Invictus Gaming|sub}}
+{{TH|2016-08-31 — '''Present'''|OG}}
+}}
+
+Anathan '''"ana"''' Pham is a professional Dota 2 player from Australia currently playing for [[OG]].
+</textarea>]

@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=KBBQ
+|name2=Broadcasts
+|link2=KBBQ/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=KBBQ
+|image=Jack Chen KBBQ.jpg
+|name=Jack Chen
+|status=Active
+|role=caster
+|role1=translator
+|team=
+|sponsor=
+|ids=KBBQDota, KoreanBarbecue, KoreanBBQ
+|country=United States
+|country2=China
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|twitch=kbbqdota
+|twitter=kbbqdota
+|reddit=KBBQDotA
+|dotabuff=91967054
+}}
+
+Jack '''"KBBQ"''' Chen is a Dota 2 interpreter, analyst, writer, and podcaster. He is currently a translator/analyst for Beyond the Summit.
+</textarea>]

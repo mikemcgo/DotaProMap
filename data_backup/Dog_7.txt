@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Dog_7
+|name2=Results
+|link2=Dog_7/Results
+|This=1
+}}
+{{Infobox player
+|id=Dog_7
+|image=PlayerImagePlaceholder.png
+|name=王振洲
+|romanized_name=Wang Zhenzhou
+|team=Brave Heart
+|role=support
+|status=Active
+|hero=Dark Seer
+|hero2=Doom
+|hero3=
+|ids=
+|country=China
+|datdota=
+|dotabuff=134679634
+|mmr=7114
+|mmrdate=2016-11-30
+|twitter=
+|birth_date=
+|history=
+{{TH|2014-12-01 — '''Present'''|Brave Heart}}
+}}
+
+Wang '''"Dog_7"''' Zhenzhou is a professional Chinese Dota 2 player currently playing for [[Team Braveheart]].
+</textarea>]

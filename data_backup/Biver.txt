@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Biver
+|name2=Results
+|link2=Biver/Results
+|This=1
+}}
+{{Infobox player
+|id=Biver
+|image=Biver picture.png
+|name=Malthe Winther
+|team=Prodota Gaming
+|role=support
+|status=Active
+|hero=lion
+|hero2=visage
+|hero3=oracle
+|mmr=7306
+|mmrdate=2016-11-14
+|ids=
+|country=Denmark
+|datdota=
+|twitter=
+|facebook=
+|twitch=
+|dotabuff=109512357
+|birth_date=
+|history=
+{{TH|2015-08-12 — 2015-08-30|Ancient Warriors}}
+{{TH|2015-08-30 — 2015-10-23|Princess Jellopy}}
+{{TH|2015-10-23 — 2016-04-22|London Conspiracy}}
+{{TH|2016-07-09 — '''Present'''|Prodota Gaming}}
+}}
+
+Malthe '''"Biver"''' Winther is an Danish professional Dota 2 player who is currently playing for [[Prodota Gaming]].
+</textarea>]

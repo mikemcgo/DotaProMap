@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:CyNiCaL}}
+{{Infobox player
+|id=CyNiCaL
+|image=PFCynical.jpg
+|name=Stephen Jung Dongsuk
+|role=support
+|hero=Enchantress
+|hero2=Dazzle
+|hero3=Ancient Apparition
+|ids=CyNiCaL-
+|country=New Zealand
+|country2=South Korea
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|dotabuff=86767849
+|twitter=
+|datdota=1110
+|history='''Dota 2:'''
+{{TH|2011-11-02 — 2012-01-21 |Natural 9}}
+{{TH|2014-??-?? — 2014-04-27 |5 in QO}}
+{{TH|2014-04-27 — 2014-08-06 |Pokerface}}
+}}
+
+Stephen '''"CyNiCaL"''' Jung Dongsuk is a professional Dota 2 player who is currently teamless.
+</textarea>]

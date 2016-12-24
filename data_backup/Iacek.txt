@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Iacek
+|name2=Results
+|link2=Iacek/Results
+|This=1
+}}
+{{Infobox player
+|id=lacek
+|image=PlayerImagePlaceholder.png
+|name=Jan Hruza
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Czech Republic
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-03-21 — 2012-09-23|SGC}}
+}}
+
+Jan '''"Iacek"''' Hruza is a professional Dota 2 player who currently is teamless.
+</textarea>]

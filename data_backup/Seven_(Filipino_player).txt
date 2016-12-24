@@ -1,0 +1,27 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Seven (Filipino player)
+|name2=Results
+|link2=Seven (Filipino player)/Results
+|This=1
+}}
+{{Infobox player
+|id=Seven
+|image=PlayerImagePlaceholder.png
+|name=Jhonel Jay Maguddayao
+|team=
+|role=support
+|status=Active
+|hero=Vengeful_Spirit
+|hero2=Earthshaker
+|hero3=Witch_Doctor
+|ids=
+|country=Philippines
+|birth_date=
+|history='''Dota 2'''&lt;br&gt;
+{{TH|2015-01-22 — 2015-08-21|TnC Gaming}}
+}}
+
+Jhonel '''"Seven"''' Jay Maguddayao is a professional Dota 2 player who most recently played for [[TnC Gaming]].
+</textarea>]

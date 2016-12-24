@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=NaNa
+|name2=Results
+|link2=NaNa/Results
+|This=1
+}}
+{{Infobox player
+|id=NaNa
+|image=PlayerImagePlaceholder.png
+|name=Kam Boon Seng
+|team=WarriorsGaming.Unity
+|ids=
+|role=mid
+|status=Active
+|hero=Invoker
+|hero2=Shadow Fiend
+|hero3=Outworld Devourer
+|country=Malaysia
+|birth_date=
+|mmr=8037
+|mmrdate=2016-12-06
+|site=
+|datdota=
+|dotabuff=113457795
+|twitter=
+|facebook=
+|twitch=
+|history=
+{{TH|2014-08-19 — 2015-03-05|GeNySis}}
+{{TH|2015-03-05 — 2015-04-02|Invasion e-Sports}}
+{{TH|2015-11-28 — '''Present'''|WarriorsGaming.Unity}}
+}}
+
+Kam '''"NaNa"''' Boon Seng is a professional Dota 2 player currently playing for [[WarriorsGaming.Unity]]
+</textarea>]

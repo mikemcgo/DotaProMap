@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=mstco
+|name2=Results
+|link2=Mstco/Results
+|This=1
+}}
+{{Infobox player
+|id=mstco
+|image=PlayerImagePlaceholder.png
+|name=Ricardo Román Sandoval
+|team=Elite Wolves
+|role=support
+|role2=captain
+|status=Banned
+|hero=Shadow Shaman
+|hero2=Rubick
+|hero3=Earthshaker
+|mmr=6346
+|mmrdate=2016-10-08
+|ids=mstCAO, SIA, M-God
+|country=Peru
+|birth_date=&lt;!-- February 4, year unknown --&gt;
+|datdota=430
+|dotabuff=86761836
+|history=
+{{TH|2012-04-07 — 2012-11-11|Isurus Gaming}}
+{{TH|2012-12-15 — 2013-03-13|Gamer University}}
+{{TH|2013-03-?? — 2013-06-25|Artyk Gaming}}
+{{TH|2013-06-25 — 2013-08-14|Denial eSports}}
+{{TH|2013-08-14 — 2014-06-??|Revenge eSports}}
+{{TH|2014-06-?? — 2015-06-11|Not Today}}
+{{TH|2015-08-29 — 2015-09-30|Sector V}}
+{{TH|2015-09-30 — '''Present'''|Elite Wolves}}
+}}
+
+Ricardo '''"mstco"''' Román is a Peruvian professional Dota 2 player who is currently playing for [[Elite Wolves]]. However, he is currently ineligible to play in any Valve tournament due to being permanently banned from all Valve events after a matchfixing scandal which also affected [[ztok]] and [[SmAsH]].&lt;ref&gt;[http://www.thescoreesports.com/dota2/news/6896]&lt;/ref&gt;
+</textarea>]

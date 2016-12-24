@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:LeBronDota}}
+{{Tabs static
+|name1=Overview
+|link1=LeBronDota
+|name2=Results
+|link2=LeBronDota/Results
+|This=1
+}}
+{{Infobox player
+|id=LeBronDota
+|image=EPGlebron.JPG
+|name=Nikola Popovic
+|team=Elements Pro
+|birth_date={{Birth date and age|1990|04|23}}
+|country=Serbia
+|hero=Earth spirit
+|hero2=Io
+|hero3=Lion
+|mmr=7280
+|mmrdate=2016-11-17
+|role=support
+|status=Active
+|tlstream=
+|tlprofile=
+|twitch=lebrondota2
+|twitter=lebrondota
+|dotabuff=35504297
+|history=
+{{TH|2015-06-22 — 2015-07-22|Ancient Warriors}}
+{{TH|2015-09-04 — 2015-09-??|Walrus Punch!|link=Walrus_Punch!_(team)|sub}}
+{{TH|2015-12-08 — 2016-02-10|Natus Vincere|sub}}
+{{TH|2016-02-10 — 2016-06-03|Spider Pigzs}}
+{{TH|2016-08-02 — 2016-08-25|Elements One}}
+{{TH|2016-08-25 — '''Present'''|Elements Pro}}
+}}
+
+Nikola '''"LeBronDota"''' Popovic is a professional Dota 2 player currently playing for [[Elements Pro]].
+</textarea>]

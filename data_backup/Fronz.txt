@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=
+|name2=Results
+|link2=Fronz/Results
+|This=1
+}}
+{{Infobox player
+|id=Fronz
+|image=PlayerImagePlaceholder.png
+|name=Wilson Teng
+|team=
+|role=support
+|status=Active
+|hero=Doom
+|hero2=Beastmaster
+|hero3=Phoenix
+|mmr=7061
+|mmrdate=2016-08-30
+|ids=fr, frenzy, fronzy
+|country=Canada
+|datdota=
+|twitter=hellofronz
+|playlist=https://play.spotify.com/user/hellothisisfronz/playlist/1qq7xx6iNMexMoibdhIP6g
+|dotabuff=86878488
+|twitch=fdlfronz
+|birth_date=
+|history=
+{{TH|2016-04-29 — 2016-09-02|FDL}}
+}}
+
+Wilson '''"Fronz"''' Teng is a Canadian professional Dota 2 player who is currently teamless.
+</textarea>]

@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{lowercase}}{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Garter
+|name2=Results
+|link2=Garter/Results
+|This=1
+}}
+{{Infobox player
+|id=garter
+|image=PlayerImagePlaceholder.png
+|name=Ylli Ramadani
+|team=Prodota Gaming
+|role=carry
+|role2=captain
+|status=Active
+|hero=Invoker
+|hero2=Juggernaut
+|hero3=Anti Mage
+|mmr=8063
+|mmrdate=2016-12-06
+|ids=
+|country=Albania
+|twitter=garterdota2
+|facebook=garterdota2
+|twitch=garter1
+|dotabuff=86793739
+|datdota=1146
+|history=
+{{TH|2011-??-?? — 2011-??-??|Virus Gaming}}
+{{TH|2013-08-?? — 2013-12-??|Cede Nullis}}
+{{TH|2014-03-?? — 2014-04-??|Flipsid3 Tactics}}
+{{TH|2014-04-?? — 2014-06-??|mYinsanity}}
+{{TH|2015-10-19 — 2015-11-04|No Logic Gaming}} 
+{{TH|2015-01-02 — 2015-03-01|Samurai Champloo}} 
+{{TH|2016-03-01 — '''Present'''|Prodota Gaming}}
+}}
+
+Ylli "'''garter'''" Ramadani is a professional Dota 2 player from Albania who currently plays for [[Prodota Gaming]].
+</textarea>]

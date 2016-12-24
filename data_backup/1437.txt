@@ -1,0 +1,51 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub|no-cat=false}} 
+{{Tabs static
+|name1=Overview
+|link1=1437
+|name2=Results
+|link2=1437/Results
+|This=1
+}}
+{{Infobox player
+|id=1437
+|image=1437 The Summit 3.jpg
+|name=Sivatheeban Sivanathapillai
+|team=Team NP
+|role=support
+|role2=coach
+|status=Active
+|hero=Dazzle
+|hero2=Shadow Demon
+|hero3=Visage
+|mmr=6475
+|mmrdate=2016-11-29
+|ids=Rose
+|country=Canada
+|birth_date=
+|site=
+|twitch=1437
+|askfm=x1437
+|tlstream=1437
+|tlprofile=
+|twitter=1437x
+|facebook=1437tv
+|datdota=5
+|dotabuff=87196890
+|history=
+{{TH|2011-08-11 - 2011-11-23|Online Kingdom}}
+{{TH|2012-05-17 - 2012-09-16|mousesports}}
+{{TH|2012-09-16 - 2012-10-15|Quantic Gaming}}
+{{TH|2012-10-16 - 2013-09-14|LGD.int}}
+{{TH|2013-10-13 - 2013-11-11|Team Dignitas}}
+{{TH|2014-04-11 - 2014-06-03|North American Rejects}}
+{{TH|2014-06-03 - 2014-12-05|Na'Vi North America|link=Natus Vincere/Natus_Vincere_North_America}}
+{{TH|2015-??-?? - 2015-??-??|Team Secret|coach}}
+{{TH|2015-08-?? - 2015-09-01|Dark Horse}}
+{{TH|2015-09-01 - 2015-11-27|Cloud9}}
+{{TH|2015-11-27 - 2016-03-24|Digital Chaos}}
+{{TH|2016-03-24 - 2016-08-19|Team Secret|coach}}
+{{TH|2016-09-08 - '''Present'''|Team NP}}
+}}
+
+Theeban '''"1437"''' Siva, also known as '''"Rose"''' is a professional Dota 2 player who is currently playing support for [[Team NP]].
+</textarea>]

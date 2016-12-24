@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Pain
+|name2=Results
+|link2=Pain/Results
+|This=1
+}}
+{{Infobox player
+|id=Pain
+|image=PlayerImagePlaceholder.png
+|name=潘义
+|romanized_name=Pan Yi
+|team=Vici Gaming Potential
+|role=support
+|status=Active
+|hero=Earth Spirit
+|hero2=Lion
+|hero3=
+|mmr=7556
+|mmrdate=2016-11-30
+|ids=乌龙院, Fade
+|dotabuff=182331313
+|country=China
+|birth_date=
+|history=
+{{TH|2016-03-25 — 2016-05-28|Thunderobot Gaming}}
+{{TH|2016-05-28 — '''Present'''|Vici Gaming Potential}}
+}}
+
+Pan '''"Pain"''' Yi is a professional Dota 2 player who is currently playing for [[Vici Gaming Potential]].
+</textarea>]

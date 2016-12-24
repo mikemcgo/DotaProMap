@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Freeze
+|name2=Results
+|link2=Freeze/Results
+|This=1
+}}
+{{Infobox player
+|id=Freeze
+|image=Freeze-EHOME.Luminous.jpg
+|name=刘畅
+|romanized_name=Liu Chang
+|team=EHOME.Luminous
+|role=mid
+|status=Active
+|hero=Ember Spirit
+|hero2=Queen of Pain
+|hero3=Tinker
+|mmr=7766
+|mmrdate=2016-12-07
+|ids=Kamma
+|country=China
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=137272985
+|birth_date=
+|history=
+{{TH|2014-10-27 — 2014-12-31|2144 Gaming.Shield}}
+{{TH|2015-03-?? — 2015-07-31|EHOME.K}}
+{{TH|2015-11-?? — '''Present'''|EHOME.Luminous}}
+}}
+
+Liu '''"Freeze"''' Chang is a Chinese professional Dota 2 player who is currently playing for [[EHOME.Luminous]].
+</textarea>]

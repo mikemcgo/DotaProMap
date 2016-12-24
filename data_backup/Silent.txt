@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Silent
+|name2=Results
+|link2=Silent/Results
+|This=1
+}}
+{{Infobox player
+|id=Silent
+|image=Silent.jpg
+|name=Айрат Газиев
+|romanized_name=Airat Gaziev
+|team=
+|birth_date={{Birth date and age|1992|12|03}}
+|role=carry
+|status=Inactive
+|hero=Gyrocopter
+|hero2=Mirana
+|hero3=Luna
+|mmr=7330
+|mmrdate=2016-06-28
+|other_ids=SS, Silent &lt;3 Mila
+|country=Russia
+|twitter=Silentdota2
+|twitch=EmpireSilent
+|vk=empire.silent
+|datdota=49
+|dotabuff=89269794
+|history=
+{{TH|2012-03-26 - 2012-09-06|Moscow Five}}
+{{TH|2012-09-13 - 2013-04-16|Team Empire}}
+{{TH|2013-04-29 - 2013-06-04|DD.Dota}}
+{{TH|2013-06-04 - 2013-08-29|Quantic Gaming}}
+{{TH|2013-08-29 - 2015-12-02|Team Empire}}
+{{TH|2015-12-02 - 2016-06-08|Virtus.pro}}
+{{TH|2016-06-08 - 2016-06-30|Polarity}}
+}}
+
+Airat '''"Silent"''' Gaziev is a professional Russian Dota 2 player who is currently teamless.
+</textarea>]

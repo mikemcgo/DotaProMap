@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jubei
+|name2=Results
+|link2=Jubei/Results
+|This=1
+}}
+{{Infobox player
+|id=Jubei
+|image=PlayerImagePlaceholder.png
+|name=Andrew Evelynn
+|team=Team Freedom
+|role=support
+|status=Active
+|hero=Io
+|hero2=Abaddon
+|hero3=Dazzle
+|mmr=6568
+|mmrdate=2016-11-05
+|ids=
+|country=Canada
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=
+|birth_date=
+|history=
+{{TH|2013-09-?? — 2014-01-14|Pretty Boy Swag}}
+{{TH|2014-10-26 — 2015-02-26|MVP HOT6ix}}
+{{TH|2015-08-30 — 2015-09-13|Bathroom Buddies}}
+{{TH|2015-09-13 — 2015-12-21|Team Mischief}}
+{{TH|2015-12-21 — 2016-06-21|Team Freedom}}
+{{TH|2016-09-17 — '''Present'''|Team Freedom}}
+}}
+
+Andrew '''"Jubei"''' Evelynn is a Canadian professional Dota 2 player who is currently a member of [[Team Freedom]].
+</textarea>]

@@ -1,0 +1,46 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=Qojqva
+|name2=Results
+|link2=Qojqva/Results
+|This=1
+}}
+{{Infobox player
+|id=qojqva
+|image=Qojqva_DHW_2016.jpg
+|name=Maximilian Bröcker
+|team=Escape Gaming
+|role=mid
+|status=Active
+|hero=lone druid
+|hero2=tinker
+|hero3=Natures Prophet
+|mmr=7526
+|mmrdate=2016-11-19
+|site=http://www.teamliquidpro.com/liquidqojqva
+|tlstream=Liquidqojqva
+|tlprofile=Liquid`qojqva
+|twitter=Qojqva1
+|twitch=LiquidQojqva
+|reddit=qojqva
+|datdota=321
+|dotabuff=86738694
+|ids=Pro1Like
+|fanclub=http://www.liquiddota.com/forum/players-and-teams/459691-qojqva-discussion
+|country=Germany
+|birth_date=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-06-14 — 2012-07-14|HelloMoto}}
+{{TH|2012-10-01 — 2012-11-17|Meet Your Makers}}
+{{TH|2012-12-08 — 2013-01-03|We haz Asian}}
+{{TH|2013-03-18 — 2013-09-25|mousesports}}
+{{TH|2013-09-25 — 2014-08-29|Team Liquid}}
+{{TH|2014-08-11 — 2015-05-08|Team Tinker}}
+{{TH|2015-05-08 — 2015-06-04|mousesports}}
+{{TH|2016-02-29 — 2016-06-21|No Diggity}}
+{{TH|2016-06-21 — '''Present'''|Escape Gaming}}
+}}
+
+Max '''"qojqva"''' Bröcker (pronounced '''''"[coy-cua]"''''') is a German professional Dota 2 player. After spending time with well known teams such as [[Team_Liquid|Team Liquid]] and [[mousesports]], he took a temporary leave from competitive play in 2015.&lt;ref name="Qojqva on break"&gt;{{cite web |url=http://www.liquiddota.com/forum/dota-2-general/486946-qojqva-to-take-a-break-tc-stands-in-for-mouz-this-weekend |title=qojqva to take a break, TC stands in for mouz this weekend |author=Heyoka |publisher=LiquidDota.com |date=2015-06-05 |accessdate=2015-06-07}}&lt;/ref&gt; In the beginning of 2016, he got back into the competitive scene as player for the new formed team [[No_Diggity| No Diggity]].&lt;ref&gt;https://beta.faceit.com/en/teams/ccde9f28-ad94-4908-ba6b-4b381a150cda&lt;/ref&gt; He currently plays for [[Escape Gaming]].
+</textarea>]

@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Lacoste
+|name2=Results
+|link2=Lacoste/Results
+|This=1
+}}
+{{Infobox player
+|id=Lacoste
+|image=Lacoste-2012.jpg
+|name=Dominik Stipic
+|team=
+|role=offlane
+|status=Active
+|hero=Windrunner
+|hero2=Broodmother
+|other_ids=
+|country=Croatia
+|birth_date=
+|dotabuff=87264171
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2011-08-11 — 2011-11-23|Online Kingdom}}
+{{TH|2012-02-22 — 2012-05-08|Evil Geniuses}}
+{{TH|2012-05-09 — 2012-05-18|Darer}}
+{{TH|2012-05-18 — 2012-10-29|Counter Logic Gaming}}
+{{TH|2015-09-02 — 2016-02-01|No Logic Gaming|sub}}
+}}
+
+Dominik '''"Lacoste"''' Stipic is a professional DotA player, currently teamless.
+</textarea>]

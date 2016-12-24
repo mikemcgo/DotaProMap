@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Hexenjagd
+|name2=Results
+|link2=Hexenjagd/Results
+|This=1
+}}
+{{Infobox player
+|id=Hexenjagd
+|image=PlayerImagePlaceholder.png
+|name=Feng Xiaoyu
+|team=
+|role=support
+|hero=Lion
+|hero2=Witch Doctor
+|hero3=Spirit Breaker
+|ids=
+|country=China
+|country2=United States
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=111051733
+|birth_date=
+|history=
+{{TH|2015-02-25 — 2015-??-??|TongFu.NA}}
+{{TH|2015-08-05 — 2015-11-09|Stratos eSports}}
+{{TH|2015-11-09 — 2015-12-12|Astral Authority}}
+{{TH|2016-05-13	— 2016-06-??|Enemy}}
+}}
+
+Feng '''"Hexenjagd"''' Xiaoyu is an American professional Dota 2 player who is currently teamless.
+</textarea>]

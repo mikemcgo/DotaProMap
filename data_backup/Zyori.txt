@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Zyori}}
+
+{{caster-stub}}
+{{Infobox player
+|id=Zyori
+|name=Andrew Campbell
+|image=Zyori.png
+|team=
+|country=United States
+|birth_date={{Birth date and age|1989|16|10}}
+|ids=Zyori, Winkz
+|site=http://www.zyori.tv/
+|twitter=ZyoriTV
+|twitch=ZyoriTV
+|reddit=TheRealZyori
+|tlstream=
+|tlprofile=
+|role=caster
+|role2=host
+|history=
+|youtube=ZyoriTV1
+|fanpage=
+}}
+
+Andrew '''"Zyori"''' Campbell is a full-time Dota 2 commentator for [http://moonduck.tv moonduck.TV].
+</textarea>]

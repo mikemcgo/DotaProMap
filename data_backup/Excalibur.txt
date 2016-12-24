@@ -1,0 +1,51 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Excalibur
+|name2=Results
+|link2=Excalibur/Results
+|This=1
+}}
+{{Infobox player
+|id=Excalibur
+|image=excalibur esl one frankfurt.jpg
+|name=Steve Ye
+|birth_date=
+|country=Sweden
+|country2=China
+|team=Horde
+|hero=meepo
+|hero2=tinker
+|hero3=tiny
+|mmr=8737
+|mmrdate=2016-11-29
+|ids=Xcalibur
+|role=mid
+|status=Active
+|twitch=
+|tlstream=
+|tlprofile=
+|facebook=
+|site=
+|twitter=XcaliburYe
+|youtube=
+|fanpage=
+|datdota=4444
+|reddit=xcaliba
+|dotabuff=129610677
+|history=
+{{TH|2014-06-05 — 2014-08-11|Fnatic.EU|stand-in}}
+{{TH|2014-08-11 — 2014-08-19|Team Tinker}}
+{{TH|2014-09-?? — 2015-01-10|House of Gamers}}
+{{TH|2015-01-10 — 2015-01-27|MeePwn'd}}
+{{TH|2015-04-?? — 2015-05-??|GameOnline}}
+{{TH|2015-07-?? — 2015-09-02|Ancient Warriors}}
+{{TH|2015-09-02 — 2015-10-05|(monkey) Business|sub}}
+{{TH|2015-10-05 — 2016-02-01|No Logic Gaming}}
+{{TH|2016-03-25 — 2016-08-23|OG|sub}}
+{{TH|2016-09-17 — 2016-11-16|Memento Mori}}
+{{TH|2016-11-16  — '''Present'''|Horde}}
+}}
+
+Steve '''"Excalibur"''' Ye is a professional Dota 2 player who is currently playing for [[Horde]].
+</textarea>]

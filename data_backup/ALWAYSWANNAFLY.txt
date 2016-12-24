@@ -1,0 +1,49 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ALWAYSWANNAFLY
+|name2=Results
+|link2=ALWAYSWANNAFLY/Results
+|This=1
+}}
+{{Infobox player
+|id=ALWAYSWANNAFLY
+|image=PlayerImagePlaceholder.png
+|name=Андрій Бондаренко
+|romanized_name=Andrey Bondarenko
+|team=F.R.I.E.N.D.S.
+|role=support
+|status=Active
+|hero=Ancient Apparition
+|hero2=Bane
+|hero3=Dazzle
+|mmr=7528
+|mmrdate=2016-10-10
+|ids=
+|country=Ukraine
+|birth_date={{Birth date and age|1991|03|06}}
+|site=
+|twitch=empirealwayswannafly
+|tlstream=
+|tlprofile=
+|twitter=flydota
+|vk=empirefly
+|datdota=134
+|dotabuff=91064780
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-05-28 — 2012-09-13|Team Empire}}
+{{TH|2012-09-19 — 2012-10-04|Team Kharkiv}}
+{{TH|2012-10-04 — 2012-11-11|Eclypsia}}
+{{TH|2012-11-11 — 2013-02-01|iLuminate}}
+{{TH|2012-09-16 — 2012-09-27|The Retry}}
+{{TH|2013-03-14 — 2013-08-16|iCCup}}
+{{TH|2013-08-16 — 2013-09-13|Terrible Terrible Damage}}
+{{TH|2013-09-13 — 2015-08-25|Team Empire}}
+{{TH|2015-09-03 — 2015-12-06|CIS Rejects}}
+{{TH|2015-12-06 — 2016-05-11|Team Spirit}}
+{{TH|2016-05-13 — 2016-06-30|Polarity}}
+{{TH|2016-07-15 — '''Present'''|F.R.I.E.N.D.S.}}
+}}
+
+Andrey '''"ALWAYSWANNAFLY"''' Bondarenko is a Ukrainian professional Dota 2 player currently playing for [[F.R.I.E.N.D.S.]].
+</textarea>]

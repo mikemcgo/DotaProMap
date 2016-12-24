@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Faith
+|name2=Results
+|link2=Faith/Results
+|This=1
+}}
+{{Infobox player
+|id=Faith
+|image=Faith.jpg
+|name=曾宏达
+|romanized_name=Zeng Hongda 
+|team=Newbee
+|role=support
+|status=Active
+|hero=Ancient Apparition
+|hero2=Shadow Demon
+|hero3=Shadow Shaman
+|mmr=7320
+|mmrdate=2016-10-29
+|Other_ids=WAQT
+|country=China
+|datdota=37
+|tencent=q382120427
+|dotabuff=82327674
+|birth_date={{Birth date and age|1992|2|6}} 
+|history=
+{{TH|2011-06-16  — 2011-08-28|TyLoo}}
+{{TH|2011-08-24 — 2014-08-26|Invictus Gaming}}
+{{TH|2014-08-26 — 2015-03-06|LGD.cn}}
+{{TH|2015-03-06 — 2015-09-02|Invictus Gaming}}
+{{TH|2015-09-02 — 2016-09-04|TongFu}}
+{{TH|2016-09-17 — '''Present'''|Newbee}}
+}}
+Zeng '''"Faith"''' Hongda is a professional Chinese Dota 2 player currently playing for [[Newbee]].
+</textarea>]

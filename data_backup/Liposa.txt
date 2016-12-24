@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Liposa
+|name2=Results
+|link2=Liposa/Results
+|This=1
+}}
+{{Infobox player
+|id=Liposa
+|image=Liposa_face.jpg
+|name=Rodrigo Lelis
+|team=Midas Club Elite
+|role=offlane
+|status=Active
+|hero=bat
+|hero2=slardar
+|hero3=sandking
+|mmr=6753
+|mmrdate=2016-11-29
+|ids=Leslão
+|country=Brazil
+|birth_date= {{Birth date and age|1996|11|24}} 
+|twitter=
+|facebook=
+|dotabuff=
+|twitch=liposa_
+|history=
+
+{{TH|2014-06-01 — 2014-12-05|The House Is Down}}
+{{TH|2015-10-12 — 2015-09-30 |Keyd Stars}}
+{{TH|2016-11-01 — '''Present'''|Midas Club Elite}}
+}}
+
+Rodrigo '''"Liposa"''' Lelis is a brazilian professional Dota 2 player who is currently playing for [[Midas Club Elite]].
+</textarea>]

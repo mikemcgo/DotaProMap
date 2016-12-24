@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=CC&amp;C
+|name2=Results
+|link2=CC&amp;C/Results
+|This=1
+}}
+{{Infobox player
+|id=CC&amp;C
+|image=PlayerImagePlaceholder.png
+|name=Quinn Callahan
+|team=
+|role=mid
+|status=Active
+|hero=Templar Assassin
+|hero2=Windranger
+|hero3=Puck
+|mmr=7907
+|mmrdate=2016-12-09
+|ids=CC, CCC, CCnC, Smitty
+|country=United States
+|datdota=
+|twitter=CCnCDotA2
+|facebook=
+|twitch=CCnCDotA2 
+|dotabuff=221666230
+|birth_date=
+|history=
+{{TH|2016-04-29 — 2016-09-02|FDL}}
+}}
+
+Quinn '''"CC&amp;C"''' Callahan is an American professional Dota 2 player who is currently teamless.
+</textarea>]

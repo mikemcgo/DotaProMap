@@ -1,0 +1,21 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Foxx
+|image=FoxxxNew.png
+|name=Jeffrey Fortunato 
+|team=
+|role=Carry
+|hero=Razor
+|hero2=Weaver
+|hero3=
+|country=Philippines
+|birth_date=
+|twitter=XctNfoxx
+|datdota=282
+|dotabuff=92704330
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2014-06-01 — 2015-11-?? |Execration}}
+}}
+
+Jeffrey '''"Foxx"''' Fortunato is a Professional Dota Player that is currently teamless.
+</textarea>]

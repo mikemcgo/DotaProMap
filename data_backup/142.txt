@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Player-stub}}
+{{Infobox player
+|id=142
+|image=PlayerImagePlaceholder.png
+|name=Adam Cooper
+|team=
+|birth_date={{Birth date and age|1990|12|19}}
+|country=United Kingdom
+|hero=
+|hero2=
+|hero3=
+|role=Offlane
+|twitch=viazu
+|tlstream=
+|tlprofile=
+|ids=Viazu, Tuba
+|sponsor= 
+|site=
+|twitter=@142dota
+|history=
+|videoarchive=
+|youtube=
+}}
+
+Adam '''"142"''' Cooper is a DotA player from the United Kingdom, currently part of SuperGhostface &amp; Korea Pew Pew Crew.
+</textarea>]

@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=YCyKzXy
+|name2=Results
+|link2=YCyKzXy/Results
+|This=1
+}}
+{{Infobox player
+|id=yChen
+|image=PlayerImagePlaceholder.png
+|name=潘帅方
+|romanized_name=Pan Shuaifang
+|team=Vici Gaming Potential
+|role=mid
+|status=Active
+|hero=Templar Assassin
+|hero2=
+|hero3=
+|mmr=7623
+|mmrdate=2016-11-30
+|ids=ycyk, yChen
+|dotabuff=230617400
+|country=China
+|birth_date=
+|history=
+{{TH|2014-04-17 — 2014-09-17|TongFu.WanZhou}}
+{{TH|2015-??-?? — 2015-11-16|Team DK}}
+{{TH|2015-12-06 — 2016-03-19|iG Vitality}}
+{{TH|2016-03-26 — 2016-05-28|White Fries Gaming}}
+{{TH|2016-05-28 — '''Present'''|Vici Gaming Potential}}
+}}
+
+Pan '''"yCyKzXy"''' Shuaifang is a professional Dota 2 player who is currently playing for [[Vici Gaming Potential]]. He is also well known for his [[Templar Assassin]] skills.
+</textarea>]

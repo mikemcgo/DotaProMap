@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=KSi
+|name2=Results
+|link2=KSi/Results
+|This=1
+}}
+{{Infobox player
+|id=KSi
+|image=PlayerImagePlaceholder.png
+|name=Sergey Kuzin
+|team=
+|role=support
+|status=Inactive
+|hero=
+|hero2=
+|hero3=
+|ids=
+|twitter=ksiodua
+|country=Ukraine
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-??-?? — 2012-09-16|zNation}}
+{{TH|2012-09-16 — 2013-08-15|Virtus.pro}}
+{{TH|2013-08-30 — 2013-12-01|Poseidon}}
+{{TH|2013-12-01 — 2014-02-14|Relax}}
+{{TH|2014-12-03 — 2015-??-??|aSpera}}
+}}
+
+Sergey '''"KSi"''' Kuzin is a Dota 2 player who most recently played for [[aSpera]].
+</textarea>]

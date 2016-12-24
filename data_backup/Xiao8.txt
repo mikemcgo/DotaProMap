@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Xiao8
+|name2=Results
+|link2=Xiao8/Results
+|This=1
+}}
+{{Infobox player
+|id=xiao8
+|image=xiao8 ti5.jpg
+|name=张宁
+|romanized_name=Zhang Ning
+|birth_date={{Birth date and age|1989|11|14}}
+|team=LGD.Forever Young
+|role=support
+|role2=captain 
+|status=Active
+|hero=Doom
+|hero2=Furion
+|hero3=Beastmaster
+|mmr=8275
+|mmrdate=2016-11-29
+|ids=
+|country=China
+|datdota=44
+|tencent=x_xiao8
+|weibo=1786485173
+|tlstream=xiao8
+|stream=http://www.douyutv.com/64609
+|dotabuff=98887913
+|history=
+{{TH|2011-08-09 — 2014-02-19|LGD.cn}}
+{{TH|2014-02-23 — 2014-07-29|Newbee}}
+{{TH|2014-12-31 — 2015-03-08|Big God}}
+{{TH|2015-03-08 — 2016-09-17|LGD.cn}}
+{{TH|2016-09-17 — '''Present'''|LGD.Forever Young}} 
+}}
+Zhang '''"xiao8"''' Ning is a professional Dota 2 player, currently playing for [[LGD.Forever Young]].
+</textarea>]

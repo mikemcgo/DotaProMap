@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Sealkid
+|name2=Results
+|link2=Sealkid/Results
+|This=1
+}}
+{{Infobox player
+|id=Sealkid
+|image=Sealkid DHS 2015.jpg
+|name=Elias Merta  
+|country=Sweden
+|team=SOLIDUDES
+|role=support
+|status=Active
+|hero=Witch Doctor
+|hero2=Vengeful Spirit
+|hero3=Dazzle
+|mmr=6910
+|mmrdate=2016-08-25
+|ids=
+|twitch=
+|twitter=Sealkid1
+|datdota=2740
+|dotabuff=71286125
+|facebook=
+|history=
+{{TH|2014-11-20 — 2015-01-01|LAJONS}}
+{{TH|2015-01-01 — 2015-11-13|Ninjas in Pyjamas}}
+{{TH|2015-12-02 — 2016-01-29|Steak Gaming}}
+{{TH|2016-08-16 — 2016-10-??|Team Doge}}
+{{TH|2016-10-?? — '''Present'''|SOLIDUDES}}
+}}
+
+Elias "'''Sealkid'''" Merta is professional Swedish Dota 2 player. He currently plays for [[SOLIDUDES]].
+</textarea>]

@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Warlog
+|name2=Results
+|link2=Warlog/Results
+|This=1
+}}
+{{Infobox player
+|id=Warlog
+|image=PlayerImagePlaceholder.png
+|name=Martin Zima
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Slovak Republic
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-03-21 — 2012-09-23|SGC}}
+{{TH|2012-10-31 — 2013-01-19|mTw}}
+{{TH|2013-01-19 — 2013-02-26|Re-defining Madness}}
+}}
+
+Martin '''"Warlog"''' Zima is a professional Dota 2 player who is currently without a team.
+</textarea>]

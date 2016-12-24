@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Shakir4
+|name2=Results
+|link2=Shakir4/Results
+|This=1
+}}
+{{Infobox player
+|id=Shakir4
+|image=PlayerImagePlaceholder.png
+|name=Bruno Sato
+|team=
+|role=offlane
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=Shakir4xd
+|country=Brazil
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012  — 2013 |Nex Impetus}} 
+{{TH|2016-03-04  — 2016-08-19|CNB e-Sports Club}} 
+}}
+
+Bruno '''"Shakir4"''' Sato is a professional Dota 2 player who is currently teamless.
+</textarea>]

@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+:''For the American player Yao "Fly." Linhui, see [[Fly.]].''
+{{Tabs static
+|name1=Overview
+|link1=Fly
+|name2=Results
+|link2=Fly/Results
+|This=1
+}}
+{{Infobox player
+|id=Fly
+|image=Fnatic_Fly_DHW12.jpg
+|name= טל אייזיק
+|romanized_name=Tal Aizik
+|team=OG
+|birth_date={{Birth date and age|1993|03|09}}
+|country=Israel
+|hero=Dazzle
+|hero2=Rubick
+|hero3=Keeper of the Light
+|mmr=7655
+|mmrdate=2016-12-06
+|ids=Bot, Simbaaa, FlyMyShnekel, SimbaaaCharlie, FreshFriFly
+|role=support
+|role2=captain
+|status=Active
+|twitch=simbaaa
+|tlstream=simbaaa
+|tlprofile=
+|facebook=SimbaaaDota
+|site=
+|twitter=Fly_dota2
+|youtube=
+|fanpage=
+|datdota=169
+|dotabuff=94155156
+|history=
+{{TH|2012-03-30 — 2014-08-27|Fnatic.EU}}
+{{TH|2014-08-27 — 2014-12-16|Team Secret}}
+{{TH|2015-01-10 — 2015-03-06|MeePwn'd}}
+{{TH|2015-05-07 — 2015-08-28|CompLexity Gaming}} 
+{{TH|2015-08-28 — 2015-10-31|(monkey) Business}}
+{{TH|2015-10-31 — '''Present'''|OG}}
+}}
+
+Tal '''"Fly"''' Aizik is an Israeli professional Dota 2 player who is currently playing for [[OG]].
+</textarea>]

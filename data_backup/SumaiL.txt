@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SumaiL
+|name2=Results
+|link2=SumaiL/Results
+|This=1
+}}
+{{Infobox player
+|id=SumaiL
+|image=SumaiL The Summit 3.jpg
+|name= &lt;span style="font-size: 125%; font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', Nafees, 'Pak Nastaleeq', 'PDMS_Jauhar', 'Arabic Typesetting', 'Segoe UI', 'Alvi Lahori Nastaleeq';"&gt;سید سمائل حسن &lt;/span&gt;
+|romanized_name=Syed Sumail Hassan
+|team=Evil Geniuses
+|role=mid
+|status=Active
+|hero=Storm Spirit
+|hero2=Shadow Fiend
+|hero3=Ember Spirit
+|mmr=7489
+|mmrdate=2016-12-13
+|sponsor=
+|twitch=sumaildoto
+|twitter=SumaaaaiL
+|facebook=demondoto
+|datdota=5543
+|dotabuff=111620041
+|ids=D3m0n, Suma1L, B-Rabbit, Slim.Shady, H0PE
+|country=Pakistan
+|country2=United States
+|birth_date={{Birth date and age|1999|02|13}}
+|history=
+{{TH|2015-01-05 — 2016-08-28|Evil Geniuses}}
+{{TH|2016-09-15 — '''Present'''|Evil Geniuses}}
+}}&lt;br&gt;
+
+Syed Sumail '''"SumaiL"''' Hassan is a Pakistani player living in Rosemont, Illinois. He is currently the mid player for [[Evil Geniuses]].
+</textarea>]

@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SLiCKz
+|name2=Results
+|link2=SLiCKz/Results
+|This=1
+}}
+{{Infobox player
+|id=SLiCKz
+|image=slickz.jpg
+|name=Trent Tucker
+|team=Natural 9
+|country=Australia
+|role=mid
+|status=Active
+|hero=Invoker
+|hero2=Mirana
+|hero3=Shadow Fiend
+|mmr=6423
+|mmrdate=2016-10-04
+|twitch=slickz
+|twitter=slickzdota
+|facebook=slickz88
+|datdota=2835
+|dotabuff=29110522
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-04-08 — 2014-10-05|Team Immunity}}
+{{TH|2014-10-17 — 2015-01-13|Zephyr}}
+{{TH|2015-04-02 — 2015-06-??|Invasion e-Sports}}
+{{TH|2015-06-17 — 2015-08-??|Can't Say Wips}}
+{{TH|2015-08-21 — ??????|Banaaaanas}}
+{{TH|2015-12-02 — 2016-02-03|Steak Gaming}}
+{{TH|2016-02-03 — 2016-??-??|Power of Friendship}}
+{{TH|2016-03-26 — 2016-05-12|EverNovaS}}
+{{TH|2016-06-02 — 2016-08-18|EverNova}}
+{{TH|2016-08-23 — '''Present'''|Natural 9}}
+}}
+
+Trent '''"sLiCKz"''' Tucker is an Australian ex Heroes of Newerth professional who is currently playing for [[Natural 9]].
+</textarea>]

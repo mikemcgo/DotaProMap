@@ -1,0 +1,25 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:f(x)}}
+{{Infobox player
+|id=f(x)
+|image=5inQ_f(x).jpg
+|name=
+|team=Betboys
+|role=Carry, Support, Utility
+|hero=Crystal Maiden
+|hero2=
+|hero3=
+|ids=
+|country=South Korea
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|??? — 2014-04-12|5 in QO}}
+{{TH|2014-08-03 — '''Present'''|Betboys}}
+}}
+
+Choi '''"f(x)"''' Jongseob is a professional Dota 2 player currently playing for [[Betboys]]. He played support for [[5inQ]] and plays carry for [[Betboys]].
+</textarea>]

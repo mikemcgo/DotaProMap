@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=BYB
+|name2=Results
+|link2=BYB/Results
+|This=1
+}}
+{{Infobox player
+|id=BYB
+|image=PlayerImagePlaceholder.png
+|name=Mark Adrian "Bayabas" Gavin
+|team=Execration
+|role=offlane
+|status=Banned
+|hero=
+|hero2=
+|hero3=
+|ids=Bayabas
+|country=Philippines
+|birth_date=
+|datdota=625
+|dotabuff=114980990
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-01-28 — 2013-06-02|Pacific.Emaxx}}
+{{TH|2013-06-07 — 2014-10-15|MSI-evoGT.TnC}}
+{{TH|2015-11-10 — 2016-09-13|Execration}}
+{{TH|2016-09-13 — '''Present'''|Execration|coach}}
+}}
+
+Mark Adrian '''"BYB"''' Gavin is a professional Philippine Dota 2 player who is currently a coach for [[Execration]].
+</textarea>]

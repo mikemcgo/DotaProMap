@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=AutumnWindz
+|name2=Broadcasts
+|link2=AutumnWindz/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=AutumnWindz
+|image=AutumnWindz.jpg
+|name=Joshua Lee
+|status=Active
+|role=
+|team=
+|sponsor=
+|ids=Josh, Joshua
+|country=China
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=https://dotaland.net/
+|reddit=AutumnWindz
+|twitter=Dotaland
+|youtube=dotaland
+|fanpage=
+}}
+
+
+Josh "AutumnWindz" Lee is a Dota 2 Mandarin interpreter and interviewer and occasional guest panelist.
+</textarea>]

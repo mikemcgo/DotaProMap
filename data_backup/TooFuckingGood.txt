@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=TooFuckingGood
+|name2=Results
+|link2=TooFuckingGood/Results
+|This=1
+}}
+{{Infobox player
+|id=TooFuckingGood
+|image=PlayerImagePlaceholder.png
+|romanized_name=Daniel Wong Wei Khit
+|team=
+|role=offlane
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=TFG
+|country=Malaysia
+|birth_date=
+|dotabuff=91143798
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-03-07 — 2013-03-13|ABC}}
+{{TH|2013-03-13 — 2013-10-16|MUFC}}
+{{TH|2013-10-16 — 2014-01-18|Orange Esports}}
+{{TH|2014-11-14 — 2015-01-27|G Guard Esports}}
+}}
+
+Daniel Wong '''"TooFuckingGood"''' Wei Khit is a professional Dota 2 player that most recently played for [[G Guard Esports]].
+</textarea>]

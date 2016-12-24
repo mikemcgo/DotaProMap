@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=
+|name2=Results
+|link2=Abed/Results
+|This=1
+}}
+{{Infobox player
+|id=Abed
+|image=XctN.Abed.jpg
+|name=Abed Azel L. Yusop
+|team=Execration
+|role=mid
+|role2=carry
+|status=Active
+|hero=meepo
+|hero2=invoker
+|hero3=shadow fiend
+|mmr=8397
+|mmrdate=2016-10-07
+|ids=
+|country=Philippines
+|datdota=
+|site=http://abedyusop.com
+|facebook=abedyusop.official
+|twitter=abedyusop
+|dotabuff=154715080
+|twitch=
+|birth_date={{birth date and age|2000|8|2}}
+|history={{TH|2015-03-01 - 2015-06-30|Trackmate.Tric}}
+{{TH|2016-02-10 — '''Present'''|Execration}}
+}}
+
+Abed Azel '''"Abed"''' Yusop is a Filipino professional Dota 2 player who is currently playing for [[Execration]].
+</textarea>]

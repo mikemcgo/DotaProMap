@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Exotic_Deer}}
+{{Tabs static
+|name1=Overview
+|link1=Exotic_Deer
+|name2=Results
+|link2=Exotic_Deer/Results
+|This=1
+}}
+{{Infobox player
+|id=Exotic_Deer
+|image=Exotic attaxshooting.jpg
+|name=Natan Michalewicz
+|romanized_name=
+|team=Alternate aTTaX
+|birth_date=
+|country=Poland
+|hero=Tiny
+|hero2=Shadow Fiend
+|hero3=Gyrocopter
+|role=carry
+|status=Active
+|mmr=7282
+|mmrdate=2016-10-07
+|twitch=exotic_deer
+|tlstream=
+|tlprofile=
+|vk=
+|ids=
+|sponsor=
+|site=
+|twitter=
+|facebook=Natan-Exotic_Deer-Michalewicz-869110299814998
+|dotabuff=62533910
+|history=
+{{TH|2014-??-?? — 2015-03-20|Let's Do It}} 
+{{TH|2015-03-20 — 2016-08-25|Alternate aTTaX}}
+{{TH|2016-09-?? — '''Present'''|Alternate aTTaX}}
+|videoarchive=
+|youtube=
+}}
+
+Natan "'''Exotic_Deer'''" Michalewicz is a professional Dota 2 player who currently plays for [[Alternate aTTaX]].
+</textarea>]

@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Gorec
+|name2=Results
+|link2=Gorec/Results
+|This=1
+}}
+{{Infobox player
+|id=Gorec
+|image=HRGorec.jpg
+|name=Иван Картанков
+|romanized_name=Ivan Kartankov
+|team=
+|role=offlane
+|status=Active
+|hero=Night Stalker
+|hero2=Centaur Warrunner
+|hero3=Earthshaker
+|mmr=6672
+|mmrdate=2016-09-08
+|ids=Gorec666, 111, Goretz
+|country=Russia
+|datdota=1379
+|vk=
+|dotabuff=87432909
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2014-03-?? — 2014-10-30|Kompas.Gaming}}
+{{TH|2014-10-30 — 2015-06-16|HellRaisers}}
+{{TH|2015-06-16 — 2015-07-31|Power Rangers}}
+{{TH|2015-07-31 — 2015-08-26|Arcade.PowerRangers}}
+{{TH|2015-09-03 — 2015-10-??|CIS Rejects}}
+{{TH|2015-10-24 — 2016-03-27|Yellow Submarine}}
+}}
+
+Ivan '''"Gorec"''' Kartankov is a professional Russian Dota 2 player who last played for [[Yellow Submarine]].
+</textarea>]

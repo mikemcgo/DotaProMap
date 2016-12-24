@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Chains
+|name2=Results
+|link2=Chains/Results
+|This=1
+}}
+{{Infobox player
+|id=Chains
+|image=PlayerImagePlaceholder.png
+|name=Wei Sheng Tan
+|romanized_name=
+|team=SG Rejects
+|role=mid
+|status=Active
+|hero=Tinker
+|hero2=Sniper
+|hero3=Invoker
+|ids=
+|country=Singapore
+|birth_date=
+|twitter=
+|twitch=
+|vk=
+|datdota=
+|history= '''Dota 2:'''&lt;br&gt;
+{{TH|2013-02-11 — 2013-??-??|Chains Stack}}
+{{TH|2014-09-26 — 2015-05-31|Can't Say Wips}}
+{{TH|2015-08-18 — '''Present'''|SG Rejects}}
+}}
+
+Wei '''"Chains"''' Sheng Tan  is a professional Dota 2 player, currently playing for [[SG Rejects]].
+</textarea>]

@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Rime
+|name2=Results
+|link2=Rime/Results
+|This=1
+}}
+{{Infobox player
+|id=Rime
+|image=PlayerImagePlaceholder.png
+|name=Robert Pratt
+|team=
+|role=coach
+|role2=caster
+|status=Active
+|hero=Invoker
+|hero2=Shadow Fiend
+|hero3=Morphling
+|mmr=7142
+|mmrdate=2016-07-21
+|ids=
+|country=United Kingdom
+|datdota=
+|twitter=Rimelol
+|facebook=
+|twitch=Rime
+|dotabuff=69256187
+|birth_date=
+|history=
+{{TH|2016-04-29 — 2016-??-??|FDL (Coach)|link=FDL}}
+}}
+
+Robert '''"Rime"''' Pratt is a British Dota 2 player, coach, and caster.
+</textarea>]

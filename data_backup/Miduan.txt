@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=MidOne
+|name2=Results
+|link2=Miduan/Results
+|This=1
+}}
+{{Infobox player
+|id=MidOne
+|image=Fnatic MidOne Profile.jpg
+|name=Yeik Nai Zheng
+|role=mid
+|status=Active
+|hero=Templar Assassin
+|hero2=Puck
+|hero3=Invoker
+|mmr=8696
+|mmrdate=2016-11-03
+|team=Team Secret
+|sponsor=
+|ids=Miduan
+|country=Malaysia
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|dotabuff=116585378
+|twitch=midonedota2
+|twitter=midonedota2
+|youtube=
+|facebook=miduandota2
+|history=
+{{TH|2015-12-07 — 2016-08-24|Fnatic}}
+{{TH|2016-08-27 — '''Present'''|Team Secret}}
+}}
+
+Zheng '''"MidOne"''' Yeik Nai (Also known as '''"Miduan"''') is a professional Dota 2 mid player who currently plays for [[Team Secret]].
+</textarea>]

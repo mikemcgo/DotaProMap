@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=Le
+|name2=Results
+|link2=Le/Results
+|This=1
+}}
+{{Infobox player
+|id=le
+|image=PlayerImagePlaceholder.png
+|name=张轩昊
+|romanized_name=Zhang Xuanhao
+|team=Newbee Young
+|role=support
+|status=Active
+|hero=Rubick
+|hero2=Io
+|hero3=Earthshaker
+|ids=Happy
+|country=China
+|datdota=3217
+|twitter=
+|birth_date={{Birth date and age|1993|8|8}}
+|dotabuff=135726105
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-10-?? — 2015-09-02|Energy Pacemaker Gaming}}
+{{TH|2015-09-02 — 2015-12-08|Newbee Young}}
+{{TH|2015-12-08 — 2016-03-22|Newbee}}
+{{TH|2016-03-22 — '''Present'''|Newbee Young}}
+}}
+
+Zhang "'''le"''' Xuanhao is a professional Chinese Dota 2 player currently playing for [[Newbee Young]].
+</textarea>]

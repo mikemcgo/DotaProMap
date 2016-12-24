@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Handsken
+|name2=Results
+|link2=Handsken/Results
+|This=1
+}}
+{{Infobox player
+|id=Handsken
+|image=Handsken DHS 2015.jpg
+|name=Simon Haag  
+|country=Sweden
+|team=Alliance
+|role=support
+|status=Active
+|hero=Disruptor
+|hero2=Wisp
+|hero3=Chen
+|mmr=6668
+|mmrdate=2016-08-13
+|ids=
+|ldstream=Handsken
+|twitch=handsken
+|twitter=Handsken1
+|datdota=5030
+|dotabuff=18180970
+|facebook=
+|history=
+{{TH|2014-11-20 — 2015-01-01|LAJONS}}
+{{TH|2015-01-01 — 2015-11-13|Ninjas in Pyjamas}}
+{{TH|2015-11-24 — 2016-08-30|compLexity Gaming}}
+{{TH|2016-09-16 — '''Present'''|Alliance}}
+}}
+
+Simon "'''Handsken'''" Haag is a professional Swedish Dota 2 player who is currently playing for [[Alliance]].
+</textarea>]

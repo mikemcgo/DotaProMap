@@ -1,0 +1,46 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=MoonMeander
+|name2=Results
+|link2=MoonMeander/Results
+|This=1
+}}
+{{Infobox player
+|id=MoonMeander
+|image=MoonMeander DreamLeague Season 5.jpg
+|name=David Tan
+|birth_date={{birth date and age|1992|1|28}}
+|country=Canada
+|country2=Malaysia
+|ids=Moon, MoonMeanderated
+|team=Digital Chaos
+|role=offlane
+|status=Active
+|hero=Dark Seer
+|hero2=NP
+|hero3=Earthshaker
+|mmr=7700
+|mmrdate=2016-08-28
+|datdota=4385
+|dotabuff=38628747
+|tlstream=MoonMeander
+|twitch=moonmeander
+|youtube=peachymoonz
+|twitter=MoonMeanderated
+|facebook=MoonMeanderated
+|reddit=moonmeander
+|askfm=MoonMeanderated
+|fanclub=http://www.liquiddota.com/forum/players-and-teams/476370-moonmeander-discussion
+|history=
+{{TH|2014-05-01 — 2014-08-19|Dream Destroyers}}
+{{TH|2014-08-19 — 2014-08-27|stayGreen}}
+{{TH|2014-08-27 — 2015-01-23|compLexity Gaming}}
+{{TH|2015-05-07 — 2015-08-28|compLexity Gaming}}
+{{TH|2015-08-28 — 2015-10-31|(monkey) Business}}
+{{TH|2015-10-31 — 2016-08-25|OG}}
+{{TH|2016-08-25 – '''Present'''|Digital Chaos}}
+}}
+
+David "'''MoonMeander'''" Tan is a professional Dota 2 player from Canada who is currently playing for [[Digital Chaos]]. He is known for his eccentric personality and stream.
+</textarea>]

@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=H4nn1
+|name2=Results
+|link2=H4nn1/Results
+|This=1
+}}
+{{Infobox player
+|id=H4nn1
+|image=H4nn1 ESL Frankfurt 2015.jpg
+|name=Kai Hanbückers
+|team=
+|birth_date=
+|country=Germany
+|hero=Invoker
+|hero2=Magnus
+|hero3=Batrider
+|role=mid
+|status=Inactive
+|twitch=h4nn1
+|azubu=H4nn1
+|tlstream=H4nn1
+|tlprofile=
+|facebook=kai.h4nn1
+|site=
+|twitter=KaiH4nn1
+|youtube=
+|fanpage=
+|datdota=103
+|dotabuff=21265941
+|history=
+{{TH|2012-04-17 — 2014-12-02|Fnatic.EU}}
+{{TH|2015-01-10 — 2015-03-05|MeePwn'd}}
+{{TH|2015-03-?? — 2015-05-05|4 Clover &amp; Lepricon}}
+}}
+
+Kai '''"H4nn1"''' Hanbückers is an inactive professional Dota 2 player that most notably played for [[Fnatic.EU]].
+</textarea>]

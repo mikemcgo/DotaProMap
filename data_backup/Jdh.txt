@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=jdh
+|name2=Results
+|link2=jdh/Results
+|This=1
+}}
+{{Infobox player
+|id=jdh
+|image=jdh-EHOME.Keen.jpg
+|ids=hydsb
+|name=蒋东昊
+|romanized_name=Jiang Donghao
+|team=EHOME.Keen
+|role=support
+|status=Active
+|mmr=6822
+|mmrdate=2016-09-23
+|hero=kunkka
+|hero2=rubick
+|hero3=lion
+|country=China
+|datdota=
+|dotabuff=117990312
+|birth_date=
+|history=
+{{TH|2014-04-20 — 2014-??-??|Speed Gaming}}
+{{TH|2014-10-27 — 2015-05-30|Wings Gaming}}
+{{TH|2015-08-29 — 2015-12-03|EHOME.K}}
+{{TH|2015-12-03 — 2016-03-20|EHOME.Keen}}
+{{TH|2016-03-20 — 2016-04-08|Vici Gaming}}
+{{TH|2016-04-?? — '''Present'''|EHOME.Keen}}
+}}
+
+Jiang '''"jdh"'''' Donghao is a professional Chinese Dota 2 player who currently plays for [[EHOME.Keen]].
+</textarea>]

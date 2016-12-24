@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=DDC
+|name2=Results
+|link2=DDC/Results
+|This=1
+}}
+{{Infobox player
+|id=DDC
+|image=Ddc_frankfurt_major_2015.jpg
+|name=梁發明
+|romanized_name=Leong Fat-meng
+|team=Vici Gaming
+|birth_date={{birth date and age|1990|7|3}}
+|role=support
+|status=Active
+|hero=Visage
+|hero2=Ancient Apparition
+|hero3=Lion
+|mmr=7357
+|mmrdate=2016-11-29
+|datdota=42
+|tencent=j38x5bij
+|weibo=2312518554
+|dotabuff=114239371
+|other_ids=
+|country=Macau
+|history=
+{{TH|2011-08-09 — 2014-09-12|LGD.cn}}
+{{TH|2014-09-12 — 2015-01-07|LV Gaming}}
+{{TH|2015-01-07 — 2015-08-26|EHOME}}
+{{TH|2015-08-26 — 2016-03-18|LGD.cn}}
+{{TH|2016-03-19 — 2016-08-30|Vici Gaming Reborn}}
+{{TH|2016-09-14 — '''Present'''|Vici Gaming}}
+}}
+Leong '''"DDC"''' Fat-meng is a professional Macanese Dota 2 player who is currently playing for [[Vici Gaming]].
+</textarea>]

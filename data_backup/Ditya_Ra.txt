@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ditya Ra
+|name2=Results
+|link2=Ditya Ra/Results
+|This=1
+}}
+{{Infobox player
+|team=
+|id=Ditya Ra
+|image=Ditya Ra ESL One Frankfurt 2016.jpg
+|name=Дмитрий Миненков
+|romanized_name=Dmitry Minenkov
+|birth_date={{birth date and age|1995|03|26}}
+|role=carry
+|status=Active
+|hero=Lycan
+|hero2=Natures Prophet
+|hero3=Ember Spirit
+|mmr=7715
+|mmrdate=2016-11-23
+|country=Russia
+|twitch=ditya_ra
+|twitter=Ditya_Ra_
+|dotabuff=169181898
+|vk=ditya__ra
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-12-09 — 2015-07-31|Power Rangers}}
+{{TH|2015-07-31 — 2015-09-28|Arcade.PowerRangers}}
+{{TH|2015-10-05 — 2015-10-20|No Logic Gaming}}
+{{TH|2015-12-07 — 2016-11-07|Natus Vincere}}
+}}
+Dmitry '''"Ditya Ra"''' Minenkov is a professional Russian Dota 2 player who last played for [[Natus Vincere]].
+</textarea>]

@@ -1,0 +1,1128 @@
+single line error in Another.txt:TH|2016-04-?? — 2016-04-??|PiLoT - -#
+single line error in Another.txt:TH|2016-05-?? — '''Present'''|Vici Gaming Potential
+single line error in Q.txt:TH|2013-01-28 — 2013-??-??|Vici Gaming
+single line error in Fly..txt:TH|2013-??-?? — 2014-??-??|Top5
+single line error in Primo.txt:TH|2014-??-?? — 2014-11-04|Skyville
+single line error in Primo.txt:TH|2014-11-04 — 2015-11-??|Execration
+single line error in Trixi.txt:TH|2012-09-03 — 2014-09-??|Fnatic.EU
+single line error in Trixi.txt:TH|2014-09-?? — 2015-09-28|4 Anchors + Sea Captain
+single line error in Ewe.txt:TH|2012-10-?? — 2013-03-05|MSI-EvoGT
+single line error in Ewe.txt:TH|2014-06-01 — 2015-??-??|Execration
+single line error in Ewe.txt:TH|2015-08-26 — 2015-11-??|Execration
+single line error in QO.txt:TH|2013-06-26 — 2013-??-??|FXOpen e-Sports
+single line error in QO.txt:TH|2013-??-?? — 2014-03-04|5inQ
+single line error in Algodonchin.txt:TH|2015-06-01 — 2016-??-??|Isurus Gaming
+single line error in Algodonchin.txt:TH|2016-??-?? — 2016-04-??|Union Gaming
+single line error in Crio_J.txt:TH|????-??-?? — ????-??-??|3DMAX
+single line error in Crio_J.txt:TH|????-??-?? — 2013-11-30|Zero Respect
+single line error in Crio_J.txt:TH|2014-01-26 — 2014-??-??|Zero Respect
+single line error in Crio_J.txt:TH|2014-08-16 — 2015-??-??|Denial eSports
+single line error in Crio_J.txt:TH|2015-??-?? — '''Present'''|Zero Respect
+single line error in Zeroji.txt:TH|2015-04-?? — 2015-05-??|GameOnline
+single line error in PaS.txt:TH|2014-05-13 — 2014-08-??|mousesports
+single line error in PaS.txt:TH|20??-??-?? — 2015-??-??|GOOMBA Gaming
+single line error in Mason.txt:TH|2016-04-29 — 2016-06-?? |Dragneel
+single line error in L0lik_O.txt:TH|2013-??-?? — 2013-02-10|Ice Climbers
+single line error in L0lik_O.txt:TH|2013-02-22 — 2013-03-??|Lions Pride
+single line error in L0lik_O.txt:TH|2013-09-?? — 2014-03-19|Cleave Gaming
+single line error in L0lik_O.txt:TH|2014-03-19 — 2014-06-??|Aware Gaming
+single line error in L0lik_O.txt:TH|2014-06-?? — 2014-06-??|Cleave Gaming
+single line error in L0lik_O.txt:TH|2014-10-?? — 2015-02-??|Duza Gaming
+single line error in L0lik_O.txt:TH|2015-03-?? — 2015-09-04|Elysium Gaming
+single line error in L0lik_O.txt:TH|2016-01-?? — 2016-05-??|GUS Gaming
+single line error in L0lik_O.txt:TH|2016-06-?? — 2016-08-21|Yellow Submarine
+single line error in JyU.txt:TH|2014-04-27 — 2015-??-??|Pokerface
+single line error in Ztok.txt:TH|2014-12-10 — 2015-??-??|Union Gaming
+single line error in Ztok.txt:TH|2015-??-?? — 2015-12-05|Team Unknown
+single line error in Ztok.txt:TH|2015-12-16 — 2015-12-??|Slayers of Gods
+single line error in Ztok.txt:TH|2015-12-?? — 2016-03-21|Infamous
+single line error in Cast.txt:TH|2015-06-19 — 2015-??-??|MSI-EvoGT
+single line error in Gedrox.txt:TH|2015-09-?? — 2015-12-08|Team Bad English
+ACC.txt no history element:TH|2015-10-23 – 2015-11-05 |paiN Gaming
+ACC.txt no history element:TH|2016-01-?? – '''Present'''|Team Innova
+single line error in FROZEN.txt:TH|2015-12-06 — 2016-06-??|Enemy
+single line error in FROZEN.txt:TH|2016-06-?? — 2016-09-??|Exodus
+single line error in Zfreek.txt:TH|2014-??-?? — 2014-08-27|stayGreen
+single line error in KSi.txt:TH|2012-??-?? — 2012-09-16|zNation
+single line error in KSi.txt:TH|2014-12-03 — 2015-??-??|aSpera
+single line error in Clairvoyance.txt:TH|2016-05-01 - 2016-06-??|Dragneel
+single line error in Clairvoyance.txt:TH|2016-06-?? - 2016-09-??|Void Boys
+single line error in YCyKzXy.txt:TH|2015-??-?? — 2015-11-16|Team DK
+single line error in Yol.txt:TH|2015-03-?? — 2015-05-17|4 Clover &amp; Lepricon
+single line error in Lt.txt:TH|2014-10-?? — 2015-07-??|Energy Pacemaker Gaming
+single line error in Lt.txt:TH|2015-08-30 — 2015-??-??|BeijingWangYu
+single line error in Lt.txt:TH|2015-??-?? — 2016-??-??|Insane Buster
+single line error in Lt.txt:TH|2016-??-?? — '''Present'''|EHOME.X
+single line error in SiDeRaL.txt:TH|2015-??-?? — '''Present'''|Team Jayce
+single line error in Kaneki.txt:TH|2015-??-?? — '''Present'''|Team Jayce
+single line error in BananaSlamJamma.txt:TH|2015-09-?? — 2015-11-09|Stratos eSports
+single line error in BananaSlamJamma.txt:TH|2015-12-06 — 2016-06-??|Enemy
+single line error in BananaSlamJamma.txt:TH|2016-06-?? — 2016-09-??|Exodus
+single line error in BananaSlamJamma.txt:TH|2016-10-?? — '''Present'''|Team Freedom
+single line error in Ima_sheep(sux).txt:TH|2013-08-?? — 2014-01-20|Pretty Boy Swag
+single line error in Cookie_bear.txt:TH|2014-10-?? — 2014-10-??|DK Academy
+single line error in Cookie_bear.txt:TH|2014-11-?? — 2014-12-??|Butter Fly
+single line error in Cookie_bear.txt:TH|2016-01-?? — 2016-05-01|Energy Pacemaker
+single line error in Cookie_bear.txt:TH|2016-05-?? — 2016-08-23|FTD club A
+single line error in DurpDurp.txt:TH|2015-09-02 — 2015-11-??  |ROOT Gaming
+single line error in DurpDurp.txt:TH|2015-12-06 — 2016-??-??  |EverNova
+single line error in Wejustzik.txt:TH|2013-08-16 — 201?-??-??|Terrible Terrible Damage
+single line error in Wejustzik.txt:TH|2015-12-06 — 2013-05-??|Prodota Gaming
+single line error in Mango_Banana.txt:TH|2013-05-06 — 2013-06-??|Denial eSports
+single line error in Mango_Banana.txt:TH|2014-??-?? — 2014-??-??|House of Gamers
+single line error in Mango_Banana.txt:TH|2014-??-?? — 2014-??-??|Wired Gaming
+single line error in Mango_Banana.txt:TH|2015-??-?? — 2015-??-??|E-LAB
+single line error in GoAudio.txt:TH|2012-??-?? — 2013-01-27|Svenhunterz
+single line error in GoAudio.txt:TH|2013-08-30 — 2013-10-??|aSpera
+single line error in Jigglebilly.txt:TH|2014-09-?? — 2014-10-??|Stay Free	
+single line error in ArsZeeqq.txt:TH|2014-11-?? — 2014-11-24|BUHLO-UroPb
+single line error in ArsZeeqq.txt:TH|2015-??-?? — 2015-??-??|Phoenix Rising
+single line error in ArsZeeqq.txt:TH|2015-06-26 — 2015-??-??|Balkan Bears
+single line error in Freeze.txt:TH|2015-03-?? — 2015-07-31|EHOME.K
+single line error in Freeze.txt:TH|2015-11-?? — '''Present'''|EHOME.Luminous
+single line error in Kebap.txt:TH|2011-??-?? — 2011-??-??|GosuGamers
+single line error in KaNG.txt:TH|2015-07-14 — 2015-10-??|Team SatuDuaTiga
+single line error in KaNG.txt:TH|2016-03-26 — 2016-07-??|Mineski-X
+single line error in KaNG.txt:TH|2016-07-?? — 2016-08-15|DUOBAO.INT
+single line error in Awoke.txt:TH|2009-??-?? — 2009-??-??|IFNT
+single line error in Awoke.txt:TH|2009-??-?? — 2009-??-??|CYC
+single line error in Awoke.txt:TH|2009-??-?? — 2010-??-??|G5
+single line error in Sunlight.txt:TH|2012-12-15 — ????-??-??|iCCup
+single line error in FlyingZebra.txt:TH|2014-??-?? — 2014-06-06|Team Leviathan
+single line error in FlyingZebra.txt:TH|2014-06-06 — 2014-??-??|FlipSid3 Tactics.NA
+single line error in FlyingZebra.txt:TH|2016-06-20 — 2016-??-??|Team Leviathan
+single line error in Sedoy.txt:TH|2012-11-01 — ?? |XX5 Gaming
+single line error in Sedoy.txt:TH|2016-05-22 — 2016-10-??|FlipSid3 Tactics
+single line error in Sedoy.txt:TH|2016-10-?? — 2016-11-14|Skorokhod+4
+single line error in Newsham.txt:TH|2014-??-?? — 2014-06-06|Team Leviathan
+single line error in Newsham.txt:TH|2014-06-06 — 2014-10-??|Flipside Tactics
+single line error in Newsham.txt:TH|2016-04-01 — 2016-06-??|Kingdom Dota
+single line error in Swifty.txt:TH|??-??-?? — 2016-??-??|Team Elunes
+single line error in NO_Chanc3.txt:TH|??-??-?? — 2016-??-??|Team Elunes
+Heen.txt no history element:TH|2007-2008|xDT
+Heen.txt no history element:TH|2009-2009|Sponsor us Please
+Heen.txt no history element:TH|2009-2010|How.kr
+single line error in KaHT.txt:TH|2015-03-30 — 2015-??-??|ScaryFaceZ
+single line error in ReaLaxXx.txt:TH|2014-05-?? — 2014-11-08|XtremeXPC International
+single line error in ReaLaxXx.txt:TH|2016-03-?? — '''Present'''|BrooDMotherS
+single line error in WwD.txt:TH|2016-09-17 — 2016-10-??|Team Freedom
+single line error in Seleri.txt:TH|2015-10-?? — 2016-02-??|EE's Disciples
+single line error in SLiCKz.txt:TH|2015-04-02 — 2015-06-??|Invasion e-Sports
+single line error in SLiCKz.txt:TH|2015-06-17 — 2015-08-??|Can't Say Wips
+single line error in SLiCKz.txt:TH|2015-08-21 — ??????|Banaaaanas
+single line error in SLiCKz.txt:TH|2016-02-03 — 2016-??-??|Power of Friendship
+single line error in Neqroman.txt:TH|2016-04-27 - 2016-??-??|HWA Gaming
+single line error in Minerva.txt:TH|2013-02-11 — 2013-??-??|Chains Stack
+single line error in Minerva.txt:TH|2015-11-24 — 2016-??-??|Spac_ Creators
+ComeWithMe.txt no history element:TH|2008|neXt!Please
+ComeWithMe.txt no history element:TH|2009|diXi
+ComeWithMe.txt no history element:TH|2009|Wait 4 Team
+ComeWithMe.txt no history element:TH|2009|AirWalk
+ComeWithMe.txt no history element:TH|2010|neXt!Please
+ComeWithMe.txt no history element:TH|2010—2011|The Elder Gods
+single line error in ComeWithMe.txt:TH|2011-??-?? — 2011-12-??|The Elder Gods
+single line error in ComeWithMe.txt:TH|2011-12-?? — 2011-12-23|Poor Happy Guys
+single line error in ComeWithMe.txt:TH|2016-01-02 — 2016-01-??|Burden United
+single line error in GGwpLanaya.txt:TH|2014-08-15 — 2014-??-??|ThePressure
+single line error in GGwpLanaya.txt:TH|2015-12-08 — 2016-??-??|Big Red Machine
+single line error in Massacre.txt:TH|2013-??-?? — 2013-05-12|Lions Pride 
+single line error in Massacre.txt:TH|2013-07-18 — 2013-??-??|Team Gamersleague.eu 
+single line error in Ainiyo.txt:TH|2016-04-?? — 2016-04-23|FTD Club B
+single line error in Ainiyo.txt:TH|2016-05-?? — '''Present'''|EHOME.Luminous
+single line error in LizZard.txt:TH|2014-25-08 - 2015-??-??|MYinsanity
+single line error in Itake.txt:TH|2013-03-04 — 2013-05-??|Rat in the dark
+single line error in Cr1t-.txt:TH|2012-??-?? — 2012-11-13|We haz Asian
+single line error in Cr1t-.txt:TH|2012-12-08 — 2013-03-??|DD.Dota
+single line error in Cr1t-.txt:TH|2014-??-?? — 2014-??-??|Stay Free
+single line error in Cr1t-.txt:TH|2014-??-?? — 2014-11-26|hehe united  
+single line error in MotPax.txt:TH|2012-??-?? — 2012-11-13|We haz Asian
+single line error in MotPax.txt:TH|2012-12-08 — 2013-03-??|DD.Dota
+single line error in MotPax.txt:TH|2014-??-?? — 2014-??-??|Stay Free
+single line error in MotPax.txt:TH|2014-??-?? — 2014-11-26|hehe united  
+single line error in Fogged.txt:TH|2012-??-?? — 2012-09-22|PotM Bottom
+single line error in Fogged.txt:TH|2015-12-02 — 2016-??-??|Steak Gaming
+LighTofHeaveN.txt no history element:TH|2007|Say_Plz
+LighTofHeaveN.txt no history element:TH|2008|Virtus.pro
+single line error in LighTofHeaveN.txt:TH|2015-08-28 - 2015-09-??|sQreen's Squad 
+single line error in Dabeliuteef.txt:TH|2013-04-05 — 20??-??-??|MUFC 
+single line error in Dabeliuteef.txt:TH|2014-11-?? — 2015-02-22|G Guard Esports
+single line error in Dabeliuteef.txt:TH|2015-03-12 — 2015-06-??|Invasion e-Sports
+single line error in Poloson.txt:TH|2014-??-?? — 2014-11-05|Insidious Idol
+single line error in Poloson.txt:TH|2015-06-06 — 2015-09-??|First Departure
+single line error in Poloson.txt:TH|2015-09-?? — 2015-??-??|4Hate
+single line error in TubbyTheFat.txt:TH|????-??-?? — 2014-??-??|Vas'Avi
+single line error in TubbyTheFat.txt:TH|2014-??-?? — 2014-07-06|Urn Real Tangoes
+single line error in TubbyTheFat.txt:TH|2014-07-06 — 2014-??-??|ROOT Gaming
+single line error in Moo.txt:TH|2015-05-08 — 2015-08-??|ROOT Gaming
+single line error in Icy.txt:TH|2011-??-?? — 2012-??-??|World Elite
+single line error in Icy.txt:TH|2015-04-?? — 2015-09-03|Dream Gaming
+single line error in NeaR.txt:TH|2014-03-?? — 2014-04-??|Orenda 
+single line error in NeaR.txt:TH|2014-10-?? — 2015-01-??|Energy Pacemaker
+single line error in NeaR.txt:TH|2015-10-?? — 2016-05-??|Thunderobot Gaming
+C4t.txt no history element:TH|Unknown|CNB e-Sports Club
+single line error in Xiao2lei.txt:TH|2014-10-?? — 2015-09-04|Energy Pacemaker Gaming
+single line error in Sovereign.txt:TH|2016-01-24 — 2016-06-??|Enemy
+single line error in Sovereign.txt:TH|2016-06-?? — 2016-09-??|Exodus
+single line error in TC.txt:TH|2011-??-?? — 2012-02-16|FIRE
+single line error in TC.txt:TH|2014-08-?? — 2014-12-20|Sneaky Nyx Assassins
+single line error in TC.txt:TH|2015-04-20 — 2015-??-??|ROOT Gaming
+single line error in Gudii.txt:TH|2013-??-?? — 2013-??-??|Grats ThO
+single line error in Gudii.txt:TH|2013-??-?? — 2013-??-??|Typical Mistakes
+single line error in Gudii.txt:TH|2014-??-?? — 2014-??-??|Shadow Fiend Eats Cake
+single line error in Gudii.txt:TH|2014-??-?? — 2014-??-??|No Earthspirit
+single line error in Gudii.txt:TH|2014-11-14 — 2015-??-??|Wheel
+single line error in Gudii.txt:TH|2015-09-02 — 2016-??-??|Not Today
+single line error in Ben.txt:TH|2016-??-?? — '''Present'''|Fire Dragoon E-sports
+single line error in Kingteka.txt:TH|2015-??-?? — 2015-07-31|Elite Wolves 
+ChuaN.txt no history element:TH|2009|8mski
+ChuaN.txt no history element:TH|2009  |Kingsurf
+ChuaN.txt no history element:TH|2010 |ToT
+ChuaN.txt no history element:TH|2010|Deity
+ChuaN.txt no history element:TH|2010|Nirvana.my
+single line error in Guanzo.txt:TH|2012-??-?? — 2013-05-06|Eosin + 4
+single line error in Guanzo.txt:TH|2013-05-06 — 2013-06-??|Denial eSports
+single line error in Guanzo.txt:TH|2014-??-?? — 2014-??-??|Osiris Gaming
+single line error in Guanzo.txt:TH|2015-03-04 — 2015-05-??|ROOT Gaming
+single line error in Carrot.txt:TH|2014-11-?? — 2014-12-??|Brave Heart
+single line error in Carrot.txt:TH|2015-10-?? — 2015-12-??|E-Sports Dream
+single line error in Carrot.txt:TH|2016-05-?? — 2016-08-??|ToPower Gaming
+single line error in Nafari.txt:TH|2016-??-?? - 2016-08-31|Nas Ne Dogonyat
+single line error in Nafari.txt:TH|2016-09-?? - '''Present'''|The Prime
+single line error in Solitude.txt:TH|2014-09-?? — 2015-01-12|Balkan Bears
+single line error in Solitude.txt:TH|2015-12-07 — 2015-12-??|Team Secret|sub
+single line error in Solitude.txt:TH|2016-08-16 — 2016-10-??|Team Doge
+single line error in Solitude.txt:TH|2016-10-?? — '''Present'''|SOLIDUDES
+single line error in ODPixel.txt:TH|2014-09-?? — 2015-01-12|Balkan Bears
+single line error in ODPixel.txt:TH|2015-12-07 — 2015-12-??|Team Secret|sub
+single line error in ODPixel.txt:TH|2016-08-16 — 2016-10-??|Team Doge
+single line error in ODPixel.txt:TH|2016-10-?? — '''Present'''|SOLIDUDES
+single line error in No_Chanc3.txt:TH|??-??-?? — 2016-??-??|Team Elunes
+single line error in Nocik.txt:TH|2015-08-?? — 2016-??-??|Siberian Valenki White
+single line error in Keyser.txt:TH|2014-06-?? — 2014-11-08|XtremeXPC International
+single line error in Keyser.txt:TH|2015-08-17 — 2016-??-??|Golden Boys
+single line error in Keyser.txt:TH|2016-03-?? — '''Present'''|BrooDMotherS
+single line error in Kotar%C5%8D_Hayama.txt:TH|2015-??-?? — 2015-12-08|Team Unknown
+single line error in Kotar%C5%8D_Hayama.txt:TH|2015-12-08 — 2015-12-??|As1-
+single line error in Kotar%C5%8D_Hayama.txt:TH|2015-12-?? — '''Present'''|Infamous
+single line error in Sharky.txt:TH|2012-??-?? — 2013-01-22|MUFC
+single line error in Sharky.txt:TH|2014-??-?? — 2014-11-12|Johnny's Revenge
+single line error in Hugo.txt:TH|2012-??-?? — 2013-01-22|MUFC
+single line error in Hugo.txt:TH|2014-??-?? — 2014-11-12|Johnny's Revenge
+single line error in Jubei.txt:TH|2013-09-?? — 2014-01-14|Pretty Boy Swag
+single line error in State21.txt:TH|2012-??-?? — 2013-10-03|ScaryFaceZ
+single line error in State21.txt:TH|2014-??-?? — 2016-??-??|ScaryFaceZ
+single line error in Pingvincek.txt:TH|2016-02-?? — 2016-06-03|Danish Bears
+single line error in 9pasha.txt:TH|2013-01-?? - 2014-11-??|UrsaStroitHram
+single line error in 9pasha.txt:TH|2014-11-?? - 2014-11-24|BUHLO-UroPb
+single line error in Greedy.txt:TH|2014-12-10 — 2015-??-??|Union Gaming
+single line error in Greedy.txt:TH|2015-??-?? — 2015-12-06 |Team Unknown
+single line error in Greedy.txt:TH|2015-12-16 — 2015-12-??|Slayers of Gods
+single line error in Greedy.txt:TH|2015-12-?? — 2016-07-08|Infamous
+single line error in JiaJia.txt:TH|2014-??-?? — 2014-??-??|Five Personal Beliefs
+single line error in JiaJia.txt:TH|2014-09-?? — 2014-10-24|SuperPlayer
+single line error in ELeVeN.txt:TH|2013-10-21 — 2013-??-??|Subvert
+MiSeRy.txt no history element:TH|2008|Mom equals toilet
+MiSeRy.txt no history element:TH|2009|Ravens
+MiSeRy.txt no history element:TH|2009|TLT
+MiSeRy.txt no history element:TH|2010|DDT
+MiSeRy.txt no history element:TH|2010|Blight
+MiSeRy.txt no history element:TH|2010|LOST.eu
+single line error in MiSeRy.txt:TH|2014-05-13 — 2014-08-??|mousesports
+single line error in Sealkid.txt:TH|2016-08-16 — 2016-10-??|Team Doge
+single line error in Sealkid.txt:TH|2016-10-?? — '''Present'''|SOLIDUDES
+single line error in TpoH.txt:TH|2013-09-04 — 2013-??-??|Oslik Gaming
+single line error in TpoH.txt:TH|2014-??-?? — 2014-03-15|Phoenix Rising
+single line error in TpoH.txt:TH|2015-03-25 — 2015-??-??|Moscow Five
+single line error in TpoH.txt:TH|2015-09-28 — 2015-??-??|Arcade.PowerRangers
+single line error in WwieWambo.txt:TH|20??-??-?? - 2015-??-??|Cyclones
+single line error in WwieWambo.txt:TH|2015-09-01 - 2016-06-??|GOOMBA Gaming
+single line error in Bkid.txt:TH|2014-05-01 — 2014-??-??|Dream Destroyers
+single line error in Cty.txt:TH|2014-05-05 — 2014-??-??|HyperGloryTeam
+single line error in Gnoji.txt:TH|2015-01-22 — 2015-10-??|TnC Gaming
+MaNia.txt no history element:TH|2006|Boomtown Odense
+MaNia.txt no history element:TH|2006|lolboat
+MaNia.txt no history element:TH|2006|Jukes on You
+MaNia.txt no history element:TH|2008|Online Kingdom
+single line error in SkyLark.txt:TH|2014-07-?? — 2015-??-??|Elysium Gaming
+single line error in Pikachu.txt:TH|2015-08-19 — 2015-??-??|Siberian Valenki Black
+single line error in Pikachu.txt:TH|2016-09-?? — 2016-10-??|Effect
+single line error in Scofield.txt:TH|2015-12-16 — 2015-12-??|Slayers of Gods
+single line error in 897.txt:TH|2016-10-?? - 2015-11-??|FTD club C
+single line error in Jacko.txt:TH|2016-01-03 — 2016-03-??|Mineski-X
+single line error in Shredder_(player).txt:TH|2014-??-?? — 2014-06-06|Team Leviathan
+single line error in Shredder_(player).txt:TH|2014-06-06 — 2014-10-??|Flipside Tactics
+single line error in ARS-ART.txt:TH|2007-??-?? — 2008-??-??|Virtus.pro
+single line error in ARS-ART.txt:TH|2008-06-27 — 2009-??-??|Rush3D
+single line error in ARS-ART.txt:TH|2010-??-?? — 2010-??-??|The Retry
+single line error in ARS-ART.txt:TH|2010-12-?? — 2011-03-??|DTS
+single line error in Ubah.txt:TH|2015-01-05 — 2015-??-??|XX5 Gaming
+single line error in Le.txt:TH|2014-10-?? — 2015-09-02|Energy Pacemaker Gaming
+single line error in Xuan_(Yixuan_Guo).txt:TH|2015-09-02 — 2015-11?-??|ROOT Gaming
+single line error in Maybe.txt:TH|2013-01-28 - ????-??-??|Vici Gaming
+single line error in Mikasa.txt:TH|2012-02-12 — 2012-08-??|TyLoo	
+single line error in Mikasa.txt:TH|2014-??-?? — 2015-01-02|Big God
+single line error in Mikasa.txt:TH|2015-03-15 — 2015-??-??|LGD Gaming|coach
+single line error in Balsam.txt:TH|2007-??-?? — 2008-??-??|QoQ
+single line error in Balsam.txt:TH|2008-??-?? — 2009-??-??|RapE
+single line error in Balsam.txt:TH|2010-??-?? — 2011-??-??|NORDIC eSports
+single line error in Balsam.txt:TH|2013-12-06 — 2014-??-??|TRICKED eSport
+Axypa.txt no history element:TH|2014-01-16—2014-01-23|sQreen's Squad
+single line error in Pinoy.txt:TH|2012-03-18 — 2012-??-??|Keita Gaming
+single line error in Niqua.txt:TH|2015-05-20 — 2015-06-??|Champions of Summer's Rift
+single line error in Niqua.txt:TH|2016-01-25 — 2016-01-??|Walrus Punch!|Walrus_Punch!_(team)
+single line error in W33.txt:TH|2014-05-?? — 2015-01-10|Balkan Bears
+single line error in Slahser.txt:TH|2007 — ?|Meet Your Makers
+single line error in R1sk.txt:TH|2013-02-11 — 2013-??-??|Chains Stack
+single line error in Reaves.txt:TH|2013-02-11 — 2013-??-??|Chains Stack
+single line error in Inflame.txt:TH|2015-05-10 — 2015-??-??|Dream Gaming
+single line error in SeleCT.txt:TH|2009-??-?? — 2009-??-??|AzN
+single line error in SeleCT.txt:TH|2013-??-?? — 2013-??-??|Inphinity+4
+single line error in PSM.txt:TH|2016-02-?? — 2016-06-??|Siberian Valenki
+single line error in PSM.txt:TH|2016-06-?? — '''Present'''|Yellow Submarine
+single line error in Spotty.txt:TH|2014-10-?? — 2014-12-??|Butter Fly
+single line error in Spotty.txt:TH|2015-03-?? — 2015-07-??|Kefira United
+single line error in Spotty.txt:TH|2015-10-?? — 2015-12-??|FTD club A
+single line error in Spotty.txt:TH|2015-12-?? — 2016-03-20|CDEC Avenger
+single line error in Frigoleet.txt:TH|2012-??-?? — 2013-03-08|Out of Tangos
+single line error in Frigoleet.txt:TH|2013-03-08 — 2013-07-??|Keita Gaming
+single line error in Frigoleet.txt:TH|2013-07-?? — 2013-08-28|dargonblaydes
+single line error in PGG.txt:TH|2011-04-24 — 2011-??-??|The Retry
+single line error in PGG.txt:TH|2012-01-09 — 2012-??-??|DTS Gaming
+single line error in PGG.txt:TH|2015-02-28 — 2015-??-??|Elysium Gaming.int
+single line error in PGG.txt:TH|2015-09-04 — 2015-12-??|NewAfkTeam
+single line error in PGG.txt:TH|2015-12-?? — 2016-02-??'''|The Retry
+single line error in PGG.txt:TH|2016-02-?? — '''Present'''| Fantastic Five|coach
+single line error in James.txt:TH|2015-09-01 — 2015-??-??|EHOME.L
+single line error in James.txt:TH|2016-03-24 — 2016-05-??|FTD club A
+single line error in James.txt:TH|2016-05-?? — '''Present'''|FTD club C
+single line error in FzFz.txt:TH|2013-03-13 — 201?-??-??|MUFC 
+single line error in FzFz.txt:TH|201?-??-?? — 2015-04-02|Invasion e-Sports
+single line error in FzFz.txt:TH|2015-04-02 — 2016-??-??|Underminer
+single line error in H4nn1.txt:TH|2015-03-?? — 2015-05-05|4 Clover &amp; Lepricon
+single line error in Weppas.txt:TH|2015-03-?? — 2015-05-05|4 Clover &amp; Lepricon
+single line error in KBBQ.txt:TH|2015-03-?? — 2015-05-05|4 Clover &amp; Lepricon
+single line error in Miposhka.txt:TH|2015-10-24 — 2015-??-??|Yellow Submarine
+single line error in Dread.txt:TH|2010-??-?? — 2011-03-08|DTS
+single line error in Dread.txt:TH|2012-05-08 — 2012-06-??|Virtus.pro
+single line error in Shachlo.txt:TH|2016-05-22 — 2016-10-??|FlipSid3 Tactics
+single line error in Shachlo.txt:TH|2016-10-?? — 2016-11-14|Skorokhod+4
+single line error in SD.txt:TH|2011-07-?? — 2014-01-10|MiTH.Trust
+single line error in SD.txt:TH|2014-??-?? — 2015-01-20|MiTH.Trust
+single line error in SD.txt:TH|2015-??-?? — '''Present'''|Signature.Trust
+single line error in Benjaz.txt:TH|????-??-?? — 2014-02-17|Union Gaming
+single line error in Benjaz.txt:TH|2014-02-17 — 2014-06-??|Revenge eSports
+single line error in Benjaz.txt:TH|2014-06-?? — 2015-??-??|Union Gaming
+single line error in Weddingcrash.txt:TH|2015-06-?? — 2015-07-??|First Departure
+single line error in Weddingcrash.txt:TH|2015-06-07 — 2015-??-??|Kingdom
+single line error in Fyms.txt:TH|2015-12-?? — 2016-05-30|EHOME.Keen
+single line error in BLink.txt:TH|2014-03-18 — 2014-08-??|Speed Gaming.cn
+single line error in Arbenlol.txt:TH|2014-08-16 — 2014-??-??|Denial eSports
+single line error in Darky.txt:TH|2012-??-?? — 2012-12-??|CNB e-Sports Club 
+single line error in Darky.txt:TH|2012-12-?? — 2013-??-??|Nex Impetus 
+single line error in Darky.txt:TH|2014-09-16 — 2015-??-??|CNB e-Sports Club 
+single line error in Darky.txt:TH|2015-??-?? — '''Present'''|Luccini 
+single line error in Mag%7E.txt:TH|2011-04-28 — 2011-??-??|DTS
+single line error in Mag%7E.txt:TH|2012-05-?? — 2012-05-24|BurN1
+single line error in SunBhie.txt:TH|2013-11-21 — 2014-??-??|MVP HOT6ix
+single line error in SunBhie.txt:TH|2014-??-?? — 2014-10-26|LoTem
+single line error in Attacker.txt:TH|2016-01-05 — 2016-??-??|Samurai Champloo
+single line error in Gintoki.txt:TH|2014-05-?? — 2015-04-??|Dream Gaming
+single line error in Gintoki.txt:TH|2015-12-?? — '''Present'''|We Are Young
+single line error in Chrillee.txt:TH|2012-04-?? — 2015-04-13|4 Friends + Chrillee
+single line error in Chrillee.txt:TH|2015-04-13 — 2015-12-??|Lemondogs
+single line error in Saksa.txt:TH|2016-01-02 — 2016-02-??|Mamas Boys
+single line error in F(x).txt:TH|??? — 2014-04-12|5 in QO
+single line error in FATA-.txt:TH|2012-06-?? — 2012-??-??|We haz Asian
+single line error in FATA-.txt:TH|2012-??-?? — 2012-11-07|Kaipi
+Puppey.txt no history element:TH|2009|BFB
+Puppey.txt no history element:TH|2010|Nirvana.int
+Puppey.txt no history element:TH|2010|NWO
+single line error in KyT.txt:TH|2013-??-?? — 2014-01-10|Everlast.GameFilling
+single line error in KyT.txt:TH|2015-01-20 — 2015-??-??|BLINX
+single line error in KyT.txt:TH|2015-??-?? — '''Present'''|iDeal eSports
+single line error in RMC.txt:TH|2012-??-?? — 2012-11-13|WhA
+single line error in KErUbA.txt:TH|2014-??-?? — 2014-12-13|Immortal Fire GamingTH|2014-12-14 — '''Present'''|Sad Voids
+single line error in 747.txt:TH|2015-10-15 - 2015-11-??|ROOT Gaming
+single line error in 747.txt:TH|2016-04-01 - 2016-06-??|Kingdom Dota
+single line error in 747.txt:TH|2016-06-?? - 2016-09-04|Void Boys
+single line error in SQreen.txt:TH|2016-01-25 — 2016-01-??|Walrus Punch!|Walrus_Punch!_(team)
+single line error in Faith_bian.txt:TH|2014-03-18 — 2014-08-??|Speed Gaming.cn
+single line error in March_(Korean_player).txt:TH|2009-??-?? — 2009-??-??|AzN
+single line error in March_(Korean_player).txt:TH|2010-??-?? — 2010-??-??|Nirvana.int
+single line error in Fusheng.txt:TH|2016-03-22 — 2016-06-??|Void Boys
+single line error in Joraal.txt:TH|????-??-?? — 2013-11-30|Zero Respect
+single line error in Joraal.txt:TH|2014-01-26 — 2014-??-??|Zero Respect
+single line error in Buugi.txt:TH|2012-??-?? — 2013-07-17|Rat in the dark
+single line error in Buugi.txt:TH|2013-07-17 — 2013-11-??|Team Menace.fi
+single line error in Buugi.txt:TH|2013-11-?? — 2013-11-??|Aspera
+single line error in Buugi.txt:TH|2014-09-?? — 2015-09-28|4 Anchors + Sea Captain
+single line error in USH.txt:TH|2015-09-13 — 2015-??-??|Team Mischief
+single line error in EGM.txt:TH|2011-??-?? - 2011-09-07|Druidz
+single line error in EGM.txt:TH|2015-05-?? - 2015-05-17|Turtle Masters
+single line error in Super_(Peng_Su).txt:TH|2015-03-15 — 2015-04-??|Team DK
+single line error in Super_(Peng_Su).txt:TH|2015-04-?? — 2015-05-30|Wings Gaming
+single line error in Limmp.txt:TH|2014-??-?? — 2014-08-27|stayGreen
+Fenrir.txt no history element:TH|2016-09-17 — '''Present'''|Team VG.J
+single line error in Ax.Mo.txt:TH|2015-??-?? — 2015-08-19|Moscow Five
+single line error in Ax.Mo.txt:TH|2015-09-04 — 2015-09-??|CIS Rejects
+single line error in Blowyourbrain.txt:TH|2015-09-04 — 2015-12-??|NewAfkTeam
+single line error in Blowyourbrain.txt:TH|2015-12-?? — 2015-12-??|The Retry
+single line error in Jonassomfan.txt:TH|2016-01-02 — 2016-01-??|Burden United
+single line error in Sono.txt:TH|2014-??-?? — 2014-09-30|Yakuz4
+single line error in Sono.txt:TH|2015-03-?? — 2015-05-13|Swagenteiger
+single line error in Sono.txt:TH|2015-05-13 — 2015-??-??|semXorah Red
+single line error in Eskillz.txt:TH|2014-05-20 — 2014-11-??|Team Coast
+single line error in Eskillz.txt:TH|2015-01-?? — 2015-02-??|Team Face (No Space)
+single line error in Eskillz.txt:TH|2015-04-13 — 2015-11-?? |Lemondogs
+single line error in Eskillz.txt:TH|2015-12-?? — 2016-04-26|COOKISS
+single line error in Eskillz.txt:TH|2016-04-27 — 2016-07-??|Team Toast
+single line error in LaNm.txt:TH|2011-??-?? — 2011-??-??|EHOME 
+single line error in LaNm.txt:TH|2014-??-?? — 2015-03-15|Big God
+single line error in Zai.txt:TH|2013-??-?? — 2013-11-22|Stay Free
+single line error in LaKelz.txt:TH|2009-??-?? — 2010-??-??|Roccat.Trust
+single line error in LaKelz.txt:TH|2010-??-?? — 2015-01-20|MiTH.Trust
+single line error in Iwo.txt:TH|2015-02-?? — 2015-??-??|Battle Zone
+single line error in INsania.txt:TH|2016-08-16 — 2016-10-??|Team Doge
+single line error in INsania.txt:TH|2016-10-?? — '''Present'''|SOLIDUDES
+single line error in Kabu.txt:TH|2010-??-?? — 2010-??-??|ToT
+single line error in Kabu.txt:TH|2010-??-?? — 2010-??-??|Deity
+single line error in Kabu.txt:TH|2010-??-?? — 2011-??-??|Sunny
+single line error in Kabu.txt:TH|2011-06-16 — 2011-??-??|TyLoo
+single line error in Timado.txt:TH|2016-01-20 — 2016-??-?? |Balrogs
+single line error in Timado.txt:TH|2016-11-?? — '''Present'''|Team Freedom
+single line error in RR.txt:TH|201?-??-?? — 2012-10-??|Mineski
+single line error in RR.txt:TH|2012-10-?? — 2013-??-??|MSI-EvoGT
+single line error in RR.txt:TH|2013-05-?? — 2013-07-??|Mineski
+single line error in RR.txt:TH|2013-09-?? — ????-??-??|MSI-evoGT.TnC
+single line error in RR.txt:TH|2014-06-01 — ????-??-??|Execration
+single line error in RR.txt:TH|2014-11-08 — 2015-??-??|Mineski
+single line error in Noble.txt:TH|2016-03-15 — 2016-05-??|FTD Club C
+single line error in Qd.txt:TH|2014-03-24 — 2014-??-??|Orenda
+single line error in XFreedom.txt:TH|2014-??-?? —  2015-01-13|Team Zephyr
+single line error in XFreedom.txt:TH|2015-08-29 —  2015-??-??|SG Rejects
+single line error in Godot.txt:TH|2015-06-17 — 2015-??-??|Can't Say Wips
+single line error in Godot.txt:TH|2015-10-05 — 2016-??-??|Spac_ Creators
+single line error in Ritsu.txt:TH|2015-08-?? — 2015-09-01|Dark Horse
+single line error in Ritsu.txt:TH|2016-03-26 — 2016-05-??|Wonder Wolfs
+single line error in XBOCT.txt:TH|2009-??-?? — 2010-??-??|Planet-X
+single line error in Sifla.txt:TH|2012-??-?? — 2013-07-17|Rat in the dark
+single line error in SyndereN.txt:TH|2008-10-?? — 2008-11-??|iMprovisation
+single line error in SyndereN.txt:TH|2008-11-?? — 2009-03-??|wTm-Gaming
+single line error in SyndereN.txt:TH|2009-02-?? — 2009-04-??|mousesports
+single line error in SyndereN.txt:TH|2009-??-?? — 2009-??-??|Reality|link=Reality_(team)
+single line error in SyndereN.txt:TH|2009-??-?? — 2009-??-??|EnRo Griffins
+single line error in SyndereN.txt:TH|2010-??-?? — 2011-??-??|Shift
+single line error in SyndereN.txt:TH|2011-??-?? — 2011-??-??|Next Evolution
+single line error in SyndereN.txt:TH|2011-??-?? — 2011-??-??|Wild Honey Badgers
+single line error in Bignum.txt:TH|2012-11-?? — 2013-02-01|Team iLuminate
+single line error in Bignum.txt:TH|2013-06-?? — 2013-09-??|Cascade
+single line error in Bignum.txt:TH|2013-09-?? — 2013-??-??|Al'met
+single line error in Bignum.txt:TH|2014-04-12 — 2014-08-??|Oslik Gaming
+single line error in Bignum.txt:TH|2014-08-?? — 2014-10-31|Album Sheets
+single line error in Bignum.txt:TH|2014-12-16 — 2015-01-??|Album Sheets
+single line error in Bignum.txt:TH|2015-01-?? — 2015-02-??|xGame.kz
+single line error in Bignum.txt:TH|2015-02-?? — 2015-??-??|Moscow Five
+single line error in Futzeh.txt:TH|2016-10-20 — 2016-11-??|Soggy Mitts
+single line error in Futzeh.txt:TH|2016-11-?? — '''Present'''|END|link=END (Team)
+single line error in Accel.txt:TH|2015-??-?? — 2015-12-08|Team Unknown
+single line error in Accel.txt:TH|2015-12-08 — 2015-12-??|As1-
+single line error in Accel.txt:TH|2015-12-?? — '''Present'''|Infamous
+single line error in PYung.txt:TH|2014-05-04 — 2014-??-??|Rave
+single line error in Supreme.txt:TH|2014-??-?? — 2015-03-20|Let's Do It 
+single line error in 86.txt:TH|2015-06-?? - 2015-09-17|EHOME.Keen
+single line error in HANNAH_MONTANA.txt:TH|2011-??-?? — 2012-02-16|FIRE 
+single line error in HANNAH_MONTANA.txt:TH|2012-02-16 — 2012-??-??|compLexity 
+single line error in HANNAH_MONTANA.txt:TH|2013-02-25 — 2013-05-??|Fnatic.NA
+WinterGSmallSon.txt no history element:TH|2016-02-02-2016-07-27  |TNC Gaming
+WinterGSmallSon.txt no history element:TH|2016-07-28—'''Present'''|Rave
+Noes.txt no history element:TH|2010-01-10	— 2011-03-07|microGaming
+Noes.txt no history element:TH|2012-09-12	— 2013-01-01|Darer
+single line error in Mstco.txt:TH|2013-03-?? — 2013-06-25|Artyk Gaming
+single line error in Mstco.txt:TH|2013-08-14 — 2014-06-??|Revenge eSports
+single line error in Mstco.txt:TH|2014-06-?? — 2015-06-11|Not Today
+single line error in MusiCa.txt:TH|2015-06-?? — 2015-10-19|Spac_ Creators
+single line error in NutZ.txt:TH|2015-09-?? — 2016-??-??|4Hate
+single line error in NutZ.txt:TH|2016-??-?? — 2016-09-03|Mugsy
+single line error in Jackal.txt:TH|2013-08-16 — 2013-??-??|Terrible Terrible Damage
+single line error in Funzii.txt:TH|2011-??-?? — 2012-01-12|Team Shakira
+single line error in Funzii.txt:TH|2014-01-26 — 2014-??-??|Zero Respect
+single line error in Funzii.txt:TH|2014-09-19 — 2014-??-??|Denial eSports
+single line error in MMY.txt:TH|2009-??-?? - 2011-11-??|EHOME
+single line error in MMY.txt:TH|2009-??-?? - 2011-11-??|EHOME
+single line error in MMY.txt:TH|2011-11-?? - 2012-01-31|Nirvana.cn
+Blooddrunk.txt no history element:TH|2013—2013|Mobility Gaming
+Blooddrunk.txt no history element:TH|2015—2015|InVidious
+YaphetS.txt no history element:TH|&lt;small&gt;'''DotA: Allstars'''&lt;/small&gt;|no-link=true
+YaphetS.txt no history element:TH|&lt;small&gt;'''Dota 2'''&lt;/small&gt;|no-link=true
+single line error in YaphetS.txt:TH|2013-01-28 - ????-??-??|Vici Gaming
+single line error in YaphetS.txt:TH|2015-09-04 — 2015-12-??|Team FanTuan
+single line error in KINGRD.txt:TH|2011-08-?? — 2013-03-27|paiN Gaming
+single line error in Jixing.txt:TH|2015-09-?? — 2015-09-??|Brave Heart
+single line error in Jixing.txt:TH|2016-06-?? — 2016-09-17|Vici Gaming Potential
+single line error in FLUFFNSTUFF.txt:TH|2011-??-?? — 2012-02-16|FIRE 
+single line error in FLUFFNSTUFF.txt:TH|2015-03-29 — 2015-??-??|ROOT Gaming
+single line error in Ling.txt:TH|2010-??-?? — 2011-??-??|MUFC
+single line error in Ling.txt:TH|2011-??-?? — 2013-01-22|MUFC
+single line error in Ling.txt:TH|2014-??-?? — 2015-02-22|G Guard Esports
+single line error in Ling.txt:TH|2015-06-?? — 2015-07-??|Team 123
+single line error in Ppd.txt:TH|2013-??-?? — 2013-11-22|Stay Free
+single line error in Hook_(player).txt:TH|2016-01-02 — 2016-03-??|Mamas Boys
+single line error in PaztO.txt:TH|2016-01-02 — 2016-03-??|Mamas Boys
+single line error in Pieliedie.txt:TH|2012-??-?? — 2013-09-19|Kaipi
+single line error in AabBAA.txt:TH|2011-??-?? — 2014-05-29|MiTH.Trust
+single line error in Dudu.txt:TH|2013-03-?? — 2013-06-25|AceZone
+single line error in Dudu.txt:TH|2015-07-25 — 2015-08-??|Artyk Gaming
+single line error in Sh4dowehhh.txt:TH|2014-11-29 — 2015-??-?? |ScaryFaceZ
+single line error in Boris.txt:TH|2015-08-29 — 2016-??-??|GOD BLESS
+single line error in Boris.txt:TH|2016-01-25 — 2016-??-??|Team Leviathan
+single line error in Boris.txt:TH|2016-03-26 — 2016-??-??|Wonder Wolfs
+single line error in Boris.txt:TH|2016-09-17 — 2016-10-??|Team Freedom
+single line error in Waytosexy.txt:TH|2012-??-?? — 2012-09-22|PotM Bottom
+single line error in Waytosexy.txt:TH|2014-08-?? — 2014-09-??|Sneaky Nyx Assassins
+single line error in Waytosexy.txt:TH|2015-11-?? — 2016-??-??|Power of Friendship
+single line error in Scabo.txt:TH|2015-??-?? — 2016-??-??|GOOMBA Gaming
+single line error in GiGA.txt:TH|2015-09-?? — 2015-12-08|Team Bad English
+single line error in Loomdun.txt:TH|2015-12-06 — 2016-??-??|Shazam|sub
+single line error in Loomdun.txt:TH|2016-03-21 — 2016-06-??|Enemy|sub
+single line error in Loomdun.txt:TH|2016-??-?? — 2016-08-25|Digital Chaos|coach
+single line error in Gorec.txt:TH|2014-03-?? — 2014-10-30|Kompas.Gaming
+single line error in Gorec.txt:TH|2015-09-03 — 2015-10-??|CIS Rejects
+single line error in Blitz.txt:TH|2016-??-?? — 2016-07-27|Team Liquid|coach
+single line error in Darkfalco.txt:TH|2016-??-?? — 2016-07-27|Team Liquid|coach
+single line error in Piao.txt:TH|2015-09-01 — 2016-03-?? |EHOME.K
+single line error in Piao.txt:TH|2016-03-?? — 2016-05-29|To.be.or.not.to.be
+single line error in Zxc.txt:TH|20??-??-?? — 2013-01-18|XX5 Gaming
+single line error in Zxc.txt:TH|2014-04-22 — 2014-??-??|DreamTeam168
+single line error in Tralf.txt:TH|2013-??-?? — 2015-??-?? |Stay Free
+single line error in Tralf.txt:TH|2015-02-11 — 2015-??-?? |Team eHug
+single line error in Tralf.txt:TH|2015-05-20 — 2015-06-?? |Champions of Summer's Rift
+single line error in Tralf.txt:TH|2016-11-?? — '''Present'''|END|link=END (Team)
+Maelk.txt no history element:TH|2006|BTo
+Maelk.txt no history element:TH|2006|lolboat
+Maelk.txt no history element:TH|2006|JoY
+Maelk.txt no history element:TH|2008|Online Kingdom
+Maelk.txt no history element:TH|2009|MYM
+single line error in Tipek.txt:TH|2015-02-14 - 2015-??-??|Epidemic!
+single line error in FAILETZ.txt:TH|2012-??-?? — 2012-??-?? |Darer
+single line error in FAILETZ.txt:TH|2012-??-?? — 2012-??-?? |Maphack Slayers
+single line error in FAILETZ.txt:TH|2012-??-?? — 2013-??-?? |TCM-Gaming
+FAILETZ.txt no history element:TH|2013-03-23 — |Total Aggression!
+single line error in Zizou.txt:TH|2012-??-?? — 2013-04-29|Kaipi 
+single line error in Zizou.txt:TH|2013-08-30 — 2013-10-??|aSpera 
+single line error in Zizou.txt:TH|2013-??-?? — 2014-??-??|Cede Nullis
+single line error in Sugar_baby.txt:TH|2015-09-10 — 2015-12-??|DUOBAO
+single line error in Sugar_baby.txt:TH|2016-05-?? — 2016-06-??|Avalon Club
+single line error in HesteJoe-Rotten.txt:TH|2013-07-26 — ????-??-??|Team NewGeneration
+single line error in SlashStrike.txt:TH|2013-??-?? — 2014-??-??|Exhausted Samurai roniN
+single line error in SlashStrike.txt:TH|2014-??-?? — 2014-??-??|Adrenal1ne Rush
+single line error in SlashStrike.txt:TH|2014-??-?? — 2014-04-29|Vast Cast
+single line error in SlashStrike.txt:TH|2014-??-?? — 2015-01-??|House of Gamers
+single line error in SlashStrike.txt:TH|2015-01-19 — 2015-04-??|GameOnline
+single line error in SlashStrike.txt:TH|2015-??-?? — 2015-??-??|mYinsanity
+single line error in SlashStrike.txt:TH|2015-09-04 — 2015-??-??|KomandaMinus
+single line error in SlashStrike.txt:TH|2015-12-07 — 2016-??-??|VodkaVikings
+single line error in Febby.txt:TH|2012-??-?? — 2013-06-26|Kaipi
+single line error in UnderShock.txt:TH|2013-08-?? — 2013-12-12|Enterprise Gaming
+single line error in UnderShock.txt:TH|2013-12-12 — 2014-01-??|NRAGED.int
+single line error in UnderShock.txt:TH|2014-01-?? — 2014-02-??|Courage Gaming
+single line error in UnderShock.txt:TH|2014-05-01 — 2014-??-??|CounterHelix
+single line error in UnderShock.txt:TH|2014-12-?? — 2014-??-??|AlbumSheet
+single line error in UnderShock.txt:TH|2015-02-?? — 2015-??-??|XX5 Gaming
+single line error in DXM.txt:TH|2015-11-?? — 2015-11-??|EHOME.Luminous
+single line error in DXM.txt:TH|2016-03-22 — 2016-05-??|FTD Club B
+single line error in DXM.txt:TH|2016-05-?? — 2016-09-17|Vici Gaming Potential
+single line error in PLZDunKilme.txt:TH|??? — 2014-01-17|5inQ
+single line error in Foxx.txt:TH|2014-06-01 — 2015-11-?? |Execration
+single line error in Mitch.txt:TH|2011-06-?? — 2011-07-21|H2k Gaming
+single line error in Mitch.txt:TH|2014-??-?? — 2015-??-??|mYinsanity
+single line error in Rem.txt:TH|2016-05-?? — 2016-07-??|Adversity Rebirth
+single line error in Rem.txt:TH|2016-07-?? — '''Present'''|BraveHeart.Zombie
+single line error in Tulex.txt:TH|2013-05-15 — 2014-??-??|iNfernity Gaming 
+single line error in Tulex.txt:TH|2015-??-?? — '''Present'''|Team BlackKingBar 
+single line error in CYso.txt:TH|2012-??-?? - 2013-03-08|Out of Tangos
+single line error in CYso.txt:TH|2013-03-08 - 2013-07-??|Keita Gaming
+single line error in CYso.txt:TH|2013-07-?? - 2013-08-28|dargoneblaydes
+KyrieDepra.txt no history element: TH|2009-01-20 — 2015-04-20|Mineski
+single line error in DDR.txt:TH|2015-03-12 — 2015-??-?? |TongFu.WanZhou
+Vigoss.txt no history element:TH|2008|Ks.int
+Vigoss.txt no history element:TH|2008|DTS
+Vigoss.txt no history element:TH|2008-2009|Ks.int
+Vigoss.txt no history element:TH|2009|Rush3d
+Vigoss.txt no history element:TH|2010-2011|Lost.eu
+Vigoss.txt no history element:TH|2011|A Team
+single line error in Vigoss.txt:TH|2012-??-?? — 2012-??-??|DTS
+single line error in Vigoss.txt:TH|2012-??-?? — 2012-??-??|Team Y
+single line error in Vigoss.txt:TH|2012-??-?? — 2013-02-15|Lions Pride
+single line error in Vigoss.txt:TH|2014-01-15 — 2014-??-??|SQreen's Squad
+single line error in MdL_(Alperen_Arslan).txt:TH|2016-01-04 — 2016-0?-??|HWA Gaming
+single line error in MdL_(Alperen_Arslan).txt:TH|2016-04-06 — 2016-??-??|E-LAB
+single line error in MdL_(Alperen_Arslan).txt:TH|2016-??-?? — 2016-??-??|HWA Gaming
+single line error in Goblak.txt:TH|2015-03-?? — 2015-05-03|4 Clover &amp; Lepricon
+single line error in Goblak.txt:TH|2015-10-06 — 2015-10-??|PRIES Gaming
+Ab1ng.txt no history element:TH|2016-09-08— '''Present'''|Rave
+single line error in Pandaego.txt:TH|2016-05-?? — 2016-??-??|Shazam
+single line error in SCL.txt:TH|2016-??-?? - 2016-08-30|Nas Ne Dogonyat
+single line error in XDD.txt:TH|2014-09-02 — 2015-01-??|LAI Gaming
+single line error in XDD.txt:TH|2015-04-?? — 2015-05-30|Wings Gaming
+single line error in Riser.txt:TH|2014-??-?? — 2014-08-27|stayGreen
+single line error in Zayac.txt:TH|2015-08-29 — 2016-05-??|NoLifer5
+single line error in Zayac.txt:TH|2016-06-01 — 2016-08-??|Elements Pro Gaming
+single line error in Nj.txt:TH|2016-10-?? — '''Present'''|90s Gaming
+single line error in Fany.txt:TH|2014-08-26 — 2014-09-??|Dream Destroyers
+Merlini.txt no history element:TH|2009|EG
+Merlini.txt no history element:TH|2012|SK Gaming
+single line error in Merlini.txt:TH|2014-08-03 — 2014-??-??|Zephyr
+single line error in JesusSt1ck.txt:TH|2014-10-26 — 2014-??-??|Monkey Spanner
+single line error in Fn.txt:TH|2014-10-26 — 2014-??-??|Monkey Spanner
+single line error in Spin.txt:TH|2012-??-?? — 2013-07-17|Rat in the dark
+single line error in Scant.txt:TH|2012 — 20??-??-??|Bravado GamingTH|20??-??-?? — 2015-08-06|Bravado BlueTH|20??-??-?? — '''Present'''|Carbon eSports
+single line error in Aui_2000.txt:TH|2012-??-?? — 2012-09-22|PotM Bottom
+single line error in BungsellRotee.txt:TH|????-??-?? — 2013-04-06|Neolution.TH
+single line error in BungsellRotee.txt:TH|2014-01-10 — 2014-05-??|Everlast.GameFilling
+single line error in BungsellRotee.txt:TH|2014-05-?? — 2014-11-01|Awake
+single line error in Nexus.txt:TH|2015-01-25 — 2015-??-??|XX5 Gaming
+single line error in Nexus.txt:TH|2015-06-08 — 2015-08-??|sQreen's Squad
+single line error in Nexus.txt:TH|2015-09-04 — 2016-??-??|Vega Squadron|sub
+single line error in Rayuur.txt:TH|20??-??-?? — 20??-??-??|2Kill Gaming
+single line error in V0ja.txt:TH|20??-??-?? — 20??-??-??|2Kill Gaming
+G0g1.txt no history element:TH|2009-??-?? |Serious Gaming
+single line error in G0g1.txt:TH|2011-06-?? — 2011-07-21|H2k Gaming
+single line error in G0g1.txt:TH|2013-??-?? — 2013-??-??|iNfernity Gaming
+single line error in G0g1.txt:TH|2015-01-03 — 2015-??-??|mYinsanity
+single line error in Smulgullig.txt:TH|2011-??-?? — 2012-03-02|youBoat
+single line error in Smulgullig.txt:TH|2013-09-19 — 2013-??-??|Turtle Masters
+single line error in Smulgullig.txt:TH|2014-??-?? — 2015-??-??|Turtle Masters
+single line error in Papita.txt:TH|2016-08-?? — '''Present'''|Vultur
+single line error in Y%60.txt:TH|2014-03-18 — 2014-08-??|Speed Gaming.cn
+single line error in Eresloco.txt:TH|2012-04-?? — 2013-04-??|4 Friends + Chrillee
+single line error in Eresloco.txt:TH|2015-04-13 — 2015-12-??|Lemondogs
+single line error in KvH.txt:TH|2016-06-13 — 2016-09-??|Perky Pepperonis
+single line error in KvH.txt:TH|2016-??-?? — '''Present'''|Rainbows and Sunshine
+single line error in Solen.txt:TH|2014-05-20 — 2014-11-??|Team Coast
+single line error in Solen.txt:TH|2015-08-?? — 2015-09-03|Ancient Warriors
+single line error in Red.txt:TH|2013-06-?? — 2014-02-??|HyperGloryTeam
+single line error in Red.txt:TH|2014-03-?? — 2015-06-??|TongFu
+single line error in Red.txt:TH|2015-04-?? — 2015-07-??|TongFu.WanZhou
+single line error in Red.txt:TH|2016-04-?? — 2016-07-??|BraveHeart.Zombie
+single line error in Red.txt:TH|2016-07-?? — '''Present'''|Brave Heart
+single line error in Solo.txt:TH|2015-01-25 — 2015-03-??|XX5 Gaming
+single line error in Kpoptosis.txt:TH|2015-01-25 — 2015-03-??|XX5 Gaming
+single line error in Excalibur.txt:TH|2014-09-?? — 2015-01-10|House of Gamers
+single line error in Excalibur.txt:TH|2015-04-?? — 2015-05-??|GameOnline
+single line error in Excalibur.txt:TH|2015-07-?? — 2015-09-02|Ancient Warriors
+Bardo.txt no history element:TH|2015-12-05 – 2016-01-05|paiN Gaming
+single line error in Sky.txt:TH|2014-04-27 — 2015-??-??|Pokerface
+single line error in Jhoven.txt:TH|2013-03-?? — ????-??-??|Mineski
+single line error in ChaoYue.txt:TH|2014-09-22 — 2015-04-??|Speed Gaming
+single line error in ChaoYue.txt:TH|2015-04-?? — 2015-05-??|Immortal Magneto Gaming
+single line error in ChaoYue.txt:TH|2015-??-?? — 2015-07-??|Victory O Lord
+single line error in ChaoYue.txt:TH|2015-07-?? — 2015-09-04|Team Braveheart
+single line error in ChaoYue.txt:TH|2015-09-?? — 2015-11-??|DK Renaissance
+Pajkatt.txt no history element:TH|&lt;small&gt;'''Dota: Allstars'''&lt;/small&gt;|no-link=true
+Pajkatt.txt no history element:TH|2009|Xeo
+Pajkatt.txt no history element:TH|2009|BFB
+Pajkatt.txt no history element:TH|2010|DDT
+Pajkatt.txt no history element:TH|2010|Blight
+Pajkatt.txt no history element:TH|2010|LOST
+Pajkatt.txt no history element:TH|2010|TeamHome
+Pajkatt.txt no history element:TH|2011|GGnet
+Pajkatt.txt no history element:TH|2011|OK.Nv.int
+Pajkatt.txt no history element:TH|&lt;small&gt;'''Dota 2'''&lt;/small&gt;|no-link=true
+single line error in Pajkatt.txt:TH|2014-05-13 — 2014-08-??|mousesports
+single line error in Pajkatt.txt:TH|2016-01-02 — 2016-03-??|Mamas Boys
+single line error in Pajkatt.txt:TH|2016-05-?? — 2016-08-25|Digital Chaos|coach
+single line error in Ddz.txt:TH|2013-??-?? — 2014-01-25|Lowyat.net Esports
+single line error in KoaLa.txt:TH|20??-??-?? - 20??-??-??|XcN
+single line error in KoaLa.txt:TH|2008-08-14 - 20??-??-??|Fnatic
+single line error in SsaSpartan.txt:TH|2014-05-?? — 2014-11-08|XtremeXPC International
+single line error in Madara.txt:TH|2014-05-?? — 2014-11-08|XtremeXPC International
+single line error in CraNich.txt:TH|2015-04-26 — 2015-??-??|Epidemic!
+single line error in RmN-.txt:TH|????-??-?? — 2010-01-??|dmZ|
+single line error in RmN-.txt:TH|2010-01-?? — ????-??-??|LAGINHED|
+single line error in RmN-.txt:TH|2011-07-20 — 2011-??-??|GosuGamers
+RmN-.txt no history element:'''Dota 2:'''TH|2011-??-?? — 2011-??-??|GosuGamers
+single line error in RmN-.txt:TH|2011-??-?? — 2012-03-??|Just 4 the Tournament
+single line error in RmN-.txt:TH|2012-04-?? — 2012-??-??|uebelst gamynG
+single line error in RmN-.txt:TH|2012-??-?? — 2013-??-??|Kaipi
+single line error in RmN-.txt:TH|2013-??-?? — 2013-09-30|uebelst gamynG
+single line error in RmN-.txt:TH|2013-11-20 — 2013-12-??|The Retry
+single line error in RmN-.txt:TH|2014-??-?? — 2014-??-??|Vhoul Assassins
+single line error in RmN-.txt:TH|2014-??-?? — 2015-??-??|GOOMBA Gaming
+single line error in RmN-.txt:TH|2015-11-?? — 2015-11-??|ScaryFaceZ
+single line error in Ran.txt:TH|2015-09-14 — 2016-06-??|FTD Club B
+single line error in Ran.txt:TH|2016-06-?? — '''Present'''|EHOME.Luminous
+single line error in WhiteBeard.txt:TH|20??-??-?? — 2012-10-22|Josh Tabak Dota
+single line error in WhiteBeard.txt:TH|2015-02-21 — 2015-03-??|FIRE
+single line error in WhiteBeard.txt:TH|2015-03-?? — 2015-08-??|Champions of Summer's Rift
+single line error in WhiteBeard.txt:TH|2016-03-26 — 2016-05-??|Wonder Wolfs
+single line error in Chrysalid.txt:TH|2015-??-?? — 2015-??-??|Stay Free
+single line error in Chrysalid.txt:TH|2015-09-02 — 2016-??-??|GOD BLESS
+single line error in Chrysalid.txt:TH|2016-??-?? — 2016-??-??|Gossip Girls
+single line error in SKANKS224.txt:TH|2014-05-?? — 2014-11-08|XtremeXPC International
+single line error in SKANKS224.txt:TH|2015-08-17 — 2016-??-??|Golden Boys
+single line error in SKANKS224.txt:TH|2016-03-?? — 2016-06-28|BrooDMotherS
+single line error in SKANKS224.txt:TH|2016-08-?? — '''Present'''|BrooDMotherS
+single line error in XinQ.txt:TH|2016-03-22 — 2016-06-??|Void Boys
+single line error in XinQ.txt:TH|2016-06-?? — '''Present'''|FTD club A
+single line error in Ixmike88.txt:TH|2011-??-?? — 2012-02-16|FIRE 
+single line error in Ixmike88.txt:TH|2015-03-21 — 2015-06-??|Wheel Whreck While Whistling
+single line error in Ixmike88.txt:TH|2015-07-02 — 2015-??-??|Champions of Summer's Rift
+SexyBamboe.txt no history element:TH|2011|DCcom
+single line error in SexyBamboe.txt:TH|2015-03-?? — 2016-01-02|4 Clover &amp; Lepricon
+single line error in Sag.txt:TH|2009-10-?? — 2010-04-??|xFy
+single line error in Sag.txt:TH|2010-04-?? — 2010-07-??|CityHunter
+single line error in Sag.txt:TH|2010-09-?? — 2010-11-??|Deity
+single line error in Sag.txt:TH|2011-01-?? — 2011-06-??|Nirvana.cn
+single line error in Sag.txt:TH|2012-02-?? — 2012-04-??|Lord of Host
+single line error in Sag.txt:TH|2012-05-?? — 2013-02-??|Radiance
+single line error in Sag.txt:TH|2011-03-02 — 2011-??-??|Online Kingdom
+single line error in Sag.txt:TH|2013-02-01 — 2014-??-??|RaTtLeSnAkE
+single line error in WinteR.txt:TH|2013-10-16 — 2014-??-??|Orange
+single line error in WinteR.txt:TH|2014-??-?? — 2014-11-14|Johnny's Revenge
+single line error in Exotic_Deer.txt:TH|2014-??-?? — 2015-03-20|Let's Do It 
+single line error in Exotic_Deer.txt:TH|2016-09-?? — '''Present'''|Alternate aTTaX
+Loda.txt no history element:TH|&lt;small&gt;'''DotA: Allstars'''&lt;/small&gt;|no-link=true
+Loda.txt no history element:TH|2006|Meet Your Makers
+Loda.txt no history element:TH|2007|no-link=true|Team_Team
+Loda.txt no history element:TH|2009|Meet Your Makers
+Loda.txt no history element:TH|&lt;small&gt;'''Dota 2'''&lt;/small&gt;|no-link=true
+single line error in Justin.txt:TH|2014-08-19 — 2014-10-??|Dream Destroyers
+single line error in Justin.txt:TH|2015-??-?? — 2015-08-30|Team eHug
+single line error in Justin.txt:TH|2015-12-08 — 2015-12-??|As1-
+Jellysickle.txt no history element:TH|2014—2015|Trident eSports
+single line error in ZeroPerfect.txt:TH|2015-01-?? — 2015-02-??|Wings Gaming
+single line error in ZeroPerfect.txt:TH|2015-04-28 — 2015-09-??|Team DK
+single line error in ZeroPerfect.txt:TH|2015-09-?? — 2015-10-??|Brave Heart
+single line error in ZeroPerfect.txt:TH|2015-12-?? — 2016-01-??|DUOBAO
+single line error in ZeroPerfect.txt:TH|2016-04-?? — '''Present'''|MAX.X
+single line error in Liekkas.txt:TH|2015-11-?? — 2015-12-??|Brave Heart
+single line error in Jdh.txt:TH|2014-04-20 — 2014-??-??|Speed Gaming
+single line error in Jdh.txt:TH|2016-04-?? — '''Present'''|EHOME.Keen
+single line error in LeBronDota.txt:TH|2015-09-04 — 2015-09-??|Walrus Punch!|link=Walrus_Punch!_(team)|sub
+YYF.txt no history element:TH|2010-01-10	— 2011-08-02|LGD.cn
+single line error in BzzIsPerfect.txt:TH|2015-03-?? — 2015-03-17|4 Clover &amp; Lepricon
+single line error in HellbirD.txt:TH|2015-03-?? — 2015-03-17|4 Clover &amp; Lepricon
+single line error in Slayer.txt:TH|2015-12-06 — 2016-06-??|Enemy
+single line error in Slayer.txt:TH|2016-06-?? — 2016-09-??|Exodus
+single line error in Syeonix.txt:TH|2016-09-?? — 2016-??-??|Tangerine
+single line error in Syeonix.txt:TH|2016-10-?? — 2016-??-??|90s Gaming
+single line error in Syeonix.txt:TH|2016-10-?? — '''Present'''|Geek Fam
+single line error in Hym.txt:TH|2015-11-?? — 2015-12-??|EHOME.Luminous
+single line error in DDX-.txt:TH|2014-03-15 — 2015-??-??|Isurus Gaming
+single line error in Stomanen1.txt:TH|2014-??-?? — 2015-02-10 |GPlay
+single line error in FaN.txt:TH|2014-02-11 — 2014-09-??|CNB.cn
+single line error in FaN.txt:TH|2014-12-?? — 2015-09-02|Energy Pacemaker Gaming
+single line error in %E5%BD%B1.txt:TH|2014-10-?? — 2015-01-??|Five Personal Beliefs
+single line error in %E5%BD%B1.txt:TH|2016-06-?? — '''Present'''|EHOME.Keen
+single line error in InJuly.txt:TH|2015-03-15 — 2015-04-??|DK
+single line error in InJuly.txt:TH|2015-04-?? — 2015-05-30|Wings Gaming
+single line error in PwN.txt:TH|2015-09-?? — 2015-12-08|Team Bad English
+single line error in Garter.txt:TH|2011-??-?? — 2011-??-??|Virus Gaming
+single line error in Garter.txt:TH|2013-08-?? — 2013-12-??|Cede Nullis
+single line error in Garter.txt:TH|2014-03-?? — 2014-04-??|Flipsid3 Tactics
+single line error in Garter.txt:TH|2014-04-?? — 2014-06-??|mYinsanity
+single line error in MyPro.txt:TH|2013-??-?? — 2014-05-29|Everlast.GameFilling
+single line error in Zenigata.txt:TH|2014-05-?? — 2015-01-12|Balkan Bears
+single line error in Zenigata.txt:TH|2015-09-?? — 2015-12-08|Team Bad English
+single line error in Hexenjagd.txt:TH|2015-02-25 — 2015-??-??|TongFu.NA
+Hexenjagd.txt no history element:TH|2016-05-13	— 2016-06-??|Enemy
+single line error in Stan_King.txt:TH|2015-10-15 — 2015-11-??|ROOT Gaming
+single line error in Doc.txt:TH|2014-??-?? — 2014-11-04|Skyville
+single line error in Funn1k.txt:TH|2010-??-?? — 2010-??-??|sFs
+single line error in Funn1k.txt:TH|2010-??-?? — 2010-??-??|Fota
+single line error in Funn1k.txt:TH|2010-??-?? — 2011-??-??|The Retry
+single line error in Funn1k.txt:TH|2011-??-?? — 2011-??-??|Hard Team
+single line error in Funn1k.txt:TH|2011-11-?? — 2012-03-??|eSahara
+single line error in Funn1k.txt:TH|2012-03-?? — 2012-05-??|DTS
+single line error in Puer_tea.txt:TH|2014-10-02 — 2015-??-??|DK Academy
+single line error in Puer_tea.txt:TH|2015-04-?? — 2015-05-31|Brave Heart
+single line error in Puer_tea.txt:TH|2015-10-?? — 2015-10-29|King Of Dream
+single line error in Puer_tea.txt:TH|2016-03-?? — 2016-05-30|EHOME.Keen
+single line error in -Angell.txt:TH|2014-??-?? - 2014-12-13|Immortal Fire Gaming
+single line error in -Angell.txt:TH|2014-12-14 - 2015-??-??|Sad Voids
+single line error in -Angell.txt:TH|2015-??-?? - 2015-03-10|Don't Dive Again
+single line error in Era.txt:TH|2015-12-02 — 2016-??-??|Steak Gaming
+single line error in Squeei.txt:TH|2014-09-04 — 2014-??-??|Dream Destroyers
+single line error in Kaidou.txt:TH|2014-10-?? — 2014-12-30|Energy Pacemaker
+single line error in Kaidou.txt:TH|2016-06-?? — 2016-09-17|EHOME.Keen
+single line error in Sneyking.txt:TH|2012-??-?? — 2012-09-22|PotM Bottom
+single line error in Sneyking.txt:TH|2016-04-29 — 2016-06-??|Dragneel
+single line error in Sneyking.txt:TH|2016-06-?? — 2016-09-15|Void Boys
+single line error in Strangby.txt:TH|2012-04-?? — 2015-04-14|4 Friends + Chrillee
+single line error in Flysolo.txt:TH|2015-??-?? — 2015-10-31|RagingWePlay
+single line error in Flysolo.txt:TH|2016-03-18 — 2016-05-??|Acion Arena
+single line error in Flysolo.txt:TH|2016-06-?? — 2016-07-24|Power Gaming
+single line error in Lanaro.txt:TH|2013-10-?? — 2016-02-10|Ode
+single line error in PARIS.txt:TH|2011-??-?? — 2012-01-12|Team Shakira
+single line error in PARIS.txt:TH|2013-10-22 — 2014-??-??|Sigma.int
+single line error in PARIS.txt:TH|2014-08-16 — 2015-??-??|Denial eSports
+single line error in PARIS.txt:TH|2015-??-?? — 2015-03-??|Basically Unknown
+single line error in Nisha.txt:TH|2014-??-?? — 2015-03-20|Let's Do It
+single line error in Boombell.txt:TH|201?-??-?? — 2014-01-10|Awake
+single line error in Boombell.txt:TH|2014-01-10 — 2014-??-??|MiTH
+single line error in Boombell.txt:TH|2015-0?-?? — '''Present'''|Signature
+single line error in MiGGel.txt:TH|200?-??-?? - 2008-??-??|Kobold Mobility
+single line error in MiGGel.txt:TH|2008-??-?? - 2009-03-15|Mom equals toilet
+single line error in MiGGel.txt:TH|2010-05-?? - 2010-06-??|Faxe Kondi
+single line error in MiGGel.txt:TH|2011-06-07 - 2011-09-??|Next Evolution ESC
+single line error in MiGGel.txt:TH|2011-09-?? - 2011-11-12|monkeybusiness
+single line error in MiGGel.txt:TH|2013-10-22 - 2014-??-??|Sigma.int
+single line error in MiGGel.txt:TH|2015-08-31 — 2015-??-??|Danish Bears
+single line error in Apemother.txt:TH|2014-05-20 — 2014-11-??|Team Coast
+single line error in Apemother.txt:TH|2015-03-30 — 2015-??-??|Taco Life
+PAADA.txt no history element:TH|Unknown|CNB e-Sports Club
+PAADA.txt no history element:TH|2011-04-?? – '''Present'''|paiN Gaming
+single line error in EL_lisasH.txt:TH|2014-??-?? — 2015-03-20|Let's Do It
+single line error in Black%5E.txt:TH|2012-??-?? — 2012-03-26|Next.kz
+single line error in Black%5E.txt:TH|2016-01-02 — 2016-01-??|Burden United
+single line error in Black%5E.txt:TH|2016-03-22 — 2016-??-??|Avengers
+single line error in YapzOr.txt:TH|2011-09-11 — 2011-??-??|WhyAre
+single line error in YapzOr.txt:TH|2016-01-02 — 2016-02-??|Mamas Boys
+single line error in Guvara.txt:TH|2016-04-?? — '''Present'''|EHOME.Luminous
+single line error in YawaR.txt:TH|2015-02-11 — 2015-??-??|eHug
+single line error in YawaR.txt:TH|2015-07-02 — 2015-??-??|Champions of Summer's Rift
+single line error in Admiration.txt:TH|2015-02-11 — 2015-??-??|eHug
+single line error in Admiration.txt:TH|2015-07-02 — 2015-??-??|Champions of Summer's Rift
+single line error in Chessie.txt:TH|2014-06-?? — 2014-08-19|stayGreen
+single line error in MiCKe.txt:TH|2016-08-16 — 2016-10-??|Team Doge
+single line error in MiCKe.txt:TH|2016-10-?? — '''Present'''|SOLIDUDES
+single line error in GeneRaL.txt:TH|2015-11-03 — 2015-11-??|Team Empire
+single line error in HFn.txt:TH|2014-11-28 — 2015-04-??|Rebeldes
+single line error in StingeR.txt:TH|2015-12-16 — 2015-??-??|Slayers of Gods
+single line error in StingeR.txt:TH|2016-01-?? — '''Present'''|Infamous
+single line error in Mtrx4u.txt:TH|2015-12-16 — 2015-??-??|Slayers of Gods
+single line error in Mtrx4u.txt:TH|2016-01-?? — '''Present'''|Infamous
+single line error in Flyby.txt:TH|2015-12-?? — 2016-09-17|CDEC Avenger
+single line error in Luo.txt:TH|2012-02-?? — 2012-09-??|World Elite
+single line error in Cak3z.txt:TH|2013-??-?? — 2014-01-20|Pretty Boy Swag
+single line error in Chains.txt:TH|2013-02-11 — 2013-??-??|Chains Stack
+single line error in JoHnNy.txt:TH|2013-02-11 — 2013-??-??|Chains Stack
+single line error in JoHnNy.txt:TH|2015-08-31 — 2016-??-??|Who2Bet
+single line error in JoHnNy.txt:TH|2016-10-?? — '''Present'''|90s Gaming
+single line error in Battosai.txt:TH|??-??-?? — 2016-??-??|Team Elunes
+single line error in Sirc.txt:TH|2015-09-20 — 2015-10-?? |Execration
+single line error in Atun.txt:TH|2015-??-?? — 2015-12-08|Team Unknown
+single line error in Atun.txt:TH|2015-12-08 — 2015-12-??|As1-
+single line error in Atun.txt:TH|2015-12-?? — 2016-01-13|Infamous
+single line error in Atun.txt:TH|2016-03-?? — 2016-05-13|Infamous
+single line error in RyOyr.txt:TH|2015-08-28 — 2016-??-??|Mineski
+single line error in CLe-.txt:TH|??-??-?? — 2016-??-??|Booyakaa
+single line error in CLe-.txt:TH|2016-??-?? — 2016-04-28|Power Gaming
+single line error in MaGoma.txt:TH|2014-11-21 — 2015-??-??|Basically Unknown
+TidesofTime.txt no history element:TH|2012-??-??—2012-09-22|PotM Bottom
+TidesofTime.txt no history element:TH|2012-09-22—2013-03-31|Dignitas
+single line error in Destiny.txt:TH|2015-03-15 — 2015-04-??|Team DK
+single line error in Net_(player).txt:TH|2011-??-?? — 2013-01-22|MUFC
+single line error in Net_(player).txt:TH|2014-10-01 — 2014-12-??|Team Malaysia
+single line error in Kphoenii.txt:TH|2015-08-29 — 2015-12-??|EHOME.K
+single line error in Fervian.txt:TH|2015-09-05 — 2015-??-??|Team Empire
+single line error in Therence.txt:TH|2014-11-15 — 2015-??-??|semXorah	
+single line error in Fonte.txt:TH|2015-12-04 — 2016-08-??|DUOBAO
+single line error in %E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C.txt:TH|2014-09-22 — 2015-04-??|Speed Gaming
+single line error in %E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C.txt:TH|2015-04-?? — 2015-11-??|EHOME.K
+single line error in %E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C.txt:TH|2015-11-?? — 2015-12-03|EHOME.Luminous
+single line error in Lapiz.txt:TH|2012-??-?? — 2013-07-17|Rat in the dark
+single line error in Jerry.txt:TH|2015-12-07 — 2016-??-??|Not Today
+single line error in Bok.txt:TH|2014-06-?? — 2015-04-07|Arcanys Gaming
+single line error in Bok.txt:TH|2015-08-31 — 2015-??-??|MSI-EvoGT
+Gambling.txt no history element:TH|2015-06-30 – 2015-10-23|paiN Gaming
+Gambling.txt no history element:TH|2015-10-23 – 2016-02-??|T Show
+Gambling.txt no history element:TH|2016-09-15 – '''Present'''|T Show|coach
+single line error in Iceberg.txt:TH|201?-??-?? — 201?-??-??|Duza Gaming
+Iceberg.txt no history element:TH|2015-??-??	— 2015-06-25|.aSpera.
+Iceberg.txt no history element:TH|2015-09-03	— 2015-12-06|CIS Rejects
+Iceberg.txt no history element:TH|2015-12-06	— 2016-06-08|Team Spirit
+Iceberg.txt no history element:TH|2016-06-08	— 2016-06-30|Polarity
+Iceberg.txt no history element:TH|2016-08-21	— 2016-11-13|Vega Squadron
+single line error in Jeyo.txt:TH|2011-??-?? — 2012-02-16|FIRE
+single line error in Jeyo.txt:TH|2015-10-02 — 2016-03-??|Team Archon
+single line error in Crazy.txt:TH|2016-05-22 — 2016-10-??|FlipSid3 Tactics
+single line error in Crazy.txt:TH|2016-10-?? — 2016-11-14|Skorokhod+4
+single line error in Brax.txt:TH|2015-02-20 — 2015-08-??|Champions of Summer's Rift
+single line error in Brax.txt:TH|2015-08-?? — 2015-09-01|Dark Horse
+single line error in Brax.txt:TH|2015-12-06 — 2016-??-??|Shazam
+single line error in Profheadshot.txt:TH|2013-05-15 — 2014-??-??|iNfernity Gaming 
+single line error in Meracle.txt:TH|2015-06-06 — 2016-06-??|First Departure
+single line error in Xiaofu.txt:TH|2016-04-?? — 2016-05-14|boomloomdoom
+single line error in Xiaofu.txt:TH|2016-06-?? — '''Present'''|FTD club A
+single line error in KingR.txt:TH|2015-01-05 — 2015-04-??|XX5 Gaming
+single line error in KingR.txt:TH|2014-06-25 — 2015-08-??|aSpera
+single line error in Capitalist.txt:TH|2013-01-04 — 2013-??-??|Gamer University
+single line error in Idefix.txt:TH|2013-05-15 — 2014-??-??|iNfernity Gaming 
+single line error in BaNhwa.txt:TH|2013-??-?? — 2013-07-16|Eyes of Tiger Hammer
+single line error in Bimbo.txt:TH|2011-10-?? — 2014-07-28|Mineski
+single line error in %E5%B0%8F%E9%83%AD%E5%98%89.txt:TH|2015-04-01 — 2015-07-??|Brave Heart
+single line error in %E5%B0%8F%E9%83%AD%E5%98%89.txt:TH|2015-09-?? — 2016-03-20|FTD club A
+single line error in %E5%B0%8F%E9%83%AD%E5%98%89.txt:TH|2016-03-20 — 2016-04-??|FTD club B
+single line error in %E5%B0%8F%E9%83%AD%E5%98%89.txt:TH|2016-04-?? — '''Present'''|Brave Heart
+single line error in Eri_Neeman.txt:TH|2015-04-01 — 2015-07-??|Brave Heart
+single line error in Eri_Neeman.txt:TH|2015-09-?? — 2016-03-20|FTD club A
+single line error in Eri_Neeman.txt:TH|2016-03-20 — 2016-04-??|FTD club B
+single line error in Eri_Neeman.txt:TH|2016-04-?? — '''Present'''|Brave Heart
+single line error in Masoku.txt:TH|2013-03-?? — 2013-06-25|Artyk Gaming
+single line error in Masoku.txt:TH|2013-08-14 — 2014-06-??|Revenge eSports
+single line error in Masoku.txt:TH|2014-06-?? — 2015-01-29|Not Today
+single line error in JaH.txt:TH|2015-??-?? — 2015-09-02|Team eHug
+Kacor.txt no history element:TH|2015-03-20—'''Present'''|Alternate aTTaX
+single line error in 1437.txt:TH|2015-??-?? - 2015-??-??|Team Secret|coach
+single line error in 1437.txt:TH|2015-08-?? - 2015-09-01|Dark Horse
+single line error in Atze.txt:TH|2013-??-?? — 2013-08-29|TCM-Gaming
+single line error in MiHawk.txt:TH|2013-03-?? — 2013-06-25|Artyk Gaming
+single line error in MiHawk.txt:TH|2013-08-14 — 2014-06-??|Revenge eSports
+single line error in MiHawk.txt:TH|2015-02-?? — 2015-??-??|Battle Zone
+single line error in TnK.txt:TH|2013-03-?? — 2013-06-25|Artyk Gaming
+single line error in TnK.txt:TH|2013-08-14 — 2014-06-??|Revenge eSports
+single line error in TnK.txt:TH|2015-02-?? — 2015-??-??|Battle Zone
+single line error in Link.txt:TH|2009-03-?? — 2009-??-??|Back To Basics
+single line error in Link.txt:TH|2009-??-?? — 2010-??-??|RapE
+single line error in Link.txt:TH|2010-??-?? — 2011-09-04|NORDIC-eSports
+single line error in Link.txt:TH|2010-??-?? — 2011-09-04|NORDIC-eSports
+single line error in Link.txt:TH|2011-09-04 — 2011-09-??|NeVo
+single line error in Link.txt:TH|2011-09-?? — 2011-11-12|monkeybusiness
+single line error in Link.txt:TH|2012-11-17 — 2013-03-??|DD.Dota
+single line error in CemaTheSlayeR.txt:TH|2013-03-?? — 2013-??-??|Aurochs
+single line error in CemaTheSlayeR.txt:TH|2013-??-?? — 2013-10-??|DTS2010
+single line error in CemaTheSlayeR.txt:TH|2014-02-?? — 2014-03-??|Courage
+single line error in CemaTheSlayeR.txt:TH|2014-03-?? — 2014-04-??|Ahead Gaming
+single line error in CemaTheSlayeR.txt:TH|2014-04-?? — 2014-06-??|Aware
+single line error in CemaTheSlayeR.txt:TH|2014-11-?? — 2014-11-24|BUHLO-UroPb
+single line error in Artes.txt:TH|2014-03-?? — 2014-10-30|Kompas.Gaming
+single line error in Corey.txt:TH|????-??-?? — 2014-01-03|Stay Free
+single line error in At_The_Speed_Of_Life.txt:TH|2015-09-?? — 2015-12-08|Team Bad English
+single line error in YUI.txt:TH|2016-07-?? — 2016-07-??|BraveHeart.Zombie|Stand-in
+MoonMeander.txt no history element:TH|2016-08-25 – '''Present'''|Digital Chaos
+single line error in Longb.txt:TH|2015-08-29 — 2015-??-??|EHOME.L
+single line error in Monkeys-forever.txt:TH|2012-10-20 — 2013-??-??|ROOT Gaming
+single line error in Sune.txt:TH|2015-08-27 — 2015-??-?? |Artyk Gaming
+single line error in 333.txt:TH|2015-08-27 — 2015-??-?? |Artyk Gaming
+single line error in Ku%C5%99e.txt:TH|2012-??-?? — 2012-??-?? | PSG
+single line error in Ku%C5%99e.txt:TH|2013-07-02 — ????-??-?? | Ensox
+single line error in Ku%C5%99e.txt:TH|2014-05-?? — 2015-??-?? | Epidemic!
+single line error in JerAx.txt:TH|2012-??-?? — 2013-03-04|Rat in the dark
+single line error in JerAx.txt:TH|2014-09-?? — 2015-01-12|4Anchors
+single line error in MafiA.txt:TH|2013-??-?? — 2013-07-16|Eyes of Tiger Hammer
+single line error in MafiA.txt:TH|2013-09-01 — 2014-??-??|MVP HOT6ix
+single line error in KeyaNo.txt:TH|2016-02-17 — 2016-??-??|Power Rangers|sub
+single line error in Fun.txt:TH|2013-??-?? — 2013-??-??|ROOT Gaming 
+single line error in Fun.txt:TH|2015-09-03 — 2015-??-??|compLexity Gaming|sub
+single line error in Fun.txt:TH|2015-12-21 — 2016-02-??|Team Freedom
+single line error in Fun.txt:TH|2016-02-?? — 2016-08-29|Shazam
+BL00DLocK.txt no history element:TH|2012—2013|InVidious
+BL00DLocK.txt no history element:TH|2014—2014|SYF Gaming
+BL00DLocK.txt no history element:TH|2014—2014|Risk eSports
+BL00DLocK.txt no history element:TH|2014—2015|Team 4Not
+BL00DLocK.txt no history element:TH|2015—2015|Team 4Not Academy
+BL00DLocK.txt no history element:TH|2015—2015|The Fire Ferrets
+BL00DLocK.txt no history element:TH|2014—2015|Trident eSports
+BL00DLocK.txt no history element:TH|2015—'''Present'''|InVidious
+single line error in Shatan.txt:TH|2014-04-08 — 2015-05-??|Team Immunity
+single line error in Shatan.txt:TH|2015-05-?? — 2015-08-25 |Invasion e-Sports
+single line error in Shatan.txt:TH|2015-08-21 — 2015-??-??|Banaaaanas
+single line error in Biryu.txt:TH|2016-03-26 — 2016-05-?? |Wonder Wolfs
+single line error in PrettyHaw.txt:TH|2011-??-?? — 2012-02-01|TyLoo	
+single line error in PrettyHaw.txt:TH|2013-??-?? — 2014-02-11|For.Love
+single line error in PrettyHaw.txt:TH|2014-03-18 — 2015-??-?? |HyperGloryTeam
+single line error in PrettyHaw.txt:TH|2015-12-07 — 2016-??-??|Team FanTuan
+Akke.txt no history element:TH|2006|Team Team
+Akke.txt no history element:TH|2006|Jukes on You
+Akke.txt no history element:TH|2006|Meet Your Makers
+single line error in Windx.txt:TH|2012-11-05 — 2012-12-??|MDMA^
+single line error in Windx.txt:TH|2015-10-06 — 2016-??-??|abnormalize
+single line error in Windx.txt:TH|2016-??-?? — '''Present'''|Cascade
+single line error in Nedbone.txt:TH|2015-03-?? — 2015-05-13|Swagenteiger
+single line error in Nedbone.txt:TH|2015-05-13 — 2015-??-??|semXorah Red
+single line error in Bloody_Nine.txt:TH|2015-??-?? — 2015-??-??|Team eHug
+single line error in Bloody_Nine.txt:TH|2016-11-09 — 2016-11-??|Soggy Mitts
+single line error in Bloody_Nine.txt:TH|2016-11-?? — '''Present'''|END|link=END (Team)
+single line error in RyuUboruZ.txt:TH|2013-??-?? — 2014-01-20|Pretty Boy Swag
+single line error in Shiibbyy.txt:TH|2014-??-?? — 2014-06-06|Team Leviathan
+single line error in Shiibbyy.txt:TH|2014-06-06 — 2014-10-??|Flipside Tactics
+single line error in Arise.txt:TH|201?-??-?? — 2013-04-29 | Kaipi 
+single line error in Arise.txt:TH|2013-??-?? — 2014-??-?? | Cede Nullis
+single line error in Arise.txt:TH|2015-10-06 — 2015-10-?? |Arcade.PowerRangers
+single line error in Arise.txt:TH|2015-10-18 — 2015-??-?? |Monkey Freedom Fighters
+single line error in SmAsH.txt:TH|2013-03-?? — 2013-06-25|Artyk Gaming
+single line error in SmAsH.txt:TH|2013-08-14 — 2014-06-??|Revenge eSports
+single line error in SmAsH.txt:TH|2014-06-?? — 2015-08-29|Not Today
+single line error in Rime.txt:TH|2016-04-29 — 2016-??-??|FDL (Coach)|link=FDL
+single line error in Crydasia.txt:TH|2012-??-?? — 2012-11-13|WhA
+single line error in BAKEMONO.txt:TH|2015-10-?? — 2016-03-24|Boreal eSports
+single line error in BAKEMONO.txt:TH|2016-03-24 — 2016-09-??|Perky Pepperonis
+single line error in Unicornxoxo.txt:TH|2012-06-?? — 2012-11-13|We haz Asian
+single line error in MEGAKING1337.txt:TH|2012-??-?? - ????-??-??|Epidemic!
+single line error in MEGAKING1337.txt:TH|2012-??-?? - 2012-??-??|Sluníčka
+single line error in MEGAKING1337.txt:TH|2013-07-02 - 2013-08-??|Ensox
+single line error in MEGAKING1337.txt:TH|2013-08-?? - 2013-??-??|eEriness
+single line error in MEGAKING1337.txt:TH|2013-11-?? - 2013-11-??|Random Trash
+single line error in MEGAKING1337.txt:TH|2013-11-?? - 2013-12-??|Martin Hala Gaming
+single line error in MEGAKING1337.txt:TH|2014-??-?? - 2015-05-14|Epidemic!
+single line error in MEGAKING1337.txt:TH|2015-06-16 - 2015-08-??|eSuba
+single line error in MEGAKING1337.txt:TH|2015-08-?? - 2015-??-??|Epidemic!
+single line error in 470.txt:TH|2015-08-29 - 2016-??-??|GOD BLESS
+single line error in 470.txt:TH|2016-??-?? - '''Present'''|Rainbows and Sunshine
+single line error in CanceL%5E%5E.txt:TH|2015-03-?? — 2015-04-??|XPC.ro
+single line error in The_apathy.txt:TH|2013-08-?? — 201?-??-??|GamersLeague
+single line error in The_apathy.txt:TH|2014-01-?? — 2014-10-??|Micare in tenebris
+single line error in The_apathy.txt:TH|2014-10-?? — 2014-11-??|Vega Squadron
+single line error in The_apathy.txt:TH|2015-10-28 — 2016-??-??|Revival Gaming
+single line error in The_apathy.txt:TH|2016-??-?? — 2016-??-??|Siberian Valenki
+single line error in The_apathy.txt:TH|2016-09-10 — 2016-11-??|Docler Myrmidons
+single line error in XLucky.txt:TH|2015-02-02 — 2016-01-??|TnC Gaming
+single line error in FrancisLee.txt:TH|2015-09-23 — 2015-??-??|Team Leviathan
+single line error in Jenkins.txt:TH|2014-??-?? — 2014-06-06|Team Leviathan
+single line error in Jenkins.txt:TH|2014-06-06 — 2014-10-??|Flipside Tactics
+single line error in PatSoul.txt:TH|2013-??-?? — 2014-??-??|Top5
+single line error in PatSoul.txt:TH|2014-??-?? — 2014-??-??|Osiris Gaming
+single line error in MidOne.txt:TH|2013-??-?? — 2014-??-??|Top5
+single line error in MidOne.txt:TH|2014-??-?? — 2014-??-??|Osiris Gaming
+single line error in Adong.txt:TH|2014-06-18 — 2015-01-??|Dream Gaming
+single line error in Adong.txt:TH|2015-10-01 — 2015-12-??|E-Sports Dream
+single line error in Eagle.txt:TH|2015-08-29 — 2016-??-??|GOD BLESS
+single line error in Eagle.txt:TH|2016-01-25 — 2016-02-??|Team Leviathan
+single line error in Eagle.txt:TH|2016-02-?? — 2016-06-22|Team Freedom
+single line error in CyNiCaL.txt:TH|2014-??-?? — 2014-04-27 |5 in QO
+single line error in Offak.txt:TH|2013-05-15 — 2014-??-??|iNfernity Gaming 
+single line error in VANSKOR.txt:TH|2016-05-22 — 2016-10-??|FlipSid3 Tactics
+single line error in VANSKOR.txt:TH|2016-10-?? — 2016-11-13|Skorokhod+4
+single line error in Old_chicken.txt:TH|2015-03-?? — 2015-09-01 |Energy Pacemaker
+Kqt.txt no history element:TH|2008—2012 |hi qt
+Kqt.txt no history element:TH|2012—2013 |Duskbin
+Kqt.txt no history element:TH|2012—2013 |Blackfade
+Kqt.txt no history element:TH|2013—2014|Ledion Dreamz
+Kqt.txt no history element:TH|2014—2014|SYF Gaming
+Kqt.txt no history element:TH|2014—2015-08-??|Trident eSports
+single line error in Maybe_Next_Time.txt:TH|2014-07-?? — 2015-??-??|Elysium Gaming
+single line error in Kikoni.txt:TH|2012-??-?? — 2013-05-06|Eosin + 4
+single line error in Kikoni.txt:TH|2013-05-06 — 2013-06-??|Denial eSports
+single line error in Kikoni.txt:TH|2015-09-04 — 2015-10-??|KomandaMinus
+single line error in Kikoni.txt:TH|2015-10-?? — 2016-??-??|Boreal eSports
+single line error in Kikoni.txt:TH|2016-??-?? — '''"Present"'''|KomandaMinus
+single line error in Ninjaboogie.txt:TH|2013-08-14 — 20??-??-??|Team Impervious
+single line error in Ninjaboogie.txt:TH|20??-??-?? — 2014-05-25|Execration
+single line error in Ninjaboogie.txt:TH|2014-06-08 — 2015-06-1?|Rave
+single line error in Ninjaboogie.txt:TH|2015-08-21 — 2015-??-??|Banaaaanas
+single line error in M.txt:TH|2014-??-?? — 2015-??-??|Newbee Young
+single line error in Noone.txt:TH|2014-??-?? — 2014-11-??|Ursastroithram
+single line error in Noone.txt:TH|2014-11-?? — 2014-11-24|BUHLO-UroPb
+single line error in SCripted.txt:TH|2014-??-?? — 2014-05-27|First Departure 
+single line error in QwisTa.txt:TH|2014-??-?? — 2015-08-19|ScaryFaceZ
+single line error in QwisTa.txt:TH|2015-08-20 — 2015-??-??|Siberian Valenki Black
+single line error in Hachiko.txt:TH|2013-01-09 — 2013-??-??|Neolution.int 
+single line error in KingJ.txt:TH|2010-??-?? — 2011-01-14|EHOME
+single line error in KingJ.txt:TH|2011-08-?? — 2012-01-??|Nirvana.cn
+single line error in KingJ.txt:TH|2016-03-25 — 2016-??-??|FTD club A
+single line error in R5r5.txt:TH|2011-09-?? — 2012-12-??|iDeal
+single line error in R5r5.txt:TH|2012-12-?? — 2013-09-03|MiTH
+single line error in Carn.txt:TH|2014-08-03 — 2014-??-??|Team Muhan
+single line error in Moonlight.txt:TH|2014-??-?? — 2015-??-??| Natasha ishet Parnya
+single line error in Melonzz.txt:TH|2014-??-?? — 2014-08-27|stayGreen
+single line error in GH.txt:TH|2015-08-29 — 2016-??-?? |E-LAB
+single line error in 290.txt:TH|2014-03-?? - 2014-06-??|Orenda 
+single line error in 290.txt:TH|2015-04-21 - 2015-09-??|Team DK 
+single line error in ALOHADANCE.txt:TH|2014-09-15 - 2014-??-??|Album Sheets
+single line error in SanSheng.txt:TH|2012-02-23 — 2012-03-??|PanDarea
+single line error in 7ckngMad.txt:TH|2011-??-?? - 2012-01-12|Team Shakira
+single line error in 7ckngMad.txt:TH|2016-05-?? - '''Present'''|OG|coach
+single line error in Monolith.txt:TH|2011-??-?? - 2012-01-12|Team Shakira
+single line error in Monolith.txt:TH|2016-05-?? - '''Present'''|OG|coach
+XtiNcT.txt no history element:TH|2009 |UCPro
+single line error in XtiNcT.txt:TH|2015-02-11 — 2015-??-??|Invasion e-Sports
+single line error in SVG.txt:TH|2015-08-?? — 2015-09-01|Dark Horse
+single line error in Banana.txt:TH|2009-10-?? — 2010-02-??|xFy
+single line error in Banana.txt:TH|2010-02-?? — 2011-12-??|Nirvana.cn
+single line error in Banana.txt:TH|2012-05-?? — 2012-11-??|Radiance
+single line error in Mool.txt:TH|2016-05-?? — '''Present'''|MAX.Y
+single line error in Firebird.txt:TH|2015-??-?? — 2015-??-??|Team Lunatic
+single line error in Julz.txt:TH|2010-??-?? — 2012-05-13|Mineski Infinity
+single line error in Julz.txt:TH|2013-10-02 — 2014-??-??|Mineski
+single line error in Julz.txt:TH|2014-??-?? — 2014-??-??|Click 'N Search
+single line error in Julz.txt:TH|2014-??-?? — 2014-??-??|Olympus Godz
+single line error in Kefka.txt:TH|2016-04-27 — 2016-07-??|Team Toast
+single line error in Mynuts.txt:TH|2014-06-?? — 2014-09-10|stayGreen
+single line error in Mynuts.txt:TH|2016-01-25 — 2016-01-??|Walrus Punch!|Walrus_Punch!_(team)
+single line error in Bubu.txt:TH|????-??-?? - 2012-12-27|DG
+single line error in Bubu.txt:TH|2016-??-?? - 2016-08-30|Nas Ne Dogonyat
+single line error in MSS.txt:TH|2013-02-25 — 2013-05-??|Fnatic.NA
+single line error in MSS.txt:TH|2015-07-03 — 2015-08-??|Team Archon
+single line error in MSS.txt:TH|2015-08-?? — 2015-09-01|Dark Horse
+single line error in ROtK.txt:TH|2014-??-?? — 2015-03-15|Big God
+single line error in Ysaera.txt:TH|????-??-?? — 2014-02-02|Insidious Idol
+single line error in Ysaera.txt:TH|2014-??-?? — 2015-01-29|Insidious Idol
+single line error in Ysaera.txt:TH|2015-02-01 — 2015-??-??|5eva
+single line error in Ysaera.txt:TH|2015-11-11 — 2016-??-??|Spac_ Creators
+single line error in 820.txt:TH|2011-??-?? - 2012-??-??|EHOME
+single line error in Sleepy.txt:TH|??? — 2014-01-17|5inQ
+single line error in Kim0.txt:TH|2012-10-? — 2013-03-05|MSI-evoGT.TnC
+NS.txt no history element:TH|2006|say_Plz
+NS.txt no history element:TH|2006|Magic aGe
+NS.txt no history element:TH|2009|Platium Sports
+NS.txt no history element:TH|2010|RoX
+single line error in Xtt.txt:TH|2014-09-02 — 2014-??-??|LAI Gaming
+single line error in Xtt.txt:TH|2015-09-04 — 2016-01-??|FTD club A
+single line error in ZExBinGo.txt:TH|2015-06-25 — 2015-??-??|TongFu
+single line error in G.txt:TH|2010-??-?? — 2010-12-27|The Retry
+single line error in Nokky.txt:TH|2013-??-?? — 2014-05-29|Everlast.GameFilling
+single line error in Nokky.txt:TH|2015-01-20 — 2015-02-??|Signature.Trust
+single line error in Nokky.txt:TH|2015-??-?? — '''Present'''|iDeal eSports
+single line error in Mu.txt:TH|2011 — 2012-03-??|PanDarea
+single line error in MarCh%60Jw.txt:TH|2016-04-11 — 2016-04-??|Power Gaming
+single line error in Eosin.txt:TH|2012-??-?? — 2013-05-06|Eosin + 4
+single line error in Eosin.txt:TH|2013-05-06 — 2013-06-??|Denial eSports
+single line error in XaKoH.txt:TH|2015-10-22 — 2016-05-??|Revival Gaming
+single line error in XaKoH.txt:TH|2016-05-?? — 2016-08-21|Yellow Submarine
+single line error in NoFear.txt:TH|2015-??-?? — 2015-??-??|Elysium Gaming
+single line error in Srf.txt:TH|2015-10-?? — 2016-01-31|Dream Weavers Gaming
+single line error in Srf.txt:TH|2016-04-?? — 2016-08-??|G.star
+single line error in Jabbz.txt:TH|2015-04-13 — 2015-05-??|Lemondogs
+single line error in Jabbz.txt:TH|2015-05-?? — 2015-12-12|GOOMBA Gaming
+single line error in Steffstyle.txt:TH|2012-??-?? — 2013-03-08|Out of Tangos
+single line error in Steffstyle.txt:TH|2013-03-08 — 2013-07-??|Keita Gaming
+single line error in Steffstyle.txt:TH|2013-07-?? — 2013-08-28|dargonblaydes
+single line error in Hot_Bid.txt:TH|2012-??-?? — 2013-03-08|Out of Tangos
+single line error in Hot_Bid.txt:TH|2013-03-08 — 2013-07-??|Keita Gaming
+single line error in Hot_Bid.txt:TH|2013-07-?? — 2013-08-28|dargonblaydes
+single line error in Zyzz.txt:TH|2013-01-04 — 2013-??-??|Gamer University
+single line error in Zyzz.txt:TH|2016-04-01 — 2016-06-??|Kingdom Dota
+single line error in Nikobaby.txt:TH|2016-01-25 — 2016-01-??|Walrus Punch!|Walrus_Punch!_(team)
+single line error in Ripuck.txt:TH|2015-09-04 — 2015-??-??|FTD club B
+single line error in Ripuck.txt:TH|2015-10-?? — 2015-11-18|FTD club C
+single line error in Ripuck.txt:TH|2016-04-?? — 2016-05-23|boomloomdoom
+single line error in RodjER.txt:TH|2014-??-?? — 2014-03-19|Cleave Gaming
+single line error in RodjER.txt:TH|2014-03-19 — 2014-??-??|Aware Gaming
+single line error in RodjER.txt:TH|2014-??-?? — 2014-??-??|Cleave Gaming
+single line error in RodjER.txt:TH|2016-08-23 — 2016-10-??|FlipSid3 Tactics
+single line error in RodjER.txt:TH|2016-10-?? — 2016-11-14|Skorokhod+4
+single line error in Boombacs.txt:TH|2013-10-?? — 2015-04-07|Arcanys Gaming
+single line error in Boombacs.txt:TH|2015-06-19 — 2015-??-??|MSI-EvoGT
+single line error in Klotz22.txt:TH|2012-12-?? — 2013-??-??|Nex Impetus
+single line error in Klotz22.txt:TH|2014-10-27 — 2015-03-??|INTZ eSports
+single line error in Klotz22.txt:TH|2015-03-?? — 2015-04-28|Swagenteiger
+Mirakel.txt no history element:TH|2007|BTB
+Mirakel.txt no history element:TH|2009|Fnatic
+Mirakel.txt no history element:TH|2010|DDT
+Mirakel.txt no history element:TH|2010|LOST.eu
+Mirakel.txt no history element:TH|2010|NWO
+Mirakel.txt no history element:TH|2011|GGnet
+single line error in Mirakel.txt:TH|2013-09-19 - 2013-??-??|Turtle Masters
+single line error in Mirakel.txt:TH|2015-03-30 - 2015-??-??|Taco Life
+single line error in Yim.txt:TH|2014-02-11 — 2014-??-??|CNB.cn 
+single line error in Yim.txt:TH|2015-04-?? — 2015-05-??|Newbee Miracle
+single line error in %E9%97%B7%E6%B2%B9%E7%93%B6.txt:TH|2015-07-?? — 2015-12-??|E-Sports Dream
+single line error in %E9%97%B7%E6%B2%B9%E7%93%B6.txt:TH|2016-07-?? — 2016-10-03|BraveHeart.Zombie
+single line error in Roddgeee.txt:TH|2015-09-?? — 2015-11-16|DK Renaissance
+single line error in Roddgeee.txt:TH|2015-12-08 — 2016-03-??|MVP HOT6ix
+single line error in Roddgeee.txt:TH|2016-09-?? — 2016-??-??|Tangerine
+single line error in Roddgeee.txt:TH|2016-10-?? — '''Present'''|90s Gaming
+single line error in Reisen.txt:TH|2013-??-?? — 2013-08-21|Eyes of Tiger Hammer
+single line error in Velo.txt:TH|2015-12-08 — 2016-06-??|MVP HOT6ix
+single line error in Fear.txt:TH|2005-??-?? — 2006-??-??|PluG Pullers Inc.
+single line error in Fear.txt:TH|2006-??-?? — 2007-??-??|compLexity Gaming
+single line error in Fear.txt:TH|2007-??-?? — 2008-03-??|PluG Pullers v2
+single line error in Fear.txt:TH|2008-03-?? — 2009-03-??|Meet Your Makers
+single line error in Fear.txt:TH|2009-03-?? — 2009-12-??|Evil Geniuses
+single line error in Fear.txt:TH|2009-12-?? — 2010-02-??|Blight.int
+single line error in Fear.txt:TH|2010-02-?? — 2010-08-??|Nirvana.int
+single line error in Fear.txt:TH|2010-09-?? — 2011-02-??|Lost.eu
+single line error in Fear.txt:TH|2011-02-?? — 2011-05-??|Browned Potatoes
+single line error in Fear.txt:TH|2011-05-?? — 2011-08-??|Online Kingdom
+single line error in Drayich.txt:TH|2006-??-?? — 2007-06-30|Team_Team

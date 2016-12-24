@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Liquipedia links|sc2=TubbyTheFat}}
+{{stub}}
+{{Infobox player
+|id=TubbyTheFat
+|image=PlayerImagePlaceholder.png
+|name=Jay Martens
+|team=
+|birth_date={{Birth date and age|1993|02|17}}
+|country=Canada
+|hero=Timbersaw
+|hero2=
+|hero3=
+|role=offlane
+|status=Active
+|ids=
+|site=
+|fanclub=
+|twitch=tubbythefat
+|tlstream=
+|twitter=TubbyTheFat
+|facebook=
+|datdota=4223&amp;player=TubbyTheFat
+|tlprofile=
+|history=
+{{TH|????-??-?? — 2014-??-??|Vas'Avi}}
+{{TH|2014-??-?? — 2014-07-06|Urn Real Tangoes}}
+{{TH|2014-07-06 — 2014-??-??|ROOT Gaming}}
+}}
+
+Jay "'''TubbyTheFat'''" Martens is a Canadian Dota 2 player who is currently teamless. He most recently played for [[Root Gaming]].
+</textarea>]

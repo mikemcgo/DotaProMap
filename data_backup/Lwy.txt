@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Lwy
+|name2=Results
+|link2=Lwy/Results
+|This=1
+}}
+{{Infobox player
+|id=Lwy
+|image=PlayerImagePlaceholder.png
+|name=周鑫羿
+|romanized_name=Zhou Xinyi
+|team=To.be.or.not.to.be
+|role=offlane
+|status=Active
+|hero=Tidehunter
+|hero2=Clockwerk
+|hero3=Timbersaw
+|ids=mgjsgsb
+|country=China
+|datdota=4037
+|dotabuff=107336061
+|mmr=6026
+|mmrdate=2016-10-04
+|twitter=
+|birth_date={{Birth date and age|1994|09|14}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-09-22 — 2015-04-02|Speed Gaming}}
+{{TH|2015-06-24 — 2015-07-24|Newbee Young}}
+{{TH|2015-10-15 — 2015-10-23|Brave Heart}}
+{{TH|2016-04-01 — '''Present'''|To.be.or.not.to.be}}
+}}
+
+Zhou '''"Lwy"''' Xinyi is a professional Chinese Dota 2 player who last played offlane for [[To.be.or.not.to.be]].
+</textarea>]

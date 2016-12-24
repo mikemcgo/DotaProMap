@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+:''For the Chinese Dota 2 player Su "super" Peng, see [[super (Peng Su)]].
+{{Tabs static
+|name1=Overview
+|link1=Super
+|name2=Results
+|link2=Super/Results
+|This=1
+}}
+{{Infobox player
+|id=Super
+|image=super ems finals2.jpg
+|name=谢俊豪
+|romanized_name=Xie Junhao
+|team=LGD.Forever Young
+|role=mid
+|status=Active
+|hero=Dragon Knight
+|hero2=Alchemist
+|hero3=Shadow Fiend
+|mmr=7952
+|mmrdate=2016-12-13
+|ids=Yueru
+|tencent=a6290892
+|weibo=5708275526
+|datdota=24
+|dotabuff=90882159
+|country=China
+|birth_date={{Birth date and age|1993|1|4}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2011-01-16 — 2013-08-22|Team DK}}
+{{TH|2013-09-02 — 2016-03-20|Vici Gaming}} 
+{{TH|2016-03-20 — 2016-08-30|CDEC Gaming}} 
+{{TH|2016-09-17 — '''Present'''|LGD.Forever Young}} 
+}}
+
+Xie '''"Super"''' Junhao is a professional Dota player who plays for [[LGD.Forever Young]].
+</textarea>]

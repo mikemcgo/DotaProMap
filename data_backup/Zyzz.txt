@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:Zyzz}}
+{{Tabs static
+|name1=Overview
+|link1=Zyzz
+|name2=Results
+|link2=Zyzz/Results
+|This=1
+}}
+{{Infobox player
+|id=Zyzz
+|image=Zyzz_Profile.png
+|name=Luis Perez
+|country=Mexico
+|country2=United States
+|team=Doo Wop
+|role=carry
+|status=Active
+|hero=Juggernaut
+|hero2=Phantom Lancer
+|hero3=Troll Warlord
+|mmr=7335
+|mmrdate=2016-11-05
+|ids=Zyzzy
+|facebook=zyzzydota
+|twitch=zyzzydota
+|dotabuff=87293485
+|history=
+{{TH|2013-01-04 — 2013-??-??|Gamer University}}
+{{TH|2015-05-07 — 2015-11-30|compLexity Gaming}}
+{{TH|2015-12-08 — 2016-01-10|Team Leviathan}}
+{{TH|2016-03-23 — 2016-04-01|The Animal Kingdom}}
+{{TH|2016-04-01 — 2016-06-??|Kingdom Dota}}
+{{TH|2016-10-14 — '''Present'''|Doo Wop}}
+}}
+
+Luis "'''Zyzz'''" Perez is a Mexican-American professional Dota 2 player who is currently playing for [[Doo Wop]].
+</textarea>]

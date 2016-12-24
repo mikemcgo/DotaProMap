@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=KaNG
+|name2=Results
+|link2=KaNG/Results
+|This=1
+}}
+{{Infobox player
+|id=KaNG
+|image=PlayerImagePlaceholder.png
+|name=Chua Soon Khong
+|team=WarriorsGaming.Unity
+|role=offlane
+|status=Active
+|hero=axe
+|hero2=dark seer
+|hero3=timbersaw
+|mmr=7507
+|mmrdate=2016-08-24
+|ids=Kangaroo
+|country=Malaysia
+|datdota=
+|dotabuff=101525357
+|history=
+{{TH|2015-04-02 — 2015-07-07|Team Underminer}}
+{{TH|2015-07-14 — 2015-10-??|Team SatuDuaTiga}}
+{{TH|2016-03-26 — 2016-07-??|Mineski-X}}
+{{TH|2016-07-?? — 2016-08-15|DUOBAO.INT}}
+{{TH|2016-08-15 — '''Present'''|WarriorsGaming.Unity}}
+}}
+
+Chua '''"KaNG"''' Soon Khong is a professional Dota 2 player who is currently playing for [[WarriorsGaming.Unity]].
+</textarea>]

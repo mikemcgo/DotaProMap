@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Owa
+|name2=Results
+|link2=Owa/Results
+|This=1
+}}
+{{Infobox player
+|id=Owa
+|image=PlayerImagePlaceholder.png
+|name=Joshua Dela Serna
+|team=
+|role=support
+|hero=Nyx Assassin
+|hero2=Sand King
+|hero3=
+|ids=
+|country=Philippines
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011-09 — 2015-08-28|Mineski}}
+}}
+
+Joshua '''"Owa"''' Dela Serna most recently played support roles for [[Mineski]].
+</textarea>]

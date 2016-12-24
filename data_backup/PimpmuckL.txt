@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=PimpmuckL
+|link2=PimpmuckL/Broadcasts
+|name2=Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=PimpmuckL
+|image=PimpmuckL.jpg
+|name=Jonathan Liebig
+|status=
+|role=caster
+|role2=analyst
+|ids=
+|country=Germany
+|tlpdid=
+|birth_date= 
+|nicknames=JJ
+|askfm=PimpmuckL
+|dotabuff=21867523
+|twitch=pimpmuckl
+|hitbox=pimpmuckl
+|twitter=pimpmuckl
+|youtube=JJpew
+|reddit=PimpmuckL
+|fanpage=https://www.facebook.com/pimpmuckl
+|history=}}
+
+Johnathan "PimpmuckL" Liebig is a Dota 2 observer and producer for [[Moonduck]].
+</textarea>]

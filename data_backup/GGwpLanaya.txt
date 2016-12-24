@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=GGwpLanaya
+|name2=Results
+|link2=GGwpLanaya/Results
+|This=1
+}}
+{{Infobox player
+|id=GGwpLanaya
+|image=PlayerImagePlaceholder.png
+|romanized_name=Vlad Malikov
+|name=Влад Маликов
+|team=
+|ids=
+|role=mid
+|role2=carry
+|status=Active
+|hero=Templar Assassin
+|hero2=Shadow Fiend
+|hero3=Brewmaster
+|mmr=7518
+|mmrdate=2016-08-27
+|country=Russia
+|datdota=
+|twitch=ggwplanaya
+|youtube=channel/UCZ61i1o0DPqS89vIvbQPrQw
+|dotabuff=110819366
+|facebook=
+|twitter=
+|vk=ggwplanayatv
+|history=
+{{TH|2014-08-15 — 2014-??-??|ThePressure}}
+{{TH|2015-12-08 — 2016-??-??|Big Red Machine}}
+{{TH|2016-03-27 — 2016-04-07|Yellow Submarine}}
+}}
+
+Vlad '''"GGwpLanaya"''' Malikov is a professional Dota 2 player from Russia who last played for [[Yellow Submarine]].
+</textarea>]

@@ -1,0 +1,56 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=MiSeRy 
+|name2=Results
+|link2=MiSeRy/Results
+|This=1
+}}
+{{Infobox player
+|id=MiSeRy
+|image=MiSeRy_The_Summit_3.jpg
+|name=Rasmus Berth Filipsen
+|team=Digital Chaos
+|birth_date={{birth date and age|1991|07|14}}
+|country=Denmark
+|hero=Lion
+|hero2=Slardar
+|hero3=Nyx Assassin
+|mmr=7145
+|mmrdate=2016-10-21
+|role=support
+|role2=captain
+|status=Active
+|ids=moosery, MiSeRyTheSLAYER
+|twitch=miserytheslayer
+|tlstream=
+|tlprofile=
+|sponsor=
+|site=http://miserytheslayer.blogspot.se/
+|twitter=MiSeRyDOTA
+|facebook=pages/MiSeRy-/136022989819147
+|datdota=9
+|dotabuff=87382579
+|videoarchive=
+|youtube=
+|history=
+{{TH|2008|Mom equals toilet}}
+{{TH|2009|Ravens}}
+{{TH|2009|TLT}}
+{{TH|2009 — 2010|Fnatic}}
+{{TH|2010|DDT}}
+{{TH|2010|Blight}}
+{{TH|2010|LOST.eu}}
+{{TH|2010-10-26 — 2011-08-28|MYM}}
+{{TH|2011-10-24 — 2012-05-08|Evil Geniuses}}
+{{TH|2012-05-18 — 2012-10-15|Counter Logic Gaming}}
+{{TH|2012-10-16 — 2013-12-13|LGD.int}}
+{{TH|2014-02-16 — 2014-05-13|Team Dog}}
+{{TH|2014-05-13 — 2014-08-??|mousesports}}
+{{TH|2015-01-05 — 2015-08-14|Cloud9}}
+{{TH|2015-08-22 — 2016-03-22|Team Secret}}
+{{TH|2016-03-26 — '''Present'''|Digital Chaos}}
+}}
+
+Rasmus '''"MiSeRy"''' Filipsen is a Danish player who is currently playing for [[Digital Chaos]].
+</textarea>]

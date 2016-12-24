@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ZeroPerfect
+|name2=Results
+|link2=ZeroPerfect/Results
+|This=1
+}}
+{{Infobox player
+|id=ZeroPerfect
+|image=PlayerImagePlaceholder.png
+|ids=ZP
+|name=冯艺川
+|romanized_name=Feng Yichuan
+|team=MAX.X
+|role=offlane
+|role2=support
+|status=Active
+|mmr=
+|mmrdate=
+|hero=Earthshaker
+|hero2=Dark Seer
+|hero3=Spirit Breaker
+|country=China
+|datdota=
+|dotabuff=149970561
+|twitter=
+|birth_date={{Birth date and age|1992|9|5}}
+|history=
+{{TH|2014-07-06 — 2014-05-13|The 0verwhelming}}
+{{TH|2014-06-20 — 2014-12-17|U.5}}
+{{TH|2015-01-?? — 2015-02-??|Wings Gaming}}
+{{TH|2015-04-28 — 2015-09-??|Team DK}}
+{{TH|2015-09-?? — 2015-10-??|Brave Heart}}
+{{TH|2015-12-?? — 2016-01-??|DUOBAO}}
+{{TH|2016-04-?? — '''Present'''|MAX.X}}
+}}
+
+Feng '''"ZeroPerfect"'''' Yichuan is a professional Chinese Dota 2 player who currently playing for [[MAX.X]].
+</textarea>]

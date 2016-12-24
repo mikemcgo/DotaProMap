@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Waixi
+|name2=Results
+|link2=Waixi/Results
+|This=1
+}}
+{{Infobox player
+|id=Waixi
+|image=PlayerImagePlaceholder.png
+|name=阎超
+|romanized_name=Yan Chao
+|team=Brave Heart
+|role=carry
+|role2=mid
+|status=Active
+|hero=Queen of Pain
+|hero2=Invoker
+|hero3=
+|mmr=7219
+|mmrdate=2016-11-30
+|ids=yc
+|country=China
+|birth_date={{Birth date and age|1996|11|12}}
+|dotabuff=136575603
+|history=
+{{TH|2015-07-01 — 2015-12-31 |E-Sports Dream}}
+{{TH|2016-04-01 — 2016-10-03 |BraveHeart.Zombie}}
+{{TH|2016-10-04 — '''Present'''|Brave Heart}}
+}}
+
+Wang "'''Waixi'''" Zhiyong is a professional Chinese Dota 2 player currently playing for [[Brave Heart]].
+</textarea>]

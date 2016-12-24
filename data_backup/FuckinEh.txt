@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=FuckinEh
+|name2=Results
+|link2=FuckinEh/Results
+|This=1
+}}
+{{Infobox player
+|id=FuckinEh
+|image=
+|name=Guilherme Silva
+|team=Midas Club Elite
+|role=carry
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=
+|mmrdate=
+|ids=
+|country=Brazil
+|birth_date=
+|twitter=
+|facebook=
+|dotabuff=
+|twitch=
+|history=
+{{TH|2016-03-04 — 2016-08-19| CNB e-Sports Club}}
+{{TH|2016-08-15 — 2016-09-05|G3nerationX}}
+{{TH|2016-09-05 — 2016-11-02|Keyd Stars}}
+{{TH|2016-11-01 — '''Present'''|Midas Club Elite}}
+}}
+
+Guilherme '''"FuckinEh"''' Silva is a professional Dota 2 player who is currently playing for [[Midas Club Elite]].
+</textarea>]

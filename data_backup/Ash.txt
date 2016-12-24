@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Ash
+|name2=Results
+|link2=Ash/Results
+|This=1
+}}
+{{Infobox player
+|id=Ash
+|image=PlayerImagePlaceholder.png
+|name=Kevin Zetterlind
+|team=
+|birth_date=
+|country=Sweden
+|role=Carry
+|twitch=
+|twitter=AshDota2
+|dotabuff=87557623
+|youtube=
+|facebook=
+|datdota=
+|tlstream=
+|vk=
+|history=
+{{TH|2015-10-17 — 2015-12-01|Ancient Warriors}}
+{{TH|2015-12-16 — 2016-01-13|COOKISS}}
+}}
+</textarea>]

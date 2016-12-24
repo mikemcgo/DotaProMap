@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=destiny
+|name2=Results
+|link2=destiny/Results
+|This=1
+}}
+{{Infobox player
+|id=destiny
+|image=PlayerImagePlaceholder.png
+|name=黄浩
+|romanized_name=Huang Hao
+|team=
+|role=support
+|status=Active
+|hero=Gyrocopter
+|hero2=Slark
+|hero3=
+|mmr=7665
+|mmrdate=2016-11-30
+|ids=nai, destiny samaQAQ
+|country=China
+|datdota=
+|dotabuff=130921377
+|tencent=
+|weibo=
+|history=
+{{TH|2015-03-15 — 2015-04-??|Team DK}}
+{{TH|2015-09-01 — 2016-05-31|FTD Club A}}
+}}
+
+Huang "'''destiny'''" Hao is a professional Dota 2 player currently teamless.
+</textarea>]

@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Sune
+|name2=Results
+|link2=Sune/Results
+|This=1
+}}
+{{Infobox player
+|id=Sune
+|image=Sune.jpg
+|name=José Freitas Pereira
+|team=
+|birth_date={{Birth date and age|1991|06|16}}                   
+|country=Brazil  
+|hero=Lion
+|hero2=Shadow Fiend
+|hero3=Lina
+|role=mid
+|status=Active
+|facebook=dota2sune
+|datdota=
+|dotabuff=268411420
+|twitch=
+|azubu=
+|ids=
+|history='''DotA:'''
+{{TH|2009 — 2010|CNB e-Sports Club}}
+{{TH|2010 — 2011|paiN Gaming}}
+'''DotA 2:'''
+{{TH|2014 — 2014|CNB e-Sports Club}}
+{{TH|2015-04-06 — 2015-04-28 |paiN Gaming}}
+{{TH|2015-05-02 — 2015-06-21 |INTZ eSports}}
+{{TH|2015-08-27 — 2015-??-?? |Artyk Gaming}}
+}}
+Junior '''"Sune"''' Pereira is a [[:Category:Brazil|Brazilian]] professional DotA player.
+</textarea>]

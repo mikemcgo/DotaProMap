@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Keyser
+|name2=Results
+|link2=Keyser/Results
+|This=1
+}}
+{{Infobox player
+|id=Keyser
+|image=
+|name=Γρηγόρης Καλιανιότης
+|romanized_name=Grigoris Kallianiotis
+|team=BrooDMotherS
+|ids=Keyser Soze
+|role=mid
+|status=Active
+|country=Greece
+|birth_date=
+|hero=Invoker
+|hero2=Shadow Fiend
+|hero3=Viper
+|mmr=7256
+|mmrdate=2016-08-24
+|site=
+|youtube=
+|twitter=kaizerdota2
+|dotabuff=86761682
+|datdota=5376
+|history={{TH|2014-06-?? — 2014-11-08|XtremeXPC International}}
+{{TH|2014-11-08 — 2015-08-17|London Conspiracy}}
+{{TH|2015-08-17 — 2016-??-??|Golden Boys}}
+{{TH|2016-03-?? — '''Present'''|BrooDMotherS}}
+}}
+
+Greg '''"Keyser"''' Kallianiotis is a Greek Dota 2 player, currently playing a core role for [[BrooDMotherS]].
+</textarea>]

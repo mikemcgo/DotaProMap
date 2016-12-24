@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Massacre
+|name2=Results
+|link2=Massacre/Results
+|This=1
+}}
+{{Infobox player
+|id=Massacre
+|name=Леонард Урих
+|romanized_name=Leonard Urich
+|image=PlayerImagePlaceholder.png
+|role=mid
+|hero=Chaos Knight
+|hero2=Puck
+|hero3=Lion
+|mmr=7165
+|mmrdate=2016-07-16
+|country=Russia
+|birth_date={{Birth date and age|1992|02|17}}
+|vk=id186924275
+|dotabuff=68308368
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-??-?? — 2013-05-12|Lions Pride}} 
+{{TH|2013-07-18 — 2013-??-??|Team Gamersleague.eu}} 
+}}
+
+Leonard '''"Massacre"''' Urih is a professional Dota 2 player who last played for [[Team Gamersleague.eu]].
+</textarea>]

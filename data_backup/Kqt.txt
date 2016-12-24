@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Kqt
+|image=PlayerImagePlaceholder.png
+|name=Kash Lagad
+|team=
+|birth_date={{birth date and age|1990|11|3}}
+|country=Singapore
+|hero=Witch Doctor
+|hero2=Bane
+|hero3=Vengeful Spirit
+|role=support
+|status=Active
+|site=
+|twitter=
+|history=
+{{TH|2008—2012 |hi qt}}
+{{TH|2012—2013 |Duskbin}}
+{{TH|2012—2013 |Blackfade}}
+{{TH|2013—2014|Ledion Dreamz}}
+{{TH|2014—2014|SYF Gaming}}
+{{TH|2014—2015-08-??|Trident eSports}}
+|videoarchive=
+|youtube=
+}}
+
+Akash or Kash "'''Kqt'''" Lagad is a Singaporean professional Dota 2 player who is currently teamless.
+</textarea>]

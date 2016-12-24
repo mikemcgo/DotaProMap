@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=LaKelz
+|name2=Results
+|link2=LaKelz/Results
+|This=1
+}}
+{{Infobox player
+|id=LaKelz
+|image=PlayerImagePlaceholder.png
+|name=Pipat Prariyachat
+|team=Signature.Trust
+|role=carry
+|role2=captain
+|status=Active
+|hero=Morphling
+|hero2=Anti Mage
+|hero3=Spectre
+|ids=Lk
+|country=Thailand
+|birth_date={{birth date and age|1989|10|26}}
+|datdota=246
+|dotabuff=91191397
+|history='''Dota:'''&lt;br&gt;
+{{TH|2009-??-?? — 2010-??-??|Roccat.Trust}}
+'''Dota2:'''&lt;br&gt;
+{{TH|2010-??-?? — 2015-01-20|MiTH.Trust}}
+{{TH|2015-01-20 — '''Present'''|Signature.Trust}}
+}}
+
+Pipat '''"LaKelz"''' Prariyachat is a professional Dota 2 player for [[Signature.Trust]].
+</textarea>]

@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=DifferentHeaven
+|name2=Results
+|link2=DifferentHeaven/Results
+|This=1
+}}
+{{Infobox player
+|id=DifferentHeaven
+|image=PlayerImagePlaceholder.png
+|name=Trịnh Văn Thọ
+|team=Next Generation
+|role=mid
+|hero=Meepo
+|hero2=Alchemist
+|hero3=Invoker
+|mmr=7934
+|mmrdate=2016-08-10
+|ids=The Liar, Dr.Durex
+|country=Vietnam
+|datdota=
+|twitter=
+|facebook=btn1412
+|dotabuff=196931374
+|birth_date=
+|history=
+}}
+
+Trịnh '''"DifferentHeaven"''' Văn Thọ is a Vietnamese professional Dota 2 player currently playing for [[Next Generation]].
+</textarea>]

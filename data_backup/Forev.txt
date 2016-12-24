@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Forev
+|name2=Results
+|link2=Forev/Results
+|This=1
+}}
+{{Infobox player
+|id=Forev
+|image=PlayerImagePlaceholder.png
+|name=이상돈
+|romanized_name=Lee Sang-don 
+|team=MVP Phoenix
+|role=offlane
+|status=Active
+|hero=Dark Seer
+|hero2=Furion
+|hero3=Tidehunter
+|mmr=8297
+|mmrdate=2016-11-21
+|ids=Rev, FoREv
+|country=South Korea
+|birth_date={{birth date and age|1991|11|18}}
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=Forevdota
+|datdota=2785
+|dotabuff=88933594
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-11-21 — 2015-02-26 |MVP Phoenix}}
+{{TH|2015-02-26 — 2015-12-08|MVP HOT6ix}}
+{{TH|2015-12-08 — 2016-08-15|MVP Phoenix}}
+{{TH|2016-08-27 — 2016-11-06|Team Secret}}
+{{TH|2016-11-10 — '''Present''' |MVP Phoenix}}
+}}
+
+Lee '''"Forev"''' Sang-don is a professional Dota 2 player who is currently playing for [[MVP Phoenix]].
+</textarea>]

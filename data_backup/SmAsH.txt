@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=SmAsH
+|name2=Results
+|link2=SmAsH/Results
+|This=1
+}}
+{{Infobox player
+|id=SmAsH
+|image=SmAsH2.jpg
+|name=Freddy Sina
+|team=Elite Wolves
+|ids=SMASH, DANGO, Appa, ILONKA FANBOY, BEELZEBUB, 2 
+|role=mid
+|status=Banned
+|hero=Shadow Fiend
+|hero2=Invoker
+|hero3=Ember Spirit
+|mmr=8431
+|mmrdate=2016-12-04
+|Other_ids=
+|country=Peru
+|facebook=SmashDota
+|twitch=smashdota
+|twitter=FreddySmAsH
+|datdota=432
+|dotabuff=118073569
+|birth_date=
+|history=
+{{TH|2012-12-15 — 2013-03-13|Gamer University}}
+{{TH|2013-03-?? — 2013-06-25|Artyk Gaming}}
+{{TH|2013-06-25 — 2013-08-14|Denial eSports}}
+{{TH|2013-08-14 — 2014-06-??|Revenge eSports}}
+{{TH|2014-06-?? — 2015-08-29|Not Today}}
+{{TH|2015-08-29 — 2015-09-30|Sector V}}
+{{TH|2015-09-30 — '''Present'''|Elite Wolves}}
+}}
+
+Freddy '''"SmAsH"''' Sina is a Peruvian professional Dota 2 player who currently plays for [[Elite Wolves]].
+</textarea>]

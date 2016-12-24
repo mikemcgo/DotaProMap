@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=YawaR
+|name2=Results
+|link2=YawaR/Results
+|This=1
+}}
+{{Infobox player
+|id=YawaR
+|image=PlayerImagePlaceholder.png
+|name= &lt;span style="font-size: 125%; font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', Nafees, 'Pak Nastaleeq', 'PDMS_Jauhar', 'Arabic Typesetting', 'Segoe UI', 'Alvi Lahori Nastaleeq';"&gt;ياور حسن&lt;/span&gt;
+|romanized_name=Yawar Hassan
+|birth_date=
+|country=Pakistan
+|country2=United States
+|team=
+|hero=Shadow Fiend
+|hero2=Storm Spirit
+|hero3=Ember Spirit
+|mmr=8275
+|mmrdate=2016-12-02
+|role=carry
+|status=Active
+|twitch=yawar_
+|twitter=yawar_ys
+|ids=YS, Water
+|datdota=4775
+|dotabuff=108452107
+|history=
+{{TH|2015-02-11 — 2015-??-??|eHug}}
+{{TH|2015-07-02 — 2015-??-??|Champions of Summer's Rift}}
+{{TH|2015-08-24 — 2016-03-26|Digital Chaos}}
+{{TH|2016-03-26 — 2016-05-15|EverNovaS}}
+{{TH|2016-05-15 — 2016-06-15|Views 6}}
+}}
+
+Yawar '''"YawaR"''' Hassan is a professional Dota 2 player who is currently teamless.
+</textarea>]

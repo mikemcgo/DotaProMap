@@ -1,0 +1,48 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{tabs static
+|name1=Overview
+|link1=ChuaN
+|name2=Results
+|link2=ChuaN/Results 
+|This=1
+}}
+{{Infobox player
+|id=ChuaN
+|image=ChuaN The Summit 3.jpg
+|name=黄福全
+|romanized_name=Wong Hock Chuan
+|team=
+|birth_date={{Birth date and age|1991|07|28}}
+|country=Malaysia
+|hero=Disruptor
+|hero2=Enchantress
+|hero3=Lion
+|role=support
+|mmr=6768
+|mmrdate=2016-10-03
+|status=Active
+|sponsor=
+|stream=http://www.douyutv.com/58718
+|twitch=chuan_ig
+|tlstream=ChuaN
+|tlprofile=iG.ChuaN
+|twitter=iGChuaN
+|site=
+|datdota=36
+|tencent=ChuaN967
+|weibo=chuan967
+|dotabuff=88553213
+|history='''Dota:'''&lt;br&gt;
+{{TH|2009|8mski}}
+{{TH|2009  |Kingsurf}}
+{{TH|2009 — 2010|Aeon}}
+{{TH|2010 |ToT}}
+{{TH|2010|Deity}}
+{{TH|2010|Nirvana.my}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-01-25 — 2011-08-02|LGD.cn}}
+{{TH|2011-08-02 — 2013-09-09|Invictus Gaming}}
+{{TH|2014-02-20 — 2015-12-07|Invictus Gaming}}
+{{TH|2015-12-07 — 2016-09-17|Newbee}}
+}}
+Wong '''"ChuaN"''' Hock Chuan is a professional Dota 2 player who last played for [[Newbee]]. Well known for his [[Windranger]] and [[Mirana]] skills, ChuaN has a huge fan base in Asia.
+</textarea>]

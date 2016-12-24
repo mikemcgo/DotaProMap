@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Raven
+|name2=Results
+|link2=Raven/Results
+|This=1
+}}
+{{Infobox player
+|id=Raven
+|team=TnC Gaming
+|image=PlayerImagePlaceholder.png
+|name=Marc Polo Luis Fausto
+|role=carry
+|status=Active
+|hero=Drow Ranger
+|hero2=Terrorblade
+|hero3=Sven
+|mmr=7869
+|mmrdate=2016-11-22
+|ids=Polo, AkosiPolo
+|country=Philippines
+|birth_date=
+|datdota=
+|dotabuff=132309493
+|twitter=ravendoto
+|facebook=napolodre
+|history=
+{{TH|2014-04-26 — 2015-01-04|Click 'N Search}}
+{{TH|2015-01-04 — 2015-03-04|Mineski}}
+{{TH|2015-03-04 — 2015-06-11|Click 'N Search}}
+{{TH|2015-06-19 — 2016-08-21|MSI-EvoGT}}
+{{TH|2015-08-21 — 2016-08-19|TnC Gaming}}
+{{TH|2016-09-06 — 2016-11-28|Fnatic}}
+{{TH|2016-11-29 — '''Present'''|TnC Gaming}}
+}}
+
+Marc Polo "'''Raven'''" Luis Fausto is a professional Dota 2 player who is currently playing for [[TnC Gaming]].
+</textarea>]

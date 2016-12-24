@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Chrysalid
+|name2=Results
+|link2=Chrysalid/Results
+|This=1
+}}
+{{Infobox player
+|id= Chrysalid
+|name= Chris
+|team=
+|country=United States
+|ids= baby g, keppa g
+|hero= Dazzle
+|hero2= Crystal_Maiden
+|hero3= Skywrath_Mage
+|role=support
+|status=Active
+|dotabuff=116201886
+|datdota=4647
+|history=
+{{TH|2015-??-?? — 2015-??-??|Stay Free}}
+{{TH|2015-09-02 — 2016-??-??|GOD BLESS}}
+{{TH|2016-??-?? — 2016-??-??|Gossip Girls}}
+}}&lt;br&gt;
+</textarea>]

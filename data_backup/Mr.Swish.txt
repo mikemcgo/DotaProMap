@@ -1,0 +1,19 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Mr.Swish
+|image=PlayerImagePlaceholder.png
+|name=Marc Parasadas
+|team=Neolution.int
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Philippines
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-01-09 — '''Present'''|Neolution.int}} 
+}}
+
+Marc '''"Mr.Swish"''' Parasadas is a professional Dota 2 player who currently plays for [[Neolution.int]].
+</textarea>]

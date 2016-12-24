@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=BananaSlamJamma
+|name2=Results
+|link2=BananaSlamJamma/Results
+|This=1
+}}
+{{Infobox player
+|id=BananaSlamJamma
+|ids=BSJ
+|name=Brian Canavan
+|country=United States
+|image=PlayerImagePlaceholder.png
+|team=Team Freedom
+|role=carry
+|role2=captain
+|status=Active
+|hero=Slark
+|hero2=Phantom Lancer
+|hero3=Huskar
+|mmr=7566
+|mmrdate=2016-11-05
+|twitch=bananaslamjamma
+|ldstream=BananaSlamJamma
+|twitter=BananaSlamJamma
+|datdota=4640
+|dotabuff=105178768
+|history=
+{{TH|2015-01-25 — 2015-02-21|ROOT Gaming}}
+{{TH|2015-02-21 — 2015-02-26|FIRE}}
+{{TH|2015-02-26 — 2015-05-18|Champions of Summer's Rift}}
+{{TH|2015-09-?? — 2015-11-09|Stratos eSports}}
+{{TH|2015-11-09 — 2015-12-06|Astral Authority}}
+{{TH|2015-12-06 — 2016-06-??|Enemy}}
+{{TH|2016-06-?? — 2016-09-??|Exodus}}
+{{TH|2016-10-?? — '''Present'''|Team Freedom}}
+}}
+
+Brian "'''BananaSlamJamma'''" Canavan is an American professional Dota 2 Player who is currently playing for [[Team Freedom]].
+</textarea>]

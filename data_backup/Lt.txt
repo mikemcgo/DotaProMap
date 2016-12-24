@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=Lt
+|name2=Results
+|link2=Lt/Results
+|This=1
+}}
+{{Infobox player
+|id=lt
+|image=lt-EHOME.X.jpg
+|name=罗涛
+|romanized_name=Luo Tao
+|team=EHOME.X
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=6727
+|mmrdate=2016-11-30
+|ids=
+|country=China
+|datdota=3745
+|twitter=
+|birth_date=
+|dotabuff=151550803
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-10-?? — 2015-07-??|Energy Pacemaker Gaming}}
+{{TH|2015-08-30 — 2015-??-??|BeijingWangYu}}
+{{TH|2015-??-?? — 2016-??-??|Insane Buster}}
+{{TH|2016-??-?? — '''Present'''|EHOME.X}}
+}}
+
+Luo "'''lt"''' Tao is a professional Chinese Dota 2 player who is currently playing for [[EHOME.X]].
+</textarea>]

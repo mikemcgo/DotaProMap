@@ -1,0 +1,46 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=MSS
+|name2=Results
+|link2=MSS/Results
+|This=1
+}}
+{{Infobox player
+|id=MSS
+|image=MSS Northern Arena.JPG
+|name=Arif Anwar
+|team=Team NP
+|role=offlane
+|role2=mid
+|status=Active
+|hero=Clockwerk
+|hero2=Dark Seer
+|hero3=Tusk
+|mmr=7658
+|mmrdate=2016-11-29
+|ids= MojoStormStout, Nacht-
+|country=United States
+|birth_date=
+|site=
+|twitch=MSSDota
+|tlstream=
+|tlprofile=
+|twitter=MSSDota
+|datdota=767
+|dotabuff=86726887
+|reddit=MojoStormStout
+|history=
+{{TH|2013-02-25 — 2013-05-??|Fnatic.NA}}
+{{TH|2013-09-19 — 2014-02-21|Evil Geniuses}}
+{{TH|2014-03-22 — 2014-05-13|Team Dog}}
+{{TH|2014-05-13 — 2014-07-23|mousesports}}
+{{TH|2015-03-24 — 2015-07-03|North American Rejects}}
+{{TH|2015-07-03 — 2015-08-??|Team Archon}}
+{{TH|2015-08-?? — 2015-09-01|Dark Horse}}
+{{TH|2015-09-01 — 2015-11-27|Cloud9}}
+{{TH|2015-12-06 — 2016-08-18|Shazam}}
+{{TH|2016-09-08 — '''Present'''|Team NP}}
+}}
+
+Arif '''"MSS"''' Anwar is a professional Dota 2 player who is currently playing offlane for [[Team NP]].
+</textarea>]

@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=ZExBinGo
+|name2=Results
+|link2=ZExBinGo/Results
+|This=1
+}}
+{{Infobox player
+|id=zExBinGo
+|image=BinGo-EHOME.X.jpg
+|name=曾聪
+|romanized_name=Zeng Cong
+|team=EHOME.X
+|role=offlane
+|status=Active
+|hero=batrider
+|hero2=dark seer
+|hero3=clockwerk
+|mmr=7378
+|mmrdate=2016-12-07
+|ids=BinGo
+|country=China
+|birth_date=
+|datdota=
+|dotabuff=93289364
+|history=
+{{TH|2012-11-17 — 2013-03-06|Cruel}}
+{{TH|2013-09-08 — 2013-10-10|Ogurayui}}
+{{TH|2013-10-27 — 2014-01-12|TongFu}}
+{{TH|2014-10-29 — 2015-03-12|Butter Fly}}
+{{TH|2015-03-12 — 2015-04-12|TongFu}}
+{{TH|2015-04-27 — 2015-06-25|TongFu.WanZhou}}
+{{TH|2015-06-25 — 2015-??-??|TongFu}}
+{{TH|2015-06-25 — 2016-03-19|Vici Gaming Potential}}
+{{TH|2016-09-10 — '''Present'''|EHOME.X}}
+}}
+
+Zeng '''"zExBinGo"''' Cong is a professional Dota 2 player.
+</textarea>]

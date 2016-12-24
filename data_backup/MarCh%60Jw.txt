@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:MarCh`Jw}}
+{{Tabs static
+|name1=Overview
+|link1=MarCh`Jw
+|name2=Results
+|link2=MarCh`Jw/Results
+|This=1
+}}
+{{Infobox player
+|id=MarCh`Jw
+|image=PlayerImagePlaceholder.png
+|name=Thiay Jun Wen
+|team=
+|country=Malaysia
+|hero=Outworld Destroyer
+|hero2=Invoker
+|hero3=Spectre
+|mmr=7003
+|mmrdate=2016-07-01
+|role=mid
+|status=Active
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|facebook=
+|datdota=
+|dotabuff=138857296
+|ids=MarCh`Jw, `Mithril.Jw-
+|fanclub=
+|history=
+{{TH|2016-04-11 — 2016-04-??|Power Gaming}}
+}}
+
+Thiay "'''MarCh`Jw'''" Jun Wen  is a Malaysian player currently teamless.
+</textarea>]

@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=JotM
+|name2=Results
+|link2=JotM/Results
+|This=1
+}}
+{{Infobox player
+|id=JotM
+|image=JotM VP 2014.jpg
+|name=Егор Сурков
+|romanized_name=Egor Surkov
+|team=
+|role=caster
+|role2=support
+|status=Retired
+|hero=Mirana
+|hero2=Dazzle
+|hero3=EarthShaker
+|ids=
+|country=Russia
+|birth_date=1993
+|vk=followjotm
+|twitch=followjotm
+|twitter=FollowJotM
+|datdota=336
+|dotabuff=36547811
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-08-30 — 2013-12-01|Poseidon}}
+{{TH|2013-12-01 — 2015-03-11|Virtus.pro}}
+{{TH|2015-09-04 — 2016-03-25|Virtus.pro|sub}}
+}}
+
+Egor '''"JotM"''' Surkov is a inactive professional Dota 2 player who most recently played for [[Virtus.pro]].
+</textarea>]

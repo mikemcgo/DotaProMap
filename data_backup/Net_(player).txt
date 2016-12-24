@@ -1,0 +1,45 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Net (player)
+|name2=Results
+|link2=Net (player)/Results
+|This=1
+}}
+{{Infobox player
+|id=Net
+|image=Net-2013.jpg
+|name=林伟斌
+|romanized_name=Wai Pern Lim
+|team=White Fries Gaming
+|role=support
+|status=Active
+|hero=Sand King
+|hero2=Rubick
+|hero3=Shadow Shaman
+|mmr=7025
+|mmrdate=2016-09-03
+|ids=
+|country=Malaysia
+|birth_date={{Birth date and age|1991|10|13}}
+|twitter=
+|facebook=supporternet
+|twitch=tatami1013
+|reddit=titan-net
+|tencent=titan_net
+|datdota=220
+|dotabuff=89249333
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2011-??-?? — 2013-01-22|MUFC}}
+{{TH|2013-01-25 — 2013-09-21|Orange}}
+{{TH|2013-09-21 — 2014-10-01|Titan}}
+{{TH|2014-10-01 — 2014-12-??|Team Malaysia}}
+{{TH|2015-01-04 — 2015-02-22|G Guard Esports}}
+{{TH|2014-03-18 — 2015-06-18|G Guard Esports}}
+{{TH|2015-06-23 — 2015-07-14|Team 123}}
+{{TH|2015-08-26 — 2016-05-07|Fnatic}}
+{{TH|2016-09-16 — '''Present'''|White Fries Gaming}}
+}}
+
+Wai Pern '''"Net"''' Lim is a professional Dota 2 support player who is currently playing for [[White Fries Gaming]].
+</textarea>]

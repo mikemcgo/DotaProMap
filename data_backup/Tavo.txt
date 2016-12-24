@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Tavo
+|name2=Results
+|link2=Tavo/Results
+|This=1
+}}
+{{Infobox player
+|id=Tavo
+|image=tavo.jpg
+|name=Otávio Gabriel Cerqueira Silva
+|team=SG e-sports
+|birth_date={{Birth date and age|1994|12|19}}
+|country=Brazil
+|twitch=thetavo
+|twitter=thetav0
+|hero=Tidehunter
+|hero2=clockwerk
+|hero3=timbersaw
+|mmr=7432
+|mmrdate=2016-09-23
+|role=offlane
+|status=Active
+|facebook=tavodota
+|dotabuff=117956848
+|datdota=1212
+|history=
+{{TH|2014-01-03 — 2014-03-11|Swagenteiger}}
+{{TH|2014-03-10 — 2014-08-09|CNB e-Sports Club}}
+{{TH|2014-09-09 — 2014-11-28|Keyd Stars}}
+{{TH|2014-12-15 — 2015-12-24|paiN Gaming}}
+{{TH|2015-12-24 — 2016-05-24|T Show}}
+{{TH|2015-05-25 — 2016-10-19|paiN Gaming}}
+{{TH|2016-10-19 — 2016-11-13|Kingao+4}}
+{{TH|2016-11-13 — '''Present'''|SG e-sports}}
+}}
+
+Otávio '''"Tavo"''' Gabriel is a professional DotA player currently playing for [[SG e-sports]].
+</textarea>]

@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:ddz}}
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ddz
+|name2=Results
+|link2=Ddz/Results
+|This=1
+}}
+{{Infobox player
+|id=ddz
+|image=Ddzvinnfiergiveaway.jpg
+|name=Kok Yi Liong
+|team=Power Gaming
+|role=mid
+|status=Banned
+|hero=Invoker
+|hero2=Tinker
+|hero3=Brewmaster
+|mmr=8520
+|mmrdate=2016-10-14
+|other_ids=
+|country=Malaysia
+|facebook=ddzai
+|dotabuff=104963314
+|reddit=arrowddz
+|datdota=2167
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-??-?? — 2014-01-25|Lowyat.net Esports}}
+{{TH|2014-01-25 — 2014-10-20|Arrow Gaming}}
+{{TH|2015-01-09 — 2016-04-06|Team Redemption}}
+{{TH|2016-04-07 — '''Present''' |Power Gaming}}
+}}
+
+Kok Yi '''"ddz"''' Liong is a professional Malaysian Dota 2 player, currently on [[Power Gaming]].
+</textarea>]

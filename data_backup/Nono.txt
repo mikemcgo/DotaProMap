@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Nono
+|name2=Results
+|link2=Nono/Results
+|This=1
+}}
+{{Infobox player
+|id=Nono
+|image=PlayerImagePlaceholder.png
+|name=王昕
+|romanized_name=Wang Xin
+|team=Team VG.J
+|role=mid
+|status=Active
+|hero=Invoker
+|hero2=Queen of Pain
+|hero3=Shadow Fiend
+|mmr=7078
+|mmrdate=2016-11-30
+|ids=Fight Together, aaa2
+|country=China
+|weibo=
+|tencent=
+|datdota=5920
+|dotabuff=80929738
+|birth_date=
+|site=
+|stream=
+|twitter=
+|youtube=
+|fanpage=
+|history=
+{{TH|2015-12-11 — 2016-03-19|CDEC Avenger}}
+{{TH|2016-03-19 — 2016-09-17|Vici Gaming Reborn}}
+{{TH|2016-09-17 — '''Present'''|Team VG.J}}
+}}
+Wang '''"Nono"''' Xin is a professional Dota 2 player who currently plays for [[Team VG.J]].
+</textarea>]

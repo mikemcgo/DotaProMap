@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Rabbit
+|name2=Results
+|link2=Rabbit/Results
+|This=1
+}}
+{{Infobox player
+|id=Rabbit
+|image=LGD_Rabbit.jpg
+|name=王章
+|romanized_name=Wang Zhang
+|team=
+|role=carry
+|role2=offlane
+|status=Active
+|hero=Lifestealer
+|hero2=Gyrocopter
+|hero3=Weaver
+|mmr=7436
+|mmrdate=2016-07-08
+|ids=Xiaotuji
+|country=China
+|birth_date=
+|datdota=907&amp;player=xiaotuji
+|tencent=a2390157
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-04-15 — 2012-05-14|Lord of Host}}
+{{TH|2012-05-14 — 2012-07-08|Noah's Ark}}
+{{TH|2013-01-28 — 2013-03-05|Vici Gaming}}
+{{TH|2013-03-05 — 2013-09-06|RisingStars}}
+{{TH|2013-09-06 — 2014-08-26|LGD.cn}}
+{{TH|2014-08-26 — 2015-09-01 |NewBee}}
+{{TH|2015-09-01 — 2016-03-20 |Invictus Gaming}}
+{{TH|2016-03-20 — 2016-08-30|CDEC Gaming}}
+}}
+
+Wang '''"Rabbit"''' Zhang is a professional Dota player.
+</textarea>]

@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jacko
+|name2=Results
+|link2=Jacko/Results
+|This=1
+}}
+{{Infobox player
+|id=Jacko
+|image=PlayerImagePlaceholder.png
+|name=Jacko Soriano
+|team=Power Gaming
+|role=mid
+|status=Banned
+|hero=Tinker
+|hero2=Windranger
+|hero3=Queen of Pain
+|mmr=6543
+|mmrdate=2016-11-15
+|ids=Jacko-, Jack0, Perrie
+|country=Philippines
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=122991377
+|birth_date=
+|history=
+{{TH|2014-08-14 — 2014-10-15|Mineski}}
+{{TH|2016-01-03 — 2016-03-??|Mineski-X}}
+{{TH|2016-06-16 — '''Present'''|Power Gaming}}
+}}
+
+Jacko '''"Jacko"''' Soriano is a Filipino professional Dota 2 player who is currently playing for [[Power Gaming]]. He was banned from all Valve events due to his involvement in a match-fixing scandal while on [[Mineski]].
+</textarea>]

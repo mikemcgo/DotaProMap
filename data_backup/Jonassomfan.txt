@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:jonassomfan}}
+{{Tabs static
+|name1=Overview
+|link1=Jonassomfan
+|name2=Results
+|link2=Jonassomfan/Results
+|This=1
+}}
+{{Infobox player
+|id=jonassomfan
+|image=Jonassomfan DHS 2015.jpg
+|name=Jonas Lindholm  
+|country=Sweden
+|team=Alliance
+|role=offlane
+|status=Active
+|hero=Axe
+|hero2=Clockwerk
+|hero3=Batrider
+|ids=Jonassomfan
+|mmr=6795
+|mmrdate=2016-04-29
+|twitch=&lt;!-- jonassomfan --&gt;
+|twitter=jonassomfan
+|facebook=Jonassomfan
+|datdota=5032
+|dotabuff=40209325
+|history=
+{{TH|2014-09-14 — 2015-01-01|LAJONS}}
+{{TH|2015-01-01 — 2015-11-13|Ninjas in Pyjamas}}
+{{TH|2015-12-07 — 2015-12-31|NO-VASELINE}}
+{{TH|2016-01-02 — 2016-01-??|Burden United}}
+{{TH|2016-03-22 — 2016-04-19|Avengers}}
+{{TH|2016-04-19 — 2016-04-26|COOKISS}}
+{{TH|2016-08-16 — 2016-09-16|Team Doge}}
+{{TH|2016-09-16 — '''Present'''|Alliance}}
+}}
+
+Jonas "'''jonassomfan'''" Lindholm is a former professional Swedish Heroes of Newerth player who switched full time to Dota 2. He currently plays for [[Alliance]].
+</textarea>]

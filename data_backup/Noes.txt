@@ -1,0 +1,23 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|image=PlayerImagePlaceholder.png
+|id=Noes
+|name=Georgi Shushev
+|team=Patenca
+|birth_date={{Birth date and age|1992|2|16}}
+|country=Bulgaria
+|hero= Templar Assassin
+|hero2= Invoker
+|hero3= Shadow Fiend
+|role=mid
+|status=Active
+|facebook=pages/Noes/330239517073098?ref=ts&amp;fref=ts
+|history='''DotA:'''&lt;br&gt;
+{{TH|2010-01-10	— 2011-03-07|microGaming}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2012-09-12	— 2013-01-01|Darer}}
+{{TH|2014-04-21 — '''Present'''|Patenca}}
+}}
+
+Georgi '''"Noes"''' Shushev is a Bulgarian DotA and Dota 2 player currently playing for team [[Patenca]].
+</textarea>]

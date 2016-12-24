@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Liquipedia links|hs=TidesofTime}}
+{{player-stub|no-cat=false}} 
+{{Tabs static
+|name1=Overview
+|link1=TidesofTime
+|name2=Results
+|link2=TidesofTime/Results
+|This=1
+}}
+{{Infobox player
+|id=TidesofTime
+|image=Tidesoftime-dh.jpg
+|name=Andrew Biessener
+|team=
+|ids=PB.TidesofTime
+|country=United States
+|role=support
+|status=Retired
+|birth_date={{Birth date and age|1991|12|31}}
+|site=http://www.team-dignitas.net/profile/Tidesoftime
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=TidesTV
+|history=
+{{TH|2012-??-??—2012-09-22|PotM Bottom}}
+{{TH|2012-09-22—2013-03-31|Dignitas}}
+}}
+
+Andrew '''"TidesofTime"''' Biessener is a retired professional Dota 2 player that played for [[Team Dignitas]].
+</textarea>]

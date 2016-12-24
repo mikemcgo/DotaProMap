@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Liquipedia links|sc2=2GD}}
+{{Tabs static
+|name1=Overview
+|link1=2GD
+|name2=Broadcasts
+|link2=2GD/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=2GD
+|image=2GD-dreamhack.jpg
+|name=James Harding
+|race=false
+|team=
+|ids=
+|role=host
+|role2=caster
+|country= United Kingdom
+|birth_date={{Birth date and age|1982|12|29}}
+|tlpdid=
+|facebook=follow2GD
+|site=
+|twitch=2gd
+|tlstream=
+|tlprofile=
+|fanclub=http://www.teamliquid.net/forum/viewmessage.php?topic_id=225284
+|twitter=follow2GD
+|datdota=1255
+|dotabuff=35960687
+|history=
+}}
+James '''"2GD"''' Harding is a former professional Quake 4 and World of Warcraft player turned commentator, community member and Twitch.TV employee.&lt;ref&gt;[https://www.youtube.com/watch?v=v3akNKsSuOU James '2GD' Harding to head up TwitchTV Europe]&lt;/ref&gt;
+
+2GD is the founder of ''The GD Studio'', an eSports content production venture located in Stockholm, Sweden. With the rest of the studio, he hosts [[The GD Show]], a self-described, 'no fluff' eSports talk show.
+</textarea>]

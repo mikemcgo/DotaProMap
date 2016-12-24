@@ -1,0 +1,65 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Liquipedia links|sc2=BabyKnight}}&lt;!--
+--&gt;
+{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=13abyKnight
+|name2=Results
+|link2=13abyKnight/Results
+|This=1
+}}
+{{Infobox player
+|id=13abyKnight
+|image=Babyknight_DHW_2016.jpg
+|name=Jon Andersen
+|team=
+|role=carry
+|status=Active
+|hero=Ember Spirit
+|hero2=Shadow Fiend
+|hero3=Sniper
+|mmr=8042
+|mmrdate=2016-11-28
+|sponsor=
+|ids=13abyKnight, The_13abyKnight, BBK, 
+|country=Denmark
+|birth_date= {{Birth date and age|1992|06|15|mf=yes}}&lt;br /&gt;Aarhus, Denmark
+|facebook=pages/Jon-BabyKnight-Andersen/230051583762327
+|stream=
+|tlstream=BabyKnight
+|tlprofile=BabyKnight
+|reddit=The_13abyKnight
+|twitch=babyknight
+|fanclub=http://www.teamliquid.net/forum/viewmessage.php?topic_id=342488
+|twitter=BabyKnight_DotA
+|youtube=
+|dotabuff=42989814
+|history=&lt;!--'''DotA''':&lt;br&gt;
+Xeo Divine, 
+4Kings, 
+Unique, 
+TheSHIT!, 
+LOST.eu, 
+MYM, 
+Online Kingdom, 
+Browned Potatoes--&gt;
+'''StarCraft II''':&lt;br&gt;
+{{TH|2011-04-11 - 2011-12-30|link=sc2:Natus Vincere|Natus Vincere}}
+{{TH|2012-01-10 - 2012-05-22|link=sc2:eSahara|eSahara}} 
+{{TH|2012-05-22 - 2012-07-15|link=sc2:Absolute Legends|Absolute Legends}}
+{{TH|2012-07-15 - 2013-04-09|link=sc2:FXOpen e-Sports|FXOpen e-Sports}}
+{{TH|2013-04-09 - 2013-08-31|link=sc2:Natus Vincere|Natus Vincere}} 
+{{TH|2013-09-01 - 2014-05-21|link=sc2:Millenium|Millenium}} 
+'''Dota 2''':
+{{TH|2014-07-29 - 2014-09-30|Meet Your Makers}} 
+{{TH|2014-11-26 - 2015-03-09|Lianghao}}
+{{TH|2015-03-09 - 2015-04-29|Flipsid3 Tactics}}
+{{TH|2015-09-03 - 2015-10-23|Princess Jellopy}}
+{{TH|2015-10-23 - 2016-04-22|London Conspiracy}}
+{{TH|2016-04-27 - 2016-06-04|HWA Gaming}}
+{{TH|2016-06-03 - 2016-06-24|Danish Bears}}
+{{TH|2016-06-24 - 2016-12-09|The Imperial}}
+}}
+
+Jon "'''13abyKnight'''" Andersen is a professional dota player from Denmark who last played for [[The Imperial]].
+</textarea>]

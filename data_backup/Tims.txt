@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=
+|name2=Results
+|link2=Tims/Results
+|This=1
+}}
+{{Infobox player
+|id=Tims
+|image=PlayerImagePlaceholder.png
+|name=Timothy Randrup
+|team=TNC Gaming
+|role=support
+|status=Active
+|hero=earth spirit
+|hero2=io
+|hero3=vengeful spirit
+|mmr=7716
+|mmrdate=2016-11-28
+|ids=
+|country=Philippines
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=155494381
+|twitch=
+|birth_date=
+|history=
+{{TH|2016-03-27 — 2016-08-29|Execration}}
+{{TH|2016-09-08 — 2016-12-15|Rave}}
+{{TH|2016-12-15 — '''Present'''|TNC Gaming}}
+}}
+
+Timothy '''"Tims"''' Randrup is a Filipino professional Dota 2 player currently with [[TNC Gaming]].
+</textarea>]

@@ -1,0 +1,28 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{lowercase}}
+{{Infobox player
+|id=r1sk
+|image=r1sk_profile.jpg
+|name=David Arnous
+|team=
+|role=support
+|status=Active
+|hero=Rubick
+|hero2=Ancient Apparition
+|hero3=Lich
+|ids=
+|country=Australia
+|birth_date=
+|datdota=242
+|twitter=r1skAU
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011-11-02 — 2012-01-21|Natural 9}}
+{{TH|2012-01-21 — 2012-02-26|Absolute Legends}}
+{{TH|2012-09-08 — 2013-02-11|Natural 9}}
+{{TH|2013-02-11 — 2013-??-??|Chains Stack}}
+{{TH|2014-04-08 — 2014-09-26|Team Immunity}}
+{{TH|2014-09-26 — 2015-01-06|Can't Say Wips}}
+}}
+
+David '''"r1sk"''' Arnous is a retired professional Dota 2 player, who most recently played for [[Can't Say Wips]]. He is the brother of [[Team Immunity]] player [[balls]].
+</textarea>]

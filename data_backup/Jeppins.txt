@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jeppins
+|name2=Results
+|link2=Jeppins/Results
+|This=1
+}}
+{{Infobox player
+|id=Jeppins
+|image=PlayerImagePlaceholder.png
+|name=Jared Perkin
+|team=Perky Pepperonis
+|status=Active
+|role=offlane
+|hero=Tusk
+|hero2=Axe
+|hero3=Venomancer
+|mmr=6289
+|mmrdate=2016-07-15
+|ids=
+|country=United States
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=
+|birth_date=
+|history=
+{{TH|2015-04-14 — 2016-03-24|Boreal eSports}}
+{{TH|2016-03-24 — '''Present'''|Perky Pepperonis}}
+}}
+
+Jared '''"Jeppins"''' Perkin is an American professional Dota 2 player who is currently playing for [[Perky Pepperonis]].
+</textarea>]

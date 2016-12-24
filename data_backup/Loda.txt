@@ -1,0 +1,50 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{tabs static
+|name1=Overview
+|link1=Loda
+|name2=Results
+|link2=Loda/Results
+|This=1
+}}
+{{Infobox player
+|id=Loda
+|image=Loda ems finals.jpg
+|name=Jonathan Berg
+|team=Alliance
+|birth_date={{birth date and age|1988|3|19}}
+|country=Sweden
+|hero=Juggernaut
+|hero2=Lifestealer
+|hero3=Gyrocopter
+|role=carry
+|status=Active
+|twitch=liveandletloda
+|tlstream=
+|tlprofile=
+|ids= Laoda, L-God, Lodaberg,&lt;br&gt;LiveAndLetLoda,&lt;br&gt;LordOfDolAmroth
+|sponsor=
+|site=http://www.tv6.se/loda
+|twitter=LodaBerg
+|facebook=liveandletloda
+|datdota=83
+|dotabuff=101495620
+|history=
+{{TH|&lt;small&gt;'''DotA: Allstars'''&lt;/small&gt;|no-link=true}}
+{{TH|2006|Meet Your Makers}}
+{{TH|2007|no-link=true|Team_Team}}
+{{TH|2007 - 2009|SK Gaming}}
+{{TH|2009|Meet Your Makers}}
+{{TH|2009 - 2010|Fnatic}}
+{{TH|&lt;small&gt;'''Dota 2'''&lt;/small&gt;|no-link=true}}
+{{TH|2011-12-11 - 2012-02-06|eXperience Gaming}}
+{{TH|2012-02-02 - 2012-05-18|Counter Logic Gaming}}
+{{TH|2012-05-18 - 2012-09-19|Team Zenith}}
+{{TH|2012-10-29 - 2013-04-12|No Tidehunter}}
+{{TH|2013-04-12 - '''Present'''|Alliance}}
+|videoarchive=
+|youtube=
+}}
+
+Jonathan "'''Loda'''" Berg is a professional Dota 2 player currently playing for team [[Alliance]]. Having played professionally since 2006 together with team-mate and support player [[Akke]] and creating and captaining several successful teams, he is one of the biggest veterans in the scene. Considered one of the best players in the world during the 2007-2008 era, he was one of the few players raised up to legendary status by the Chinese, giving him the nickname ''"L-God"'' and is still very famous in the Chinese Dota community&lt;ref&gt;{{cite web|url = http://www.gosugamers.net/dota2/features/3252-g-1-league-day-two-blog-by-reinnnn |title = G-1 League day two blog by ReiNNNN |date = 2013-05-24 |accessdate = 2013-05-25 |author = Eric "''ReiNNNN''" Khor |publisher = GosuGamers.net}}&lt;/ref&gt;. Rivaling Danish veteran captain [[Maelk]], who lead team [[MYM]] in many finals versus Loda's successful DotA: Allstars team [[SK Gaming]] had this to say about him during his peak with SK in 2008:&lt;ref name="Behind the mask of Loda"&gt;{{cite web|url = http://web.archive.org/web/20090205051759/http://www.mymym.com/en/article/808/5.html  |title = Behind the mask of Loda |date = 2008-08-19 |accessdate = 2013-08-17 |author = Gessarin ''"Alisha"'' Sawadiwong |publisher = mymym.com }}&lt;/ref&gt;
+
+&lt;div style="width:70%"&gt;{{Quote|Loda has a great energy in game and has a magic ability to lead his allies into certain death but still come out on top. He has a flair for entertaining people and is a great guy online as well as offline. A quote I think describes him well, and that I think he would agree with, would be "This is Loda's world, we are just lucky to live in it!".| &lt;small&gt;MYM&amp;#124;Maelk&lt;/small&gt;|&lt;small&gt;Behind the mask of Loda &lt;ref name="Behind the mask of Loda"/&gt;&lt;/small&gt;}}&lt;/div&gt;
+</textarea>]

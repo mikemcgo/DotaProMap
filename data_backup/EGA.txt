@@ -1,0 +1,24 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=EGA
+|name2=Results
+|link2=EGA/Results
+|This=1
+}}
+{{Infobox player
+|id=EGA
+|name= Dardan
+|country=United States
+|country2=Albania
+|ids=EGAMITNA
+|hero= Invoker
+|hero2= Lina
+|hero3= Lycan
+|role= Solo Mid, Carry
+|twitch=egamitna
+|twitter=egamitna
+|dotabuff=44039249
+|datdota=4589
+|history={{TH|2015-08-29 — 2015-09-14|GOD BLESS}}
+}}&lt;br&gt;
+</textarea>]

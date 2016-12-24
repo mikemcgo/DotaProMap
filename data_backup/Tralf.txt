@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Tralf
+|name2=Results
+|link2=Tralf/Results
+|name3=Broadcasts
+|link3=Tralf/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Tralf
+|image=
+|name=Mark Seidl 
+|team=END
+|birth_date=
+|country=Usa
+|hero=
+|hero2=
+|hero3=
+|role=support
+|status=Active
+|twitch=
+|facebook=
+|datdota=
+|dotabuff=86828698
+|sponsor=
+|site=
+|twitter=
+|youtube=
+|history=
+{{TH|2013-??-?? — 2015-??-?? |Stay Free}}
+{{TH|2015-02-11 — 2015-??-?? |Team eHug}}
+{{TH|2015-05-20 — 2015-06-?? |Champions of Summer's Rift}}
+{{TH|2016-11-?? — '''Present'''|END|link=END (Team)}}
+}}
+
+Mark "'''Tralf'''" Seidl is a American Dota 2 player who is currently playing for [[END (Team)|END]].
+</textarea>]

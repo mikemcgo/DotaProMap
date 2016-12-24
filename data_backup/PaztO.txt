@@ -1,0 +1,24 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:paztO}}
+{{Tabs static
+|name1=Overview
+|link1=PaztO
+|name2=Results
+|link2=PaztO/Results
+|This=1
+}}
+{{Infobox player
+|id=paztO
+|name=Guillaume Teiller
+|image=PlayerImagePlaceholder.png
+|team=Sigma.fr
+|role=mid
+|hero=Shadow Fiend
+|hero2=Invoker
+|hero3=Gyrocopter
+|country=France
+|birth_date={{Birth date and age|1995|02|26}} 
+}}
+
+Guillaume "'''paztO'''" Teiller is a semi-professional Dota 2 player from France, who currently plays for [[Sigma.fr]].
+</textarea>]

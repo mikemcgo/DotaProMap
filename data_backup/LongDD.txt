@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=LongDD
+|name2=Results
+|link2=LongDD/Results
+|This=1
+}}
+{{Infobox player
+|id=LongDD
+|image=LongDD.jpg
+|name=黄翔
+|romanized_name=Huang Xiang
+|team=Old Boys
+|role=support
+|status=Retired
+|hero=night stalker
+|hero2=earthshaker
+|hero3=chen
+|ids=
+|mmr=6749
+|mmrdate=2016-09-23
+|country=China
+|birth_date= {{Birth date and age|1988|01|30}}
+|tlstream=LongDD
+|tencent=hx5205202010
+|weibo=2038052170
+|datdota=22
+|dotabuff=90892194
+|stream=http://v.17173.com/live/1/2173083618
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2011-08-23 — 2012-10-11|Team DK}}
+{{TH|2012-10-11 — 2013-03-14|TongFu}}
+{{TH|2013-04-11 — 2013-05-04|LGD Gaming}}
+{{TH|2013-11-17 — 2013-11-25|TongFu.Nexon}} 
+{{TH|2014-08-23 — 2015-05-26|Old Boys}}
+}}
+Huang '''"LongDD"''' Xiang is a Chinese retired professional Dota 2 player.
+</textarea>]

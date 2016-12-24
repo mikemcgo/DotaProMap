@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub|no-cat=false}}
+{{Tabs static
+|name1=Overview
+|link1=JoHnNy
+|name2=Results
+|link2=JoHnNy/Results
+|This=1
+}}
+{{Infobox player
+|id=JoHnNy
+|image=JoHnNy Red Bull BG 2015.jpg
+|name=李哲尼
+|romanized_name=Lee Siong Tait
+|team=90s Gaming
+|ids=
+|country=Malaysia
+|role=support
+|status=Active
+|hero=Chen
+|hero2=Ancient Apparition
+|hero3=Enchantress
+|mmr=6348
+|mmrdate=2016-09-23
+|tencent=johnny950727
+|datdota=868
+|dotabuff=102020930
+|history=
+{{TH|2013-02-11 — 2013-??-??|Chains Stack}}
+{{TH|2013-09-11 — 2014-03-06|RattleSnake}}
+{{TH|2014-03-06 — 2014-08-08|Arrow Gaming}}
+{{TH|2014-08-08 — 2014-10-22|Johnny's Revenge}}
+{{TH|2014-10-23 — 2015-01-04|Mineski}}
+{{TH|2015-03-01 — 2015-03-26|EHOME.my}}
+{{TH|2015-03-26 — 2015-06-04|Team Malaysia}} 
+{{TH|2015-04-06 — 2015-08-17|Fnatic}} 
+{{TH|2015-08-31 — 2016-??-??|Who2Bet}}
+{{TH|2016-01-30 — 2016-04-03|Wu Jie}}
+{{TH|2016-04-03 — 2016-08-19|Mineski-X}}
+{{TH|2016-10-?? — '''Present'''|90s Gaming}}
+}}
+
+Siong Tait '''"JoHnNy"''' Lee is a professional Dota 2 player who currently plays for [[90s Gaming]].
+</textarea>]

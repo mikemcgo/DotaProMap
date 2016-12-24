@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Moonlight
+|name2=Results
+|link2=Moonlight/Results
+|This=1
+}}
+{{Infobox player
+|id=Moonlight
+|image=
+|name=Владзiслау Мятееу
+|romanized_name=Vladislav Mihteev
+|race=
+|team=
+|sponsor=
+|ids=Kain, Moon
+|role=carry
+|status=Inactive
+|hero=Luna
+|hero2=Lifestealer
+|hero3=Weaver
+|mmr=7044
+|mmrdate=2016-08-25
+|country=Belarus
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|stream=
+|twitter=mnlghtx
+|dotabuff=98018029
+|youtube=
+|fanpage=
+|history={{TH|2013-08-01 — 2014-10-03|Power Rangers}}
+{{TH|2014-??-?? — 2015-??-??| Natasha ishet Parnya}}
+}}
+</textarea>]

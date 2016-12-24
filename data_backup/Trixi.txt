@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Trixi
+|name2=Results
+|link2=Trixi/Results
+|This=1
+}}
+{{Infobox player
+|id=Trixi
+|image=Trixi_DHW_2016.jpg
+|name=Kalle Saarinen
+|team=
+|birth_date={{Birth date and age|1989|12|28}}
+|country=Finland
+|hero=Dark Seer
+|hero2=Furion
+|hero3=Bounty Hunter
+|mmr=7322
+|mmrdate=2016-11-28
+|role=offlane
+|status=Active
+|twitch=trixi
+|tlstream=
+|tlprofile=
+|site=
+|twitter=TrixiDota
+|youtube=
+|fanpage=
+|datdota=156
+|facebook=fnaticTrixi
+|azubu=Trixi
+|dotabuff=8712306
+|history=
+{{TH|2011-12-05 — 2012-05-02|mousesports}}
+{{TH|2012-09-03 — 2014-09-??|Fnatic.EU}}
+{{TH|2014-09-?? — 2015-09-28|4 Anchors + Sea Captain}}
+{{TH|2015-09-28 — 2016-03-02|STARK eSports}}
+{{TH|2016-03-26 — 2016-04-30|Team Defiance}}
+}}
+
+Kalle '''"Trixi"''' Saarinen is a professional Dota 2 and former HoN Player from Finland who is currently teamless.
+</textarea>]

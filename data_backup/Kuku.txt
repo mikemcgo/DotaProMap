@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Kuku
+|name2=Results
+|link2=Kuku/Results
+|This=1
+}}
+{{Infobox player
+|id=Kuku
+|image=Kuku_frankfurt_major_2015.jpg
+|name=Carlo Palad
+|birth_date={{Birth date and age|1996|09|21}}
+|role=mid
+|status=Active
+|hero=Huskar
+|hero2=Phantom lancer
+|hero3=Windranger
+|mmr=7382
+|mmrdate=2016-10-08
+|country=Philippines
+|team=TNC Gaming
+|dotabuff=184950344
+|twitter=kukudota
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2015-03-05 — 2016-03-27|Mineski}}
+{{TH|2016-04-11 — 2016-08-19|TnC Gaming}}
+{{TH|2016-08-30 — '''Present'''|TnC Gaming}}
+}}
+
+Carlo "Kuku" Palad is a Filipino player who is currently playing for [[TnC Gaming]].
+</textarea>]

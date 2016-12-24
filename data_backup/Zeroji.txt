@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Zeroji
+|name2=Results
+|link2=Zeroji/Results
+|This=1
+}}
+{{Infobox player
+|id=Zeroji
+|image=PlayerImagePlaceholder.png
+|romanized_name=Filip Erlandsson
+|team=
+|ids=zeroji, GoL.zeroji
+|role=support
+|status=Active
+|hero=Earthshaker
+|hero2=Rubick
+|hero3=Witch Doctor
+|country=Sweden
+|datdota=
+|dotabuff=140746
+|facebook=
+|twitter=
+|history=
+{{TH|2014-07-01 — 2014-11-23|Aftershock Gaming}}
+{{TH|2014-11-23 — 2015-01-10|Basically Unknown}}
+{{TH|2015-04-?? — 2015-05-??|GameOnline}}
+{{TH|2015-06-22 — 2015-12-07|Ancient Warriors}}
+{{TH|2015-12-07 — 2016-02-01|No Logic Gaming}}
+}}
+
+Filip '''"Zeroji"''' Erlandsson is a professional Dota 2 player from Sweden who last played for [[No Logic Gaming]].
+</textarea>]

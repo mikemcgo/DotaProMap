@@ -1,0 +1,19 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:itake}}
+{{Infobox player
+|id=itake
+|image=PlayerImagePlaceholder.png
+|name=Antti Mäkinen
+|team=Rat in the dark
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Finland
+|birth_date=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-03-04 — 2013-05-??|Rat in the dark}}
+}}
+
+Antti '''"itake"''' Mäkinen is a Finnish Dota 2 player who most recently played for [[Rat in the dark]].
+</textarea>]

@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Loomdun
+|name2=Results
+|link2=Loomdun/Results
+|This=1
+}}
+{{Infobox player
+|id=Loomdun
+|image=PlayerImagePlaceholder.png
+|name=Chase Stearns
+|team=
+|role=support
+|role2=coach
+|status=Inactive
+|hero=Witch Doctor
+|hero2=Lion
+|hero3=Spirit Breaker
+|mmr=
+|mmrdate=
+|ids=Loom
+|country=United States
+|datdota=
+|twitter=
+|twitch=
+|facebook=
+|dotabuff=50230560
+|birth_date=
+|history=
+{{TH|2015-09-04 — 2015-11-27|Cloud9|coach}}
+{{TH|2015-12-06 — 2016-??-??|Shazam|sub}}
+{{TH|2016-03-21 — 2016-06-??|Enemy|sub}}
+{{TH|2016-??-?? — 2016-08-25|Digital Chaos|coach}}
+}}
+
+Chase '''"Loomdun"''' Stearns is a professional Dota 2 player who was most recently the coach of [[Digital Chaos]].
+</textarea>]

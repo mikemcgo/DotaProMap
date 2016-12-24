@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Chappie
+|name2=Results
+|link2=Chappie/Results
+|This=1
+}}
+{{Infobox player
+|id=Chappie
+|image=PlayerImagePlaceholder.png
+|name=Владимир Кузьменко
+|romanized_name=Vladimir Kuzmenko
+|team=
+|role=carry
+|status=Active
+|hero=juggernaut
+|hero2=anti-mage
+|hero3=lone druid
+|mmr=8037
+|mmrdate=2016-11-28
+|country=Russia
+|birth_date=
+|twitter=
+|twitch=
+|vk=
+|dotabuff=132739889
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|	2016-07-08 — 2016-10-22|Comanche}}
+}}
+
+Vladimir '''"Chappie"''' Kuzmenko is a professional Russian Dota 2 player who last played for [[Comanche]].
+</textarea>]

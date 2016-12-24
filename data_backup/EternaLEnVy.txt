@@ -1,0 +1,49 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=EternaLEnVy
+|name2=Results
+|link2=EternaLEnVy/Results
+|This=1
+}}
+{{Infobox player
+|id=EternaLEnVy
+|image=Eternalenvy frankfurt major 2015.jpg
+|name=Jacky Mao
+|team=Team NP
+|birth_date={{Birth date and age|1991|7|2}}
+|country=Canada
+|hero=Luna
+|hero2=Mirana
+|hero3=Terrorblade
+|mmr=8014
+|mmrdate=2016-06-02
+|role=carry
+|role2=mid
+|status=Active
+|sponsor=
+|site=
+|ids=EE Lost in the Abyss, EE Fire, EE Spirit Bomb, Youko Tsukimori, Irvin, Kotori, EE Emiya Kiritsugu, EE Hinata Shouyou, Sōma Yukihira, Aisaka Taiga, Firin, EternaLEnVy 516, Jacky, Hikigaya Hachiman, Let It All Out, Adlet Meyer, Adlet Maia
+|tlstream=EternaLEnVyy
+|tlprofile=EternaLEnVy
+|twitch=eternalenvyy
+|twitter=eternalenvy1991
+|facebook=EternaLEnVyy
+|datdota=198
+|dotabuff=43276219
+|askfm=EternaLEnVy1991
+|playlist=https://docs.google.com/spreadsheet/ccc?key=0AhxPJbFfSa78dDIyVk8teHhCWS1OQnZNTXVDX1hvMVE&amp;pli=1#gid=0
+|fanclub=http://www.liquiddota.com/forum/players-and-teams/454612-eternalenvy-discussion
+|history=
+{{TH|2012-09-21 — 2013-02-21|No Tidehunter}}
+{{TH|2013-03-18 — 2013-09-19|Kaipi}}
+{{TH|2013-09-19 — 2013-10-09|RSnake.int}}
+{{TH|2013-10-09 — 2014-02-09|Speed Gaming.int}}
+{{TH|2014-02-09 — 2015-08-14|Cloud9}}
+{{TH|2015-08-22 — 2016-08-19|Team Secret}}
+{{TH|2016-09-07 — '''Present'''|Team NP}}
+|videoarchive=
+|youtube=
+}}
+
+Jacky '''"EternaLEnVy"''' Mao is a Canadian professional Dota 2 player who currently plays for [[Team NP]].
+</textarea>]

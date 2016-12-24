@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=OmegaPwner
+|name2=Results
+|link2=OmegaPwner/Results
+|This=1
+}}
+{{Infobox player
+|id=OmegaPwner
+|image=PlayerImagePlaceholder.png
+|name=Zhongliang Deng
+|team=
+|role=offlane
+|status=Active
+|hero=Furion
+|hero2=Skywrath Mage
+|hero3=Clockwerk
+|mmr=6494
+|mmrdate=2016-04-09
+|ids=
+|country=Canada
+|country2=China
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=115621730
+|birth_date=
+|history=
+{{TH|2014-11-18 — 2016-08-28|Void Boys}}
+}}
+
+Zhongliang '''"OmegaPwner"''' Deng is a Canadian professional Dota 2 player who is currently teamless.
+</textarea>]

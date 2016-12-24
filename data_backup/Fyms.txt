@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Fyms
+|name2=Results
+|link2=Fyms/Results
+|This=1
+}}
+{{Infobox player
+|id=Fyms
+|image=Fyms-EHOME.Keen.jpg
+|name=吴军英
+|romanized_name=Wu Junying
+|team=EHOME.Keen
+|role=coach
+|role2=support
+|status=Active
+|hero=Rubick
+|hero2=Skywrath Mage
+|hero3=Crystal Maiden
+|mmr=
+|mmrdate=
+|ids=风月墨色
+|country=China
+|birth_date=
+|datdota=
+|dotabuff=163555221
+|tencent=
+|history=
+{{TH|2014-09-09 — 2015-03-19|Immortal Magneto Gaming}}
+{{TH|2015-03-22 — 2015-04-20|EHOME}}
+{{TH|2015-04-25 — 2015-07-22|EHOME.K}}
+{{TH|2015-12-?? — 2016-05-30|EHOME.Keen}}
+{{TH|2015-09-17 — '''Present'''|EHOME.Keen|coach}}
+}}
+
+Wu '''"Fyms"''' Junying was a professional Dota 2 player who is currently the coach and leader of [[EHOME.Keen]].
+</textarea>]

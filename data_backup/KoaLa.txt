@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=KoaLa
+|name2=Results
+|link2=KoaLa/Results
+|This=1
+}}
+{{Infobox player
+|id=Koala
+|image=KoaLaPP.jpg
+|name=Farand Kowara
+|team=Rex Regum
+|country=Indonesia
+|hero=Faceless Void
+|hero2=Drow Ranger
+|hero3=Slardar
+|role=carry
+|role2=captain
+|status=Active
+|twitter=koaladoto
+|facebook=farand.kowara
+|dotabuff=90547237
+|history='''DotA:'''&lt;br&gt;
+{{TH|20??-??-?? - 20??-??-??|XcN}}
+{{TH|2008-08-14 - 20??-??-??|Fnatic}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2013-11-07 - 2014-05-23|Rex Regum}}
+{{TH|2014-11-30 - '''Present'''|Rex Regum}}
+}}
+
+Farand '''"Koala"''' Kowara is a Dota 2 player from Indonesia who is currently playing for [[Rex Regum]].
+</textarea>]

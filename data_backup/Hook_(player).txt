@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Hook (player)
+|name2=Results
+|link2=Hook (player)/Results
+|This=1
+}}
+{{Infobox player
+|id=Hook-
+|image=PlayerImagePlaceholder.png
+|name=محمد الشيخ
+|romanized_name=Mohammad Al-Sheikh
+|team=
+|ids=hook-master
+|country=Jordan
+|birth_date=
+|role=mid
+|status=Active
+|hero=Queen of pain
+|hero2=invoker
+|hero3=storm spirit
+|mmr=7651
+|mmrdate=2016-10-01
+|datdota=
+|dotabuff=91982026
+|facebook=
+|twitter=
+|history=
+{{TH|2015-04-18 — 2015-05-11|Balkan Bears}}
+{{TH|2015-09-26 — 2015-10-04|No Logic Gaming}}
+{{TH|2016-01-02 — 2016-03-??|Mamas Boys}}
+}}
+
+'''Hook''' is a professional Dota 2 player from Jordan who last played for [[Mamas Boys]].
+</textarea>]

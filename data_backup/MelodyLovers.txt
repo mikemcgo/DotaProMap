@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=MelodyLovers
+|name2=Results
+|link2=MelodyLovers/Results
+|This=1
+}}
+{{Infobox player
+|id=MelodyLovers
+|image=PlayerImagePlaceholder.png
+|name=张航旗
+|romanized_name=Zhang Hangqi
+|team=To.be.or.not.to.be
+|role=support
+|status=Active
+|hero=Vengeful Spirit
+|hero2=Witch Doctor
+|hero3=Winter Wyvern
+|ids=Melody
+|country=China
+|datdota=4511
+|dotabuff=103755869
+|mmr=6669
+|mmrdate=2016-09-25
+|twitter=
+|birth_date={{Birth date and age|1989|12|28}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-09-22 — 2015-04-25|Speed Gaming}}
+{{TH|2014-05-07 — 2015-06-25|TongFu}}
+{{TH|2015-06-25 — 2015-09-04|Newbee Young}}
+{{TH|2015-09-04 — 2015-09-30|Brave Heart}}
+{{TH|2016-04-01 — '''Present'''|To.be.or.not.to.be}}
+}}
+
+Zhang '''"MelodyLovers"''' Hangqi is a professional Chinese Dota 2 player currently playing for [[To.be.or.not.to.be]].
+</textarea>]

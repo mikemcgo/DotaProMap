@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Q
+|name2=Results
+|link2=Q/Results
+|This=1
+}}
+{{Infobox player
+|id=Q
+|image=PlayerImagePlaceholder.png
+|name=傅彬
+|romanized_name=Fu Bin
+|team=Invictus Gaming
+|role=support
+|role2=captain
+|status=Active
+|hero=Visage
+|hero2=Ancient Apparition
+|hero3=Skywrath Mage
+|mmr=7209
+|mmrdate=2016-11-29
+|ids=队长给我球, HHH
+|country=China
+|datdota=3746
+|twitter=
+|dotabuff=140153524
+|birth_date={{Birth date and age|1996|6|24}}
+|history='''Dota:'''&lt;br&gt;
+{{TH|2013-01-28 — 2013-??-??|Vici Gaming}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2014-04-25 — 2014-10-14|LGD.CDEC}}
+{{TH|2014-10-14 — 2016-08-30|CDEC Gaming}}
+{{TH|2016-09-17 — '''Present'''|Invictus Gaming}}
+}}
+
+Fu "'''Q"''' Bin is a professional Chinese Dota 2 player currently playing for [[Invictus Gaming]].
+</textarea>]

@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Mushi
+|name2=Results
+|link2=Mushi/Results
+|This=1
+}}
+{{Infobox player
+|id=Mushi
+|image=Mushi-2013.jpg
+|name=蔡宜风
+|romanized_name=Chai Yee Fung
+|team=Fnatic
+|role=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Queen of Pain
+|hero3=Outworld Devourer
+|mmr=7610
+|mmrdate=2016-11-11
+|ids=MuShi, MuShi-, FENG
+|datdota=67
+|tencent=ancientchai
+|country=Malaysia
+|twitter=Mushi_Chai
+|facebook=mushichai
+|dotabuff=89871557
+|birth_date={{Birth date and age|1990|11|27}}
+|tlstream=Mushi
+|stream=http://www.douyutv.com/68754
+|history='''Dota 2:'''
+{{TH|2011-09-05 — 2013-08-27|Orange Esports}}
+{{TH|2013-09-04 — 2014-08-26|Team DK}}
+{{TH|2014-10-01 — 2014-11-12|Team Malaysia}}
+{{TH|2015-01-07 — 2015-03-01|EHOME}}
+{{TH|2015-03-01 — 2015-03-26|EHOME.my}}
+{{TH|2015-03-26 — 2015-06-04|Team Malaysia}}
+{{TH|2015-06-04 — '''Present'''|Fnatic}} 
+}}
+Chai '''"Mushi"''' Yee Fung is a professional player who is currently playing for [[Fnatic]]. He most famously played for [[Team DK]]&lt;ref&gt;[http://www.joindota.com/en/news/11923-mushi-and-lanm-to-dk,-dai-stays-on Mushi and LaNm to DK]&lt;/ref&gt; and for [[Orange]] as solo mid or carry, depending on which heroes the team picked.&lt;ref&gt;{{cite interview |last=Yee Fung |first=Chai |interviewer=Linus "''Tjernobylbarnet''" Staaf of GosuGamers.net |title=TI3 - Interview with Mushi after beating DK @ Day 4 |url=https://www.youtube.com/watch?v=WVf1CYW7L_w |city=Seattle |date=2013-08-10 |accessdate=2013-08-16}}&lt;/ref&gt;
+</textarea>]

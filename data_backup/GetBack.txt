@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=GetBack
+|name2=Results
+|link2=GetBack/Results
+|This=1
+}}
+{{Infobox player
+|id=GetBack
+|image=PlayerImagePlaceholder.png
+|name=Евгений Иванов
+|romanized_name=Evgeniy Ivanov
+|team=TBA
+|role=Full-Support
+|hero=Lion
+|hero2=Earthshaker
+|hero3=Lich
+|country=Latvia
+|birth_date=
+|twitter=
+|twitch=
+|vk=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-10-23 — 2015-03-11|Team MOPS}}
+{{TH|2015-10-25 — 2015-11-10|Valor Gaming}}
+}}
+
+Evgeniy '''"GetBack"''' (pronounced Get-Back) is a Latvian Dota 2 player who is currently teamless.
+</textarea>]

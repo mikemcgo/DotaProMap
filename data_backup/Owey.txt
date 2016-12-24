@@ -1,0 +1,19 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Owey
+|image=PlayerImagePlaceholder.png
+|name=Joshua dela Cruz
+|team=
+|role=3
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Philippines
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-01-28 — 2013-05-31|Ledion DreamZ}}
+}}
+
+Joshua '''"Owey"''' dela Cruz is a professional Dota 2 player who is currently teamless.
+</textarea>]

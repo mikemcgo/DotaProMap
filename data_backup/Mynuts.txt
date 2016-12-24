@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Mynuts
+|name2=Results
+|link2=Mynuts/Results
+|This=1
+}}
+{{Infobox player
+|id=Mynuts
+|ids=Nuts
+|image=Mynuts frankfurt major 2015.jpg
+|name=Johan Andersson
+|birth_date=
+|team=
+|country=Sweden
+|role=support
+|status=Active
+|hero=Tusk
+|hero2=Io
+|hero3=Ogre Magi
+|twitter=MynutsDOTA
+|datdota=4710
+|dotabuff=61284613
+|history=
+{{TH|2014-06-?? — 2014-09-10|stayGreen}}
+{{TH|2014-09-14 — 2014-10-29|LAJONS}}
+{{TH|2015-01-07 — 2015-01-26|Alliance}}
+{{TH|2015-02-21 — 2015-06-27|Burden United}}
+{{TH|2015-08-27 — 2015-12-03|Alliance}}
+{{TH|2015-12-07 — 2015-12-31|NO-VASELINE}}
+{{TH|2016-01-25 — 2016-01-??|Walrus Punch!|Walrus_Punch!_(team)}}
+}}
+
+Johan "'''Mynuts'''" Andersson is a former professional Swedish Heroes of Newerth player who recently switched full time to Dota 2. He last played for [[Walrus_Punch!_(team)|Walrus Punch!]].
+</textarea>]

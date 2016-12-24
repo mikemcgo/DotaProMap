@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Yim
+|name2=Results
+|link2=Yim/Results
+|This=1
+}}
+{{Infobox player
+|id=Yim
+|image=PlayerImagePlaceholder.png
+|ids=balloon, Cy, 楚源
+|name=龙湛
+|romanized_name=Long Zhan
+|team=BraveHeart.Zombie
+|status=Active
+|mmr=
+|mmrdate=
+|role=carry
+|hero=Weaver
+|hero2=Lifestealer
+|hero3=Gyrocopter
+|country=China
+|datdota=
+|dotabuff=102024536
+|twitter=
+|birth_date={{Birth date and age|1993|5|22}}
+|history=
+{{TH|2013-09-01 — 2013-12-31|Forlove}}
+{{TH|2014-02-11 — 2014-??-??|CNB.cn}} 
+{{TH|2014-04-01 — 2014-05-31|Orenda}}
+{{TH|2014-10-27 — 2014-11-30|Lilith7}}
+{{TH|2015-04-?? — 2015-05-??|Newbee Miracle}}
+{{TH|2015-09-01 — 2015-11-30|Brave Heart}}
+{{TH|2016-04-01 — '''Present'''|BraveHeart.Zombie}}
+}}
+
+Long '''"Yim"'''' Zhan is a professional Chinese Dota 2 player who currently plays for [[BraveHeart.Zombie]].
+</textarea>]

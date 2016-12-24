@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=PlayHard
+|name2=Results
+|link2=PlayHard/Results
+|This=1
+}}
+{{Infobox player
+|id=PlayHard
+|image=PlayerImagePlaceholder.png
+|name=Prieme Ejay Banquil
+|team=
+|role=mid
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Philippines
+|birth_date=
+|datdota=
+|dotabuff=
+|twitter=
+|facebook=
+|history=
+{{TH|2014-08-03 — 2014-11-01|Mineski}}
+{{TH|2015-03-18 — 2015-08-21|Arcanys Gaming}}
+{{TH|2016-03-09 — 2016-08-15|Arcanys Gaming}}
+}}
+
+Prieme Ejay "'''PlayHard'''" Banquil is a professional Dota 2 player currently playing for [[Arcanys Gaming]].
+</textarea>]

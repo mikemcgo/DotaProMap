@@ -1,0 +1,22 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Jed
+|image=PlayerImagePlaceholder.png
+|name=Jed Bautista
+|team=Pacific eSports
+|role=carry
+|status=Active
+|hero=Meepo
+|hero2=Tinker
+|hero3=Viper
+|country=Philippines
+|birth_date={{birth date and age|1988|10|1}}
+|twitter=
+|datdota=5370
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2015-01-01 — 2015-02-17|Execration}}
+{{TH|2015-03-01 - '''Present'''|Pacific eSports}}
+}}
+
+Jed '''"Jed"''' Bautista is a professional Dota player and a top MMR player that is currently playing for [[Pacific eSports]].
+</textarea>]

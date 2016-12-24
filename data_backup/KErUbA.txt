@@ -1,0 +1,23 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Infobox player
+|id=kErUbA 
+|image= 
+|name= Alan Manríquez
+|race=
+|team= Sad Voids
+|sponsor=
+|ids=kErUbA
+|country= Chile
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|stream=
+|role=mid
+|twitter=
+|youtube=
+|fanpage=
+|history={{TH|2014-??-?? — 2014-12-13|Immortal Fire Gaming}}{{TH|2014-12-14 — '''Present'''|Sad Voids}}
+}}
+
+kErUbA is a Chilean Dota 2 player currently playing position 2 and drafting for the team [[Sad Voids]]
+</textarea>]

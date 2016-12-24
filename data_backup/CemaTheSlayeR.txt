@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=CemaTheSlayeR
+|name2=Results
+|link2=CemaTheSlayeR/Results
+|This=1
+}}
+{{Infobox player
+|id=CemaTheSlayer
+|image=CemaTheSlayeR Vega 1.jpg
+|name= Семен Кривуля
+|romanized_name=Semion Krivulya
+|team=Vega Squadron
+|ids=Cema
+|country=Ukraine
+|role=support
+|status=Active
+|hero=Dazzle
+|hero2=Skywrath Mage
+|hero3=Witch Doctor
+|mmr=8224
+|mmrdate=2016-12-08
+|datdota=995
+|birth_date= 
+|site=
+|twitch=
+|vk=
+|youtube=
+|dotabuff=91460772
+|history={{TH|2013-03-?? — 2013-??-??|Aurochs}}
+{{TH|2013-??-?? — 2013-10-??|DTS2010}}
+{{TH|2014-02-?? — 2014-03-??|Courage}}
+{{TH|2014-03-?? — 2014-04-??|Ahead Gaming}}
+{{TH|2014-04-?? — 2014-06-??|Aware}}
+{{TH|2014-11-?? — 2014-11-24|BUHLO-UroPb}}
+{{TH|2014-11-24 — '''Present'''|Vega Squadron}}
+}}
+
+Semion '''"CemaTheSlayer"''' (pronounced syoma-the-slayer) Krivulya is a Ukrainian Dota 2 player, currently playing support for [[Vega Squadron]].
+</textarea>]

@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=86
+|name2=Results
+|link2=86/Results
+|This=1
+}}
+{{Infobox player
+|id=86
+|image=PlayerImagePlaceholder.png
+|name=陈雨轩
+|romanized_name=Chen Yuxuan
+|team=FTD Club C
+|role=mid
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=
+|mmrdate=
+|ids=
+|country=China
+|birth_date=
+|dotabuff=182439266
+|datdota=
+|history=
+{{TH|2015-12-01 - 2016-05-28|Brave Heart}}
+{{TH|2015-06-?? - 2015-09-17|EHOME.Keen}}
+{{TH|2016-09-17 - '''Present'''|FTD club C}}
+}}
+
+Chen '''"86"''' Yuxuan is a professional Dota 2 player who is currently playing for [[FTD Club C]].
+</textarea>]

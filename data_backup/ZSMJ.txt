@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=ZSMJ
+|name2=Results
+|link2=ZSMJ/Results
+|This=1
+}}
+{{Infobox player
+|id=ZSMJ
+|image=PlayerImagePlaceholder.png
+|name=龚建
+|romanized_name=Gong Jian
+|role=carry
+|status=Active
+|hero=Medusa
+|hero2=Alchemist
+|hero3=Phantom Lancer
+|mmr=7695
+|mmrdate=2016-11-30
+|Other_ids=
+|country=China
+|birth_date={{Birth date and age|1990|01|11}} 
+|datdota=971
+|tencent=zsmj_111
+|weibo=zsmj111
+|tlstream=ZSMJ
+|stream=http://www.douyutv.com/52876
+|dotabuff=113705693
+|history=
+{{TH|2013-03-01 — 2013-09-02|Vici Gaming}}
+{{TH|2013-09-09 — 2014-02-19|TongFu}}
+{{TH|2014-02-23 — 2014-03-09|Newbee}}
+{{TH|2014-03-09 — 2015-09-04|HyperGloryTeam}}
+{{TH|2015-09-04 — 2016-03-26|Team FanTuan}}
+{{TH|2016-03-26 — 2016-04-20|White Fries Gaming}}
+}}
+
+Gong "'''ZSMJ'''" Jian is a DotA player from China, who last played for [[White Fries Gaming]].
+</textarea>]

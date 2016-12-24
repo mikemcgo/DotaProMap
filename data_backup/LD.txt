@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=LD
+|name2=Broadcasts
+|link2=LD/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=LD
+|name=David Gorman
+|image=LD frankfurt major 2015.jpg
+|team=BeyondTheSummit
+|country=USA
+|birth_date={{Birth date and age|1986|06|03}}
+|reddit=ldDOTA
+|role=caster
+|ids=LD, David
+|site=http://www.beyondthesummit.tv/
+|twitter=LDdota
+|twitch=beyondthesummit
+|tlprofile=LDdota
+|askfm=lddota
+|history=
+|youtube=beyondthesummittv
+|fanpage=
+}}
+
+'''''LD''' may also refer to [[Lone Druid]] (Hero)''
+
+David '''"LD"''' Gorman is Dota 2 commentator from BeyondTheSummit (BTS).
+</textarea>]

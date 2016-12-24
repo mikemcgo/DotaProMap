@@ -1,0 +1,22 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Infobox player
+|name=Kyrie Eleison Ygdrasil Depra Singson
+|image=
+|birth_date={{Birth date and age|1998|09|21}}
+|nickname=Lilo
+|id=KyrieDepra
+|ids=KiLo , Lilo , KyrieKyie
+|country=Philippines
+|country2=United States
+|role=support
+|hero=Puck
+|hero2=Storm Spirit
+|hero3=Crystal Maiden
+|twitter=KyrieDepra
+|facebook=KyrieDepra
+|youtube=kyriedepra
+|twitch=kyriedepra
+|team=
+|sponsor=[http://www.asus.com/ph/ ASUS Philippines]&lt;br/&gt;[http://infinity.mineski.net/ Mineski Infinity]&lt;br/&gt;[http://www.razerzone.com/ Razer]&lt;br/&gt;[http://www.gigabyte.ph/ GIGABYTE Philippines]&lt;br/&gt;[http://www.powercolor.com/ PowerColor]
+|history= {{TH|2009-01-20 — 2015-04-20|Mineski}}
+}}
+</textarea>]

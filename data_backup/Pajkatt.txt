@@ -1,0 +1,56 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Pajkatt
+|name2=Results
+|link2=Pajkatt/Results
+|This=1
+}}
+{{Infobox player
+|id=Pajkatt
+|image=Pajkatt ESL Frankfurt 2015.jpg
+|name=Per Anders Olsson Lille
+|team=
+|role=mid
+|status=Active
+|hero=Queen of Pain
+|hero2=Sniper
+|hero3=Mirana
+|mmr=8020
+|mmrdate=2016-12-04
+|ids=PieCat
+|datdota=10
+|twitter=PajkattDota
+|twitch=pajkattdota
+|tlstream=PajkattDota
+|dotabuff=87285329
+|country=Sweden
+|birth_date={{birth date and age|1992|9|19}}
+|history=
+{{TH|&lt;small&gt;'''Dota: Allstars'''&lt;/small&gt;|no-link=true}}
+{{TH|2009|Xeo}}
+{{TH|2009|BFB}}
+{{TH|2010|DDT}}
+{{TH|2010|Blight}}
+{{TH|2010|LOST}}
+{{TH|2010|TeamHome}}
+{{TH|2010 — 2011|NWO}}
+{{TH|2011|GGnet}}
+{{TH|2011|OK.Nv.int}}
+{{TH|&lt;small&gt;'''Dota 2'''&lt;/small&gt;|no-link=true}}
+{{TH|2011-08-11 — 2011-11-23|Online Kingdom}}
+{{TH|2011-10-24 — 2012-01-13|Evil Geniuses}}
+{{TH|2012-01-13 — 2012-02-06|eXperience Gaming}}
+{{TH|2012-02-06 — 2012-10-15|Counter Logic Gaming}}
+{{TH|2012-10-16 — 2013-12-13|LGD International|link=LGD.int}}
+{{TH|2014-02-16 — 2014-05-13|Team Dog}}
+{{TH|2014-05-13 — 2014-08-??|mousesports}}
+{{TH|2014-08-11 — 2015-01-08|Team Tinker}}
+{{TH|2015-01-07 — 2015-08-18|Alliance}}
+{{TH|2015-08-30 — 2016-01-02|4 Clover &amp; Lepricon}}
+{{TH|2016-01-02 — 2016-03-??|Mamas Boys}}
+{{TH|2016-05-?? — 2016-08-25|Digital Chaos|coach}}
+}}
+
+Per Anders Olsson '''"Pajkatt"''' Lille is a Swedish professional Dota 2 player who last played for [[Mamas Boys]]. He was also a coach of [[Digital Chaos]].
+</textarea>]

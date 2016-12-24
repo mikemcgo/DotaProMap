@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Cys
+|name2=Results
+|link2=Cys/Results
+|This=1
+}}
+{{Infobox player
+|id=Cys
+|image=
+|name=Kaue Camuci
+|team=T Show
+|role=mid
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|mmr=7010
+|mmrdate=2016-11-29
+|ids=kaue
+|country=Brazil
+|birth_date=
+|twitter=
+|facebook=
+|dotabuff=88153289
+|twitch=
+|history=
+{{TH|2015-07-14 — 2015-09-02|INTZ eSports}}
+{{TH|2015-09-02 — 2015-12-22|T Show}}
+{{TH|2016-02-10 — 2016-03-12|T Show}}
+{{TH|2016-06-16 — '''Present'''|T Show}}
+}}
+
+Kaue '''"Cys"''' Camuci is a professional Dota 2 player who is currently playing for [[T Show]].
+</textarea>]

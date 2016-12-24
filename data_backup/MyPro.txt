@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=MyPro
+|name2=Results
+|link2=MyPro/Results
+|This=1
+}}
+{{Infobox player
+|id=MyPro
+|image=PlayerImagePlaceholder.png
+|name=Kittikorn Inngoen
+|team=Signature.Trust
+|role=mid
+|status=Active
+|hero=Storm Spirit
+|hero2=Queen Of Pain
+|hero3=Windranger
+|mmr=7247
+|mmrdate=2016-11-24
+|ids=Mypro
+|country=Thailand
+|birth_date=
+|datdota=926
+|dotabuff=101208242
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-??-?? — 2014-05-29|Everlast.GameFilling}}
+{{TH|2014-05-29 — 2015-01-20|MiTH.Trust}}
+{{TH|2015-01-20 — '''Present'''|Signature.Trust}}
+}}
+
+Kittikorn '''"Mypro"''' Inngoen is a professional Dota 2 player for [[Signature.Trust]].
+</textarea>]

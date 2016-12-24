@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Hana
+|name2=Results
+|link2=Hana/Results
+|This=1
+}}
+{{Infobox player
+|id=Hana
+|image=PlayerImagePlaceholder.png
+|name=Paul Tan Ke Da
+|team=First Departure
+|role=offlane
+|status=Active
+|hero=Natures Prophet
+|hero2=
+|hero3=
+|ids=hanahfication, KaL
+|country=Singapore
+|birth_date=
+|datdota=274
+|history=
+{{TH|2012-10-03 — 2014-01-26|First Departure}}
+{{TH|2014-01-26 — 2014-08-09 |Scythe Gaming}}
+{{TH|2014-11-05 — 2015-01-11|First Departure}}
+{{TH|2015-06-06 — '''Present'''|First Departure}}
+}}
+
+Paul '''"Hana"''' Tan Ke Da is a professional Dota 2 player who is currently playing for [[First Departure]].
+</textarea>]

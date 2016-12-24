@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:Purge}}
+::''For the game mechanic, see [[Purge|Purge (Ability)]].''
+{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Purge_(Kevin_Godec)
+|link2=Purge (Kevin Godec)/Broadcasts
+|name2=Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Purge
+|name=Kevin Godec
+|image=Purge frankfurt major 2015.jpg
+|country=United States
+|team=
+|role=caster
+|role2=support
+|status=Inactive
+|hero=Shadow Demon 
+|hero2=Crystal Maiden
+|hero3=Vengeful Spirit
+|birth_date={{Birth date and age|1987|08|17}}
+|site=http://www.purgegamers.com/
+|mmr=5829
+|mmrdate=2016-07-17
+|twitter=PurgeGamers
+|twitch=purgegamers
+|tlstream=
+|tlprofile=
+|youtube=PurgeGamers
+|facebook=PurgeGamers
+|fanpage=
+|history={{TH|2014-01-03 — 2015-01-13|Team Zephyr}}
+{{TH|2015-12-08 — 2016-06-21|Vegetables Esports Club}}
+}}
+
+Kevin '''"Purge"''' Godec is an American commentator and Dota 2 content creator. Starting from making DotA content in 2011 on his youtube channel and his website PurgeGamers, he is a popular figure in the Dota 2 community and is known for his opening statement of his videos: "Hello, this is Purge."
+</textarea>]

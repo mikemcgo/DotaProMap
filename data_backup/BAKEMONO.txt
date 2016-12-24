@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=BAKEMONO
+|name2=Results
+|link2=BAKEMONO/Results
+|This=1
+}}
+{{Infobox player
+|id=BAKEMONO
+|image=PlayerImagePlaceholder.png
+|name=Feras Hroob
+|team=
+|role=carry
+|status=Active
+|hero=Anti-Mage
+|hero2=Slark
+|hero3=Ember Spirit
+|mmr=7755
+|mmrdate=2016-10-04
+|ids=
+|country=Jordan
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=171775246
+|birth_date=
+|history=
+{{TH|2015-10-?? — 2016-03-24|Boreal eSports}}
+{{TH|2016-03-24 — 2016-09-??|Perky Pepperonis}}
+}}
+
+Feras  '''"BAKEMONO"''' Hroob is a Jordanian professional Dota 2 player who last played for [[Perky Pepperonis]].
+</textarea>]

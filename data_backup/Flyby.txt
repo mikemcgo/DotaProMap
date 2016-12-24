@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Flyby
+|name2=Results
+|link2=Flyby/Results
+|This=1
+}}
+{{Infobox player
+|id=Flyby
+|image=PlayerImagePlaceholder.png
+|name=苏磊
+|romanized_name=Su Lei
+|team=CDEC Gaming
+|country=China
+|hero=Ember Spirit
+|hero2=Lycan
+|hero3=Tiny
+|mmr=7906
+|mmrdate=2016-11-30
+|role=carry
+|role2=support
+|status=Active
+|datdota=
+|dotabuff=186627166
+|tencent=
+|weibo=
+|history=
+{{TH|2015-12-?? — 2016-09-17|CDEC Avenger}}
+{{TH|2016-09-17 — '''Present'''|CDEC Gaming}}
+}}
+Su '''"Flyby"''' Lei is a professional Dota 2 player who is currently playing for [[CDEC Gaming]].
+</textarea>]

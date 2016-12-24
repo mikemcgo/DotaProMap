@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=DkPhobos
+|name2=Results
+|link2=DkPhobos/Results
+|This=1
+}}
+{{Infobox player
+|id=DkPhobos
+|image=DkPhobos ESL Frankfurt 2015.jpg
+|name=Олександр Кучеря
+|romanized_name=Alexander Kucheria
+|team=Team Spirit
+|role=offlane
+|status=Active
+|hero=Puck
+|hero2=Dark Seer
+|hero3=Brewmaster
+|other_ids=
+|country=Ukraine
+|datdota=137
+|vk=dk_pabos
+|twitch=Dk_Phobos
+|twitter=DkPhobos
+|dotabuff=94338967
+|birth_date={{birth date and age|1989|08|27}}
+|history='''DotA:'''&lt;br&gt;
+{{TH|2007-10-15 — 2008|Wolker Gaming}}
+{{TH|2008-11-21 — 2009|DTS}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2012-11-17 — 2012-11-18|UA'Shechki}}
+{{TH|2014-09-02 — 2014-09-18|NVMI}}
+{{TH|2014-09-18 — 2015-01-18|Virtus.pro Polar}}
+{{TH|2015-01-18 — 2015-03-09|ASUS.Polar}}
+{{TH|2015-03-09 — 2015-04-04 |Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2015-04-04 — 2015-04-15|ASUS.Polar}}
+{{TH|2015-04-15 — 2016-03-25|Virtus.pro}}
+{{TH|2016-03-25 — 2016-06-30|Polarity}}
+{{TH|2016-12-15 — '''Present'''|Team Spirit}}
+}}
+
+Alexander '''"DkPhobos"''' Kucheria is a Ukrainian professional Dota 2 player who is currently playing for [[Team Spirit]].
+</textarea>]

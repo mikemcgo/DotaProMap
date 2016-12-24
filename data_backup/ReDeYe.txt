@@ -1,0 +1,25 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{liquipedia links|cs=ReDeYe|sc2=ReDeYe}}
+{{Stub}}
+{{Tabs static
+|name1=Overview
+|link1=ReDeYe
+|name2=Broadcasts
+|link2=ReDeYe/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=ReDeYe
+|image=Redeyewsceufinals.jpg
+|name=Paul Chaloner
+|ids=
+|role=host
+|country=United Kingdom
+|birth_date={{Birth date and age|1971|11|11}}
+|site=http://www.redeyehd.co.uk
+|twitch=redeye
+|twitter=PaulChaloner
+|facebook=paulredeyechaloner
+|reddit=realredeye
+}}
+Paul "'''ReDeYe'''" Chaloner, is one of the world's first professional esports and video game broadcast commentators. He commentates on a myriad of games, including ''[[wikipedia:Quake 3|Quake 3]]'', ''[[wikipedia:Quake 4|Quake 4]]'', ''[[counterstrike:Counter-Strike: Source|Counter-Strike: Source]]'', ''[[counterstrike:Counter-Strike: Global Offensive|Counter-Strike: Global Offensive]]'', ''[[sc2:StarCraft 2|StarCraft 2]]'' and ''[[dota2:Dota 2|Dota 2]]'', and has broadcast in dozens of countries like China, United States, Singapore, Australia and Denmark.
+</textarea>]

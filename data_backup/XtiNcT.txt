@@ -1,0 +1,47 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=XtiNcT
+|name2=Results
+|link2=XtiNcT/Results
+|This=1
+}}
+{{Infobox player
+|id=XtiNcT
+|image=Xtinct-2013.jpg
+|name=陈赞良
+|romanized_name=Joel Chan Zhan Leong
+|team=Mineski-X
+|role=support
+|status=Active
+|hero=Visage
+|hero2=Vengeful Spirit
+|hero3=Chen
+|ids=X
+|country=Malaysia
+|birth_date={{Birth date and age|1988|10|16}} 
+|twitter=XtinctDota
+|facebook=xtinctchan
+|twitch=xtinct
+|reddit=Titan-Xtinct
+|tencent=Xtinct2797
+|datdota=69
+|dotabuff=89330493
+|history='''DotA:'''&lt;br&gt;
+{{TH|2009 |UCPro}}
+{{TH|2009 — 2010|CyberTime}}
+{{TH|2010 — 2011|Nirvana.my}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-09-05 — 2013-09-21|Orange}}
+{{TH|2013-09-21 — 2014-10-01|Titan}}
+{{TH|2014-10-01 — 2014-11-05|Team Malaysia}}
+{{TH|2014-12-22 — 2015-01-06|KingSurf}}
+{{TH|2015-01-06 — 2015-01-15|Can't Say Wips}}
+{{TH|2015-02-11 — 2015-??-??|Invasion e-Sports}}
+{{TH|2015-08-21 — 2015-09-06|Banaaaanas}}
+{{TH|2015-09-06 — 2015-12-04|Vici Gaming Potential}}
+{{TH|2016-01-03 — '''Present'''|Mineski-X}}
+}}
+
+Joel Chan '''"XtiNcT"''' Zhan Leong is a professional Dota 2 player who currently plays for [[Mineski-X]].
+</textarea>]

@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Lil
+|name2=Results
+|link2=Lil/Results
+|This=1
+}}
+{{Infobox player
+|id=Lil
+|image=Lil2 ESL Frankfurt 2015.jpg
+|name=Ілля Ілюк
+|romanized_name=Ilya Ilyuk
+|team=Virtus.pro
+|role=support
+|status=Active
+|hero=Visage
+|hero2=Skywrath Mage
+|hero3=Rubick
+|mmr=7460
+|mmrdate=2016-11-24
+|ids=Lil.HaRDy, Lil.Superstar
+|country=Ukraine
+|country2=Russia
+|datdota=2536
+|twitch=Lil_HaRDy
+|ldstream=Lil_HaRDy
+|vk=lil_hardy
+|twitter=LilJke
+|dotabuff=106809101
+|birth_date={{birth date and age|1995|12|24}}
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-09-02 — 2014-09-18|NVMI}}
+{{TH|2014-09-18 — 2015-01-18|Virtus.pro Polar}}
+{{TH|2015-01-18 — 2015-04-15|ASUS.Polar}}
+{{TH|2015-04-15 — 2016-03-25|Virtus.pro}}
+{{TH|2016-03-25 — 2016-06-30|Polarity}}
+{{TH|2016-08-04 — '''Present'''|Virtus.pro}}
+}}
+
+Ilya '''"Lil"''' Ilyuk is a Ukranian professional Dota 2 player who currently plays for [[Virtus.pro]].
+</textarea>]

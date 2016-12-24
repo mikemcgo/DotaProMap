@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Five
+|name2=Results
+|link2=Five/Results
+|This=1
+}}
+{{Infobox player
+|id=Five
+|image=PlayerImagePlaceholder.png
+|name=Adam Grönberg 
+|team=IKEA
+|birth_date=
+|country=Sweden
+|status=Active
+|mmr=7209
+|mmrdate=2016-09-10
+|ids=Five
+|youtube=
+|facebook=
+|datdota=
+|tlstream=
+|vk=
+|history=
+{{TH|2012-12-06 — Unknown|Team GO}}
+{{TH|2015-12-02 — 2015-12-12|Lemondogs}}
+{{TH|2016-01-04 — 2016-03-25|Spin2Win}}
+{{TH|2016-03-25 — 2016-04-19|COOKISS}}
+{{TH|2016-04-19 — 2016-09-13|4 Vikings + Dane}}
+{{TH|2016-09-13 — '''Present'''|IKEA}}
+}}
+
+Adam '''"Five"''' Grönberg is a Swedish Dota 2 player who is currently playing for [[IKEA]].
+</textarea>]

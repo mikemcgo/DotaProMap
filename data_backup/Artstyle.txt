@@ -1,0 +1,48 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Artstyle
+|name2=Results
+|link2=Artstyle/Results
+|This=1
+}}
+{{Infobox player
+|id=ArtStyle
+|image=Artstyle ESL One Frankfurt 2016.jpg
+|name=Іван Антонов
+|romanized_name=Ivan Antonov
+|team=
+|birth_date={{Birth date and age|1989|4|20}}
+|country=Ukraine
+|hero=Chen
+|hero2=Night Stalker
+|hero3=Enchantress
+|role=support
+|status=Active
+|twitch=artstyle
+|facebook=ArtStyledota
+|datdota=16
+|tlstream=
+|tlprofile=
+|sponsor=
+|site=
+|vk=ivan_antonov_fan_page
+|twitter=ArtStylee
+|dotabuff=176184718
+|history= 
+{{TH|2010-06-31 — 2010-12-25|DTS Gaming}} 
+{{TH|2010-12-25 — 2011-10-03|Natus Vincere|link=Natus Vincere/Natus Vincere}} 
+{{TH|2012-02-17 — 2012-09-12|Darer}} 
+{{TH|2012-09-19 — 2012-10-04|Team Kharkiv}}
+{{TH|2012-10-04 — 2012-11-11|Eclypsia}} 
+{{TH|2014-08-04 — 2014-08-29|Relax}}
+{{TH|2014-08-29 — 2014-10-30|HellRaisers}}
+{{TH|2014-11-13 — 2014-12-24|Natasha ishet Parnya}}
+{{TH|2014-11-15 — 2015-03-30|ScaryFaceZ}}
+{{TH|2015-04-05 — 2015-08-26|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2015-09-02 — 2015-10-16|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2015-12-08 — 2016-11-07|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+}}
+
+Ivan '''"Artstyle"''' Antonov is a legendary Ukrainian Dota 2 and DotA player who last played for [[Natus Vincere/Natus Vincere|Natus Vincere]].
+</textarea>]

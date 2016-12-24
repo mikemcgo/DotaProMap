@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=TobiWan
+|name2=Broadcasts
+|link2=TobiWan/Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=TobiWan
+|name=Toby Dawson
+|image=Tobi Wan ESL Frankfurt 2015.jpg
+|team=
+|country=Australia
+|birth_date={{Birth date and age|1985|07|24}}
+|reddit=Tobi_Wan_Kenobi
+|ids=Tobi Wan, Tobi Wan Kenobi
+|site=http://www.joindota.com
+|twitter=TobiWanDOTA
+|twitch=tobiwandota
+|role=caster
+|fanclub=http://www.teamliquid.net/forum/viewmessage.php?topic_id=365314
+|history=
+|youtube=joinDOTA
+|fanpage=
+}}
+
+Toby '''"TobiWan"''' Dawson, is a well-known Dota 2 commentator from joinDOTA. Tobiwan commentates many of the top Dota 2 tournaments, including [[The International/2011|The International 2011]], [[The International/2012|The International 2012]], [[The International/2013|The International 2013]], [[The International/2014|The International 2014]], [[The International/2015|The International 2015]], [[The Defense]], [[DreamHack]], and [[joinDOTA Masters]].
+</textarea>]

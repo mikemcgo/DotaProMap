@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Xtt
+|name2=Results
+|link2=Xtt/Results
+|This=1
+}}
+{{Infobox player
+|id=Xtt
+|image=PlayerImagePlaceholder.png
+|name=许迅涛
+|romanized_name=Xu Xuntao
+|team=
+|role=offlane
+|status=
+|hero=Weaver
+|hero2=Lone Druid
+|hero3=Dark Seer
+|ids=Westbrook
+|country=China
+|birth_date=
+|datdota=543
+|dotabuff=111533846
+|stream=http://www.douyutv.com/54063
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-10-21 — 2013-06-10|Vici Gaming}}
+{{TH|2013-07-10 — 2013-09-09|RisingStars}}
+{{TH|2013-09-09 — 2013-12-08|TongFu}}
+{{TH|2014-03-09 — 2014-08-13|HyperGloryTeam}}
+{{TH|2014-08-23 — 2014-09-02|New Element}}
+{{TH|2014-09-02 — 2014-??-??|LAI Gaming}}
+{{TH|2015-03-30 — 2015-09-04|HyperGloryTeam}}
+{{TH|2015-09-04 — 2016-01-??|FTD club A}}
+}}
+Xu '''"Xtt"''' Xuntao is a professional Dota 2 player that currently teamless.
+</textarea>]

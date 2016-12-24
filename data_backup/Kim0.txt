@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Kim0
+|name2=Results
+|link2=Kim0/Results
+|This=1
+}}
+{{Infobox player
+|id=Kim0
+|image=KimoNew.png
+|name=Kimuel Rodis 
+|team=Execration
+|role=support
+|role2=captain
+|status=Active
+|hero=Vengeful Spirit
+|hero2=Skywrath Mage
+|hero3=Witch Doctor
+|mmr=6452
+|mmrdate=2016-07-08
+|ids=Leumik
+|country=Philippines
+|birth_date=
+|twitter=XctNKim0
+|datdota=614
+|dotabuff=91654584
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-10-? — 2013-03-05|MSI-evoGT.TnC}}
+{{TH|2014-06-01 — '''Present'''|Execration}}
+}}
+
+Kimuel '''"Kim0"''' Rodis is a Filipino professional Dota 2 player who is currently the captain for [[Execration]].
+</textarea>]

@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=04
+|name2=Results
+|link2=04/Results
+|This=1
+}}
+{{Infobox player
+|id=04
+|image=PlayerImagePlaceholder.png
+|name=Terry Wong
+|team=FDL
+|role=support
+|status=Active
+|hero=wisp
+|hero2=riki
+|hero3=pudge
+|mmr=
+|mmrdate=
+|ids=
+|country=United States
+|datdota=
+|twitter=sdran06
+|facebook=
+|twitch=sdran06
+|dotabuff=11929046
+|birth_date=
+|history=
+{{TH|2016-09-04 - '''Present'''|FDL}}
+}}
+
+Terry '''"04"''' Wong is an American professional Dota 2 player who is currently playing support for [[FDL]].
+</textarea>]

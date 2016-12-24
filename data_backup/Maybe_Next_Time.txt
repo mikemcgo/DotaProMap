@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Maybe Next Time
+|name2=Results
+|link2=Maybe Next Time/Results
+|This=1
+}}
+{{Infobox player
+|id=Maybe Next Time
+|image=PlayerImagePlaceholder.png
+|name=Βερρός Απόστολος
+|romanized_name=Verros Apostolos 
+|team=Ad Finem
+|role=support
+|status=Active
+|hero=bounty hunter
+|hero2=oracle
+|hero3=bane
+|mmr=7104
+|mmrdate=2016-08-25
+|ids=MNT
+|country=Greece
+|datdota=86953414
+|birth_date= 
+|site=
+|youtube=
+|twitter=mntdota2
+|facebook=apostolos.verros
+|fanpage=
+|dotabuff=86953414
+|history=
+{{TH|2014-07-?? — 2015-??-??|Elysium Gaming}}
+{{TH|2015-08-17 — 2015-12-04|Golden Boys}}
+{{TH|2015-12-04 — '''Present'''|Ad Finem}}
+}}
+
+Verros '''"Maybe Next Time"''' Apostolos is a Greek Dota 2 player, currently playing for [[Ad Finem]].
+</textarea>]

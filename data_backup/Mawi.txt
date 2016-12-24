@@ -1,0 +1,26 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Mawi
+|name2=Results
+|link2=Mawi/Results
+|This=1
+}}
+{{Infobox player
+|id=Mawi
+|image=PlayerImagePlaceholder.png
+|name=Martin Wieslander
+|team=IKEA
+|birth_date=
+|country=Sweden
+|role=Offlane
+|status=Active
+|ids=Mawi
+|history=
+{{TH|2014-12-09 — 2015-08-30|ForLove.int}}
+{{TH|2015-08-30 — 2016-05-07|EE's disciples}}
+{{TH|2016-05-07 — 2016-09-13|4 Vikings + Dane}}
+{{TH|2016-09-13 — '''Present'''|IKEA}}
+}}
+
+Martin '''"Mawi"''' Wieslander is a Swedish Dota 2 player who is currently playing for [[IKEA]].
+</textarea>]

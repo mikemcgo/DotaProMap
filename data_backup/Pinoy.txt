@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Pinoy
+|name2=Results
+|link2=Pinoy/Results
+|This=1
+}}
+{{Infobox player
+|id=PiNoY
+|image=PlayerImagePlaceholder.png
+|name=Alexander Pettersson
+|team=
+|role=
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Sweden
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-02-02 — 2012-03-02|Counter Logic Gaming}}
+{{TH|2012-03-18 — 2012-??-??|Keita Gaming}}
+{{TH|2012-09-12 — 2012-10-18|Skånes Elit}}
+{{TH|2012-10-18 — 2013-01-07|Pulse eSports}}
+}}
+
+Alexander '''"PiNoY"''' Pettersson is a Dota 2 player that is currently teamless.
+</textarea>]

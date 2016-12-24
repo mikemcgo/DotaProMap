@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Ztok
+|name2=Results
+|link2=Ztok/Results
+|This=1
+}}
+{{Infobox player
+|id=Ztok
+|image=Ztok_frankfurt_major_2015.jpg
+|name=Jesus Carhuaricra
+|team=
+|role=support
+|status=Banned
+|hero=Earthshaker
+|hero2=Rubick
+|hero3=Bounty Hunter
+|mmr=6711
+|mmrdate=2016-12-19
+|sponsor=
+|ids=ztokel
+|country=Peru
+|tlpdid=
+|birth_date= 
+|nicknames=
+|site=
+|dotabuff=100175472
+|stream=
+|twitter=ztokdota
+|facebook=ztokdota
+|youtube=
+|fanpage=
+|history={{TH|2014-12-10 — 2015-??-??|Union Gaming}}
+{{TH|2015-??-?? — 2015-12-05|Team Unknown}}
+{{TH|2015-12-05 — 2015-12-16|Artyk Gaming}}
+{{TH|2015-12-16 — 2015-12-??|Slayers of Gods}}
+{{TH|2015-12-?? — 2016-03-21|Infamous}}
+{{TH|2016-03-21 — 2016-03-23|Team Archon}}
+}}
+
+Jesus '''"Ztok"''' Carhuaricra is a professional Dota 2 player currently teamless.
+</textarea>]

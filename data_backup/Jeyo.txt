@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jeyo
+|name2=Results
+|link2=Jeyo/Results
+|This=1
+}}
+{{Infobox player
+|id=Jeyo
+|image=Jeyo.jpg
+|name=Jio Madayag
+|team=
+|birth_date={{Birth date and age|1993|4|19}}
+|country=Canada
+|country2=Philippines
+|hero=Gyrocopter
+|hero2=Medusa
+|hero3=Juggernaut
+|mmr=8082
+|mmrdate=2016-11-10
+|role=carry
+|status=Active
+|twitch=jeyodude
+|tlstream=
+|tlprofile=
+|site=
+|twitter=ArchonJeyo
+|youtube=
+|fanpage=
+|history=
+{{TH|2011-??-?? — 2012-02-16|FIRE}}
+{{TH|2012-02-16 — 2012-10-19|compLexity}}
+{{TH|2012-10-19 — 2014-02-11|Evil Geniuses}}
+{{TH|2014-02-11 — 2014-05-04|EoT Hammer}}
+{{TH|2014-05-04 — 2015-06-11|Rave}}
+{{TH|2015-08-23 — 2015-10-02|FIRE}}
+{{TH|2015-10-02 — 2016-03-??|Team Archon}}
+{{TH|2016-03-12 — 2016-08-18|Rave}}
+}}
+
+Jio '''"Jeyo"''' Madayag is a professional DotA player who is currently teamless.
+</textarea>]

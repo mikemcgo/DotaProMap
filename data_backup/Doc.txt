@@ -1,0 +1,21 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Doc
+|image=XctNDoc.jpg
+|name=Angelo Docosin
+|team=
+|role=Carry
+|hero=Weaver
+|hero2=Brewmaster
+|hero3=
+|country=Philippines
+|birth_date=
+|twitter=
+|datdota=1012
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2014-??-?? — 2014-11-04|Skyville}}
+{{TH|2014-11-04 — 2015-01-01|Execration}}
+}}
+
+Angelo '''"Doc"''' Docosin is a professional Dota player that is last played for [[Execration]]
+</textarea>]

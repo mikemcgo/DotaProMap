@@ -1,0 +1,24 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Kpoptosis
+|link2=Kpoptosis/Broadcasts
+|name2=Broadcasts
+|This=1
+}}
+{{Infobox player
+|id=Kpoptosis
+|name=Bryan Herren
+|role=analyst
+|team=
+|image=20140618122503a0dtcz9flcgt8v5k.jpg
+|facebook=https://www.facebook.com/kpoptosisdota/?fref=ts
+|country=United States
+|birthdate=|birth_date={{Birth date and age|1991|01|19}}
+|twitter=bryan_herren
+|twitch=https://www.twitch.tv/kpoptosis
+|youtube=
+}}
+
+Byran '''"Kpoptosis"''' Herren is a Dota 2 in-game statistican and analyst. He also works with the production during tournaments when the time arises.
+</textarea>]

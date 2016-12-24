@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{lowercase}}{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Amoment
+|name2=Results
+|link2=Amoment/Results
+|This=1
+}}
+{{Infobox player
+|id=amoment
+|name=Michael German
+|team=Samurai Champloo
+|role=support
+|status=Active
+|hero=Chen
+|hero2=Dazzle
+|hero3=Bane
+|ids=
+|country=Germany
+|twitter=amomentforever
+|facebook=
+|twitch=
+|dotabuff=8363146
+|datdota=Amoment
+|history=
+{{TH|2013-10-28 — 2014-03-24|hehe united}}
+{{TH|2014-04-27 — 2014-05-28|Hits from the Bong}}
+{{TH|2014-06-21 — 2014-08-28|Mors certa, Hora incerta}}
+{{TH|2014-08-31 — 2014-09-18|My Carry Can't Be This Kawaii}}
+{{TH|2014-10-22 — 2015-01-21|House of Gamers}}
+{{TH|2015-01-21 — 2015-03-22|GameOnline}}
+{{TH|2015-03-28 — 2015-06-26|GOOMBA Gaming}}
+{{TH|2015-10-17 — 2015-12-18|Saphira.TV}}
+{{TH|2016-02-01 — '''Present'''|Samurai Champloo}}
+}}
+
+Michael "'''Amoment'''" German is a professional Dota 2 player from Germany who plays for [[Samurai Champloo]].
+</textarea>]

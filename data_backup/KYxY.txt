@@ -1,0 +1,46 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:kYxY}}
+{{Tabs static
+|name1=Overview
+|link1=KYxY
+|name2=Results
+|link2=KYxY/Results
+|This=1
+}}
+{{Infobox player
+|id=kYxY
+|image=kyxy-2013.jpg
+|name=李康阳
+|romanized_name=Lee Kong Yang
+|team=White Fries Gaming
+|role=carry
+|status=Active
+|hero=Magnus
+|hero2=Naga Siren
+|hero3=Lone Druid
+|mmr=7527
+|mmrdate=2016-10-23
+|ids=K., kY.xY, kyx` Y
+|country=Malaysia
+|birth_date={{Birth date and age|1991|05|26}}
+|twitter=lee_kyxy
+|facebook=likekyxy
+|tencent=kyxy1991
+|reddit=titankyxy
+|twitch=kyxy
+|datdota=221
+|dotabuff=91644707
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2011-07-01 — 2012-01-19|MUFC}}
+{{TH|2013-01-25 — 2013-09-21|Orange}}
+{{TH|2013-09-22 — 2014-10-01|Titan}}
+{{TH|2014-10-01 — 2014-12-20|Team Malaysia}}
+{{TH|2014-12-25 — 2015-02-22|G Guard Esports}}
+{{TH|2015-03-01 — 2015-03-26|EHOME.my}}
+{{TH|2015-03-26 — 2015-06-04|Team Malaysia}}
+{{TH|2015-06-04 — 2015-08-17|Fnatic}}
+{{TH|2015-08-31 — 2016-05-28|Thunderobot Gaming}}
+{{TH|2016-05-28 — '''Present'''|White Fries Gaming}}
+}}
+
+Lee '''"kYxY"''' Kong Yang is a professional Dota 2 player from Malaysia who is currently playing for [[White Fries Gaming]]. He is known as an extremely versatile player, having played 82 out of 110 heroes professionally as of 2015.
+</textarea>]

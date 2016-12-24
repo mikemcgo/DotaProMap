@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Alex
+|name2=Results
+|link2=Alex/Results
+|This=1
+}}
+{{Infobox player
+|id=Alex
+|image=Alex-dh.jpg
+|name=Alexander Reinhardt 
+|team=
+|birth_date={{Birth date and age|1991|9|7}}
+|country=Germany
+|hero=
+|hero2=
+|role=coach
+|status=Retired
+|twitch=
+|tlstream=
+|tlprofile=
+|site=
+|twitter=Alex_dota2
+|facebook=mouzAlex
+|datdota=136
+|youtube=
+|fanpage=
+|history=
+{{TH|2012-09-16 — 2012-10-16|mousesports}}
+{{TH|2012-10-17 — 2012-10-21|The GD B-Team}}
+{{TH|2012-10-24 — 2012-11-21|Zero}}
+{{TH|2012-11-21 — 2013-04-30|mousesports}}
+}}
+
+Alexander '''"Alex"''' Reinhardt is a professional Dota 2 player who was most recently the coach of [[Team Liquid]].
+</textarea>]

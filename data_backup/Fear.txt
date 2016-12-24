@@ -1,0 +1,55 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Fear
+|name2=Results
+|link2=Fear/Results
+|This=1}}
+
+{{Infobox player
+|id=Fear
+|image=Fear frankfurt major 2015.jpg
+|name=Clinton Loomis
+|team=Evil Geniuses
+|status=Retired
+|birth_date={{birth date and age|1988|2|19}}
+|country=United States
+|hero=Sven
+|hero2=Lone Druid
+|hero3=Anti Mage
+|mmr=7007
+|mmrdate=2016-11-29
+|role=carry
+|role2=coach
+|twitch=feardarkness
+|tlstream=FearDotA
+|tlprofile=
+|ids=FearDarkness
+|sponsor=
+|site=
+|fanclub=http://www.liquiddota.com/forum/players-and-teams/454632-egfear-discussion
+|twitter=FearDotA
+|facebook=FearDotA
+|vk=
+|videoarchive=
+|youtube=
+|datdota=28
+|dotabuff=87177591
+|history='''Dota:'''&lt;br&gt;
+{{TH|2005-??-?? — 2006-??-??|PluG Pullers Inc.}}
+{{TH|2006-??-?? — 2007-??-??|compLexity Gaming}}
+{{TH|2007-??-?? — 2008-03-??|PluG Pullers v2}}
+{{TH|2008-03-?? — 2009-03-??|Meet Your Makers}}
+{{TH|2009-03-?? — 2009-12-??|Evil Geniuses}}
+{{TH|2009-12-?? — 2010-02-??|Blight.int}}
+{{TH|2010-02-?? — 2010-08-??|Nirvana.int}}
+{{TH|2010-09-?? — 2011-02-??|Lost.eu}}
+{{TH|2011-02-?? — 2011-05-??|Browned Potatoes}}
+{{TH|2011-05-?? — 2011-08-??|Online Kingdom}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-08-11 — 2011-11-23|Online Kingdom}}
+{{TH|2011-10-24 — 2016-08-27|Evil Geniuses}}
+{{TH|2016-09-15 — '''Present'''|Evil Geniuses|Coach}}
+}}
+
+Clinton '''"Fear"''' Loomis is an American player from Medford, Oregon. Fear is one of the most storied Dota players, and has been widely regarded as one of the best North American players for the past decade. His versatility has allowed him to play every position at a competitive level, which makes Fear a great fit for almost any team.
+</textarea>]

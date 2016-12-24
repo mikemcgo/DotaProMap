@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=Cty
+|name2=Results
+|link2=Cty/Results
+|This=1
+}}
+{{Infobox player
+|id=Cty
+|name=陈天宇
+|romanized_name=Chen Tianyu
+|image=Cty_frankfurt_major_2015.jpg
+|team=
+|role=mid
+|role2=carry
+|status=Active
+|hero=Queen of Pain
+|hero2=Storm Spirit
+|hero3=Juggernaut
+|mmr=7777
+|mmrdate=2016-09-08
+|fanpage=
+|birth_date={{Birth date and age|1994|12|16}}
+|country=China
+|nicknames=6 Minute God, ctydamowang
+|twitch=
+|tlstream=
+|tlprofile=
+|history=
+{{TH|2012-10-21 — 2013-08-30|Vici Gaming}}
+{{TH|2013-09-09 — 2013-11-27|RisingStars}}
+{{TH|2014-05-05 — 2014-??-??|HyperGloryTeam}}
+{{TH|2014-09-13 — 2015-05-01|Team DK}}
+{{TH|2015-05-01 — 2016-03-08|EHOME}}
+{{TH|2016-03-20 — 2016-09-14|Vici Gaming}}
+|twitter=
+}}
+
+Chen '''"Cty"''' Tianyu is a Chinese professional Dota 2 player who last played for [[Vici Gaming]].
+</textarea>]

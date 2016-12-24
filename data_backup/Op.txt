@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Op
+|name2=Results
+|link2=Op/Results
+|This=1
+}}
+{{Infobox player
+|id=Op
+|image=PlayerImagePlaceholder.png
+|name=欧鹏
+|romanized_name=Ou Peng
+|team=Invictus Gaming
+|role=mid
+|status=Active
+|hero=Death Prophet
+|hero2=Dragon Knight
+|hero3=Invoker
+|mmr=7942
+|mmrdate=2016-11-24
+|ids=机枪兵
+|country=China
+|birth_date=
+|datdota=
+|dotabuff=205813150
+|tencent=
+|weibo=
+|history=
+{{TH|2016-03-19 — 2016-08-23|IG Vitality}}
+{{TH|2016-09-17 — '''Present'''|Invictus Gaming}}
+}}
+
+Ou "'''Op'''" Peng is a professional Dota 2 player currently playing for [[Invictus Gaming]].
+</textarea>]

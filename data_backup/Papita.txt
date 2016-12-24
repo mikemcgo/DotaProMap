@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+
+{{Tabs static
+|name1=Overview|link1={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;BASEPAGENAME}}
+|name2=Results|link2={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;BASEPAGENAME}}/Results
+|This=1}}
+
+{{Infobox player
+|id=Papita
+|image=Papita.jpg
+|name=Mariano Caneda
+|country= Argentina
+|hero=Invoker
+|hero2=Ember Spirit
+|hero3=Queen of Pain
+|mmr=6910
+|mmrdate=2016-09-23
+|role=mid
+|status=Active
+|ids= P4pita
+|team=Vultur
+|dotabuff=28070572
+|facebook=p4pita
+|twitch=p4pita
+
+|history=
+{{TH|2014-02-05 — 2015-11-23|Isurus Gaming}}
+{{TH|2015-11-23 — 2016-01-05|paiN Gaming}}
+{{TH|2016-08-?? — '''Present'''|Vultur}}
+}}
+
+Mariano '''"Papita"''' Caneda is a [[:Category:Argentina|Argentinian]] player who currently plays for [[Vultur]].
+</textarea>]

@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jabbz
+|name2=Results
+|link2=Jabbz/Results
+|This=1
+}}
+{{Infobox player
+|id=Jabbz
+|image=PlayerImagePlaceholder.png
+|name=Mathis Friesel
+|team=Thinking
+|role=support
+|role2=mid
+|status=Active
+|hero=Invoker
+|hero2=Bounty Hunter
+|hero3=Storm Spirit
+|mmr=7183
+|mmrdate=2016-09-08
+|ids=
+|country=Germany
+|datdota=
+|twitter=jabbzdota
+|facebook=
+|dotabuff=60943014
+|birth_date=
+|history=
+{{TH|2015-04-13 — 2015-05-??|Lemondogs}}
+{{TH|2015-05-?? — 2015-12-12|GOOMBA Gaming}}
+{{TH|2016-02-25 — 2016-03-01|Team Bad English}}
+{{TH|2016-10-21 — '''Present'''|Thinking}}
+}}
+Mathis '''"Jabbz"''' Friesel is a German professional Dota 2 player who is currently playing for [[Thinking]].
+</textarea>]

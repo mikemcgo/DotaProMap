@@ -1,0 +1,27 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=Yin
+|image=PlayerImagePlaceholder.png
+|name=樊启华
+|romanized_name=Fan Qihua
+|team=
+|role=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Templar Assassin
+|hero3=Dragon Knight
+|mmr=7434
+|mmrdate=2016-11-30
+|ids=
+|country=China
+|datdota=
+|dotabuff=194710965
+|tencent=
+|weibo=
+|history=
+{{TH|2014-10-27 — 2014-12-31|2144 Gaming.Shield}}
+{{TH|2015-09-01 — 2016-08-23|FTD Club A}}
+}}
+
+Fan "'''Yin'''" Qihua is a professional Dota 2 player who last played for [[FTD Club A]].
+</textarea>]

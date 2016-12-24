@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Afoninje
+|name2=Results
+|link2=Afoninje/Results
+|This=1
+}}
+{{Infobox player
+|id=Afoninje
+|image=Afoninje Red Bull BG 2015.jpg
+|name=Андрей Афонин
+|romanized_name=Andrey Afonin
+|team=
+|role=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Puck
+|hero3=Death Prophet
+|mmr=8111
+|mmrdate=2016-10-08
+|ids=meow
+|country=Russia
+|datdota=1393
+|vk=afoninje
+|twitter=afoninje
+|dotabuff=81852496
+|birth_date={{birth date and age|1996|9|27}}
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2014-08-01 — 2014-08-09|Special Reaction Team}}
+{{TH|2014-08-09 — 2014-09-02|NVMI}}
+{{TH|2014-09-09 — 2014-10-30|Kompas.Gaming}}
+{{TH|2014-10-30 — 2016-03-22|HellRaisers}}
+{{TH|2016-03-25 — 2016-06-05|Polarity}}
+{{TH|2016-09-08 — 2016-11-14|Power Rangers}}
+}}
+
+Andrey '''"Afoninje"''' Afonin is a professional Russian Dota 2 player who last played for [[Power Rangers]].
+</textarea>]

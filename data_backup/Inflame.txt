@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Inflame
+|name2=Results
+|link2=Inflame/Results
+|This=1
+}}
+{{Infobox player
+|id=Inflame
+|image=Inflame.jpg
+|name=何雍正
+|romanized_name=He Yongzheng
+|team=
+|country=China
+|hero=Invoker
+|hero2=Shadow Fiend
+|hero3=Queen of Pain
+|mmr=6941
+|mmrdate=2016-11-30
+|role=mid
+|status=Active
+|datdota=3742
+|dotabuff=111189717
+|tencent=wange1
+|stream=http://www.huomaotv.com/live/634
+|history=
+{{TH|2014-02-23 — 2014-08-26|CIS Game}}
+{{TH|2014-08-26 — 2014-09-12|LGD.cn}}
+{{TH|2014-09-12 — 2015-01-07|LV Gaming}}
+{{TH|2015-01-07 — 2015-09-03|EHOME}}
+{{TH|2015-05-10 — 2015-??-??|Dream Gaming}}
+{{TH|2015-09-03 — 2016-09-17|CDEC Youth}}
+}} 
+
+He '''"Inflame"''' Yongzheng is a professional Dota 2 player.
+</textarea>]

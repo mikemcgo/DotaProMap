@@ -1,0 +1,48 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Funn1k
+|name2=Results
+|link2=Funn1k/Results
+|This=1
+}}
+{{Infobox player
+|id=Funn1k
+|image=Funn1k6.jpg
+|name=Гліб Липатніков
+|romanized_name=Gleb Lipatnikov
+|team=
+|role=offlane
+|status=Active
+|hero=Batrider
+|hero2=Dark Seer
+|hero3=Clinkz
+|mmr=6916
+|mmrdate=2016-07-14
+|other_ids=funn1que
+|twitch=funn1k
+|facebook=Funn1kdota
+|tlstream=
+|tlprofile=
+|twitter=Funn1kDota
+|vk=funn1kdota
+|datdota=17
+|dotabuff=86723143
+|country=Ukraine
+|birth_date={{birth date and age|1992|11|16}}
+|history=
+{{TH|2010-??-?? — 2010-??-??|sFs}}
+{{TH|2010-??-?? — 2010-??-??|Fota}}
+{{TH|2010-??-?? — 2011-??-??|The Retry}}
+{{TH|2011-??-?? — 2011-??-??|Hard Team}}
+{{TH|2011-11-?? — 2012-03-??|eSahara}}
+{{TH|2012-03-?? — 2012-05-??|DTS}}
+{{TH|2012-05-24 — 2012-09-12|Darer}}
+{{TH|2012-09-13 — 2013-02-27|Team Empire}}
+{{TH|2013-02-27 — 2015-02-13|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2015-04-05 — 2015-10-16|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2015-12-07 — 2016-03-15|Team Empire}}
+{{TH|2016-03-15 — 2016-08-01|Team Spirit}}
+}}
+Gleb '''"Funn1k"''' Lipatnikov is a professional Ukrainian Dota 2 player currently teamless.
+</textarea>]

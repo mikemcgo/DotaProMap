@@ -1,0 +1,44 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=L0lik_O
+|name2=Results
+|link2=L0lik_O/Results
+|This=1
+}}
+{{Infobox player
+|id=L0lik_O
+|image=PlayerImagePlaceholder.png
+|name=Серафим Савельев
+|romanized_name=Serafim Savelyev
+|team=Fantastic Five
+|role=offlane
+|status=Active
+|hero=timbersaw
+|hero2=dark seer
+|hero3=batrider
+|mmr=
+|mmrdate=
+|ids=lolik, GoLdenStar
+|country=Russia
+|birth_date=
+|vk=
+|tlstream=
+|twitch=
+|datdota=
+|dotabuff=91701543
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-??-?? — 2013-02-10|Ice Climbers}}
+{{TH|2013-02-10 — 2013-02-22|3D!Clan}}
+{{TH|2013-02-22 — 2013-03-??|Lions Pride}}
+{{TH|2013-09-?? — 2014-03-19|Cleave Gaming}}
+{{TH|2014-03-19 — 2014-06-??|Aware Gaming}}
+{{TH|2014-06-?? — 2014-06-??|Cleave Gaming}}
+{{TH|2014-10-?? — 2015-02-??|Duza Gaming}}
+{{TH|2015-03-?? — 2015-09-04|Elysium Gaming}}
+{{TH|2016-01-?? — 2016-05-??|GUS Gaming}}
+{{TH|2016-06-?? — 2016-08-21|Yellow Submarine}}
+{{TH|2016-09-18 — '''Present'''|Fantastic Five}} 
+}}
+Serafim "'''L0lik_O'''" Savelyev is a Russian Dota 2 player who currently playing for [[Fantastic Five]].
+</textarea>]

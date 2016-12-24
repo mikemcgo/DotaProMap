@@ -1,0 +1,32 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Kikoni
+|name2=Results
+|link2=Kikoni/Results
+|This=1
+}}
+{{Infobox player
+|id=Kikoni
+|image=PlayerImagePlaceholder.png
+|name=Kiril Minkov
+|team=KomandaMinus
+|role=offlane
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=Bulgaria
+|birth_date=
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2012-??-?? — 2013-05-06|Eosin + 4}}
+{{TH|2013-05-06 — 2013-06-??|Denial eSports}}
+{{TH|2015-05-07 — 2015-08-29|Boreal eSports}}
+{{TH|2015-08-29 — 2015-09-04|Kaipi}}
+{{TH|2015-09-04 — 2015-10-??|KomandaMinus}}
+{{TH|2015-10-?? — 2016-??-??|Boreal eSports}}
+{{TH|2016-??-?? — '''"Present"'''|KomandaMinus}}
+}}
+
+Kiril '''"Kikoni"''' Minkov is a professional Dota 2 player that is currently playing for [[KomandaMinus]].
+</textarea>]

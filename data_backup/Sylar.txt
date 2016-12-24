@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Sylar
+|name2=Results
+|link2=Sylar/Results
+|This=1
+}}
+{{Infobox player
+|id=Sylar
+|image=Sylar-EHOME.jpg
+|name=刘嘉俊
+|romanized_name=Liu Jiajun
+|team=EHOME
+|teamlink=EHOME/EHOME.cn
+|role=carry
+|status=Active
+|hero=Lone Druid
+|hero2=Morphling
+|hero3=Anti-Mage
+|mmr=7223
+|mmrdate=2016-11-24
+|Other_ids=1220
+|country=China
+|weibo=2660082910
+|tencent=ljjtczr
+|datdota=43
+|dotabuff=108382060
+|birth_date={{Birth date and age|1993|12|20}}
+|history=
+{{TH|2011-11-20 — 2013-09-06|LGD.cn}}
+{{TH|2013-09-06 — 2013-10-31|RisingStars}}
+{{TH|2013-10-31 — 2014-08-26|Vici Gaming}}
+{{TH|2014-08-26 — 2016-03-14|LGD.cn}}
+{{TH|2016-04-08 — 2016-09-07|Vici Gaming}}
+{{TH|2016-09-07 — '''Present'''|EHOME|link=EHOME/EHOME.cn}}
+}}
+
+Liu '''"Sylar"''' Jiajun is a professional Dota player who currently plays for [[EHOME/EHOME.cn|EHOME]].
+</textarea>]

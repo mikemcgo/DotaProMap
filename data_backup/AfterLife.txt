@@ -1,0 +1,40 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=AfterLife
+|name2=Results
+|link2=AfterLife/Results
+|This=1
+}}
+{{Infobox player
+|id=AfterLife
+|image=PlayerImagePlaceholder.png
+|name=Василий Шишкин
+|romanized_name=Vasily Shishkin
+|team=F.R.I.E.N.D.S.
+|role=offlane
+|status=Active
+|hero=Dark Seer
+|hero2=Slardar
+|hero3=Tidehunter
+|mmr=6875
+|mmrdate=2016-08-06
+|ids=Vasya, Retrogade
+|country=Russia
+|vk=afterlifepage
+|twitter=afterlifedota2
+|dotabuff=86785083
+|birth_date={{Birth date and age|1997|03|13}}
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-09-10 — 2013-12-15|Can't Describe}}
+{{TH|2014-04-16 — 2014-07-12|DreamTeam168}}
+{{TH|2014-10-21 — 2015-01-09|AlbumSheet}}
+{{TH|2015-07-14 — 2015-10-31|aSpera}}
+{{TH|2015-09-03 — 2015-12-06|CIS Rejects}}
+{{TH|2015-12-06 — 2016-03-05|Team Spirit}}
+{{TH|2016-03-25 — 2016-09-02|Team Empire}}
+{{TH|2016-09-15 — '''Present'''|F.R.I.E.N.D.S.}}
+}}
+
+Vasily '''"AfterLife"''' Shishkin is a professional Russian Dota 2 player who most recently played for [[F.R.I.E.N.D.S.]].
+</textarea>]

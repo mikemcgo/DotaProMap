@@ -1,0 +1,42 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=Fn
+|name2=Results
+|link2=Fn/Results
+|This=1
+}}
+{{infobox player
+|id=fn
+|image=UNfsiabwAmY.jpg
+|name=Ростислав Лозовий
+|romanized_name=Rostislav Lozovoi
+|team=Vega Squadron
+|role=carry
+|status=Active
+|hero=Slark
+|hero2=Invoker
+|hero3=Juggernaut
+|mmr=8450
+|mmrdate=2016-12-09
+|ids=Recovery
+|country=Ukraine
+|datdota=3364
+|vk=
+|twitter=
+|facebook=
+|dotabuff=5150808
+|birth_date=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-03-17 — 2014-09-28|Insane Gaming}}
+{{TH|2014-09-28 — 2015-01-01|Nightcore}}
+{{TH|2015-01-14 — 2015-03-28|Little Busters 4ever}}
+{{TH|2015-08-20 — 2015-10-06|newteam123123}}
+{{TH|2015-10-06 — 2015-10-??|PRIES Gaming}}
+{{TH|2015-12-07 — 2015-12-28|Arcade.PowerRangers}}
+{{TH|2015-12-28 — 2016-02-17|Power Rangers}}
+{{TH|2016-03-22 — '''Present'''|Vega Squadron}}
+}}
+
+Rostislav '''"fn"''' Lozovoi is a professional Dota 2 player who is currently playing for [[Vega Squadron]].
+</textarea>]

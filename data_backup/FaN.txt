@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=FaN
+|name2=Results
+|link2=FaN/Results
+|This=1
+}}
+{{Infobox player
+|id=FaN
+|image=FaN-EHOME.Luminous.jpg
+|name=范逸轩
+|romanized_name=Fan Yixuan
+|team=EHOME.Luminous
+|role=carry
+|status=Active
+|hero=Gyrocopter
+|hero2=Storm Spirit
+|hero3=Sven
+|ids=BooM
+|country=China
+|datdota=3195
+|dotabuff=109758944
+|mmr=7111
+|mmrdate=2016-11-30
+|birth_date=
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-01-18 — 2013-02-01|RattleSnake}}
+{{TH|2014-02-11 — 2014-09-??|CNB.cn}}
+{{TH|2014-12-?? — 2015-09-02|Energy Pacemaker Gaming}}
+{{TH|2015-09-02 — 2016-03-22|Vici Gaming Potential}}
+{{TH|2016-03-22 — 2016-05-09|Newbee Young}}
+{{TH|2016-06-12 — 2016-08-30|EHOME}}
+{{TH|2016-09-17 — '''Present'''|EHOME.Luminous}}
+}}&lt;br&gt;
+
+Fan "'''FaN"''' Yixuan is a professional Chinese Dota 2 player currently playing for [[EHOME.Luminous]].
+</textarea>]

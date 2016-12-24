@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:miCKe}}
+{{Tabs static
+|name1=Overview
+|link1=miCKe
+|name2=Results
+|link2=miCKe/Results
+|This=1
+}}
+{{Infobox player
+|id=miCKe
+|ids=m'ICKe, Love
+|image=Micke.jpg
+|name=Micke Nguyen
+|country=Sweden
+|team=SOLIDUDES
+|birth_date={{Birth date and age|1999|07|26}}
+|role=mid
+|status=Active
+|hero=Ember Spirit
+|hero2=Invoker
+|hero3=Queen of Pain
+|mmr=7458
+|mmrdate=2016-10-26
+|twitch=mlcke
+|twitter=mickeDOTA
+|facebook=mickeDOTA
+|datdota=
+|dotabuff=152962063
+|history=
+{{TH|2016-08-16 — 2016-10-??|Team Doge}}
+{{TH|2016-10-?? — '''Present'''|SOLIDUDES}}
+}}
+
+Micke "'''miCKe'''" Nguyen is a former professional Swedish Heroes of Newerth player who switched full time to Dota 2. He currently plays mid role for [[SOLIDUDES]].
+</textarea>]

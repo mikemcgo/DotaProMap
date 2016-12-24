@@ -1,0 +1,46 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Mirakel
+|name2=Results
+|link2=Mirakel/Results
+|This=1
+}}
+{{Infobox player
+|id=Mirakel
+|image=PlayerImagePlaceholder.png
+|name=Jesper Nyhlén
+|team=
+|role=support
+|status=Inactive
+|hero=Sand King
+|hero2=Rubick
+|hero3=Enigma
+|other_ids=
+|country=Sweden
+|birth_date={{birth date and age|1990|2|18}}
+|datdota=8
+|dotabuff=91988610
+|twitter=MiracleDotA
+|history='''DotA: Allstars:'''&lt;br&gt;
+{{TH|2007|BTB}}
+{{TH|2007 - 2008|mouz}}
+{{TH|2008 - 2009|Ks.int}}
+{{TH|2009|Fnatic}}
+{{TH|2010|DDT}}
+{{TH|2010|LOST.eu}}
+{{TH|2010|NWO}}
+{{TH|2010 - 2011|GGnet}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011|GGnet}}
+{{TH|2011-12-11 - 2012-02-06|eXperience Gaming}}
+{{TH|2012-02-06 - 2012-10-29|Counter Logic Gaming}}
+{{TH|2013-02-10 - 2013-06-02|Absolute Legends}}
+{{TH|2013-06-02 - 2013-06-06|Space}}
+{{TH|2013-06-06 - 2013-09-19|FlipSid3 Tactics}}
+{{TH|2013-09-19 - 2013-??-??|Turtle Masters}}
+{{TH|2015-03-30 - 2015-??-??|Taco Life}}
+}}
+
+Jesper '''"Mirakel"''' Nyhlén is a professional DotA player who is currently teamless.
+</textarea>]

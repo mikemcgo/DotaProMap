@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=XinQ
+|name2=Results
+|link2=XinQ/Results
+|This=1
+}}
+{{Infobox player
+|id=XinQ
+|image=PlayerImagePlaceholder.png
+|name=赵子星
+|romanized_name=Zhao Zixing
+|team=FTD club A
+|birth_date=
+|country=China
+|hero=Slark
+|hero2=Ember Spirit
+|hero3=Juggernaut
+|mmr=7887
+|mmrdate=2016-12-07
+|dotabuff=157475523
+|role=carry
+|status=Active
+|ids=BestLove, blessing
+|history=
+{{TH|2014-10-30 — 2015-03-12|TongFu.WanZhou}}
+{{TH|2015-03-12 — 2015-04-12|TongFu}}
+{{TH|2015-04-17 — 2015-06-25|TongFu.WanZhou}}
+{{TH|2015-06-25 — 2016-03-22|TongFu}}
+{{TH|2016-03-22 — 2016-06-??|Void Boys}}
+{{TH|2016-06-?? — '''Present'''|FTD club A}}
+}}
+
+Zhao '''"XinQ"''' Zixing is a professional Dota 2 player who is currently playing for [[FTD club A]].
+</textarea>]

@@ -1,0 +1,29 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Liquipedia links|sc2=CArn}}
+{{Infobox player
+|id=Carn
+|image=
+|name=Souaib Hanaf 
+|team=
+|role=carry
+|status=Inactive
+|hero=Clinkz
+|hero2=
+|hero3=
+|ids=cArn, cArn-
+|country=France
+|birth_date=
+|site=
+|twitch=carn_
+|tlstream=
+|tlprofile=cArn-
+|twitter=CARNDARAK
+|datdota=3352
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-12-26 — 2014-01-27|Don't Die ReM1kZ}}	
+{{TH|2014-02-16 — 2014-04-12|Monkey Spanner}}	
+{{TH|2014-08-03 — 2014-??-??|Team Muhan}}
+}}
+
+Souaib '''"Carn"''' Hanaf is a professional Dota 2 player who is currently teamless. He has lived in South Korea for several years and was a former Starcraft 2 progamer.
+</textarea>]

@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:Sam_H}}
+{{Tabs static
+|name1=Overview
+|link1=Sam_H
+|name2=Results
+|link2=Sam_H/Results
+|This=1
+}}
+{{Infobox player
+|id=Sam_H
+|image=PlayerImagePlaceholder.png
+|name=Sam Enojosa Hidalgo
+|team=TNC Gaming
+|role=offlane
+|status=Active
+|hero=Furion
+|hero2=Beastmaster
+|hero3=Slardar
+|mmr=7276
+|mmrdate=2016-11-10
+|ids=Paperchicken
+|country=Philippines
+|birth_date=
+|dotabuff=187619311
+|history='''Dota 2'''&lt;br&gt;
+{{TH|2015-01-22 — 2016-08-19|TnC Gaming}}
+{{TH|2016-08-30 — '''Present'''|TnC Gaming}}
+}}
+
+
+Sam '''"Sam_H"''' Enojosa Hidalgo is a professional Dota 2 player who is currently playing for [[TNC Gaming]].
+</textarea>]

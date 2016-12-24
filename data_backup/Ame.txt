@@ -1,0 +1,33 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Ame
+|name2=Results
+|link2=Ame/Results
+|This=1
+}}
+{{Infobox player
+|id=Ame
+|image=PlayerImagePlaceholder.png
+|name=王淳煜
+|romanized_name=Wang Chunyu
+|team=LGD Gaming
+|country=China
+|hero=sven
+|hero2=lycan
+|hero3=juggernaut
+|mmr=9016
+|mmrdate=2016-09-28
+|role=carry
+|status=Active
+|ids=
+|datdota=7175
+|dotabuff=177416702
+|weibo=5695452105
+|history=
+{{TH|2015-09-03 — 2016-08-22|CDEC Youth}}
+{{TH|2016-09-14 — '''Present'''|LGD Gaming}}
+}} 
+
+Wang '''"Ame"''' Chunyu is a professional Dota 2 player, currently plays for [[LGD Gaming]].
+</textarea>]

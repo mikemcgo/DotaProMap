@@ -1,0 +1,17 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">
+
+{{player-stub}}
+{{Infobox player
+|id=Jellysickle
+|image=
+|name=Daniel Novina
+|team=Freelance
+|birth_date={{Birth date and age|1995|10|05}}
+|country=Australia
+|hero=Slark
+|hero2=Ember Spirit
+|role=mid
+|history=
+{{TH|2014—2015|Trident eSports}}
+}}
+</textarea>]

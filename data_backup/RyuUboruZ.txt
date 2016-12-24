@@ -1,0 +1,30 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=RyuUboruZ
+|name2=Results
+|link2=RyuUboruZ/Results
+|This=1
+}}
+{{Infobox player
+|id=Ryuu
+|image=RyuUboruZ.jpg
+|name=Alan Andersen
+|country=United States
+|role=mid
+|role2=caster
+|status=Inactive
+|hero=Pudge
+|hero2=Storm Spirit
+|hero3=Invoker
+|mmr=6837
+|mmrdate=2016-07-15
+|twitter=RyuuDotA
+|datdota=1220
+|dotabuff=86743641
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-??-?? — 2014-01-20|Pretty Boy Swag}}
+{{TH|2014-01-20 — 2014-03-22|Team eHug}}
+}}
+
+Alan '''"RyuUboruZ"''' Andersen is a former American professional Dota 2 player and current Dota 2 caster. Upon leaving [[eHug]] in March of 2014, he decided to go into casting, eventually receiving an invite from Valve to be one of their casters for [[The International 2014]].
+</textarea>]

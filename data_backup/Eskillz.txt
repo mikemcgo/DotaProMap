@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Eskillz
+|name2=Results
+|link2=Eskillz/Results
+|This=1
+}}
+{{Infobox player
+|id=Eskillz
+|image=Ezskill TeamCoast 2014.jpg
+|name=Eskil Sundblad
+|team=Horde
+|role=mid
+|role2=offlane
+|status=Active
+|hero=invoker
+|hero2=batrider
+|hero3=mirana
+|mmr=7150
+|mmrdate=2016-11-25
+|ids=
+|country=Sweden
+|birth_date={{Birth date and age|1992|04|01}}
+|twitter=eskillzDotA
+|datdota=1194&amp;player=eskillz
+|twitch=eskillzdota
+|playlist=http://open.spotify.com/user/eskillz
+|dotabuff=92968238
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2014-04-09 — 2014-04-11|Drakdräpare}}
+{{TH|2014-04-11 — 2014-05-20|Monomaniac}}
+{{TH|2014-05-20 — 2014-11-??|Team Coast}}
+{{TH|2015-01-?? — 2015-02-??|Team Face (No Space)}}
+{{TH|2015-04-13 — 2015-11-?? |Lemondogs}}
+{{TH|2015-12-?? — 2016-04-26|COOKISS}}
+{{TH|2016-04-27 — 2016-07-??|Team Toast}}
+{{TH|2016-09-17 — 2016-11-16|Memento Mori}}
+{{TH|2016-11-16  — '''Present'''|Horde}}
+}}
+
+Eskil '''"Eskillz"''' Sundblad is a professional Dota 2 player who is currently playing for [[Horde]].
+</textarea>]

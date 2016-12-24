@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Masoku
+|name2=Results
+|link2=Masoku/Results
+|This=1
+}}
+{{Infobox player
+|id=Masoku
+|image=Dota2masoku.jpeg
+|name=Alex Dávila
+|team=Elite Wolves
+|role=support
+|status=Active
+|hero=Winter Wyvern
+|hero2=Visage
+|hero3=Mirana
+|mmr=6509
+|mmrdate=2016-11-03
+|Other_ids=
+|country=Peru
+|birth_date=
+|datdota=429
+|dotabuff=94923783
+|history=
+{{TH|2012-12-15 — 2013-03-13|Gamer University}}
+{{TH|2013-03-?? — 2013-06-25|Artyk Gaming}}
+{{TH|2013-06-25 — 2013-08-14|Denial eSports}}
+{{TH|2013-08-14 — 2014-06-??|Revenge eSports}}
+{{TH|2014-06-?? — 2015-01-29|Not Today}}
+{{TH|2015-08-29 — 2015-09-30|Sector V}}
+{{TH|2015-09-30 — '''Present'''|Elite Wolves}}
+}}
+
+Alex '''"Masoku"''' Dávila is a Peruvian professional Dota 2 player currently playing for [[Elite Wolves]].
+</textarea>]

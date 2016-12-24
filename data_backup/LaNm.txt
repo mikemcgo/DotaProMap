@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=LaNm
+|name2=Results
+|link2=LaNm/Results
+|This=1
+}}
+{{Infobox player
+|id=LaNm
+|image=Lanm_frankfurt_major_2015.jpg
+|name=张志成
+|romanized_name=Zhang Zhicheng
+|team=EHOME.cn
+|role=support
+|role2=captain
+|status=Active
+|hero=Lion
+|hero2=Rubick
+|hero3=Earthshaker
+|mmr=7207
+|mmrdate=2016-11-24
+|datdota=32
+|dotabuff=89423756
+|tencent=guoercwh
+|ids=NUZ, PLT, 国士无双, old LaNm
+|country=China
+|birth_date={{Birth date and age|1990|12|25}}
+|history=
+{{TH|2011-??-?? — 2011-??-??|EHOME}} 
+{{TH|2012-03-01 — 2012-05-12|TongFu}}
+{{TH|2012-05-15 — 2012-11-23|EHOME}}
+{{TH|2013-01-18 — 2013-09-04|RattleSnake}}
+{{TH|2013-09-04 — 2014-07-22|Team DK}}
+{{TH|2014-??-?? — 2015-03-15|Big God}}
+{{TH|2015-03-15 — '''Current'''|EHOME}}
+}}
+Zhang '''"LaNm"''' Zhicheng is a professional Dota 2 player who now currently plays for [[EHOME]].
+</textarea>]

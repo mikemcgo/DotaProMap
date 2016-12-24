@@ -1,0 +1,23 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:marSu}}
+{{Tabs static
+|name1=Overview
+|link1=MarSu
+|name2=Results
+|link2=MarSu/Results
+|This=1
+}}
+{{Infobox player
+|id=marSu
+|name=Charlie Lelievre
+|image=PlayerImagePlaceholder.png
+|team=Sigma.fr
+|role=offlane
+|hero=Viper
+|hero2=Dazzle
+|hero3=Bounty Hunter
+|country=France
+|birth_date={{Birth date and age|1989|07|01}} 
+|history={{TH|2013 - 2014|Sigma.fr}}
+}}
+</textarea>]

@@ -1,0 +1,39 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=qd
+|name2=Results
+|link2=qd/Results
+|This=1
+}}
+{{Infobox player
+|id=qd
+|image=qd-EHOME.Keen.jpg
+|name=赵舜耕
+|romanized_name=Zhao Shungeng
+|team=EHOME.Keen
+|ids=black.z
+|role=carry
+|status=Active
+|hero=Clinkz
+|hero2=Juggernaut
+|hero3=Slark
+|mmr=7298
+|mmrdate=2016-11-11
+|country=China
+|birth_date=
+|site=
+|datdota=
+|dotabuff=114031486
+|tencent=
+|weibo=
+|history=
+{{TH|2014-03-24 — 2014-??-??|Orenda}}
+{{TH|2015-09-14 — 2015-11-18|Team DK}}
+{{TH|2015-12-07 — 2016-03-19|IG Vitality}}
+{{TH|2016-03-19 — 2016-08-30|Invictus Gaming}}
+{{TH|2016-09-12 — '''Present'''|EHOME.Keen}}
+}}
+
+Zhao '''"qd"''' Shungeng is a professional Dota 2 player currently playing for [[EHOME.Keen]].
+</textarea>]

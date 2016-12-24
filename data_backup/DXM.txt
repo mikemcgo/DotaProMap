@@ -1,0 +1,38 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=DXM
+|name2=Results
+|link2=DXM/Results
+|This=1
+}}
+{{Infobox player
+|id=DXM
+|image=PlayerImagePlaceholder.png
+|name=丁正昊
+|romanized_name=Ding Zhenghao
+|team=
+|role=mid
+|status=
+|hero=Queen of Pain
+|hero2=Ember Spirit
+|hero3=Dragon Knight
+|mmr=7576
+|mmrdate=2016-11-30
+|ids=
+|country=China
+|datdota=
+|dotabuff=120374476
+|tencent=
+|weibo=
+|history=
+{{TH|2014-12-01 — 2014-12-31|2144 Gaming.Shield}}
+{{TH|2015-03-30 — 2015-07-31|EHOME.K}}
+{{TH|2015-11-?? — 2015-11-??|EHOME.Luminous}}
+{{TH|2015-12-07 — 2016-03-22|FTD Club C}}
+{{TH|2016-03-22 — 2016-05-??|FTD Club B}}
+{{TH|2016-05-?? — 2016-09-17|Vici Gaming Potential}}
+}}
+
+Ding "'''DXM'''" Zhenghao is a professional Dota 2 player currently teamless.
+</textarea>]

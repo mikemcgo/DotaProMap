@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Jackal
+|name2=Results
+|link2=Jackal/Results
+|This=1
+}}
+{{Infobox player
+|id=Jackal
+|image=PlayerImagePlaceholder.png 
+|name=Максім Дарашчонак
+|romanized_name=Maksim Doroshenok
+|team=
+|role=carry
+|status=Active
+|hero=Anti-Mage
+|hero2=Wraith King
+|hero3=Juggernaut
+|ids=
+|country=Belarus
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|datdota=129
+|dotabuff=67166425
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2012-05-28 — 2012-09-13|Empire}}
+{{TH|2012-09-16 — 2012-09-27|The Retry}}
+{{TH|2012-11-10 — 2013-08-16|iCCup}}
+{{TH|2013-08-16 — 2013-??-??|Terrible Terrible Damage}}
+{{TH|2015-07-31 — 2015-10-31|Arcade.PowerRangers}}
+{{TH|2015-10-31 — 2015-11-22|Prodota Gaming X}}
+{{TH|2015-11-22 — 2016-01-30|Prodota Gaming}}
+}}
+
+Maksim '''"Jackal"''' Doroshenok is a professional Dota 2 player who last played for [[Prodota Gaming]].
+</textarea>]

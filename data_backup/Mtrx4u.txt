@@ -1,0 +1,17 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">Vladyslav '''Mtrx4u''' Suzdal is a commentator and organizer working at the CyberArena in Kiev for Starladder. In the past he has also functioned as a manager for known Dota 2 pro teams.
+
+{{Infobox player
+|id=Mtrx4u
+|image=Mtrix4u.jpg
+|name=Vladyslav Suzdal
+|ids=Matrix[JX]
+|country=Ukraine
+|birth_date={{Birth date and age|1988|10|22}}
+|nicknames=
+|twitch=mtrx4u
+|twitter=mtrx4u
+|youtube=dotasltv
+|facebook=mtrx4u.esports
+|vk=mtrx4u
+}}
+</textarea>]

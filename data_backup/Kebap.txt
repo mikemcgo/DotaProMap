@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Kebap
+|name2=Results
+|link2=Kebap/Results
+|This=1
+}}
+{{Infobox player
+|id=Kebap
+|image=PlayerImagePlaceholder.png
+|name=Rene Warner
+|team=
+|role=support
+|status=Inactive
+|hero=Lich
+|hero2=Chen
+|hero3=Dazzle
+|ids=
+|country=Germany
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=
+|birth_date=
+|history=
+{{TH|2011-??-?? — 2011-??-??|GosuGamers}}
+{{TH|2012-04-15 — 2012-09-18|mTw}}
+{{TH|2012-09-18 — 2012-10-16|mousesports}}
+{{TH|2015-10-18 — 2015-12-07|Monkey Freedom Fighters}}
+{{TH|2015-12-07 — 2015-12-31|NO-VASELINE}}
+}}
+
+Rene '''"Kebap"''' Warner is a German professional Dota 2 player who is currently teamless.
+</textarea>]

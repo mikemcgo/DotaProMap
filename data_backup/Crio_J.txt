@@ -1,0 +1,36 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{DISPLAYTITLE:Crio_J}}
+{{Tabs static
+|name1=Overview
+|link1=Crio_J
+|name2=Results
+|link2=Crio_J/Results
+|This=1
+}}
+{{Infobox player
+|id=Crio_J
+|image=PlayerImagePlaceholder.png
+|name=Choi Jong-Bin
+|team=Zero Respect
+|role=support
+|status=Active
+|hero=
+|hero2=
+|hero3=
+|ids=
+|country=South Korea
+|country2=France
+|birth_date={{Birth date and age|1989|10|07}}
+|twitter=Crio_J
+|datdota=2084
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|????-??-?? — ????-??-??|3DMAX}}
+{{TH|????-??-?? — 2013-11-30|Zero Respect}}
+{{TH|2013-12-01 — 2014-01-26|WARMAKER}}
+{{TH|2014-01-26 — 2014-??-??|Zero Respect}}
+{{TH|2014-08-12 — 2014-08-12|Terra Firma eSports}}
+{{TH|2014-08-16 — 2015-??-??|Denial eSports}}
+{{TH|2015-??-?? — '''Present'''|Zero Respect}}
+}}
+
+Choi  '''"Crio_J"''' Jong-Bin is a professional Dota 2 player that is currently playing for [[Zero Respect]].
+</textarea>]

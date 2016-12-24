@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{Tabs static
+|name1=Overview
+|link1=KheZu
+|name2=Results
+|link2=KheZu/Results
+|This=1
+}}
+{{Infobox player
+|id=KheZu
+|image=KheZu-DH.jpg
+|name=Maurice Gutmann
+|team=Team Secret
+|birth_date={{Birth date and age|1995|04|27}}
+|country=Germany
+|role=offlane
+|status=Active
+|ids=Lynic
+|hero=Dark Seer
+|hero2=Faceless Void
+|hero3=Lone Druid
+|mmr=7020
+|mmrdate=2016-10-12
+|twitch=khezzu
+|twitter=KheZzu_
+|dotabuff=169025618
+|youtube=
+|facebook=
+|datdota=
+|tlstream=
+|vk=
+|history=
+{{TH|2015-12-16 — 2016-03-21|COOKISS}}
+{{TH|2016-03-21 — 2016-06-21|No Diggity}}
+{{TH|2016-06-21 — 2016-11-06|Escape Gaming}}
+{{TH|2016-11-06 — '''Present'''|Team Secret}}
+}}
+
+Maurice '''"KheZu"''' Gutmann is a German Dota 2 player and former HoN pro who is currently playing for [[Team Secret]].
+
+KheZu is famous for playing in many of the best HoN teams the last years, including the HonTour Season 1 winner Stay Green.
+</textarea>]

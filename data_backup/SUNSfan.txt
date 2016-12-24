@@ -1,0 +1,20 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Infobox player
+|id=SUNSfan
+|name=Shannon Scotten
+|image=Sunsfan.jpg
+|country=USA
+|birth_date={{Birth date and age|1985|08|14}}
+|reddit=SUNSfan
+|site=http://www.dotacinema.com
+|twitter=SUNSfanTV
+|twitch=dotacinema
+|youtube=dotacinema
+|facebook=DotaCinema
+|role=caster
+}}
+
+
+
+Shannon '''"SUNSfan"''' Scotten is a caster and original content creator working at Dotacinema.&lt;ref&gt;http://www.dotacinema.com/&lt;/ref&gt; and Moonducktv. He is also the founder for Team Digital Chaos
+</textarea>]

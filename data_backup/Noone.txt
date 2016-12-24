@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Noone
+|name2=Results
+|link2=Noone/Results
+|This=1
+}}
+{{Infobox player
+|id=No[o]ne
+|image=Noone vega 01.jpg
+|name=Володимир Міненко
+|romanized_name=Vladimir Minenko
+|team=Virtus.pro
+|ids=Noone
+|country=Ukraine
+|hero=Shadow Fiend
+|hero2=Storm Spirit
+|hero3=Puck
+|role=mid
+|status=Active
+|mmr=8753
+|mmrdate=2016-10-25
+|datdota=3474
+|birth_date= 1998-09-04
+
+|site=
+|twitch=nooneboss
+|twitter=
+|vk=noonetv
+|youtube=
+|fanpage=
+|dotabuff=106573901
+|history={{TH|2014-??-?? — 2014-11-??|Ursastroithram}}
+{{TH|2014-11-?? — 2014-11-24|BUHLO-UroPb}}
+{{TH|2014-11-24 — 2016-08-04|Vega Squadron}}
+{{TH|2016-08-04 — '''Present'''|Virtus.pro}}
+}}
+
+Vladimir '''"No[o]ne"''' (pronounced noon-ah) Minenko is a Ukrainian Dota 2 player, currently playing for [[Virtus.pro]].
+</textarea>]

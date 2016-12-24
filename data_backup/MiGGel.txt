@@ -1,0 +1,66 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:miGGel}}
+{{Tabs static
+|name1=Overview
+|link1=MiGGel
+|name2=Results
+|link2=MiGGel/Results
+|This=1
+}}
+{{Infobox player
+|id=miGGel
+|image=Miggel_main.jpg
+|name=Mikkel Berg
+|romanized_name=
+|birth_date= {{Birth date and age|1987|12|16}}
+|country=Denmark
+|team=
+|sponsor=
+|ids=Døden
+|hero=Clockwerk
+|hero2=Dark Seer
+|hero3=Furion
+|role=offlane
+|status=Active
+|site=
+|tlstream=
+|twitch=miggeldota
+|own3d=
+|stream=
+|youtube=
+|twitter=miGGelDota
+|facebook=miGGelDotA
+|datdota=637
+|gplus=
+|tlprofile=
+|reddit=
+|fanclub=
+|dotabuff=74432222
+|achievements=
+|history='''Dota:'''&lt;br&gt;
+{{TH|200?-??-?? - 2008-??-??|Kobold Mobility}}
+{{TH|2008-??-?? - 2009-03-15|Mom equals toilet}}
+{{TH|2009-03-15 - 2009-10-04|Roskilde Ravens}}
+{{TH|2009-10-04 - 2010-02-06|Meet Your Makers}}
+{{TH|2010-02-06 - 2010-04-28|Ducky's Dream Team}}
+{{TH|2010-05-?? - 2010-06-??|Faxe Kondi}}
+{{TH|2010-12-28 - 2011-06-07|Shift}}
+{{TH|2011-06-07 - 2011-09-??|Next Evolution ESC}}
+{{TH|2011-09-?? - 2011-11-12|monkeybusiness}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-08-17 - 2011-08-21|Next Evolution ESC}}
+{{TH|2011-10-27 - 2011-11-12|monkeybusiness}}
+{{TH|2011-11-12 - 2012-01-30|SK Gaming}}
+{{TH|2012-01-30 - 2012-02-21|DD.Dota}}
+{{TH|2012-02-21 - 2012-04-29|Quantic Gaming}}
+{{TH|2012-04-29 - 2012-05-03|Eclypsia}}
+{{TH|2012-05-21 - 2012-06-01|Copenhagen Wolves}}
+{{TH|2012-09-16 - 2012-09-22|Copenhagen Wolves}}
+{{TH|2013-02-10 - 2013-06-02|Absolute Legends}}
+{{TH|2013-06-02 - 2013-06-06|Space}}
+{{TH|2013-06-06 - 2013-10-23|Flip.sid3 Tactics}}
+{{TH|2013-09-10 - 2013-10-22|DD.Dota}}
+{{TH|2013-10-22 - 2014-??-??|Sigma.int}}
+{{TH|2015-08-31 — 2015-??-??|Danish Bears}}
+}}
+Mikkel '''"miGGel"''' Berg is a Danish player who is currently teamless.
+</textarea>]

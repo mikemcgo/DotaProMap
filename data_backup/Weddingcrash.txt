@@ -1,0 +1,31 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=Weddingcrash
+|name2=Results
+|link2=weddingcrash/Results
+|This=1
+}}
+{{Infobox player
+|id=weddingcrash
+|image=
+|name=Wong Wei Quan
+|dotabuff=102250219
+|twitter=weddingcrashhh
+|team=
+|role=mid
+|status=Active
+|mmr=6473
+|mmrdate=2016-08-06
+|ids=
+|country=Singapore
+
+|history=
+{{TH|2015-03-19 — 2015-06-01|Can't Say Wips}}
+{{TH|2015-06-?? — 2015-07-??|First Departure}}
+{{TH|2015-06-07 — 2015-??-??|Kingdom}}
+{{TH|2015-12-07 — 2016-08-19|First Departure}}
+}}
+
+Wong "'''Weddingcrash'''" Wei Quan is a Singaporean player who last played for [[First Departure]].
+</textarea>]

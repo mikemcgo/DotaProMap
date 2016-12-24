@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=YUI
+|name2=Results
+|link2=YUI/Results
+|This=1
+}}
+{{Infobox player
+|id=YUI
+|image=PlayerImagePlaceholder.png
+|ids=Chao
+|name=张超文
+|romanized_name=Zhang Chaowen
+|team=
+|role=mid
+|status=
+|mmr=
+|mmrdate=
+|hero=Templar Assassin
+|hero2=Invoker
+|hero3=Shadow Fiend
+|country=China
+|datdota=
+|dotabuff=194027237
+|twitter=
+|birth_date=
+|history=
+{{TH|2015-07-02 — 2015-12-31|E-Sports Dream}}
+{{TH|2016-03-24 — 2016-05-30|EHOME.Keen}}
+{{TH|2016-07-?? — 2016-07-??|BraveHeart.Zombie|Stand-in}}
+}}
+
+Zhang '''"YUI"'''' Chaowen ('''"Chao"'''') is a professional Chinese Dota 2 player who currently teamless.
+</textarea>]

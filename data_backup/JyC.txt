@@ -1,0 +1,25 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Infobox player
+|id=JyC
+|image=PlayerImagePlaceholder.png
+|name=Patrick Pascua
+|team=Power Gaming
+|role=support
+|status=Banned
+|hero= 
+|hero2=
+|hero3=
+|ids=
+|country=Philippines
+|birth_date= 19 August 1991 
+|datdota=592
+|dotabuff=186615437
+|history='''Dota2:'''&lt;br&gt;
+{{TH|2013-01-28 — 2013-06-02|Ledion DreamZ}}
+{{TH|2013-06-07 — 2014-10-15|MSI-evoGT.TnC}}
+{{TH|2015-08-28 — 2016-02-20|Mineski}}
+{{TH|2016-03-23 — '''Present'''|Power Gaming}}
+}}
+
+Patrick '''"JyC"''' Pascua is a professional Philippine Dota 2 player who is currently playing for [[Power Gaming]].
+</textarea>]

@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Srf
+|name2=Results
+|link2=Srf/Results
+|This=1
+}}
+{{Infobox player
+|id=Srf
+|image=PlayerImagePlaceholder.png
+|name=孙润发
+|romanized_name=Sun Runfa
+|team=Vici Gaming Potential
+|role=offlane
+|status=Active
+|hero=Dark Seer
+|hero2=Slardar
+|hero3=Axe
+|mmr=8074
+|mmrdate=2016-11-30
+|ids=Reol
+|country=China
+|datdota=
+|dotabuff=156662698
+|tencent=
+|weibo=
+|history=
+{{TH|2015-10-?? — 2016-01-31|Dream Weavers Gaming}}
+{{TH|2016-04-?? — 2016-08-??|G.star}}
+{{TH|2016-09-15 — '''Present'''|Vici Gaming Potential}}
+}}
+
+Sun "'''Srf'''" Runfa is a professional Dota 2 player currently playing for [[Vici Gaming Potential]].
+</textarea>]

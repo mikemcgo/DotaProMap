@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Guvara
+|name2=Results
+|link2=Guvara/Results
+|This=1
+}}
+{{Infobox player
+|id=Guvara
+|image=Guvara-EHOME.Luminous.jpg
+|name=胡森
+|romanized_name=Hu Sen
+|team=EHOME.Luminous
+|role=offlane
+|status=Active
+|hero=Slardar
+|hero2=
+|hero3=
+|mmr=7808
+|mmrdate=2016-11-30
+|ids=Sen
+|country=China
+|datdota=
+|twitter=
+|facebook=
+|dotabuff=253962772
+|birth_date=
+|history=
+{{TH|2016-04-?? — '''Present'''|EHOME.Luminous}}
+}}
+
+Hu '''"Guvara"''' Sen is a Chinese professional Dota 2 player who is currently a member of [[EHOME.Luminous]].
+</textarea>]

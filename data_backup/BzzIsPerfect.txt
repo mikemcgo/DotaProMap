@@ -1,0 +1,43 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=633
+|name2=Results
+|link2=BzzIsPerfect/Results
+|This=1
+}}
+{{Infobox player
+|id=633
+|image=PlayerImagePlaceholder.png
+|name=Станислав Глушан
+|romanized_name=Stanislav Glushan
+|team=Team Spirit
+|role=mid
+|status=Active
+|hero=Queen of Pain
+|hero2=Puck
+|hero3=Death Prophet
+|mmr=8234
+|mmrdate=2016-12-08
+|ids=BZZ, BzzIsPerfect
+|country=Russia
+|birth_date=
+|vk=bzzisperfect1
+|tlstream=BzzIsPerfect
+|twitch=bzzisperfect
+|datdota=399
+|dotabuff=96196828
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2013-01-21 — 2014-05-31|RoX}}
+{{TH|2014-08-25 — 2015-03-11|Virtus.pro}}
+{{TH|2015-03-?? — 2015-03-17|4 Clover &amp; Lepricon}}
+{{TH|2015-05-24 — 2015-05-26|Dota AllStars}}
+{{TH|2015-05-26 — 2015-06-08|Duza Gaming}}
+{{TH|2015-08-20 — 2015-09-01|Teamless}}
+{{TH|2015-09-04 — 2016-01-06|Fantastic Five}}
+{{TH|2016-01-06 — 2016-03-26|RoX}}
+{{TH|2016-03-27 — 2016-12-15|Fantastic Five}}
+{{TH|2016-12-15 — '''Present'''|Team Spirit}}
+}}
+Stanislav '''"633"''' Glushan is a Russian Dota 2 player who currently playing for [[Team Spirit]].
+</textarea>]

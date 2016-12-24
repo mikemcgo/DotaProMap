@@ -1,0 +1,51 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{tabs static
+|name1=Overview
+|link1=ARS-ART
+|name2=Results
+|link2=ARS-ART/Results
+|This=1
+}}{{Infobox player
+|id=ARS-ART
+|image=PlayerImagePlaceholder.png
+|name=Сергей Антонович Ревин
+|romanized_name=Sergey Antonovich Revin
+|team=
+|birth_date={{birth date and age|1988|08|12}}
+|country=Russia
+|hero=Leshrac
+|hero2=Bane
+|hero3=Shadow Shaman
+|role=support
+|role2=analyst
+|status=Retired
+|twitch=arsartone 
+|tlstream=
+|tlprofile=
+|ids=Smile, Cloudy, AA
+|sponsor=
+|site=
+|videoarchive=
+|youtube=
+|twitter=arsartdota
+|datdota=61
+|dotabuff=107644273
+|history='''DotA:'''&lt;br&gt;
+{{TH|2007-??-?? — 2008-??-??|Virtus.pro}}
+{{TH|2008-02-29 — 2008-06-22|SK Gaming}}
+{{TH|2008-06-27 — 2009-??-??|Rush3D}}
+{{TH|2010-??-?? — 2010-??-??|The Retry}}
+{{TH|2010-12-?? — 2011-03-??|DTS}}
+{{TH|2011-03-31 — 2011-08-29|Moscow Five}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-03-31 — 2011-08-29|Moscow Five}}
+{{TH|2011-11-30 — 2013-02-27|Natus Vincere|link=Natus Vincere/Natus Vincere}}
+{{TH|2013-02-27 — 2013-08-29|Virtus.pro}}
+{{TH|2013-10-08 — 2014-08-07|Virtus.pro}}
+{{TH|2014-08-08 — 2014-08-29|Moscow Five}}
+{{TH|2015-02-09 — 2015-02-12|sQreen's Squad}}
+{{TH|2015-09-04 — 2015-10-15|HellRaisers|sub}}
+}}
+
+Sergey '''"ARS-ART"''' Revin is a professional inactive Dota 2 player from Russia who is currently analyst and commentator.
+</textarea>]

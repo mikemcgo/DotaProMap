@@ -1,0 +1,52 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=MaNia
+|name2=Results
+|link2=MaNia/Results
+|This=1
+}}
+{{Infobox player
+|id=MaNia
+|birth_date={{Birth date and age|1984|09|03}}
+|country=Denmark
+|image=Mania-dh.jpg
+|name=Brian Strandby
+|team=
+|role=support
+|status=Active
+|hero=Sand King
+|hero2=Earthshaker
+|hero3=
+|Other_ids=
+|facebook=ManiaDota
+|twitch=MaNia
+|twitter=30MaNia
+|datdota=145
+|tlstream=
+|tlprofile=
+|dotabuff=85783343
+|history='''Dota:'''&lt;br&gt;
+{{TH|2006|Boomtown Odense}}
+{{TH|2006|lolboat}}
+{{TH|2006|Jukes on You}}
+{{TH|2006 - 2008|Meet Your Makers}}
+{{TH|2008|Online Kingdom}}
+{{TH|2008 - 2009|Ravens}}
+{{TH|2009-10-03 - 2011-08-17|Meet Your Makers}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-08-17 — 2011-08-28|Meet Your Makers}}
+{{TH|2012-01-14 — 2012-01-30|SK Gaming}}
+{{TH|2012-02-21 — 2012-04-29|Quantic Gaming}}
+{{TH|2012-04-29 — 2012-05-03|Eclypsia}}
+{{TH|2012-05-20 — 2012-06-01|Copenhagen Wolves}}
+{{TH|2012-09-25 — 2013-06-02|Absolute Legends}}
+{{TH|2013-06-02 — 2013-06-06|Space}}
+{{TH|2013-06-06 — 2013-10-15|Flipsid3 Tactics}}
+{{TH|2013-09-10 — 2013-10-15|DD.Dota}}
+{{TH|2015-02-15 — 2015-03-09|Lianghao}}
+{{TH|2015-03-09 — 2015-04-29|Flipsid3 Tactics}}
+}}
+
+Brian "'''MaNia'''" Strandby is a professional Dota 2 player from Denmark.
+</textarea>]

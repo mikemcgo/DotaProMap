@@ -1,0 +1,41 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{DISPLAYTITLE:ling}}
+{{Tabs static
+|name1=Overview
+|link1=Ling
+|name2=Results
+|link2=Ling/Results
+|This=1
+}}
+{{Infobox player
+|id=ling
+|image=PlayerImagePlaceholder.png
+|name=Sim Woi Cheong
+|team=
+|role=support
+|status=Active
+|hero=Rubick
+|hero2=Chen
+|hero3=Lina
+|ids=
+|country=Malaysia
+|birth_date=
+|datdota=217
+|dotabuff=89268488
+|history='''DotA:'''&lt;br&gt;
+{{TH|2010-??-?? — 2011-??-??|MUFC}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2011-??-?? — 2013-01-22|MUFC}}
+{{TH|2013-03-07 — 2013-03-13|ABC}}
+{{TH|2013-04-01 — 2013-10-16|MUFC}}
+{{TH|2013-10-16 — 2014-01-18|Orange}}
+{{TH|2014-??-?? — 2015-02-22|G Guard Esports}}
+{{TH|2015-04-02 — 2015-06-18|G Guard Esports}}
+{{TH|2015-06-?? — 2015-07-??|Team 123}}
+{{TH|2015-11-16 — 2015-12-13|Team 123}}
+{{TH|2015-12-13 — 2016-04-11|Taring}}
+{{TH|2016-04-11 — 2016-08-31|Orange.Taring}}
+}}
+
+Sim '''"ling"''' Woi Cheong is a professional Dota 2 player who last played for [[Orange.Taring]].
+</textarea>]

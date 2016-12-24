@@ -1,0 +1,34 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{caster-stub}}
+{{Infobox player
+|id=MaraU
+|image=
+|name=Felipe Marau Soares
+|team=Pleaze Gaming
+|birth_date=
+|country=Brazil
+|hero= Lich
+|hero2= Phoenix
+|ids=Marau, Suport@ndo
+|role=support
+|twitch=
+|facebook=
+|tencent=
+|datdota=
+|tlstream=
+|tlprofile=
+|sponsor=
+|fanclub=
+|dotabuff=
+|twitter=
+|reddit=
+|history=
+'''Caster:'''&lt;br&gt;
+{{TH|2016-03-18  — Present |XLG-Uol}}
+'''Dota 2:'''&lt;br&gt;
+{{TH|2016-01-20 — 2016-03-18|Pleaze Gaming}}
+{{TH|2016-04-14 — 2016-05-13 |Headed for Victory}}
+{{TH|2016-05-14 — Present|Pleaze Gaming}}}}
+
+
+Felipe "[[MaraU]]" Soares is a Dota player from Brazil and is currently casting the Brazilian tournament [[Xtreme_League/2|Xtreme League 2]]
+</textarea>]

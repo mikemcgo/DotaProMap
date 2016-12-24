@@ -1,0 +1,35 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{player-stub}}
+{{Tabs static
+|name1=Overview
+|link1=Doctor
+|name2=Results
+|link2=Doctor/Results
+|This=1
+}}
+{{Infobox player
+|id=Doctor
+|image=PlayerImagePlaceholder.png
+|name=Son Kyung-il
+|team=MVP HOT6ix
+|role=mid
+|mmr=6605
+|mmrdate=2016-08-25
+|status=Active
+|hero=Death Prophet
+|hero2=Shadow Fiend
+|hero3=Lina
+|ids=D
+|country=South Korea
+|birth_date=
+|site=
+|twitch=
+|tlstream=
+|tlprofile=
+|twitter=
+|dotabuff=86761912
+|history='''Dota 2:'''&lt;br&gt;
+{{TH|2015-09-01 — '''Present'''|MVP HOT6ix}}
+}}
+
+Son '''"Doctor"''' Kyung-il is a professional Dota 2 player who is currently playing for [[MVP HOT6ix]].
+</textarea>]

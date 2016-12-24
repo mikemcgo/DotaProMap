@@ -1,0 +1,50 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{lowercase}}
+{{Tabs static
+|name1=Overview
+|link1=S4
+|name2=Results
+|link2=S4/Results
+|This=1
+}}
+{{Infobox player
+|id=s4
+|image=teamsecret_s4.jpg
+|name=Gustav Magnusson 
+|team=OG
+|birth_date={{birth date and age|1992|4|1}}
+|country=Sweden
+|hero=Puck
+|hero2=Magnus
+|hero3=Batrider
+|role=mid
+|role2=captain
+|status=Active
+|mmr=8211
+|mmrdate=2016-11-21
+|ids=Carl, Björn
+|twitch=s4
+|askfm=s4dota
+|tlstream=
+|tlprofile=
+|site=
+|twitter=s4dota
+|youtube=
+|datdota=114
+|fanpage=
+|reddit=s4-
+|dotabuff=41231571
+|history=
+{{TH|2012-01-17 — 2012-03-23|Team Empire}}
+{{TH|2012-03-23 — 2012-07-12|The Tough Bananas}}
+{{TH|2012-07-12 — 2012-09-21|Copenhagen Wolves}}
+{{TH|2012-09-21 — 2013-04-12|No Tidehunter}}
+{{TH|2013-04-12 — 2014-09-03|Alliance}}
+{{TH|2014-08-27 — 2015-08-22|Team Secret}}
+{{TH|2015-08-27 — 2016-08-28|Alliance}}
+{{TH|2016-08-31 — '''Present'''|OG}}
+}}
+
+Gustav '''"s4"''' Magnusson  is a professional Dota 2 mid lane player who is playing for [[OG]]. He is famous for his [[Magnus]] and [[Puck]] plays.
+
+After first successes in professional Heroes of Newerth, he switched over to Dota 2 to pursue his luck there. After an initial period of orientation he joined [[No Tidehunter]] at the end of 2012, which was an immediate success, ultimately leading up to winning [[The International/2013|The International 3]] in 2013.
+</textarea>]

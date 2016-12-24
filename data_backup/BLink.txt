@@ -1,0 +1,37 @@
+[<textarea accesskey="," cols="80" dir="ltr" id="wpTextbox1" lang="en" name="wpTextbox1" readonly="" rows="25" style="">{{DISPLAYTITLE:bLink}}
+{{Tabs static
+|name1=Overview
+|link1=bLink
+|name2=Results
+|link2=bLink/Results
+|This=1
+}}
+{{Infobox player
+|id=bLink
+|image=bLink ESL One Manila 2016.jpg
+|name=周扬
+|romanized_name=Zhou Yang
+|team=Wings Gaming
+|role=mid
+|status=Active
+|hero=Shadow Fiend
+|hero2=Invoker
+|hero3=Timbersaw
+|mmr=6681
+|mmrdate=2016-04-29
+|ids=跳刀跳刀丶, Zy
+|country=China
+|birth_date={{Birth date and age|1992|7|31}}
+|datdota=
+|dotabuff=101586543
+|weibo=2216215254
+|twitter=
+|facebook=
+|history=
+{{TH|2014-03-18 — 2014-08-??|Speed Gaming.cn}}
+{{TH|2014-10-27 — 2015-05-30|Wings Gaming}}
+{{TH|2015-08-25 — '''Present'''|Wings Gaming}}
+}}
+
+Zhou '''"bLink"''' Yang is a Chinese professional Dota 2 player who is currently playing for [[Wings Gaming]].
+</textarea>]
