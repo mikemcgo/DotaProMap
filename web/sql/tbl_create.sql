@@ -1,0 +1,3 @@
+/*
+This file is for creating the tables in the database of the website.
+*/

@@ -1,0 +1,3 @@
+/*
+This file is for initializing the database of the website. 
+*/
