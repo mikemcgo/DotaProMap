@@ -30,6 +30,13 @@ def fix_history(history):
 				history_list[index] = date_context(history_list[index - 1: index + 2], index % 2 == 0)
 	history_list.reverse()
 	# Read data back into history object
+	for index in range(len(history_list)):
+		print(str(index // 2) + " " + str(index% 2))
+		history[index // 2][index % 2] = history_list[index]
+	# Appears that no entries are added to history list after '?' is encountered
+	print(history_list)
+	print(history)
+	return history
 
 # reverse the history
 # ensure the most recent team end date is properly formatted
@@ -168,7 +175,7 @@ for file_name in os.listdir(DATA_DIRECTORY):
 				history_error_pages.write(file_name + ":" + line + "\n")
 
 	try:
-		fix_history(player_attrs['history'])
+		player_attrs['history'] = fix_history(player_attrs['history'])
 	except:
 		malformed_date_players.write(str(player_attrs['id']) + "\n")
 

@@ -16,6 +16,8 @@ Thoughts on what needs to be done
   - Currently 122 player history entries appear as None due to non standard data representaitons, after accounting for hyphen and dash
   - Take notes of data changes
  - Convert the unchanged dates to ints
+ - Rounding starting dates is not working correctly
+ - It appears the history_list variable does not keep dates after it encounters a '?'
 
  # Good Things To Do
  - May establish black list for personality pages, as they have no player history, may create new db for them
