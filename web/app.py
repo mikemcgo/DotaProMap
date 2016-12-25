@@ -10,7 +10,7 @@ app.register_blueprint(controllers.main)
 app.register_blueprint(controllers.dotamap)
 
 # Register API
-app.register_blueprint(controllers.api.player_history)
+app.register_blueprint(controllers.api.player_data)
 
 # Listen on external IPs using the configured port
 if __name__ == '__main__':

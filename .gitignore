@@ -1,2 +1,3 @@
 venv3
-web/controllers/pycache/*
+web/controllers/__pycache__/
+web/controllers/api/__pycache__/
