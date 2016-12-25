@@ -1,2 +1,2 @@
 venv3
-*.pyc
+web/controllers/pycache/*
